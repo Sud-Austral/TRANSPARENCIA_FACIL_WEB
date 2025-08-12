@@ -718,7 +718,15 @@
     </div>
     <script>
         let allDATA = {}
-        const dataURL = "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/todo_junto.json";
+        // Obtener parámetros de la URL
+        const params = new URLSearchParams(window.location.search);
+
+        // Tomar codcom, si no existe usar 13101
+        const codcomParam = params.get("codcom")?.trim() || "13101";
+
+        // Construir la URL de datos
+        const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
+        //const dataURL = "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/todo_junto.json";
 
         // Cargar y ejecutar el archivo
         async function loadData() {

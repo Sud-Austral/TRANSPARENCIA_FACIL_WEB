@@ -1,0 +1,1143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadísticas de Criminalidad - Iquique 2024-2025</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" rel="stylesheet">
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <style>
+        /* Definición de variables CSS para el tema oscuro */
+        :root {
+            --bg-color: #1a202c;
+            --container-bg-color: #2d3748;
+            --card-bg-color: #4a5568;
+            --text-color-primary: #e2e8f0;
+            --text-color-secondary: #a0aec0;
+            --header-bg-color: #2d3748;
+            --header-text-color: #e2e8f0;
+            --accent-color: #48bb78; /* Un verde más agradable */
+            --accent-color-hover: #38a169;
+            --border-color: #4a5568;
+            --shadow-color: rgba(0, 0, 0, 0.3);
+            --stats-item-bg-color: #2d3748;
+        }
+
+        /* Estilos generales */
+        * {
+            box-sizing: border-box;
+            transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+            color: var(--text-color-primary);
+        }
+        .container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+        .header-top {
+            background-color: var(--header-bg-color);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            border-bottom: 1px solid var(--border-color);
+            padding: 8px 0;
+        }
+        .header-top-content {
+            max-width: 1400px;
+            width: 100%;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .institution-text {
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        .logo-text {
+            font-size: 12px;
+            font-weight: 400;
+            opacity: 0.8;
+            margin-right: 8px;
+        }
+        .logo {
+            width: 36px;
+            height: 36px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #1f2937;
+            font-weight: 700;
+            font-size: 16px;
+        }
+        .header {
+            background: linear-gradient(90deg, #1f2937 0%, #374151 100%);
+            color: white;
+            text-align: center;
+            position: relative;
+        }
+        .header-content {
+            padding: 16px 5%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 1400px;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin: 0;
+        }
+        .header p {
+            margin: 4px 0 0;
+            opacity: 0.8;
+        }
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #ef4444 0%, #22c55e 100%);
+        }
+        .content {
+            flex: 1;
+            background-color: var(--container-bg-color);
+            overflow-y: auto;
+            width: 100%;
+            padding: 20px;
+        }
+        .content-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
+            padding: 0 20px;
+        }
+        .card {
+            background-color: var(--card-bg-color);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 12px var(--shadow-color);
+            border: 1px solid var(--border-color);
+        }
+        .card-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 16px;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 16px;
+        }
+        .stat-item {
+            background-color: var(--stats-item-bg-color);
+            padding: 16px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 4px;
+        }
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-color-secondary);
+        }
+        .table-container {
+            overflow-x: auto;
+            width: 100%;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+            text-align: left;
+            min-width: 600px;
+        }
+        .data-table th, .data-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .data-table th {
+            background-color: var(--stats-item-bg-color);
+            color: var(--text-color-secondary);
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .data-table tbody tr {
+            transition: background-color 0.2s ease;
+        }
+        .data-table tbody tr:hover {
+            background-color: var(--border-color);
+        }
+        .footer {
+            background-color: var(--header-bg-color);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 12px;
+            width: 100%;
+            padding: 16px 0;
+        }
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            max-width: 1400px;
+            padding: 0 20px;
+        }
+        .footer-text {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-color-secondary);
+        }
+        .footer-icon {
+            color: var(--text-color-secondary);
+        }
+        .situacion {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .situacion-aumento {
+            color: #ef4444;
+        }
+        .situacion-disminucion {
+            color: #22c55e;
+        }
+        .aumento {
+            color: #ef4444;
+            font-weight: 700;
+        }
+        .disminucion {
+            color: #22c55e;
+            font-weight: 700;
+        }
+        .icon-indicator {
+            font-size: 10px;
+        }
+        .btn {
+            background-color: var(--accent-color);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background-color 0.2s ease, transform 0.2s ease;
+            border: none;
+            outline: none;
+            margin-left: auto;
+        }
+        .btn:hover {
+            background-color: var(--accent-color-hover);
+            transform: translateY(-2px);
+        }
+        .flex {
+            display: flex;
+        }
+        .justify-between {
+            justify-content: space-between;
+        }
+        .items-center {
+            align-items: center;
+        }
+        .charts-section {
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            width: 100%;
+            margin-top: 20px;
+        }
+        .charts-section-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .chart-container {
+            width: 100%;
+            height: 350px;
+            margin-bottom: 20px;
+            background-color: var(--card-bg-color);
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 4px 12px var(--shadow-color);
+        }
+        .chart-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        .flex-col {
+            flex-direction: column;
+        }
+        .gap-2 {
+            gap: 8px;
+        }
+        .text-sm {
+            font-size: 14px;
+        }
+        .mt-1 {
+            margin-top: 4px;
+        }
+
+        /* Media queries para responsividad */
+        @media (max-width: 768px) {
+            .header-top-content {
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+            }
+            .header-top, .footer {
+                padding: 12px 0;
+            }
+            .header h1 {
+                font-size: 24px;
+            }
+            .footer-content {
+                flex-direction: column;
+                gap: 10px;
+                text-align: center;
+            }
+            .footer-text {
+                justify-content: center;
+            }
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            .btn {
+                width: 100%;
+                margin-top: 10px;
+                margin-left: 0;
+            }
+            .flex.items-center {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .card-title {
+                margin-bottom: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header-top">
+            <div class="header-top-content">
+                <div class="institution-text">SUBSECRETARÍA DE PREVENCIÓN DEL DELITO</div>
+                <div class="logo-container">
+                    <div class="logo-text">Sistema STOP</div>
+                    <div class="logo">S</div>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="header-content">
+                <h1>Estadísticas de Criminalidad</h1>
+                <p id="header-location" class="text-sm mt-1">Iquique 2024-2025</p>
+            </div>
+        </div>
+        <div class="content">
+            <div class="content-container">
+                <div class="card">
+                    <div class="card-title">Resumen de Casos</div>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div id="total-2024" class="stat-value"></div>
+                            <div class="stat-label">Total Casos 2024</div>
+                        </div>
+                        <div class="stat-item">
+                            <div id="total-2025" class="stat-value"></div>
+                            <div class="stat-label">Total Casos 2025</div>
+                        </div>
+                        <div class="stat-item">
+                            <div id="variation" class="stat-value"></div>
+                            <div class="stat-label">Variación</div>
+                        </div>
+                        <div class="stat-item">
+                            <div id="situation" class="stat-value"></div>
+                            <div class="stat-label">Situación</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="flex justify-between items-center mb-4">
+                        <div class="card-title" style="margin-bottom: 0;">Delitos de Mayor Relevancia</div>
+                        <button id="show-all-btn" class="btn">Mostrar Todos</button>
+                    </div>
+                    <div class="table-container">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Situación</th>
+                                    <th>Delito</th>
+                                    <th>Casos 2024</th>
+                                    <th>Casos 2025</th>
+                                    <th>Variación</th>
+                                </tr>
+                            </thead>
+                            <tbody id="crime-data-table-body">
+                                </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div id="charts-section" class="charts-section">
+                    <h2 class="charts-section-title">Análisis de Datos por Gráfico</h2>
+                    <!-- Charts will be dynamically added here -->
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-content">
+                <div class="footer-left flex flex-col sm:flex-row gap-2">
+                    <div class="footer-text"><i class="fas fa-globe footer-icon"></i>www.seguridadpublica.gob.cl</div>
+                    <div class="footer-text"><i class="fas fa-phone footer-icon"></i>600 600 0000</div>
+                </div>
+                <div class="footer-right flex flex-col sm:flex-row gap-2">
+                    <div class="footer-text">Fecha de elaboración: 28/07/2025</div>
+                    <div class="footer-text">Fuente: Sistema STOP</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="todo_junto.js"></script>
+
+    <script>
+
+        const mockMonthlyData =  allDATA["mensual"];
+        const crimeData = {};
+        crimeData["resumen"] = allDATA["resumen"];
+        crimeData["mensual"] = mockMonthlyData;
+        crimeData["nuevo_resumen"] = allDATA["info"];
+        
+        /*
+        const crimeData = {
+            "resumen": [
+                {
+                    "delito": "HOMICIDIOS",
+                    "CODCOM": 1101,
+                    "2024": 4,
+                    "2025": 8,
+                    "variacion": 100,
+                    "situación": "Aumento de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "HURTOS",
+                    "CODCOM": 1101,
+                    "2024": 627,
+                    "2025": 571,
+                    "variacion": -9,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "LESIONES",
+                    "CODCOM": 1101,
+                    "2024": 556,
+                    "2025": 492,
+                    "variacion": -12,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "OTROS ROBOS CON FUERZA",
+                    "CODCOM": 1101,
+                    "2024": 36,
+                    "2025": 23,
+                    "variacion": -36,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO CON INTIMIDACIÓN",
+                    "CODCOM": 1101,
+                    "2024": 240,
+                    "2025": 115,
+                    "variacion": -52,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO CON VIOLENCIA",
+                    "CODCOM": 1101,
+                    "2024": 168,
+                    "2025": 120,
+                    "variacion": -29,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+                    "CODCOM": 1101,
+                    "2024": 613,
+                    "2025": 356,
+                    "variacion": -42,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO DE VEHÍCULO",
+                    "CODCOM": 1101,
+                    "2024": 240,
+                    "2025": 256,
+                    "variacion": 7,
+                    "situación": "Aumento de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO EN LUGAR HABITADO",
+                    "CODCOM": 1101,
+                    "2024": 135,
+                    "2025": 82,
+                    "variacion": -39,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO EN LUGAR NO HABITADO",
+                    "CODCOM": 1101,
+                    "2024": 152,
+                    "2025": 116,
+                    "variacion": -24,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO POR SORPRESA",
+                    "CODCOM": 1101,
+                    "2024": 222,
+                    "2025": 148,
+                    "variacion": -33,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+                    "CODCOM": 1101,
+                    "2024": 37,
+                    "2025": 17,
+                    "variacion": -54,
+                    "situación": "Disminución de Casos",
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "delito": "VIOLACIONES",
+                    "CODCOM": 1101,
+                    "2024": 11,
+                    "2025": 23,
+                    "variacion": 109,
+                    "situación": "Aumento de Casos",
+                    "COMUNA": "IQUIQUE"
+                }
+            ],
+            // Added simulated monthly data here
+            "mensual": mockMonthlyData,
+            "nuevo_resumen": [
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "HOMICIDIOS",
+                    "2024": 4,
+                    "2025": 8,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "HURTOS",
+                    "2024": 627,
+                    "2025": 571,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "LESIONES",
+                    "2024": 556,
+                    "2025": 492,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "OTROS ROBOS CON FUERZA",
+                    "2024": 36,
+                    "2025": 23,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON INTIMIDACIÓN",
+                    "2024": 240,
+                    "2025": 115,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON VIOLENCIA",
+                    "2024": 168,
+                    "2025": 120,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+                    "2024": 613,
+                    "2025": 356,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE VEHÍCULO",
+                    "2024": 240,
+                    "2025": 256,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR HABITADO",
+                    "2024": 135,
+                    "2025": 82,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR NO HABITADO",
+                    "2024": 152,
+                    "2025": 116,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO POR SORPRESA",
+                    "2024": 222,
+                    "2025": 148,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+                    "2024": 37,
+                    "2025": 17,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Casos",
+                    "CODCOM": 1101,
+                    "delito": "VIOLACIONES",
+                    "2024": 11,
+                    "2025": 23,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "HOMICIDIOS",
+                    "2024": 0,
+                    "2025": 1,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "HURTOS",
+                    "2024": 180,
+                    "2025": 150,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "LESIONES",
+                    "2024": 148,
+                    "2025": 147,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "OTROS ROBOS CON FUERZA",
+                    "2024": 11,
+                    "2025": 17,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON INTIMIDACIÓN",
+                    "2024": 20,
+                    "2025": 10,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON VIOLENCIA",
+                    "2024": 17,
+                    "2025": 22,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+                    "2024": 45,
+                    "2025": 40,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE VEHÍCULO",
+                    "2024": 5,
+                    "2025": 16,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR HABITADO",
+                    "2024": 9,
+                    "2025": 8,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR NO HABITADO",
+                    "2024": 24,
+                    "2025": 17,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO POR SORPRESA",
+                    "2024": 27,
+                    "2025": 13,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+                    "2024": 6,
+                    "2025": 1,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenciones",
+                    "CODCOM": 1101,
+                    "delito": "VIOLACIONES",
+                    "2024": 3,
+                    "2025": 5,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "HOMICIDIOS",
+                    "2024": 0,
+                    "2025": 5,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "HURTOS",
+                    "2024": 197,
+                    "2025": 173,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "LESIONES",
+                    "2024": 255,
+                    "2025": 261,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "OTROS ROBOS CON FUERZA",
+                    "2024": 15,
+                    "2025": 23,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON INTIMIDACIÓN",
+                    "2024": 27,
+                    "2025": 14,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO CON VIOLENCIA",
+                    "2024": 31,
+                    "2025": 38,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+                    "2024": 54,
+                    "2025": 47,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO DE VEHÍCULO",
+                    "2024": 9,
+                    "2025": 33,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR HABITADO",
+                    "2024": 10,
+                    "2025": 9,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO EN LUGAR NO HABITADO",
+                    "2024": 38,
+                    "2025": 29,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO POR SORPRESA",
+                    "2024": 28,
+                    "2025": 17,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+                    "2024": 13,
+                    "2025": 2,
+                    "COMUNA": "IQUIQUE"
+                },
+                {
+                    "informacion": "Detenidos",
+                    "CODCOM": 1101,
+                    "delito": "VIOLACIONES",
+                    "2024": 4,
+                    "2025": 5,
+                    "COMUNA": "IQUIQUE"
+                }
+            ]
+        };
+        */
+        const tableBody = document.getElementById('crime-data-table-body');
+        const showAllBtn = document.getElementById('show-all-btn');
+        const headerLocation = document.getElementById('header-location');
+        const chartsSection = document.getElementById('charts-section');
+
+        let isShowingAll = false;
+
+        // Función para renderizar las filas de la tabla
+        function renderTable(dataToRender) {
+            tableBody.innerHTML = '';
+            dataToRender.forEach(item => {
+                const row = document.createElement('tr');
+                const isIncrease = item.variacion > 0;
+                const situationClass = isIncrease ? 'situacion-aumento' : 'situacion-disminucion';
+                const iconClass = isIncrease ? 'fa-arrow-up' : 'fa-arrow-down';
+                const situationText = isIncrease ? 'Aum' : 'Dis';
+                const variationClass = isIncrease ? 'aumento' : 'disminucion';
+                const variationText = (isIncrease ? '+' : '') + item.variacion + '%';
+
+                row.innerHTML = `
+                    <td>
+                        <span class="situacion ${situationClass}">
+                            <i class="fas ${iconClass} icon-indicator"></i>${situationText}
+                        </span>
+                    </td>
+                    <td>${item.delito}</td>
+                    <td>${item['2024']}</td>
+                    <td>${item['2025']}</td>
+                    <td class="${variationClass}">${variationText}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        }
+
+        // Función para actualizar las tarjetas de resumen
+        function updateSummaryCards(data) {
+            const total2024 = data.reduce((sum, item) => sum + item['2024'], 0);
+            const total2025 = data.reduce((sum, item) => sum + item['2025'], 0);
+            const totalVariation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
+            const situation = totalVariation > 0 ? 'Aumento de Casos' : (totalVariation < 0 ? 'Disminución de Casos' : 'Sin Variación');
+
+            document.getElementById('total-2024').textContent = total2024;
+            document.getElementById('total-2025').textContent = total2025;
+            document.getElementById('variation').textContent = `${totalVariation.toFixed(2)}%`;
+            document.getElementById('situation').textContent = situation;
+        }
+
+        // Función para crear un gráfico de barras para datos de delincuencia
+        function createBarChart(chartTitle, data) {
+            const chartContainer = document.createElement('div');
+            chartContainer.className = 'chart-container';
+            
+            const title = document.createElement('div');
+            title.className = 'chart-title';
+            title.textContent = chartTitle;
+            chartContainer.appendChild(title);
+
+            const canvas = document.createElement('canvas');
+            const canvasId = `chart-${chartTitle.replace(/\s/g, '-')}`;
+            canvas.id = canvasId;
+            chartContainer.appendChild(canvas);
+            
+            chartsSection.appendChild(chartContainer);
+
+            const ctx = canvas.getContext('2d');
+            const labels = data.map(item => item.delito);
+            const data2024 = data.map(item => item['2024']);
+            const data2025 = data.map(item => item['2025']);
+
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [
+                        {
+                            label: '2024',
+                            data: data2024,
+                            backgroundColor: '#3b82f6',
+                            borderColor: '#1e40af',
+                            borderWidth: 1
+                        },
+                        {
+                            label: '2025',
+                            data: data2025,
+                            backgroundColor: '#48bb78',
+                            borderColor: '#38a169',
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Número de Eventos',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary')
+                            },
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary')
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Delito',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary')
+                            },
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary')
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'top',
+                            labels: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary')
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Función para crear un histograma con Chart.js (datos mensuales)
+        function createHistogram(delito, data) {
+            const chartContainer = document.createElement('div');
+            chartContainer.className = 'chart-container';
+            
+            const chartTitle = document.createElement('div');
+            chartTitle.className = 'chart-title';
+            chartTitle.textContent = `Variación Mensual de ${delito}`;
+            chartContainer.appendChild(chartTitle);
+
+            const canvas = document.createElement('canvas');
+            const canvasId = `chart-monthly-${delito.replace(/\s/g, '-')}`;
+            canvas.id = canvasId;
+            chartContainer.appendChild(canvas);
+            
+            chartsSection.appendChild(chartContainer);
+
+            const ctx = canvas.getContext('2d');
+            const labels = data.map(item => `${item.anio}-${item.mes}`);
+            const chartData = data.map(item => item.casos);
+
+            // Colores mejorados para el histograma
+            const chartColors = ['#48BB78', '#63B3ED', '#F6E05E', '#FC8181', '#A5BFF0'];
+            const randomColor = chartColors[Math.floor(Math.random() * chartColors.length)];
+
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: `Casos Mensuales`,
+                        data: chartData,
+                        backgroundColor: `${randomColor}80`, // Color con transparencia
+                        borderColor: randomColor,
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Número de Casos',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary')
+                            },
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary')
+                            },
+                            grid: {
+                                color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                            }
+                        },
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Año-Mes',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary')
+                            },
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary')
+                            },
+                            grid: {
+                                color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false,
+                        }
+                    }
+                }
+            });
+        }
+
+        // Renderizado inicial
+        function initialLoad() {
+            const top5 = crimeData.resumen.sort((a, b) => Math.abs(b.variacion) - Math.abs(a.variacion)).slice(0, 5);
+            renderTable(top5);
+            updateSummaryCards(crimeData.resumen);
+            if (crimeData.resumen.length > 0) {
+                headerLocation.textContent = `${crimeData.resumen[0].COMUNA} 2024-2025`;
+            }
+            
+            chartsSection.innerHTML = '<h2 class="charts-section-title">Análisis de Datos por Gráfico</h2>';
+            
+            const categories = ["Casos", "Detenciones", "Detenidos"];
+            categories.forEach(category => {
+                const filteredData = crimeData.nuevo_resumen.filter(item => item.informacion === category);
+                if (filteredData.length > 0) {
+                    createBarChart(`${category} por Delito (2024 vs 2025)`, filteredData);
+                }
+            });
+
+            const uniqueCrimes = [...new Set(crimeData.mensual.map(item => item.delito))];
+            uniqueCrimes.forEach(delito => {
+                const filteredData = crimeData.mensual.filter(item => item.delito === delito);
+                filteredData.sort((a, b) => {
+                    if (a.anio !== b.anio) {
+                        return a.anio - b.anio;
+                    }
+                    return a.mes - b.mes;
+                });
+                createHistogram(delito, filteredData);
+            });
+        }
+
+        // Listener para el botón "Mostrar Todos"
+        showAllBtn.addEventListener('click', () => {
+            isShowingAll = !isShowingAll;
+            if (isShowingAll) {
+                renderTable(crimeData.resumen);
+                showAllBtn.textContent = 'Mostrar Top 5';
+            } else {
+                const top5 = crimeData.resumen.sort((a, b) => Math.abs(b.variacion) - Math.abs(a.variacion)).slice(0, 5);
+                renderTable(top5);
+                showAllBtn.textContent = 'Mostrar Todos';
+            }
+        });
+
+        // Cargar la página
+        initialLoad();
+    </script>
+</body>
+</html>

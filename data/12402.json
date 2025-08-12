@@ -1,0 +1,150 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12402,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12402,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 12402,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TORRES DEL PAINE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12402,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 12402,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 12402,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12402,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12402,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12402,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12402,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12402,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12402,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TORRES DEL PAINE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

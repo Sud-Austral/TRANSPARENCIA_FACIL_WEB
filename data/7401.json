@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "2024": 4,
+   "2025": 1,
+   "variacion": -75,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "2024": 414,
+   "2025": 306,
+   "variacion": -26,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "2024": 283,
+   "2025": 284,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "2024": 35,
+   "2025": 20,
+   "variacion": -43,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "2024": 56,
+   "2025": 33,
+   "variacion": -41,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "2024": 44,
+   "2025": 37,
+   "variacion": -16,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "2024": 97,
+   "2025": 73,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "2024": 74,
+   "2025": 32,
+   "variacion": -57,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "2024": 140,
+   "2025": 130,
+   "variacion": -7,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "2024": 197,
+   "2025": 159,
+   "variacion": -19,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "2024": 50,
+   "2025": 23,
+   "variacion": -54,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "2024": 6,
+   "2025": 3,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "2024": 7,
+   "2025": 2,
+   "variacion": -71,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LINARES"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 73,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 41,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 55,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 80,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 58,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 38,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 69,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 45,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 54,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 33,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 57,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 65,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 42,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 39,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 64,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 33,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 47,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 49,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 32,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 46,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 31,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 46,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 45,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 33,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 34,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 48,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 44,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 36,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 32,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 37,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 38,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 39,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 39,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 52,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 38,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 42,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 31,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 43,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 15,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 21,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 16,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 12,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 16,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 24,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 19,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 25,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 27,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 27,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 24,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 32,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 29,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 15,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 16,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 22,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 29,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 29,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 22,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 42,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 32,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 23,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 29,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 24,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 16,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 15,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 22,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 25,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 37,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 22,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 11,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7401,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "LINARES"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "HOMICIDIOS",
+   "2024": 4,
+   "2025": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "HURTOS",
+   "2024": 414,
+   "2025": 306,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "LESIONES",
+   "2024": 283,
+   "2025": 284,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 35,
+   "2025": 20,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 56,
+   "2025": 33,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 44,
+   "2025": 37,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 97,
+   "2025": 73,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 74,
+   "2025": 32,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 140,
+   "2025": 130,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 197,
+   "2025": 159,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 50,
+   "2025": 23,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 6,
+   "2025": 3,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7401,
+   "delito": "VIOLACIONES",
+   "2024": 7,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "HURTOS",
+   "2024": 120,
+   "2025": 98,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "LESIONES",
+   "2024": 84,
+   "2025": 105,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 6,
+   "2025": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 13,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 16,
+   "2025": 14,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7401,
+   "delito": "VIOLACIONES",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "HURTOS",
+   "2024": 137,
+   "2025": 112,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "LESIONES",
+   "2024": 139,
+   "2025": 169,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 10,
+   "2025": 9,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 8,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 18,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 23,
+   "2025": 17,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LINARES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7401,
+   "delito": "VIOLACIONES",
+   "2024": 4,
+   "2025": 1,
+   "COMUNA": "LINARES"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

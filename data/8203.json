@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "2024": 95,
+   "2025": 60,
+   "variacion": -37,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "2024": 99,
+   "2025": 71,
+   "variacion": -28,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "2024": 23,
+   "2025": 9,
+   "variacion": -61,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "2024": 17,
+   "2025": 11,
+   "variacion": -35,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "2024": 12,
+   "2025": 11,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "2024": 16,
+   "2025": 7,
+   "variacion": -56,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "2024": 53,
+   "2025": 52,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "2024": 38,
+   "2025": 49,
+   "variacion": 29,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "2024": 6,
+   "2025": 2,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "2024": 5,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "2024": 0,
+   "2025": 4,
+   "variacion": 400,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANETE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 17,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 22,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 21,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 18,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 15,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 17,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 15,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 12,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 8,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CANETE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "HURTOS",
+   "2024": 95,
+   "2025": 60,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "LESIONES",
+   "2024": 99,
+   "2025": 71,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 23,
+   "2025": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 17,
+   "2025": 11,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 12,
+   "2025": 11,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 16,
+   "2025": 7,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 53,
+   "2025": 52,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 38,
+   "2025": 49,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 6,
+   "2025": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 5,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8203,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "HURTOS",
+   "2024": 8,
+   "2025": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "LESIONES",
+   "2024": 20,
+   "2025": 19,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 5,
+   "2025": 3,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8203,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "HURTOS",
+   "2024": 10,
+   "2025": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "LESIONES",
+   "2024": 28,
+   "2025": 33,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 9,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 5,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 9,
+   "2025": 4,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8203,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "CANETE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

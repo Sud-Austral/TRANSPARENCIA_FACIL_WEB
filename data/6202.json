@@ -1,0 +1,522 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "2024": 5,
+   "2025": 9,
+   "variacion": 80,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6202,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "2024": 12,
+   "2025": 2,
+   "variacion": -83,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "2024": 5,
+   "2025": 11,
+   "variacion": 120,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LA ESTRELLA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "HURTOS",
+   "2024": 5,
+   "2025": 9,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 12,
+   "2025": 2,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 5,
+   "2025": 11,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6202,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6202,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6202,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6202,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "LA ESTRELLA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

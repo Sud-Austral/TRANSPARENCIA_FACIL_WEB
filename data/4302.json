@@ -1,0 +1,806 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "2024": 8,
+   "2025": 11,
+   "variacion": 38,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "2024": 24,
+   "2025": 27,
+   "variacion": 12,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4302,
+   "2024": 2,
+   "2025": 5,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "2024": 9,
+   "2025": 9,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "2024": 8,
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4302,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4302,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 4302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "HURTOS",
+   "2024": 8,
+   "2025": 11,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "LESIONES",
+   "2024": 24,
+   "2025": 27,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 5,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 9,
+   "2025": 9,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 8,
+   "2025": 8,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4302,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4302,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 9,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4302,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4302,
+   "delito": "LESIONES",
+   "2024": 5,
+   "2025": 19,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COMBARBALÁ"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

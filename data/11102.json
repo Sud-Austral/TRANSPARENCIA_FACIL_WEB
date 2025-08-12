@@ -1,0 +1,158 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11102,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 11102,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGO VERDE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 11102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAGO VERDE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11102,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11102,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11102,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11102,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAGO VERDE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11102,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "LAGO VERDE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

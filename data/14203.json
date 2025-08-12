@@ -1,0 +1,780 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 14203,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "2024": 17,
+   "2025": 8,
+   "variacion": -53,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "2024": 28,
+   "2025": 35,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 14203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14203,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "2024": 10,
+   "2025": 10,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 14203,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 9,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 14203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "HURTOS",
+   "2024": 17,
+   "2025": 8,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "LESIONES",
+   "2024": 28,
+   "2025": 35,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 10,
+   "2025": 10,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "HURTOS",
+   "2024": 5,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "LESIONES",
+   "2024": 16,
+   "2025": 16,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14203,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "HURTOS",
+   "2024": 12,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "LESIONES",
+   "2024": 31,
+   "2025": 34,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14203,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

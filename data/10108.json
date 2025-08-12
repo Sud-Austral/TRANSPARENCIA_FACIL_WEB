@@ -1,0 +1,747 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "2024": 19,
+   "2025": 31,
+   "variacion": 63,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "2024": 22,
+   "2025": 30,
+   "variacion": 36,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10108,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10108,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "2024": 2,
+   "2025": 13,
+   "variacion": 550,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "2024": 4,
+   "2025": 10,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10108,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10108,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "MAULLÍN"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 8,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10108,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "HURTOS",
+   "2024": 19,
+   "2025": 31,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "LESIONES",
+   "2024": 22,
+   "2025": 30,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 13,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 4,
+   "2025": 10,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10108,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10108,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 6,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10108,
+   "delito": "LESIONES",
+   "2024": 9,
+   "2025": 16,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10108,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10108,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 9,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10108,
+   "delito": "LESIONES",
+   "2024": 12,
+   "2025": 25,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10108,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10108,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "MAULLÍN"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

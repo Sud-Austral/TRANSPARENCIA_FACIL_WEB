@@ -1,0 +1,93 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11303,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11303,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "TORTEL"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11303,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11303,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11303,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "TORTEL"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11303,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TORTEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11303,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "TORTEL"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

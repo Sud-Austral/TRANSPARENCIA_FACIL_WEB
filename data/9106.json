@@ -1,0 +1,739 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "2024": 12,
+   "2025": 21,
+   "variacion": 75,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "2024": 24,
+   "2025": 10,
+   "variacion": -58,
+   "situación": "Disminución de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9106,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9106,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9106,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "2024": 10,
+   "2025": 4,
+   "variacion": -60,
+   "situación": "Disminución de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "2024": 16,
+   "2025": 8,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9106,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "HURTOS",
+   "2024": 12,
+   "2025": 21,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "LESIONES",
+   "2024": 24,
+   "2025": 10,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 4,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 16,
+   "2025": 8,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9106,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9106,
+   "delito": "LESIONES",
+   "2024": 12,
+   "2025": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9106,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9106,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 8,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "GALVARINO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

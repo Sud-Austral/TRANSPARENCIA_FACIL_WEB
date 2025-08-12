@@ -1,0 +1,596 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 16202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "2024": 3,
+   "2025": 12,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "2024": 17,
+   "2025": 16,
+   "variacion": -6,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16202,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16202,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 16202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 12,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "LESIONES",
+   "2024": 17,
+   "2025": 16,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16202,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16202,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16202,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16202,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16202,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16202,
+   "delito": "LESIONES",
+   "2024": 6,
+   "2025": 7,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "COBQUECURA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

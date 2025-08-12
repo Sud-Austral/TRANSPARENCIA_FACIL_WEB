@@ -1,0 +1,456 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "2024": 7,
+   "2025": 9,
+   "variacion": 29,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "2024": 7,
+   "2025": 11,
+   "variacion": 57,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11301,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11301,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "2024": 3,
+   "2025": 5,
+   "variacion": 67,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COCHRANE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 11301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11301,
+   "delito": "HURTOS",
+   "2024": 7,
+   "2025": 9,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11301,
+   "delito": "LESIONES",
+   "2024": 7,
+   "2025": 11,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11301,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 5,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11301,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 5,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11301,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 8,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COCHRANE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

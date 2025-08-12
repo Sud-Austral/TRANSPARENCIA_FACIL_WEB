@@ -1,0 +1,1560 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5602,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "2024": 64,
+   "2025": 58,
+   "variacion": -9,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "2024": 48,
+   "2025": 58,
+   "variacion": 21,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5602,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "2024": 14,
+   "2025": 14,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "2024": 12,
+   "2025": 9,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "2024": 29,
+   "2025": 65,
+   "variacion": 124,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "2024": 25,
+   "2025": 17,
+   "variacion": -32,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "2024": 111,
+   "2025": 110,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "2024": 39,
+   "2025": 29,
+   "variacion": -26,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "2024": 3,
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5602,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ALGARROBO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 14,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 13,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 14,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 11,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 20,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 14,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 16,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 15,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 23,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 22,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 13,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 23,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 27,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 18,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 22,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 26,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 12,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5602,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "HURTOS",
+   "2024": 64,
+   "2025": 58,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "LESIONES",
+   "2024": 48,
+   "2025": 58,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 14,
+   "2025": 14,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 12,
+   "2025": 9,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 29,
+   "2025": 65,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 25,
+   "2025": 17,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 111,
+   "2025": 110,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 39,
+   "2025": 29,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5602,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "HURTOS",
+   "2024": 21,
+   "2025": 29,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 20,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 8,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 6,
+   "2025": 0,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5602,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "HURTOS",
+   "2024": 22,
+   "2025": 33,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "LESIONES",
+   "2024": 40,
+   "2025": 40,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 11,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 10,
+   "2025": 0,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5602,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "ALGARROBO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

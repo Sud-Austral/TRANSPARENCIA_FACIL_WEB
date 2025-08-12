@@ -1,0 +1,845 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "2024": 19,
+   "2025": 11,
+   "variacion": -42,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "2024": 23,
+   "2025": 18,
+   "variacion": -22,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 3303,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3303,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3303,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "2024": 7,
+   "2025": 13,
+   "variacion": 86,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "2024": 8,
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3303,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 3303,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FREIRINA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 3303,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "HURTOS",
+   "2024": 19,
+   "2025": 11,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "LESIONES",
+   "2024": 23,
+   "2025": 18,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 7,
+   "2025": 13,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 8,
+   "2025": 8,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3303,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3303,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 12,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3303,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3303,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3303,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3303,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3303,
+   "delito": "LESIONES",
+   "2024": 15,
+   "2025": 17,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3303,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3303,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3303,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "FREIRINA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3303,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FREIRINA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

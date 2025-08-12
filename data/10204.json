@@ -1,0 +1,246 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10204,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "2024": 9,
+   "2025": 8,
+   "variacion": -11,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10204,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CURACO DE VÉLEZ"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10204,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10204,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10204,
+   "delito": "LESIONES",
+   "2024": 9,
+   "2025": 8,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10204,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10204,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 5,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10204,
+   "delito": "LESIONES",
+   "2024": 9,
+   "2025": 8,
+   "COMUNA": "CURACO DE VÉLEZ"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

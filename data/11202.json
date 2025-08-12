@@ -1,0 +1,602 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "2024": 6,
+   "2025": 12,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "2024": 19,
+   "2025": 17,
+   "variacion": -11,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11202,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 11202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "2024": 8,
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 11202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CISNES"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 11202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 11202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CISNES"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "HURTOS",
+   "2024": 6,
+   "2025": 12,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "LESIONES",
+   "2024": 19,
+   "2025": 17,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 8,
+   "2025": 8,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11202,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11202,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11202,
+   "delito": "LESIONES",
+   "2024": 10,
+   "2025": 7,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11202,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11202,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 10,
+   "COMUNA": "CISNES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "CISNES"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

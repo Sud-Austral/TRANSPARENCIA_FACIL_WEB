@@ -1,0 +1,602 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "2024": 7,
+   "2025": 8,
+   "variacion": 14,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "2024": 11,
+   "2025": 20,
+   "variacion": 82,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14102,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14102,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 14102,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "2024": 3,
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "2024": 10,
+   "2025": 2,
+   "variacion": -80,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORRAL"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 14102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "HURTOS",
+   "2024": 7,
+   "2025": 8,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 20,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 10,
+   "2025": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14102,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14102,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 5,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14102,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14102,
+   "delito": "LESIONES",
+   "2024": 9,
+   "2025": 9,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORRAL"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

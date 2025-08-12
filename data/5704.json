@@ -1,0 +1,942 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "2024": 9,
+   "2025": 16,
+   "variacion": 78,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "2024": 10,
+   "2025": 18,
+   "variacion": 80,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "2024": 3,
+   "2025": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5704,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "2024": 3,
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5704,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "2024": 7,
+   "2025": 5,
+   "variacion": -29,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "2024": 16,
+   "2025": 25,
+   "variacion": 56,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5704,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5704,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PANQUEHUE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5704,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "HURTOS",
+   "2024": 9,
+   "2025": 16,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "LESIONES",
+   "2024": 10,
+   "2025": 18,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 3,
+   "2025": 3,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 7,
+   "2025": 5,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 16,
+   "2025": 25,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5704,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5704,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5704,
+   "delito": "LESIONES",
+   "2024": 6,
+   "2025": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5704,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 9,
+   "2025": 7,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5704,
+   "delito": "HURTOS",
+   "2024": 6,
+   "2025": 4,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5704,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 7,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5704,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5704,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 12,
+   "2025": 9,
+   "COMUNA": "PANQUEHUE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

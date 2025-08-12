@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "2024": 7,
+   "2025": 2,
+   "variacion": -71,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "2024": 230,
+   "2025": 238,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "2024": 307,
+   "2025": 244,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "2024": 7,
+   "2025": 21,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "2024": 111,
+   "2025": 64,
+   "variacion": -42,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "2024": 80,
+   "2025": 59,
+   "variacion": -26,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "2024": 101,
+   "2025": 50,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "2024": 99,
+   "2025": 69,
+   "variacion": -30,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "2024": 182,
+   "2025": 85,
+   "variacion": -53,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "2024": 165,
+   "2025": 106,
+   "variacion": -36,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "2024": 35,
+   "2025": 31,
+   "variacion": -11,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "2024": 13,
+   "2025": 12,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "2024": 15,
+   "2025": 5,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CORONEL"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 35,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 27,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 28,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 39,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 51,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 44,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 47,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 51,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 37,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 28,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 44,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 25,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 31,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 39,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 34,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 42,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 23,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 41,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 34,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 46,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 49,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 52,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 31,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 54,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 35,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 43,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 37,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 42,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 42,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 32,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 41,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 52,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 41,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 27,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 31,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 19,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 26,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 16,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 18,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 18,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 17,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 18,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 25,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 22,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 27,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 23,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 21,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 23,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 26,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 43,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 16,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 45,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 19,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 30,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 13,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 16,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 18,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 28,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 17,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 26,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 35,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 24,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 31,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 44,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 17,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 16,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 19,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "HOMICIDIOS",
+   "2024": 7,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "HURTOS",
+   "2024": 230,
+   "2025": 238,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "LESIONES",
+   "2024": 307,
+   "2025": 244,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 7,
+   "2025": 21,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 111,
+   "2025": 64,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 80,
+   "2025": 59,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 101,
+   "2025": 50,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 99,
+   "2025": 69,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 182,
+   "2025": 85,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 165,
+   "2025": 106,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 35,
+   "2025": 31,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 13,
+   "2025": 12,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8102,
+   "delito": "VIOLACIONES",
+   "2024": 15,
+   "2025": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "HURTOS",
+   "2024": 83,
+   "2025": 128,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "LESIONES",
+   "2024": 60,
+   "2025": 49,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 9,
+   "2025": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 14,
+   "2025": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8102,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 5,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "HURTOS",
+   "2024": 93,
+   "2025": 144,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "LESIONES",
+   "2024": 106,
+   "2025": 89,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 9,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 6,
+   "2025": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 14,
+   "2025": 15,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 4,
+   "2025": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 11,
+   "2025": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 16,
+   "2025": 8,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 6,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8102,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CORONEL"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

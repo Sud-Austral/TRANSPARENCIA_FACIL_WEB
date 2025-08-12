@@ -1,0 +1,749 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "2024": 9,
+   "2025": 8,
+   "variacion": -11,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "2024": 10,
+   "2025": 14,
+   "variacion": 40,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7107,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7107,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7107,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7107,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7107,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "2024": 11,
+   "2025": 6,
+   "variacion": -45,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "2024": 18,
+   "2025": 12,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7107,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PENCAHUE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7107,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "HURTOS",
+   "2024": 9,
+   "2025": 8,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "LESIONES",
+   "2024": 10,
+   "2025": 14,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 11,
+   "2025": 6,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 18,
+   "2025": 12,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7107,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7107,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 5,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7107,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7107,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7107,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 12,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7107,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 5,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7107,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PENCAHUE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

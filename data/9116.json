@@ -1,0 +1,869 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9116,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "2024": 22,
+   "2025": 21,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "2024": 32,
+   "2025": 27,
+   "variacion": -16,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9116,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9116,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9116,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "2024": 6,
+   "2025": 6,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "2024": 18,
+   "2025": 18,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9116,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9116,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAAVEDRA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 8,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 7,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9116,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "HOMICIDIOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "HURTOS",
+   "2024": 22,
+   "2025": 21,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "LESIONES",
+   "2024": 32,
+   "2025": 27,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 6,
+   "2025": 6,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 18,
+   "2025": 18,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9116,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9116,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9116,
+   "delito": "HURTOS",
+   "2024": 5,
+   "2025": 4,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9116,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 10,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9116,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9116,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9116,
+   "delito": "HURTOS",
+   "2024": 7,
+   "2025": 5,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9116,
+   "delito": "LESIONES",
+   "2024": 15,
+   "2025": 13,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9116,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "SAAVEDRA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

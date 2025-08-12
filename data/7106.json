@@ -1,0 +1,821 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "2024": 16,
+   "2025": 14,
+   "variacion": -12,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "2024": 4,
+   "2025": 16,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7106,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "2024": 9,
+   "2025": 3,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "2024": 26,
+   "2025": 4,
+   "variacion": -85,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7106,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELARCO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 8,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7106,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PELARCO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "HURTOS",
+   "2024": 16,
+   "2025": 14,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 16,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 9,
+   "2025": 3,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 26,
+   "2025": 4,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7106,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7106,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7106,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 4,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7106,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7106,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 6,
+   "2025": 0,
+   "COMUNA": "PELARCO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

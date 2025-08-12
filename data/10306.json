@@ -1,0 +1,805 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10306,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "2024": 13,
+   "2025": 15,
+   "variacion": 15,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "2024": 27,
+   "2025": 27,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10306,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10306,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10306,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10306,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "2024": 20,
+   "2025": 7,
+   "variacion": -65,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "2024": 12,
+   "2025": 2,
+   "variacion": -83,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10306,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 8,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "HURTOS",
+   "2024": 13,
+   "2025": 15,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "LESIONES",
+   "2024": 27,
+   "2025": 27,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 20,
+   "2025": 7,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 12,
+   "2025": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10306,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10306,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10306,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10306,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 12,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10306,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10306,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10306,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10306,
+   "delito": "LESIONES",
+   "2024": 15,
+   "2025": 19,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10306,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

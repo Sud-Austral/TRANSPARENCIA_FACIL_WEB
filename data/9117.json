@@ -1,0 +1,893 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9117,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "2024": 31,
+   "2025": 12,
+   "variacion": -61,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "2024": 28,
+   "2025": 22,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9117,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9117,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9117,
+   "2024": 3,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "2024": 10,
+   "2025": 6,
+   "variacion": -40,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "2024": 21,
+   "2025": 8,
+   "variacion": -62,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9117,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TEODORO SCHMIDT"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "HURTOS",
+   "2024": 31,
+   "2025": 12,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "LESIONES",
+   "2024": 28,
+   "2025": 22,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 6,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 21,
+   "2025": 8,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9117,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 12,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "LESIONES",
+   "2024": 15,
+   "2025": 22,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 5,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 5,
+   "2025": 0,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9117,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

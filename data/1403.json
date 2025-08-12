@@ -1,0 +1,542 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 1403,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "2024": 8,
+   "2025": 1,
+   "variacion": -88,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "2024": 8,
+   "2025": 12,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1403,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1403,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1403,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1403,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1403,
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1403,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 1403,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 1403,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COLCHANE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 1403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "COLCHANE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "HURTOS",
+   "2024": 8,
+   "2025": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 12,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1403,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1403,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1403,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1403,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 8,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1403,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "COLCHANE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

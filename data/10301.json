@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "2024": 3,
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "2024": 1181,
+   "2025": 1130,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "2024": 349,
+   "2025": 395,
+   "variacion": 13,
+   "situación": "Aumento de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "2024": 10,
+   "2025": 8,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "2024": 83,
+   "2025": 80,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "2024": 81,
+   "2025": 78,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "2024": 241,
+   "2025": 197,
+   "variacion": -18,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "2024": 61,
+   "2025": 58,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "2024": 293,
+   "2025": 251,
+   "variacion": -14,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "2024": 207,
+   "2025": 155,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "2024": 80,
+   "2025": 84,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "2024": 16,
+   "2025": 11,
+   "variacion": -31,
+   "situación": "Disminución de Casos",
+   "COMUNA": "OSORNO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 180,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 131,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 146,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 188,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 177,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 159,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 200,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 164,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 167,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 121,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 140,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 145,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 144,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 115,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 199,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 153,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 157,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 197,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 165,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 57,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 54,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 44,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 69,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 50,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 34,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 41,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 43,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 77,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 47,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 56,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 51,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 59,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 51,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 83,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 44,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 55,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 54,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 49,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 18,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 16,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 18,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 16,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 16,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 15,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 16,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 7,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 36,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 27,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 18,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 30,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 48,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 32,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 50,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 38,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 62,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 36,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 32,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 24,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 34,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 33,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 37,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 31,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 26,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 18,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 16,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 28,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 25,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 25,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 39,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 59,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 51,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 66,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 50,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 51,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 26,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 17,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 31,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 30,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 33,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 28,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 47,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 41,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 51,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 24,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 28,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 37,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 34,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 31,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 26,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 27,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 39,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 36,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 30,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 26,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 20,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 23,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 20,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 19,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 20,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 25,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 18,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 30,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 19,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 15,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 12,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "HOMICIDIOS",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "HURTOS",
+   "2024": 1181,
+   "2025": 1130,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "LESIONES",
+   "2024": 349,
+   "2025": 395,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 10,
+   "2025": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 83,
+   "2025": 80,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 81,
+   "2025": 78,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 241,
+   "2025": 197,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 61,
+   "2025": 58,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 293,
+   "2025": 251,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 207,
+   "2025": 155,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 80,
+   "2025": 84,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10301,
+   "delito": "VIOLACIONES",
+   "2024": 16,
+   "2025": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "HURTOS",
+   "2024": 511,
+   "2025": 538,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "LESIONES",
+   "2024": 109,
+   "2025": 134,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 6,
+   "2025": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 12,
+   "2025": 13,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 16,
+   "2025": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 14,
+   "2025": 17,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 24,
+   "2025": 22,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 7,
+   "2025": 8,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10301,
+   "delito": "VIOLACIONES",
+   "2024": 5,
+   "2025": 2,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "HURTOS",
+   "2024": 532,
+   "2025": 570,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "LESIONES",
+   "2024": 208,
+   "2025": 226,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 7,
+   "2025": 11,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 16,
+   "2025": 19,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 20,
+   "2025": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 16,
+   "2025": 21,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 33,
+   "2025": 38,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 8,
+   "2025": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10301,
+   "delito": "VIOLACIONES",
+   "2024": 5,
+   "2025": 2,
+   "COMUNA": "OSORNO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

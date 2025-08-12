@@ -1,0 +1,941 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "2024": 20,
+   "2025": 15,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "2024": 18,
+   "2025": 21,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6308,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6308,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "2024": 2,
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "2024": 2,
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "2024": 16,
+   "2025": 6,
+   "variacion": -62,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "2024": 11,
+   "2025": 15,
+   "variacion": 36,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PLACILLA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6308,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "HURTOS",
+   "2024": 20,
+   "2025": 15,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "LESIONES",
+   "2024": 18,
+   "2025": 21,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 16,
+   "2025": 6,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 11,
+   "2025": 15,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6308,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6308,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6308,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 6,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6308,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6308,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6308,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6308,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6308,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 7,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6308,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6308,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6308,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "PLACILLA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

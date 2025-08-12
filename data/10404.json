@@ -1,0 +1,279 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "2024": 4,
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10404,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10404,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PALENA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10404,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PALENA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10404,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10404,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 5,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10404,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10404,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10404,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10404,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10404,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 7,
+   "COMUNA": "PALENA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PALENA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

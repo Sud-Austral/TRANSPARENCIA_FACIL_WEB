@@ -1,0 +1,199 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12302,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "2024": 1,
+   "2025": 4,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 12302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12302,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PRIMAVERA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 12302,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12302,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12302,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12302,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PRIMAVERA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

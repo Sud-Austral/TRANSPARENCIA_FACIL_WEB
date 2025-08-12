@@ -1,0 +1,787 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "2024": 10,
+   "2025": 11,
+   "variacion": 10,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "2024": 29,
+   "2025": 32,
+   "variacion": 10,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9205,
+   "2024": 3,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9205,
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9205,
+   "2024": 2,
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "2024": 3,
+   "2025": 9,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "2024": 9,
+   "2025": 11,
+   "variacion": 22,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "2024": 4,
+   "2025": 1,
+   "variacion": -75,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LONQUIMAY"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 8,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "HURTOS",
+   "2024": 10,
+   "2025": 11,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "LESIONES",
+   "2024": 29,
+   "2025": 32,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 9,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 9,
+   "2025": 11,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9205,
+   "delito": "VIOLACIONES",
+   "2024": 4,
+   "2025": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9205,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9205,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 18,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9205,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9205,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9205,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9205,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 38,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9205,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9205,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LONQUIMAY"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

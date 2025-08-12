@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "2024": 5,
+   "2025": 4,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "2024": 116,
+   "2025": 122,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "2024": 283,
+   "2025": 275,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "2024": 14,
+   "2025": 25,
+   "variacion": 79,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "2024": 141,
+   "2025": 166,
+   "variacion": 18,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "2024": 83,
+   "2025": 80,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "2024": 178,
+   "2025": 128,
+   "variacion": -28,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "2024": 99,
+   "2025": 86,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "2024": 145,
+   "2025": 169,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "2024": 156,
+   "2025": 150,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "2024": 30,
+   "2025": 35,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "2024": 90,
+   "2025": 71,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "2024": 8,
+   "2025": 6,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAMPA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 17,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 22,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 23,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 67,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 28,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 51,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 45,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 29,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 29,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 34,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 45,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 63,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 36,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 40,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 50,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 45,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 43,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 50,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 41,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 33,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 34,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 29,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 23,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 37,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 22,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 27,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 24,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 35,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 23,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 29,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 22,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 48,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 31,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 30,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 22,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 32,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 16,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 31,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 27,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 23,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 26,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 24,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 27,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 31,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 17,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 21,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 27,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 28,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 36,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 30,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 28,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 17,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 23,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 26,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 18,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 26,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 19,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 15,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 8,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 13,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13302,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAMPA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "HOMICIDIOS",
+   "2024": 5,
+   "2025": 4,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "HURTOS",
+   "2024": 116,
+   "2025": 122,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "LESIONES",
+   "2024": 283,
+   "2025": 275,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 14,
+   "2025": 25,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 141,
+   "2025": 166,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 83,
+   "2025": 80,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 178,
+   "2025": 128,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 99,
+   "2025": 86,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 145,
+   "2025": 169,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 156,
+   "2025": 150,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 30,
+   "2025": 35,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 90,
+   "2025": 71,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13302,
+   "delito": "VIOLACIONES",
+   "2024": 8,
+   "2025": 6,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 11,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "LESIONES",
+   "2024": 37,
+   "2025": 53,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 6,
+   "2025": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 7,
+   "2025": 8,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 7,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 13302,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 12,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "LESIONES",
+   "2024": 76,
+   "2025": 103,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 9,
+   "2025": 14,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 8,
+   "2025": 10,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 4,
+   "2025": 9,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 13302,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 0,
+   "COMUNA": "LAMPA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

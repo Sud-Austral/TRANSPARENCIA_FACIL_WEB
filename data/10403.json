@@ -1,0 +1,658 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "2024": 26,
+   "2025": 10,
+   "variacion": -62,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "2024": 27,
+   "2025": 21,
+   "variacion": -22,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10403,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10403,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "2024": 4,
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "2024": 10,
+   "2025": 2,
+   "variacion": -80,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10403,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUALAIHUÉ"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10403,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "HURTOS",
+   "2024": 26,
+   "2025": 10,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "LESIONES",
+   "2024": 27,
+   "2025": 21,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 4,
+   "2025": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 10,
+   "2025": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10403,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10403,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10403,
+   "delito": "LESIONES",
+   "2024": 5,
+   "2025": 7,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10403,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10403,
+   "delito": "LESIONES",
+   "2024": 6,
+   "2025": 10,
+   "COMUNA": "HUALAIHUÉ"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

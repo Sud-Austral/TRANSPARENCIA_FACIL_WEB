@@ -1,0 +1,118 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 15202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 15202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 15202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GENERAL LAGOS"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 15202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 15202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 15202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 15202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 15202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "GENERAL LAGOS"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 15202,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 15202,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 15202,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 15202,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GENERAL LAGOS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 15202,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GENERAL LAGOS"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

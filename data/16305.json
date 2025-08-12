@@ -1,0 +1,1159 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 16305,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "2024": 20,
+   "2025": 16,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "2024": 22,
+   "2025": 27,
+   "variacion": 23,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "2024": 3,
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "2024": 3,
+   "2025": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "2024": 27,
+   "2025": 24,
+   "variacion": -11,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "2024": 25,
+   "2025": 13,
+   "variacion": -48,
+   "situación": "Disminución de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16305,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "SAN NICOLÁS"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16305,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "HURTOS",
+   "2024": 20,
+   "2025": 16,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "LESIONES",
+   "2024": 22,
+   "2025": 27,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 3,
+   "2025": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 27,
+   "2025": 24,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 25,
+   "2025": 13,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16305,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 8,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 16,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 4,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16305,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "SAN NICOLÁS"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

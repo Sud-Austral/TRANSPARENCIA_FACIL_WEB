@@ -1,0 +1,998 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "2024": 11,
+   "2025": 11,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "2024": 12,
+   "2025": 15,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "2024": 16,
+   "2025": 31,
+   "variacion": 94,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "2024": 3,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "2024": 7,
+   "2025": 5,
+   "variacion": -29,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "2024": 4,
+   "2025": 10,
+   "variacion": 150,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "2024": 9,
+   "2025": 11,
+   "variacion": 22,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4202,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CANELA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 8,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4202,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "CANELA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "HURTOS",
+   "2024": 11,
+   "2025": 11,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "LESIONES",
+   "2024": 12,
+   "2025": 15,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 16,
+   "2025": 31,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 7,
+   "2025": 5,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 4,
+   "2025": 10,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 9,
+   "2025": 11,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4202,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4202,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4202,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4202,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "CANELA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4202,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CANELA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

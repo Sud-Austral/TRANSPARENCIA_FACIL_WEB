@@ -1,0 +1,101 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "2024": 1,
+   "2025": 3,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12102,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LAGUNA BLANCA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12102,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12102,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LAGUNA BLANCA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 12102,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 12102,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12102,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12102,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12102,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "LAGUNA BLANCA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12102,
+   "delito": "LESIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LAGUNA BLANCA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

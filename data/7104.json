@@ -1,0 +1,401 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "2024": 8,
+   "2025": 4,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7104,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7104,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7104,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "EMPEDRADO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 4,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7104,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7104,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7104,
+   "delito": "LESIONES",
+   "2024": 7,
+   "2025": 1,
+   "COMUNA": "EMPEDRADO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

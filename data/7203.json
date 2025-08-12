@@ -1,0 +1,941 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "2024": 20,
+   "2025": 17,
+   "variacion": -15,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "2024": 41,
+   "2025": 36,
+   "variacion": -12,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7203,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7203,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "2024": 5,
+   "2025": 4,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7203,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "2024": 15,
+   "2025": 13,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "2024": 12,
+   "2025": 11,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PELLUHUE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 8,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 7,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 9,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 5,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7203,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PELLUHUE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "HURTOS",
+   "2024": 20,
+   "2025": 17,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "LESIONES",
+   "2024": 41,
+   "2025": 36,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 5,
+   "2025": 4,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 15,
+   "2025": 13,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 12,
+   "2025": 11,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7203,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "LESIONES",
+   "2024": 14,
+   "2025": 12,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "LESIONES",
+   "2024": 21,
+   "2025": 18,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

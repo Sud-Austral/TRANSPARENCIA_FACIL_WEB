@@ -1,0 +1,772 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "2024": 12,
+   "2025": 9,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "2024": 18,
+   "2025": 19,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8207,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8207,
+   "2024": 0,
+   "2025": 3,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8207,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8207,
+   "2024": 4,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "2024": 7,
+   "2025": 7,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "2024": 11,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8207,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "TIRÚA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8207,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "HURTOS",
+   "2024": 12,
+   "2025": 9,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "LESIONES",
+   "2024": 18,
+   "2025": 19,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 4,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 7,
+   "2025": 7,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 11,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8207,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8207,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8207,
+   "delito": "LESIONES",
+   "2024": 5,
+   "2025": 4,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8207,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8207,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 8207,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8207,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8207,
+   "delito": "LESIONES",
+   "2024": 8,
+   "2025": 6,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8207,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8207,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 8207,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "TIRÚA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

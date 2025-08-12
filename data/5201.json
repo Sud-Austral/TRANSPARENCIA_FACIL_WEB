@@ -1,0 +1,724 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "2024": 17,
+   "2025": 19,
+   "variacion": 12,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "2024": 43,
+   "2025": 63,
+   "variacion": 47,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5201,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5201,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "2024": 3,
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "2024": 4,
+   "2025": 3,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5201,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5201,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "ISLA DE PASCUA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 5,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 7,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 9,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 6,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 8,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 6,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 8,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 13,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 13,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "HURTOS",
+   "2024": 17,
+   "2025": 19,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "LESIONES",
+   "2024": 43,
+   "2025": 63,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 4,
+   "2025": 3,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5201,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5201,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5201,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 15,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5201,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "ISLA DE PASCUA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5201,
+   "delito": "LESIONES",
+   "2024": 16,
+   "2025": 22,
+   "COMUNA": "ISLA DE PASCUA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

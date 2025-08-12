@@ -1,0 +1,183 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "2024": 3,
+   "2025": 5,
+   "variacion": 67,
+   "situación": "Aumento de Casos",
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11302,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "O'HIGGINS"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11302,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11302,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11302,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "O'HIGGINS"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11302,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 5,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11302,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11302,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11302,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11302,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "O'HIGGINS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11302,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "O'HIGGINS"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

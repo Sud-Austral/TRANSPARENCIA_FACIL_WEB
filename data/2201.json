@@ -1,0 +1,2416 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "2024": 4,
+   "2025": 6,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "2024": 619,
+   "2025": 716,
+   "variacion": 16,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "2024": 512,
+   "2025": 459,
+   "variacion": -10,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "2024": 23,
+   "2025": 27,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "2024": 274,
+   "2025": 136,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "2024": 164,
+   "2025": 142,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "2024": 458,
+   "2025": 333,
+   "variacion": -27,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "2024": 357,
+   "2025": 293,
+   "variacion": -18,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "2024": 157,
+   "2025": 229,
+   "variacion": 46,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "2024": 254,
+   "2025": 230,
+   "variacion": -9,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "2024": 119,
+   "2025": 103,
+   "variacion": -13,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "2024": 58,
+   "2025": 60,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "2024": 8,
+   "2025": 5,
+   "variacion": -38,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CALAMA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 83,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 75,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 76,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 107,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 97,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 80,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 101,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 73,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 141,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 80,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 110,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 82,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 96,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 104,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 126,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 107,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 66,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 127,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 90,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 90,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 50,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 84,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 89,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 57,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 60,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 82,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 60,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 69,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 71,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 54,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 71,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 57,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 57,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 91,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 75,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 57,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 66,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 56,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 44,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 57,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 43,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 32,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 36,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 33,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 23,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 12,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 22,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 28,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 15,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 14,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 25,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 26,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 32,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 24,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 34,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 32,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 22,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 23,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 26,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 13,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 16,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 87,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 62,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 53,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 59,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 62,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 63,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 72,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 53,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 55,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 46,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 34,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 68,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 56,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 64,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 62,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 36,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 51,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 37,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 60,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 33,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 72,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 64,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 45,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 37,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 46,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 44,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 45,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 44,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 53,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 37,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 48,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 56,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 26,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 39,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 51,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 36,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 18,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 24,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 22,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 24,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 23,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 24,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 17,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 39,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 28,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 26,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 35,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 36,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 28,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 46,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 30,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 45,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 23,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 35,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 46,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 38,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 36,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 26,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 41,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 33,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 35,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 25,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 34,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 40,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 44,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 35,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 31,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 25,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 12,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 15,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 22,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 58,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 20,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 13,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 11,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 14,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 18,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 9,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 12,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 12,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 19,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 11,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 14,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 2201,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "CALAMA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "HOMICIDIOS",
+   "2024": 4,
+   "2025": 6,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "HURTOS",
+   "2024": 619,
+   "2025": 716,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "LESIONES",
+   "2024": 512,
+   "2025": 459,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 23,
+   "2025": 27,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 274,
+   "2025": 136,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 164,
+   "2025": 142,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 458,
+   "2025": 333,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 357,
+   "2025": 293,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 157,
+   "2025": 229,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 254,
+   "2025": 230,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 119,
+   "2025": 103,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 58,
+   "2025": 60,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 2201,
+   "delito": "VIOLACIONES",
+   "2024": 8,
+   "2025": 5,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "HURTOS",
+   "2024": 394,
+   "2025": 490,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "LESIONES",
+   "2024": 128,
+   "2025": 119,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 12,
+   "2025": 14,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 18,
+   "2025": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 11,
+   "2025": 11,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 14,
+   "2025": 12,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 22,
+   "2025": 17,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 33,
+   "2025": 23,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 12,
+   "2025": 9,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 2201,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "HURTOS",
+   "2024": 410,
+   "2025": 513,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "LESIONES",
+   "2024": 213,
+   "2025": 208,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 12,
+   "2025": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 32,
+   "2025": 15,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 17,
+   "2025": 13,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 23,
+   "2025": 13,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 27,
+   "2025": 21,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 61,
+   "2025": 40,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 12,
+   "2025": 10,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 5,
+   "2025": 2,
+   "COMUNA": "CALAMA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 2201,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CALAMA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

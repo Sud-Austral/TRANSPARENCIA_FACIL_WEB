@@ -1,0 +1,868 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "2024": 13,
+   "2025": 8,
+   "variacion": -38,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "2024": 19,
+   "2025": 11,
+   "variacion": -42,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "2024": 3,
+   "2025": 1,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16206,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16206,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "2024": 2,
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "2024": 15,
+   "2025": 12,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "2024": 13,
+   "2025": 6,
+   "variacion": -54,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "RÁNQUIL"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "HURTOS",
+   "2024": 13,
+   "2025": 8,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "LESIONES",
+   "2024": 19,
+   "2025": 11,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2,
+   "2025": 3,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 15,
+   "2025": 12,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 13,
+   "2025": 6,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16206,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16206,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16206,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16206,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16206,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16206,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16206,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16206,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16206,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "RÁNQUIL"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

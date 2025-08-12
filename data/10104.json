@@ -1,0 +1,861 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "2024": 21,
+   "2025": 20,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "2024": 37,
+   "2025": 39,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10104,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "2024": 11,
+   "2025": 13,
+   "variacion": 18,
+   "situación": "Aumento de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "2024": 7,
+   "2025": 6,
+   "variacion": -14,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FRESIA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 7,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 11,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 8,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 9,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10104,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10104,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "FRESIA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "HURTOS",
+   "2024": 21,
+   "2025": 20,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "LESIONES",
+   "2024": 37,
+   "2025": 39,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 11,
+   "2025": 13,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 7,
+   "2025": 6,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10104,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10104,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10104,
+   "delito": "LESIONES",
+   "2024": 13,
+   "2025": 10,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10104,
+   "delito": "HOMICIDIOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10104,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 5,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10104,
+   "delito": "LESIONES",
+   "2024": 24,
+   "2025": 18,
+   "COMUNA": "FRESIA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

@@ -1,0 +1,709 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "2024": 4,
+   "2025": 8,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "2024": 25,
+   "2025": 10,
+   "variacion": -60,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1404,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 4,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "2024": 3,
+   "2025": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 1404,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUARA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 4,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 1404,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 8,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "LESIONES",
+   "2024": 25,
+   "2025": 10,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1404,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1404,
+   "delito": "LESIONES",
+   "2024": 11,
+   "2025": 5,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1404,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1404,
+   "delito": "LESIONES",
+   "2024": 23,
+   "2025": 7,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1404,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 3,
+   "COMUNA": "HUARA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

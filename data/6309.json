@@ -1,0 +1,536 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "2024": 4,
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "2024": 9,
+   "2025": 11,
+   "variacion": 22,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6309,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "2024": 6,
+   "2025": 4,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "2024": 8,
+   "2025": 7,
+   "variacion": -12,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PUMANQUE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 6309,
+   "delito": "HURTOS",
+   "2024": 4,
+   "2025": 5,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6309,
+   "delito": "LESIONES",
+   "2024": 9,
+   "2025": 11,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6309,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 6,
+   "2025": 4,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 8,
+   "2025": 7,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6309,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6309,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6309,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6309,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 7,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 6309,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUMANQUE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

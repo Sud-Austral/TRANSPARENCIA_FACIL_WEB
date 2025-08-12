@@ -1,0 +1,947 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "2024": 18,
+   "2025": 22,
+   "variacion": 22,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "2024": 16,
+   "2025": 12,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "2024": 3,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "2024": 1,
+   "2025": 8,
+   "variacion": 700,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 14103,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "2024": 10,
+   "2025": 11,
+   "variacion": 10,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "2024": 9,
+   "2025": 11,
+   "variacion": 22,
+   "situación": "Aumento de Casos",
+   "COMUNA": "LANCO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 10,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 9,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 9,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 7,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 7,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 5,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 14103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "LANCO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "HURTOS",
+   "2024": 18,
+   "2025": 22,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "LESIONES",
+   "2024": 16,
+   "2025": 12,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 8,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 10,
+   "2025": 11,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 9,
+   "2025": 11,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "HURTOS",
+   "2024": 9,
+   "2025": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "LESIONES",
+   "2024": 5,
+   "2025": 7,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "HURTOS",
+   "2024": 13,
+   "2025": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "LESIONES",
+   "2024": 6,
+   "2025": 12,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 4,
+   "2025": 0,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 0,
+   "COMUNA": "LANCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 14103,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 2,
+   "COMUNA": "LANCO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

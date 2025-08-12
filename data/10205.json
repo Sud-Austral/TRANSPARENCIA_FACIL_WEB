@@ -1,0 +1,884 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10205,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "2024": 39,
+   "2025": 32,
+   "variacion": -18,
+   "situación": "Disminución de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "2024": 39,
+   "2025": 36,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10205,
+   "2024": 0,
+   "2025": 2,
+   "variacion": 200,
+   "situación": "Aumento de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "2024": 3,
+   "2025": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "2024": 7,
+   "2025": 13,
+   "variacion": 86,
+   "situación": "Aumento de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10205,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "DALCAHUE"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 5,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 10,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 7,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 7,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 12,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 10,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 5,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 9,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 5,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 5,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 3,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "DALCAHUE"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "HOMICIDIOS",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "HURTOS",
+   "2024": 39,
+   "2025": 32,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "LESIONES",
+   "2024": 39,
+   "2025": 36,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 7,
+   "2025": 13,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10205,
+   "delito": "VIOLACIONES",
+   "2024": 2,
+   "2025": 4,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10205,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 6,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10205,
+   "delito": "LESIONES",
+   "2024": 19,
+   "2025": 8,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10205,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10205,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10205,
+   "delito": "HURTOS",
+   "2024": 5,
+   "2025": 7,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10205,
+   "delito": "LESIONES",
+   "2024": 31,
+   "2025": 12,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10205,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 2,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10205,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "DALCAHUE"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

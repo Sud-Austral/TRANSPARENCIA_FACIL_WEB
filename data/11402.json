@@ -1,0 +1,433 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "2024": 3,
+   "2025": 6,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "2024": 4,
+   "2025": 2,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11402,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11402,
+   "2024": 2,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "2024": 3,
+   "2025": 2,
+   "variacion": -33,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "2024": 5,
+   "2025": 4,
+   "variacion": -20,
+   "situación": "Disminución de Casos",
+   "COMUNA": "RÍO IBÁÑEZ"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 3,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "HURTOS",
+   "2024": 3,
+   "2025": 6,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "LESIONES",
+   "2024": 4,
+   "2025": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 11402,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 5,
+   "2025": 4,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11402,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11402,
+   "delito": "LESIONES",
+   "2024": 3,
+   "2025": 2,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11402,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11402,
+   "delito": "LESIONES",
+   "2024": 5,
+   "2025": 7,
+   "COMUNA": "RÍO IBÁÑEZ"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

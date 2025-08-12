@@ -1,0 +1,538 @@
+{
+ "resumen": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "2024": 10,
+   "2025": 9,
+   "variacion": -10,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "2024": 6,
+   "2025": 2,
+   "variacion": -67,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16205,
+   "2024": 2,
+   "2025": 1,
+   "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16205,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "2024": 4,
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "2024": 1,
+   "2025": 4,
+   "variacion": 300,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16205,
+   "2024": 1,
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "PORTEZUELO"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 3,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16205,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "HURTOS",
+   "2024": 10,
+   "2025": 9,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "LESIONES",
+   "2024": 6,
+   "2025": 2,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 2,
+   "2025": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 4,
+   "2025": 4,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 4,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 16205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16205,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16205,
+   "delito": "HURTOS",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16205,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 31/2024 (del 29/07/2024 al 04/08/2024)"
+ }
+}

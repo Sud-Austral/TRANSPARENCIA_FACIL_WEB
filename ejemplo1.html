@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadísticas de Homicidios - Maipú (Región Metropolitana)</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .slide {
+            width: 1280px;
+            height: 720px;
+            background-color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .header-top {
+            background-color: #1a3a5f;
+            color: white;
+            padding: 4px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .institution-text {
+            font-size: 12px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        .logo-text {
+            font-size: 10px;
+            font-weight: 400;
+            opacity: 0.9;
+            margin-right: 6px;
+        }
+        .logo {
+            width: 24px;
+            height: 24px;
+            background-color: white;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #1a3a5f;
+            font-weight: 700;
+            font-size: 10px;
+        }
+        .header {
+            background: linear-gradient(90deg, #1a3a5f 0%, #2c5282 100%);
+            color: white;
+            padding: 8px 20px;
+            text-align: center;
+            position: relative;
+        }
+        .header h1 {
+            font-size: 18px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #e53e3e 0%, #38a169 100%);
+        }
+        .content {
+            display: flex;
+            flex: 1;
+            padding: 8px 15px;
+        }
+        .left-section {
+            flex: 1;
+            padding-right: 12px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .right-section {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+        }
+        .stats-card {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 6px;
+            padding: 8px;
+            margin-bottom: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            border-left: 2px solid #1a3a5f;
+            transition: transform 0.2s ease;
+        }
+        .stats-card:hover {
+            transform: translateY(-1px);
+        }
+        .stats-text {
+            font-size: 12px;
+            line-height: 1.3;
+            color: #333;
+        }
+        .highlight {
+            color: #1a3a5f;
+            font-weight: 700;
+            font-size: 14px;
+        }
+        .charts-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+        .small-charts {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 6px;
+            height: 40%;
+        }
+        .chart-box {
+            background-color: #f9f9f9;
+            border-radius: 6px;
+            padding: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+            flex: 1;
+            margin: 0 3px;
+            display: flex;
+            flex-direction: column;
+        }
+        .chart-box:first-child {
+            margin-left: 0;
+        }
+        .chart-box:last-child {
+            margin-right: 0;
+        }
+        .chart-title {
+            font-size: 11px;
+            font-weight: 500;
+            color: #1a3a5f;
+            text-align: center;
+            margin-bottom: 3px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .chart-container {
+            flex: 1;
+            position: relative;
+        }
+        .large-chart {
+            height: 60%;
+            background-color: #f9f9f9;
+            border-radius: 6px;
+            padding: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+            display: flex;
+            flex-direction: column;
+        }
+        .large-chart-title {
+            font-size: 11px;
+            font-weight: 500;
+            color: #1a3a5f;
+            text-align: center;
+            margin-bottom: 3px;
+        }
+        .large-chart-container {
+            flex: 1;
+            position: relative;
+        }
+        .icon-text {
+            font-size: 10px;
+            margin-right: 3px;
+        }
+        .footer {
+            background-color: #1a3a5f;
+            color: white;
+            padding: 4px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+            font-size: 10px;
+        }
+        .footer-left {
+            display: flex;
+            align-items: center;
+        }
+        .footer-right {
+            display: flex;
+            align-items: center;
+        }
+        .footer-text {
+            margin-right: 10px;
+            opacity: 0.9;
+        }
+        .footer-icon {
+            margin-right: 3px;
+        }
+        .data-label {
+            font-size: 10px;
+            color: #666;
+            text-align: center;
+            margin-top: 2px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .percentage-change {
+            font-size: 10px;
+            font-weight: 500;
+            padding: 1px 4px;
+            border-radius: 8px;
+            margin-left: 3px;
+        }
+        .increase {
+            background-color: rgba(229, 62, 62, 0.1);
+            color: #e53e3e;
+        }
+        .legend-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 4px;
+            font-size: 9px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0 5px;
+        }
+        .legend-color {
+            width: 12px;
+            height: 8px;
+            margin-right: 3px;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div class="slide">
+        <div class="header-top">
+            <div class="institution-text">
+                <i class="fas fa-landmark icon-text"></i>Ministerio del Interior y Seguridad Pública
+            </div>
+            <div class="logo-container">
+                <div class="logo-text">Gobierno de Chile</div>
+                <div class="logo">GOB</div>
+            </div>
+        </div>
+        <div class="header">
+            <h1><i class="fas fa-chart-line icon-text"></i>Estadísticas de Homicidios - Maipú (Región Metropolitana)</h1>
+        </div>
+        <div class="content">
+            <div class="left-section">
+                <div class="stats-card">
+                    <div class="stats-text">
+                        <i class="fas fa-info-circle text-blue-600 icon-text"></i>
+                        En <span class="highlight">Maipú (Región Metropolitana)</span> se registraron <span class="highlight">8 casos</span> en 2025, <span class="highlight">+100%</span> vs 4 casos en 2024.
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="stats-text">
+                        <i class="fas fa-handcuffs text-blue-600 icon-text"></i>
+                        Detenciones por homicidios: 0 en 2024, <span class="highlight">1 detención</span> en 2025.
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="stats-text">
+                        <i class="fas fa-users text-blue-600 icon-text"></i>
+                        Personas detenidas: 0 en 2024, <span class="highlight">5 detenidos</span> en 2025.
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="stats-text">
+                        <i class="fas fa-chart-bar text-blue-600 icon-text"></i>
+                        Evolución mensual con concentraciones en ago-sep 2024 y abril 2025.
+                    </div>
+                </div>
+            </div>
+            <div class="right-section">
+                <div class="charts-container">
+                    <div class="small-charts">
+                        <div class="chart-box">
+                            <div class="chart-title">Casos de Homicidios</div>
+                            <div class="chart-container">
+                                <canvas id="casosChart"></canvas>
+                            </div>
+                            <div class="data-label">2024: 4 | 2025: 8 <span class="percentage-change increase">+100%</span></div>
+                        </div>
+                        <div class="chart-box">
+                            <div class="chart-title">Detenciones por Homicidios</div>
+                            <div class="chart-container">
+                                <canvas id="detencionesChart"></canvas>
+                            </div>
+                            <div class="data-label">2024: 0 | 2025: 1 <span class="percentage-change increase">+1</span></div>
+                        </div>
+                        <div class="chart-box">
+                            <div class="chart-title">Detenidos por Homicidios</div>
+                            <div class="chart-container">
+                                <canvas id="detenidosChart"></canvas>
+                            </div>
+                            <div class="data-label">2024: 0 | 2025: 5 <span class="percentage-change increase">+5</span></div>
+                        </div>
+                    </div>
+                    <div class="large-chart">
+                        <div class="large-chart-title">Evolución Mensual de Homicidios (2024-2025)</div>
+                        <div class="large-chart-container">
+                            <canvas id="evolucionChart"></canvas>
+                        </div>
+                        <div class="legend-container">
+                            <div class="legend-item">
+                                <div class="legend-color" style="background: linear-gradient(to right, #38a169, #e53e3e);"></div>
+                                <span>Bajo → Alto</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-left">
+                <div class="footer-text"><i class="fas fa-globe footer-icon"></i>www.seguridadpublica.gob.cl</div>
+                <div class="footer-text"><i class="fas fa-phone footer-icon"></i>600 600 0000</div>
+            </div>
+            <div class="footer-right">
+                <div class="footer-text">Fecha: 28/07/2025</div>
+                <div class="footer-text">Fuente: Sistema STOP</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuración de colores
+        const colors2024 = '#1a3a5f';
+        const colors2025 = '#e53e3e';
+        
+        // Función para generar color degradado basado en el valor
+        function getGradientColor(value, min, max) {
+            // Normalizar el valor entre 0 y 1
+            const normalized = (value - min) / (max - min);
+            
+            // Colores base: verde (bajo) a rojo (alto)
+            const r = Math.round(56 + normalized * (229 - 56));  // 56 (verde) a 229 (rojo)
+            const g = Math.round(161 - normalized * (161 - 62)); // 161 (verde) a 62 (rojo)
+            const b = Math.round(105 - normalized * (105 - 62)); // 105 (verde) a 62 (rojo)
+            
+            return `rgb(${r}, ${g}, ${b})`;
+        }
+        
+        // Gráfico de Casos
+        const casosCtx = document.getElementById('casosChart').getContext('2d');
+        const casosChart = new Chart(casosCtx, {
+            type: 'bar',
+            data: {
+                labels: ['2024', '2025'],
+                datasets: [{
+                    label: 'Casos',
+                    data: [4, 8],
+                    backgroundColor: [colors2024, colors2025],
+                    borderColor: [colors2024, colors2025],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 2,
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+        
+        // Gráfico de Detenciones
+        const detencionesCtx = document.getElementById('detencionesChart').getContext('2d');
+        const detencionesChart = new Chart(detencionesCtx, {
+            type: 'bar',
+            data: {
+                labels: ['2024', '2025'],
+                datasets: [{
+                    label: 'Detenciones',
+                    data: [0, 1],
+                    backgroundColor: [colors2024, colors2025],
+                    borderColor: [colors2024, colors2025],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+        
+        // Gráfico de Detenidos
+        const detenidosCtx = document.getElementById('detenidosChart').getContext('2d');
+        const detenidosChart = new Chart(detenidosCtx, {
+            type: 'bar',
+            data: {
+                labels: ['2024', '2025'],
+                datasets: [{
+                    label: 'Detenidos',
+                    data: [0, 5],
+                    backgroundColor: [colors2024, colors2025],
+                    borderColor: [colors2024, colors2025],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+        
+        // Gráfico de Evolución Mensual con colores degradados
+        const evolucionCtx = document.getElementById('evolucionChart').getContext('2d');
+        const evolucionData = [1, 0, 0, 1, 1, 1, 0, 2, 2, 0, 0, 1, 1, 0, 0, 4, 2, 0, 1];
+        const minValue = Math.min(...evolucionData);
+        const maxValue = Math.max(...evolucionData);
+        
+        // Generar colores para cada barra según su valor
+        const gradientColors = evolucionData.map(value => getGradientColor(value, minValue, maxValue));
+        
+        const evolucionChart = new Chart(evolucionCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Ene-24', 'Feb-24', 'Mar-24', 'Abr-24', 'May-24', 'Jun-24', 'Jul-24', 'Ago-24', 'Sep-24', 'Oct-24', 'Nov-24', 'Dic-24', 'Ene-25', 'Feb-25', 'Mar-25', 'Abr-25', 'May-25', 'Jun-25', 'Jul-25'],
+                datasets: [{
+                    label: 'Homicidios',
+                    data: evolucionData,
+                    backgroundColor: gradientColors,
+                    borderColor: gradientColors,
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return `Casos: ${context.parsed.y}`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1,
+                            font: {
+                                size: 8
+                            }
+                        },
+                        grid: {
+                            display: true,
+                            color: 'rgba(0, 0, 0, 0.05)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            maxRotation: 45,
+                            minRotation: 45,
+                            font: {
+                                size: 7
+                            }
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

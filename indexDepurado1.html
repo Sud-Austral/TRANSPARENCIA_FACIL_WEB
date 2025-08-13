@@ -768,6 +768,41 @@
             font-size: 18px;
         }
         
+        /* Indicador de carga */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(39, 174, 96, 0.2);
+            border-radius: 50%;
+            border-top-color: var(--accent-color);
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            font-size: 18px;
+            font-weight: 500;
+            color: var(--text-color-primary);
+        }
+        
         /* Sección de análisis de delitos */
         .crime-analysis-section {
             margin-top: 60px;
@@ -868,7 +903,7 @@
             display: flex;
             justify-content: space-between;
             margin-bottom: 30px;
-            height: 350px; /* Aumentado de 300px a 350px */
+            height: 350px;
             width: 100%;
         }
         
@@ -909,7 +944,7 @@
         .crime-chart-container {
             flex: 1;
             position: relative;
-            height: 250px; /* Altura fija para el contenedor del gráfico */
+            height: 250px;
         }
         
         .crime-large-chart {
@@ -940,7 +975,7 @@
         .crime-large-chart-container {
             flex: 1;
             position: relative;
-            height: 350px; /* Altura fija para el contenedor del gráfico grande */
+            height: 350px;
         }
         
         .crime-data-label {
@@ -1162,18 +1197,18 @@
             }
             
             .crime-small-charts {
-                height: 300px; /* Ajustado para móviles */
+                height: 300px;
                 flex-direction: column;
                 gap: 15px;
             }
             
             .crime-chart-box {
                 margin: 0;
-                height: 200px; /* Altura ajustada para móviles */
+                height: 200px;
             }
             
             .crime-chart-container {
-                height: 150px; /* Altura ajustada para móviles */
+                height: 150px;
             }
             
             .crime-large-chart {
@@ -1181,7 +1216,7 @@
             }
             
             .crime-large-chart-container {
-                height: 250px; /* Altura ajustada para móviles */
+                height: 250px;
             }
             
             .institute-logo {
@@ -1215,15 +1250,15 @@
             }
             
             .crime-small-charts {
-                height: 280px; /* Ajustado para móviles pequeños */
+                height: 280px;
             }
             
             .crime-chart-box {
-                height: 180px; /* Altura ajustada para móviles pequeños */
+                height: 180px;
             }
             
             .crime-chart-container {
-                height: 130px; /* Altura ajustada para móviles pequeños */
+                height: 130px;
             }
             
             .crime-large-chart {
@@ -1231,7 +1266,7 @@
             }
             
             .crime-large-chart-container {
-                height: 220px; /* Altura ajustada para móviles pequeños */
+                height: 220px;
             }
             
             .institute-logo {
@@ -1241,6 +1276,12 @@
     </style>
 </head>
 <body>
+    <!-- Indicador de carga -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Cargando datos...</div>
+    </div>
+    
     <div class="container">
         <div class="header-top">
             <div class="header-top-content">
@@ -1289,19 +1330,19 @@
                     </div>
                     <div class="stats-grid">
                         <div class="stat-item fade-in" style="animation-delay: 0.1s;">
-                            <div id="total-2024" class="stat-value"></div>
+                            <div id="total-2024" class="stat-value">0</div>
                             <div class="stat-label">Total Casos 2024</div>
                         </div>
                         <div class="stat-item fade-in" style="animation-delay: 0.2s;">
-                            <div id="total-2025" class="stat-value"></div>
+                            <div id="total-2025" class="stat-value">0</div>
                             <div class="stat-label">Total Casos 2025</div>
                         </div>
                         <div class="stat-item fade-in" style="animation-delay: 0.3s;">
-                            <div id="variation" class="stat-value"></div>
+                            <div id="variation" class="stat-value">0%</div>
                             <div class="stat-label">Variación</div>
                         </div>
                         <div class="stat-item fade-in" style="animation-delay: 0.4s;">
-                            <div id="situation" class="stat-value"></div>
+                            <div id="situation" class="stat-value">-</div>
                             <div class="stat-label">Situación</div>
                         </div>
                     </div>
@@ -1398,16 +1439,50 @@
         const codcomParam = params.get("codcom")?.trim() || "13101";
         const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
         
+        // Mostrar indicador de carga al inicio
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('loading-overlay').style.display = 'flex';
+        });
+        
         async function loadData() {
             try {
                 const response = await fetch(dataURL);
                 if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
                 const rawData = await response.json();
+                
+                // Verificar que los datos tienen la estructura esperada
+                if (!rawData.resumen || !rawData.mensual || !rawData.info || !rawData.meta) {
+                    throw new Error('La estructura de datos no es la esperada');
+                }
+                
                 allDATA = rawData;
                 initApp();
+                
+                // Ocultar indicador de carga después de cargar los datos
+                setTimeout(() => {
+                    document.getElementById('loading-overlay').style.display = 'none';
+                }, 500);
             } catch (error) {
                 console.error("Error al leer el JSON:", error);
-                showNotification("Error al cargar los datos", "error");
+                showNotification("Error al cargar los datos: " + error.message, "error");
+                
+                // Ocultar indicador de carga incluso si hay error
+                document.getElementById('loading-overlay').style.display = 'none';
+                
+                // Mostrar mensaje de error en la página
+                document.querySelector('.content-container').innerHTML = `
+                    <div class="card">
+                        <div class="card-title">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            Error al cargar los datos
+                        </div>
+                        <div class="info-text">
+                            <p>No se pudieron cargar los datos de la comuna. Por favor, inténtelo de nuevo más tarde.</p>
+                            <p><strong>Error:</strong> ${error.message}</p>
+                            <p>Si el problema persiste, contacte al administrador del sitio.</p>
+                        </div>
+                    </div>
+                `;
             }
         }
         
@@ -1433,7 +1508,6 @@
             const regionName = allDATA["meta"].region;
             const lastWeekName = allDATA["meta"].semana_id;
             
-            
             // Calcular horas transcurridas de forma más robusta
             let horasTranscurridas = 0;
             let anio;
@@ -1456,8 +1530,6 @@
                 console.error("Error al calcular horas transcurridas:", error);
                 horasTranscurridas = 0;
             }
-
-            console.log(anio)
             
             let isShowingAll = false;
             
@@ -1663,7 +1735,7 @@
                                         borderColor: '#2980b9',
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 20, /* Reducido aún más */
+                                        barThickness: 20,
                                         maxBarThickness: 25
                                     },
                                     {
@@ -1673,7 +1745,7 @@
                                         borderColor: total2024 > total2025 ? '#229954' : (total2024 < total2025 ? '#c0392b' : '#d4ac0d'),
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 20, /* Reducido aún más */
+                                        barThickness: 20,
                                         maxBarThickness: 25
                                     }
                                 ]
@@ -1690,7 +1762,7 @@
                                             callback: function(value) {
                                                 return formatNumber(value);
                                             },
-                                            padding: 20 /* Aumentado padding superior */
+                                            padding: 20
                                         },
                                         grid: {
                                             color: getComputedStyle(document.body).getPropertyValue('--border-color')
@@ -1725,16 +1797,16 @@
                                         anchor: 'end',
                                         align: 'end',
                                         color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
-                                        font: { weight: 'bold', size: 12 }, /* Reducido aún más */
+                                        font: { weight: 'bold', size: 12 },
                                         formatter: function(value) {
                                             return formatNumber(value);
                                         },
-                                        offset: 8 /* Aumentado offset */
+                                        offset: 8
                                     }
                                 },
                                 layout: {
                                     padding: {
-                                        top: 30, /* Aumentado padding superior */
+                                        top: 30,
                                         bottom: 10
                                     }
                                 },
@@ -1970,7 +2042,7 @@
                                         borderColor: ['#2980b9', data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d')],
                                         borderWidth: 1,
                                         borderRadius: 4,
-                                        barThickness: 15, /* Reducido aún más */
+                                        barThickness: 15,
                                         maxBarThickness: 20
                                     }]
                                 },
@@ -1986,7 +2058,7 @@
                                                 callback: function(value) {
                                                     return formatNumber(value);
                                                 },
-                                                padding: 25 /* Aumentado padding superior */
+                                                padding: 25
                                             },
                                             grid: {
                                                 display: true,
@@ -2021,16 +2093,16 @@
                                             anchor: 'end',
                                             align: 'end',
                                             color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
-                                            font: { weight: 'bold', size: 10 }, /* Reducido aún más */
+                                            font: { weight: 'bold', size: 10 },
                                             formatter: function(value) {
                                                 return formatNumber(value);
                                             },
-                                            offset: 10 /* Aumentado offset */
+                                            offset: 10
                                         }
                                     },
                                     layout: {
                                         padding: {
-                                            top: 35, /* Aumentado padding superior */
+                                            top: 35,
                                             bottom: 10
                                         }
                                     }
@@ -2084,7 +2156,7 @@
                                     backgroundColor: gradientColors,
                                     borderColor: gradientColors,
                                     borderWidth: 1,
-                                    barThickness: 8, /* Reducido al mínimo */
+                                    barThickness: 8,
                                     maxBarThickness: 12
                                 }]
                             },
@@ -2104,11 +2176,11 @@
                                         anchor: 'end',
                                         align: 'end',
                                         color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
-                                        font: { weight: 'bold', size: 8 }, /* Reducido al mínimo */
+                                        font: { weight: 'bold', size: 8 },
                                         formatter: function(value) {
                                             return formatNumber(value);
                                         },
-                                        offset: 5 /* Reducido offset */
+                                        offset: 5
                                     }
                                 },
                                 scales: {
@@ -2120,7 +2192,7 @@
                                             callback: function(value) {
                                                 return formatNumber(value);
                                             },
-                                            padding: 15 /* Aumentado padding superior */
+                                            padding: 15
                                         },
                                         grid: {
                                             display: true,
@@ -2139,7 +2211,7 @@
                                 },
                                 layout: {
                                     padding: {
-                                        top: 25, /* Aumentado padding superior */
+                                        top: 25,
                                         bottom: 10
                                     }
                                 }

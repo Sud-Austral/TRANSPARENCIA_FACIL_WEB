@@ -1,0 +1,2596 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadísticas de Criminalidad - Iquique 2024-2025</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <!-- Agregamos el plugin de etiquetas de datos -->
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+    <style>
+        /* Definición de variables CSS para el tema claro con paleta verde */
+        :root {
+            --bg-color: #f8f5f0; /* Fondo crema claro */
+            --container-bg-color: #ffffff; /* Contenedores blancos */
+            --card-bg-color: #ffffff; /* Tarjetas blancas */
+            --text-color-primary: #333333; /* Texto principal gris oscuro */
+            --text-color-secondary: #666666; /* Texto secundario gris medio */
+            --header-bg-color: rgba(255, 255, 255, 0.7); /* Fondo del header con transparencia */
+            --header-text-color: #333333; /* Texto del header */
+            --accent-color: #27ae60; /* Verde principal */
+            --accent-color-hover: #229954; /* Verde más oscuro para hover */
+            --accent-color-light: #2ecc71; /* Verde más claro */
+            --accent-color-pastel: #a9dfbf; /* Verde pastel */
+            --accent-color-very-light: #d5f4e6; /* Verde muy claro */
+            --success-color: #27ae60; /* Verde para éxito */
+            --success-color-hover: #229954; /* Verde más oscuro */
+            --danger-color: #e74c3c; /* Rojo para peligro */
+            --danger-color-hover: #c0392b; /* Rojo más oscuro */
+            --border-color: #e0e0e0; /* Gris muy claro para bordes */
+            --shadow-color: rgba(0, 0, 0, 0.1); /* Sombras más suaves */
+            --stats-item-bg-color: #f5f5f5; /* Fondo para los items de estadísticas */
+            --transition-speed: 0.3s;
+            --glass-bg: rgba(255, 255, 255, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.3);
+        }
+        
+        /* Estilos generales */
+        * {
+            box-sizing: border-box;
+            transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, box-shadow var(--transition-speed) ease, transform var(--transition-speed) ease;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(167, 223, 191, 0.2) 0%, transparent 20%),
+                radial-gradient(circle at 90% 80%, rgba(46, 204, 113, 0.1) 0%, transparent 20%),
+                radial-gradient(circle at 50% 50%, rgba(213, 244, 230, 0.3) 0%, transparent 40%);
+            background-attachment: fixed;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+            color: var(--text-color-primary);
+            line-height: 1.6;
+        }
+        
+        .container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+        
+        /* Header mejorado con glassmorphism */
+        .header-top {
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            border-bottom: 1px solid var(--glass-border);
+            padding: 12px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .header-top-content {
+            max-width: 1400px;
+            width: 100%;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .institution-text {
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo-text {
+            font-size: 12px;
+            font-weight: 500;
+            opacity: 0.9;
+            margin-right: 12px;
+        }
+        
+        .logo {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-weight: 700;
+            font-size: 18px;
+            box-shadow: 0 4px 10px rgba(39, 174, 96, 0.3);
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .logo:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(39, 174, 96, 0.4);
+        }
+        
+        .header {
+            background: linear-gradient(90deg, rgba(255, 255, 255, 0.8) 0%, rgba(213, 244, 230, 0.5) 100%);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            color: var(--header-text-color);
+            text-align: center;
+            position: relative;
+            padding: 30px 0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+        
+        .header-content {
+            padding: 0 5%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 1400px;
+            width: 100%;
+            margin: 0 auto;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin: 0;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        
+        .header p {
+            margin: 8px 0 0;
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--danger-color) 0%, var(--success-color) 100%);
+        }
+        
+        /* Contenido principal mejorado */
+        .content {
+            flex: 1;
+            background-color: var(--container-bg-color);
+            overflow-y: auto;
+            width: 100%;
+            padding: 30px 20px;
+        }
+        
+        .content-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
+            padding: 0 20px;
+        }
+        
+        /* Tarjetas mejoradas con neumorphism */
+        .card {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 24px;
+            box-shadow: 
+                8px 8px 16px rgba(0, 0, 0, 0.05),
+                -8px -8px 16px rgba(255, 255, 255, 0.7),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+            position: relative;
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 20px rgba(0, 0, 0, 0.08),
+                -12px -12px 20px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+        }
+        
+        .card-title {
+            font-size: 22px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .card-title i {
+            margin-right: 10px;
+            color: var(--accent-color);
+            font-size: 20px;
+        }
+        
+        /* Estadísticas mejoradas con neumorphism */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 20px;
+        }
+        
+        .stat-item {
+            background-color: var(--stats-item-bg-color);
+            padding: 20px;
+            border-radius: 16px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .stat-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                8px 8px 15px rgba(0, 0, 0, 0.08),
+                -8px -8px 15px rgba(255, 255, 255, 0.9),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .stat-item::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.3s ease;
+        }
+        
+        .stat-item:hover::after {
+            transform: scaleX(1);
+        }
+        
+        .stat-value {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 6px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-color-secondary);
+            font-weight: 500;
+        }
+        
+        /* Tabla mejorada */
+        .table-container {
+            overflow-x: auto;
+            width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+            text-align: left;
+            min-width: 600px;
+        }
+        
+        .data-table th, .data-table td {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .data-table th {
+            background-color: var(--stats-item-bg-color);
+            color: var(--text-color-secondary);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 12px;
+            letter-spacing: 0.5px;
+        }
+        
+        .data-table tbody tr {
+            transition: background-color 0.2s ease;
+        }
+        
+        .data-table tbody tr:hover {
+            background-color: rgba(39, 174, 96, 0.1);
+        }
+        
+        /* Footer mejorado */
+        .footer {
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 14px;
+            width: 100%;
+            padding: 20px 0;
+            border-top: 1px solid var(--glass-border);
+            box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            max-width: 1400px;
+            padding: 0 20px;
+        }
+        
+        .footer-text {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-color-secondary);
+        }
+        
+        .footer-icon {
+            color: var(--accent-color);
+        }
+        
+        /* Indicadores de situación mejorados */
+        .situacion {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .situacion-aumento {
+            color: var(--danger-color);
+        }
+        
+        .situacion-disminucion {
+            color: var(--success-color);
+        }
+        
+        .aumento {
+            color: var(--danger-color);
+            font-weight: 700;
+        }
+        
+        .disminucion {
+            color: var(--success-color);
+            font-weight: 700;
+        }
+        
+        .icon-indicator {
+            font-size: 10px;
+        }
+        
+        /* Botones mejorados con neumorphism */
+        .btn {
+            background: linear-gradient(145deg, var(--accent-color-light), var(--accent-color));
+            color: white;
+            padding: 12px 24px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border: none;
+            outline: none;
+            margin-left: auto;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 
+                5px 5px 10px rgba(39, 174, 96, 0.3),
+                -5px -5px 10px rgba(255, 255, 255, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: left 0.5s ease;
+        }
+        
+        .btn:hover::before {
+            left: 100%;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 
+                8px 8px 15px rgba(39, 174, 96, 0.4),
+                -8px -8px 15px rgba(255, 255, 255, 0.7);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+            box-shadow: 
+                3px 3px 6px rgba(39, 174, 96, 0.3),
+                -3px -3px 6px rgba(255, 255, 255, 0.5);
+        }
+        
+        /* Utilidades */
+        .flex {
+            display: flex;
+        }
+        
+        .justify-between {
+            justify-content: space-between;
+        }
+        
+        .items-center {
+            align-items: center;
+        }
+        
+        /* Sección de gráficos mejorada */
+        .charts-section {
+            padding-top: 30px;
+            border-top: 1px solid var(--border-color);
+            width: 100%;
+            margin-top: 30px;
+        }
+        
+        .charts-section-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 30px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 15px;
+        }
+        
+        .charts-section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .chart-container {
+            width: 100%;
+            height: 400px;
+            margin-bottom: 30px;
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 
+                8px 8px 16px rgba(0, 0, 0, 0.05),
+                -8px -8px 16px rgba(255, 255, 255, 0.7),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .chart-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 20px rgba(0, 0, 0, 0.08),
+                -12px -12px 20px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .chart-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+        }
+        
+        .chart-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        /* Nuevo estilo para la sección de comparación anual */
+        .comparison-section {
+            margin-top: 40px;
+            padding: 30px 0;
+        }
+        
+        .comparison-title {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 25px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 12px;
+        }
+        
+        .comparison-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+        }
+        
+        .comparison-card {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 25px;
+            box-shadow: 
+                8px 8px 16px rgba(0, 0, 0, 0.05),
+                -8px -8px 16px rgba(255, 255, 255, 0.7),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .comparison-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 20px rgba(0, 0, 0, 0.08),
+                -12px -12px 20px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .comparison-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+        }
+        
+        .comparison-chart-container {
+            height: 250px;
+            position: relative;
+        }
+        
+        .comparison-info {
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .comparison-year {
+            text-align: center;
+            flex: 1;
+        }
+        
+        .year-label {
+            font-size: 14px;
+            color: var(--text-color-secondary);
+            margin-bottom: 5px;
+        }
+        
+        .year-value {
+            font-size: 24px;
+            font-weight: 700;
+        }
+        
+        .year-2024 {
+            color: #3498db;
+        }
+        
+        .year-2025 {
+            color: var(--accent-color);
+        }
+        
+        .comparison-variation {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .variation-label {
+            font-size: 14px;
+            color: var(--text-color-secondary);
+            margin-bottom: 5px;
+        }
+        
+        .variation-value {
+            font-size: 20px;
+            font-weight: 700;
+        }
+        
+        .variation-positive {
+            color: var(--danger-color);
+        }
+        
+        .variation-negative {
+            color: var(--success-color);
+        }
+        
+        .flex-col {
+            flex-direction: column;
+        }
+        
+        .gap-2 {
+            gap: 8px;
+        }
+        
+        .text-sm {
+            font-size: 14px;
+        }
+        
+        .mt-1 {
+            margin-top: 4px;
+        }
+        
+        /* Indicador de carga mejorado */
+        .loader {
+            width: 48px;
+            height: 48px;
+            border: 5px solid var(--border-color);
+            border-bottom-color: var(--accent-color);
+            border-radius: 50%;
+            display: inline-block;
+            box-sizing: border-box;
+            animation: rotation 1s linear infinite;
+            margin: 20px auto;
+        }
+        
+        @keyframes rotation {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+        
+        /* Tooltip mejorado con glassmorphism */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--text-color-primary);
+            text-align: center;
+            border-radius: 8px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--glass-border);
+            font-size: 14px;
+        }
+        
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        /* Animaciones de entrada mejoradas */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.6s ease-out forwards;
+        }
+        
+        .float-animation {
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        /* Notificación suave */
+        .notification {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--text-color-primary);
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--glass-border);
+            z-index: 1000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .notification.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        
+        .notification i {
+            color: var(--accent-color);
+            font-size: 18px;
+        }
+        
+        /* Indicador de progreso */
+        .progress-bar {
+            width: 100%;
+            height: 6px;
+            background-color: var(--border-color);
+            border-radius: 3px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+        
+        .progress {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+            width: 0;
+            transition: width 0.5s ease;
+        }
+        
+        /* Media queries para responsividad mejorada */
+        @media (max-width: 768px) {
+            .header-top-content {
+                flex-direction: column;
+                align-items: center;
+                gap: 12px;
+            }
+            
+            .header-top, .footer {
+                padding: 16px 0;
+            }
+            
+            .header h1 {
+                font-size: 26px;
+            }
+            
+            .header p {
+                font-size: 14px;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                gap: 12px;
+                text-align: center;
+            }
+            
+            .footer-text {
+                justify-content: center;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .btn {
+                width: 100%;
+                margin-top: 12px;
+                margin-left: 0;
+                justify-content: center;
+            }
+            
+            .flex.items-center {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .card-title {
+                margin-bottom: 12px;
+                font-size: 20px;
+            }
+            
+            .chart-container {
+                height: 300px;
+                padding: 16px;
+            }
+            
+            .charts-section-title {
+                font-size: 24px;
+            }
+            
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .header h1 {
+                font-size: 22px;
+            }
+            
+            .card {
+                padding: 20px;
+            }
+            
+            .stat-value {
+                font-size: 24px;
+            }
+            
+            .data-table th, .data-table td {
+                padding: 12px 14px;
+            }
+            
+            .comparison-card {
+                padding: 20px;
+            }
+            
+            .comparison-chart-container {
+                height: 200px;
+            }
+        }
+        
+        /* Estilos para la sección de análisis de delitos - Mejorados con más espacio vertical */
+        .crime-analysis-section {
+            margin-top: 60px; /* Aumentado de 40px a 60px */
+            padding: 40px 0; /* Aumentado de 30px a 40px */
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .crime-analysis-title {
+            font-size: 28px; /* Aumentado de 24px a 28px */
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 35px; /* Aumentado de 25px a 35px */
+            text-align: center;
+            position: relative;
+            padding-bottom: 15px; /* Aumentado de 12px a 15px */
+        }
+        
+        .crime-analysis-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px; /* Aumentado de 60px a 80px */
+            height: 4px; /* Aumentado de 3px a 4px */
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .crime-analysis-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px; /* Aumentado de 20px a 30px */
+        }
+        
+        .crime-analysis-left {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .crime-analysis-right {
+            flex: 2;
+            min-width: 300px;
+        }
+        
+        .crime-stats-card {
+            background-color: var(--stats-item-bg-color);
+            border-radius: 16px;
+            padding: 20px; /* Aumentado de 16px a 20px */
+            margin-bottom: 20px; /* Aumentado de 15px a 20px */
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border-left: 3px solid var(--accent-color);
+            transition: transform 0.2s ease;
+        }
+        
+        .crime-stats-card:hover {
+            transform: translateY(-3px);
+        }
+        
+        .crime-stats-text {
+            font-size: 15px; /* Aumentado de 14px a 15px */
+            line-height: 1.6; /* Aumentado de 1.4 a 1.6 */
+            color: var(--text-color-primary);
+        }
+        
+        .crime-highlight {
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+        
+        .crime-charts-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            gap: 25px; /* Añadido espacio entre los gráficos */
+        }
+        
+        .crime-small-charts {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 55px; /* Aumentado de 15px a 25px */
+            height: 220px; /* Aumentado de 200px a 220px */
+            width: 100%; /* Añadido para asegurar que ocupe todo el ancho disponible */
+        }
+        
+        .crime-chart-box {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 16px; /* Aumentado de 12px a 16px */
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            flex: 1;
+            margin: 0 8px; /* Aumentado de 6px a 8px */
+            display: flex;
+            flex-direction: column;
+            width: calc(33.333% - 16px); /* Asegura que cada caja ocupe exactamente un tercio del ancho menos los márgenes */
+            box-sizing: border-box; /* Asegura que el padding y border se incluyan en el ancho */
+        }
+        
+        .crime-chart-box:first-child {
+            margin-left: 0;
+        }
+        
+        .crime-chart-box:last-child {
+            margin-right: 0;
+        }
+        
+        .crime-chart-title {
+            font-size: 15px; /* Aumentado de 14px a 15px */
+            font-weight: 500;
+            color: var(--text-color-primary);
+            text-align: center;
+            margin-bottom: 12px; /* Aumentado de 8px a 12px */
+        }
+        
+        .crime-chart-container {
+            flex: 1;
+            position: relative;
+        }
+        
+        .crime-large-chart {
+            height: 350px; /* Aumentado de 300px a 350px */
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 16px; /* Aumentado de 12px a 16px */
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            width: 100%; /* Añadido para asegurar que ocupe todo el ancho disponible */
+            box-sizing: border-box; /* Asegura que el padding y border se incluyan en el ancho */
+        }
+        
+        .crime-large-chart-title {
+            font-size: 15px; /* Aumentado de 14px a 15px */
+            font-weight: 500;
+            color: var(--text-color-primary);
+            text-align: center;
+            margin-bottom: 12px; /* Aumentado de 8px a 12px */
+        }
+        
+        .crime-large-chart-container {
+            flex: 1;
+            position: relative;
+        }
+        
+        .crime-data-label {
+            font-size: 13px; /* Aumentado de 12px a 13px */
+            color: var(--text-color-secondary);
+            text-align: center;
+            margin-top: 8px; /* Aumentado de 5px a 8px */
+            padding: 20px; /* Añadido padding */
+        }
+        
+        .crime-percentage-change {
+            font-size: 12px;
+            font-weight: 500;
+            padding: 3px 8px; /* Aumentado el padding horizontal de 6px a 8px */
+            border-radius: 8px;
+            margin-left: 5px;
+        }
+        
+        .crime-increase {
+            background-color: rgba(231, 76, 60, 0.1);
+            color: var(--danger-color);
+        }
+        
+        .crime-decrease {
+            background-color: rgba(39, 174, 96, 0.1);
+            color: var(--success-color);
+        }
+        
+        .crime-legend-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 12px; /* Aumentado de 8px a 12px */
+            font-size: 12px; /* Aumentado de 11px a 12px */
+            padding: 8px; /* Añadido padding */
+        }
+        
+        .crime-legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0 10px; /* Aumentado de 8px a 10px */
+        }
+        
+        .crime-legend-color {
+            width: 18px; /* Aumentado de 16px a 18px */
+            height: 12px; /* Aumentado de 10px a 12px */
+            margin-right: 6px; /* Aumentado de 5px a 6px */
+            border-radius: 2px;
+        }
+        
+        /* Estilo para el pie de sección */
+        .section-footer {
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 20px;
+            font-size: 14px;
+            color: var(--text-color-secondary);
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .section-footer-number {
+            background-color: var(--accent-color);
+            color: white;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: 600;
+            font-size: 12px;
+        }
+        
+        .section-footer-link {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color var(--transition-speed) ease;
+        }
+        
+        .section-footer-link:hover {
+            color: var(--accent-color-hover);
+            text-decoration: underline;
+        }
+        
+        /* Estilo para el texto informativo */
+        .info-text {
+            background-color: var(--stats-item-bg-color);
+            border-radius: 12px;
+            padding: 16px;
+            font-size: 14px;
+            line-height: 1.6;
+            color: var(--text-color-primary);
+            box-shadow: 
+                3px 3px 6px rgba(0, 0, 0, 0.05),
+                -3px -3px 6px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border-left: 3px solid var(--accent-color);
+            transition: transform 0.2s ease;
+            margin-bottom: 15px;
+        }
+        
+        .info-text:hover {
+            transform: translateY(-3px);
+        }
+        
+        .info-text strong {
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+        
+        /* Contenedor para la tabla y el texto informativo */
+        .crime-relevance-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .crime-relevance-table {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .crime-relevance-info {
+            flex: 0 0 350px;
+            min-width: 300px;
+        }
+        
+        @media (max-width: 768px) {
+            .crime-relevance-container {
+                flex-direction: column;
+            }
+            
+            .crime-relevance-info {
+                flex: 1;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header-top">
+            <div class="header-top-content">
+                <div class="institution-text">SUBSECRETARÍA DE PREVENCIÓN DEL DELITO</div>
+                <div class="logo-container">
+                    <div class="logo-text">Sistema STOP</div>
+                    <div class="logo float-animation">S</div>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="header-content">
+                <h1>Estadísticas de Criminalidad</h1>
+                <p id="header-location" class="text-sm mt-1"></p>
+            </div>
+        </div>
+        <div class="content">
+            <div class="content-container">
+                <div class="card fade-in">
+                    <div class="card-title">
+                        <i class="fas fa-chart-line"></i>
+                        Resumen de Casos
+                    </div>
+                    <div class="stats-grid">
+                        <div class="stat-item fade-in" style="animation-delay: 0.1s;">
+                            <div id="total-2024" class="stat-value"></div>
+                            <div class="stat-label">Total Casos 2024</div>
+                        </div>
+                        <div class="stat-item fade-in" style="animation-delay: 0.2s;">
+                            <div id="total-2025" class="stat-value"></div>
+                            <div class="stat-label">Total Casos 2025</div>
+                        </div>
+                        <div class="stat-item fade-in" style="animation-delay: 0.3s;">
+                            <div id="variation" class="stat-value"></div>
+                            <div class="stat-label">Variación</div>
+                        </div>
+                        <div class="stat-item fade-in" style="animation-delay: 0.4s;">
+                            <div id="situation" class="stat-value"></div>
+                            <div class="stat-label">Situación</div>
+                        </div>
+                    </div>
+                    <div class="section-footer">
+                        <div class="section-footer-number">1</div>
+                        <div>Información proporcionada por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    </div>
+                </div>
+                
+                <!-- Nueva sección de comparación anual -->
+                <div class="comparison-section fade-in" style="animation-delay: 0.3s;">
+                    <h2 class="comparison-title">Comparación Anual por Tipo de Delito</h2>
+                    <div id="comparison-grid" class="comparison-grid">
+                        <!-- Las tarjetas de comparación se generarán dinámicamente aquí -->
+                    </div>
+                    <div class="section-footer">
+                        <div class="section-footer-number">2</div>
+                        <div>Análisis comparativo por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    </div>
+                </div>
+                
+                <div class="card fade-in" style="animation-delay: 0.2s;">
+                    <div class="flex justify-between items-center mb-4">
+                        <div class="card-title" style="margin-bottom: 0;">
+                            <i class="fas fa-exclamation-triangle"></i>
+                            Delitos de Mayor Relevancia
+                        </div>
+                        <button id="show-all-btn" class="btn">
+                            <i class="fas fa-list"></i>
+                            Mostrar Todos
+                        </button>
+                    </div>
+                    
+                    <!-- Contenedor para la tabla y el texto informativo -->
+                    <div class="crime-relevance-container">
+                        <div class="crime-relevance-table">
+                            <div class="table-container">
+                                <table class="data-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Situación</th>
+                                            <th>Delito</th>
+                                            <th>Casos 2024</th>
+                                            <th>Casos 2025</th>
+                                            <th>Variación</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="crime-data-table-body">
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="crime-relevance-info">
+                            <div id="info-text-1" class="info-text"></div>
+                            <div id="info-text-2" class="info-text"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="section-footer">
+                        <div class="section-footer-number">3</div>
+                        <div>Delitos más relevantes según <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    </div>
+                </div>
+                
+                <!-- Contenedor para las secciones de análisis de delitos -->
+                <div id="crime-analysis-sections-container"></div>
+                
+                <div id="charts-section" class="charts-section">
+                    <h2 class="charts-section-title">Análisis de Datos por Gráfico</h2>
+                    <div id="loader-container" style="display: flex; justify-content: center; width: 100%;">
+                        <div class="loader"></div>
+                        <div class="progress-bar">
+                            <div id="progress-bar" class="progress"></div>
+                        </div>
+                    </div>
+                    <div class="section-footer">
+                        <div class="section-footer-number">4</div>
+                        <div>Visualización de datos por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-content">
+                <div class="footer-left flex flex-col sm:flex-row gap-2">
+                    <div class="footer-text">
+                        <i class="fas fa-globe footer-icon"></i>
+                        stop.carabineros.cl
+                    </div>
+                    <div class="footer-text">
+                        <i class="fas fa-phone footer-icon"></i>
+                        555 555 0000
+                    </div>
+                </div>
+                <div class="footer-right flex flex-col sm:flex-row gap-2">
+                    <div id="last-week-name" class="footer-text"></div>
+                    <div class="footer-text">Fuente: Sistema STOP</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Notificación suave -->
+    <div id="notification" class="notification">
+        <i class="fas fa-check-circle"></i>
+        <span id="notification-text">Datos cargados correctamente</span>
+    </div>
+    
+    <script>
+        // Registrar el plugin de etiquetas de datos
+        Chart.register(ChartDataLabels);
+        
+        let allDATA = {}
+        // Obtener parámetros de la URL
+        const params = new URLSearchParams(window.location.search);
+        // Tomar codcom, si no existe usar 13101
+        const codcomParam = params.get("codcom")?.trim() || "13101";
+        // Construir la URL de datos
+        const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
+        //const dataURL = "https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/todo_junto.json";
+        // Cargar y ejecutar el archivo
+        async function loadData() {
+            try {
+                const response = await fetch(dataURL);
+                if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+                const rawData = await response.json();
+                allDATA = rawData;
+                initApp();
+            } catch (error) {
+                console.error("Error al leer el JSON:", error);
+                // Mostrar mensaje de error en la interfaz
+                document.getElementById('loader-container').innerHTML = `
+                    <div style="text-align: center; padding: 20px; color: var(--danger-color);">
+                        <i class="fas fa-exclamation-circle" style="font-size: 48px; margin-bottom: 16px;"></i>
+                        <p>Error al cargar los datos. Por favor, intente nuevamente más tarde.</p>
+                    </div>
+                `;
+                showNotification("Error al cargar los datos", "error");
+            }
+        }
+        function initApp() {
+            const mockMonthlyData =  allDATA["mensual"];
+            const crimeData = {};
+            crimeData["resumen"] = allDATA["resumen"];
+            crimeData["mensual"] = mockMonthlyData;
+            crimeData["nuevo_resumen"] = allDATA["info"];
+            const tableBody = document.getElementById('crime-data-table-body');
+            const showAllBtn = document.getElementById('show-all-btn');
+            const headerLocation = document.getElementById('header-location');
+            const chartsSection = document.getElementById('charts-section');
+            const lastWeekNameElement = document.getElementById('last-week-name');
+            const loaderContainer = document.getElementById('loader-container');
+            const comparisonGrid = document.getElementById('comparison-grid');
+            const progressBar = document.getElementById('progress-bar');
+            const crimeAnalysisSectionsContainer = document.getElementById('crime-analysis-sections-container');
+            const infoTextElement1 = document.getElementById('info-text-1');
+            const infoTextElement2 = document.getElementById('info-text-2');
+            let isShowingAll = false;
+            
+            // Define las variables comunaName y lastWeekName
+            const comunaName = allDATA["resumen"][0].COMUNA;
+            const lastWeekName = allDATA["meta"].semana_id;
+            
+            // Función para mostrar notificación suave
+            function showNotification(message, type = "success") {
+                const notification = document.getElementById('notification');
+                const notificationText = document.getElementById('notification-text');
+                
+                notificationText.textContent = message;
+                
+                if (type === "error") {
+                    notification.querySelector('i').className = "fas fa-exclamation-circle";
+                    notification.querySelector('i').style.color = "var(--danger-color)";
+                } else {
+                    notification.querySelector('i').className = "fas fa-check-circle";
+                    notification.querySelector('i').style.color = "var(--success-color)";
+                }
+                
+                notification.classList.add('show');
+                
+                setTimeout(() => {
+                    notification.classList.remove('show');
+                }, 3000);
+            }
+            
+            // Función para renderizar las filas de la tabla
+            function renderTable(dataToRender) {
+                tableBody.innerHTML = '';
+                dataToRender.forEach((item, index) => {
+                    const row = document.createElement('tr');
+                    row.className = 'fade-in';
+                    row.style.animationDelay = `${index * 0.05}s`;
+                    
+                    const isIncrease = item.variacion > 0;
+                    const situationClass = isIncrease ? 'situacion-aumento' : 'situacion-disminucion';
+                    const iconClass = isIncrease ? 'fa-arrow-up' : 'fa-arrow-down';
+                    const situationText = isIncrease ? 'Aum' : 'Dis';
+                    const variationClass = isIncrease ? 'aumento' : 'disminucion';
+                    const variationText = (isIncrease ? '+' : '') + item.variacion + '%';
+                    
+                    row.innerHTML = `
+                        <td>
+                            <span class="situacion ${situationClass}">
+                                <i class="fas ${iconClass} icon-indicator"></i>${situationText}
+                            </span>
+                        </td>
+                        <td>${item.delito}</td>
+                        <td>${item['2024']}</td>
+                        <td>${item['2025']}</td>
+                        <td class="${variationClass}">${variationText}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            }
+            
+            // Función para actualizar las tarjetas de resumen con animación
+            function updateSummaryCards(data) {
+                const total2024 = data.reduce((sum, item) => sum + item['2024'], 0);
+                const total2025 = data.reduce((sum, item) => sum + item['2025'], 0);
+                const totalVariation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
+                const situation = totalVariation > 0 ? 'Aumento de Casos' : (totalVariation < 0 ? 'Disminución de Casos' : 'Sin Variación');
+                
+                // Animación de conteo para los valores
+                animateValue('total-2024', 0, total2024, 1000);
+                animateValue('total-2025', 0, total2025, 1000);
+                
+                setTimeout(() => {
+                    document.getElementById('variation').textContent = `${totalVariation.toFixed(2)}%`;
+                    document.getElementById('situation').textContent = situation;
+                }, 500);
+            }
+            
+            // Función para animar valores numéricos
+            function animateValue(id, start, end, duration) {
+                const obj = document.getElementById(id);
+                const range = end - start;
+                const minTimer = 50;
+                let stepTime = Math.abs(Math.floor(duration / range));
+                stepTime = Math.max(stepTime, minTimer);
+                const startTime = new Date().getTime();
+                const endTime = startTime + duration;
+                let timer;
+                
+                function run() {
+                    const now = new Date().getTime();
+                    const remaining = Math.max((endTime - now) / duration, 0);
+                    const value = Math.round(end - (remaining * range));
+                    obj.textContent = value.toLocaleString();
+                    if (value == end) {
+                        clearInterval(timer);
+                    }
+                }
+                
+                timer = setInterval(run, stepTime);
+                run();
+            }
+            
+            // Función para crear un gráfico de barras para datos de delincuencia
+            function createBarChart(chartTitle, data) {
+                const chartContainer = document.createElement('div');
+                chartContainer.className = 'chart-container fade-in';
+                
+                const title = document.createElement('div');
+                title.className = 'chart-title';
+                title.innerHTML = `<i class="fas fa-chart-bar" style="margin-right: 8px; color: var(--accent-color);"></i>${chartTitle}`;
+                chartContainer.appendChild(title);
+                
+                const canvas = document.createElement('canvas');
+                const canvasId = `chart-${chartTitle.replace(/\s/g, '-')}`;
+                canvas.id = canvasId;
+                chartContainer.appendChild(canvas);
+                
+                chartsSection.appendChild(chartContainer);
+                
+                const ctx = canvas.getContext('2d');
+                const labels = data.map(item => item.delito);
+                const data2024 = data.map(item => item['2024']);
+                const data2025 = data.map(item => item['2025']);
+                
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [
+                            {
+                                label: '2024',
+                                data: data2024,
+                                backgroundColor: '#3498db',
+                                borderColor: '#2980b9',
+                                borderWidth: 1,
+                                borderRadius: 6,
+                                barThickness: 'flex',
+                                maxBarThickness: 40
+                            },
+                            {
+                                label: '2025',
+                                data: data2025,
+                                backgroundColor: 'rgba(39, 174, 96, 0.7)',
+                                borderColor: '#27ae60',
+                                borderWidth: 1,
+                                borderRadius: 6,
+                                barThickness: 'flex',
+                                maxBarThickness: 40
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        indexAxis: 'y',
+                        scales: {
+                            x: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Número de Eventos',
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                    font: {
+                                        size: 12
+                                    }
+                                },
+                                grid: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                                }
+                            },
+                            y: {
+                                title: {
+                                    display: true,
+                                    text: 'Delito',
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                    font: {
+                                        size: 12
+                                    }
+                                },
+                                grid: {
+                                    display: false
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                position: 'top',
+                                labels: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                    font: {
+                                        size: 14
+                                    },
+                                    usePointStyle: true,
+                                    pointStyle: 'circle'
+                                }
+                            },
+                            tooltip: {
+                                backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                borderWidth: 1,
+                                padding: 12,
+                                cornerRadius: 8,
+                                displayColors: true,
+                                callbacks: {
+                                    label: function(context) {
+                                        return `${context.dataset.label}: ${context.raw} casos`;
+                                    }
+                                }
+                            },
+                            datalabels: {
+                                anchor: 'end',
+                                align: 'end',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                font: {
+                                    weight: 'bold',
+                                    size: 11
+                                },
+                                formatter: function(value) {
+                                    return value;
+                                }
+                            }
+                        },
+                        animation: {
+                            duration: 1500,
+                            easing: 'easeOutQuart'
+                        }
+                    }
+                });
+            }
+            
+            // Función para crear un histograma con Chart.js (datos mensuales)
+            function createHistogram(delito, data) {
+                const chartContainer = document.createElement('div');
+                chartContainer.className = 'chart-container fade-in';
+                
+                const chartTitle = document.createElement('div');
+                chartTitle.className = 'chart-title';
+                chartTitle.innerHTML = `<i class="fas fa-chart-line" style="margin-right: 8px; color: var(--accent-color);"></i>Variación Mensual de ${delito}`;
+                chartContainer.appendChild(chartTitle);
+                
+                const canvas = document.createElement('canvas');
+                const canvasId = `chart-monthly-${delito.replace(/\s/g, '-')}`;
+                canvas.id = canvasId;
+                chartContainer.appendChild(canvas);
+                
+                chartsSection.appendChild(chartContainer);
+                
+                const ctx = canvas.getContext('2d');
+                const labels = data.map(item => `${item.anio}-${item.mes}`);
+                const chartData = data.map(item => item.casos);
+                
+                // Colores mejorados para el histograma - paleta verde
+                const chartColors = ['#27ae60', '#2ecc71', '#1abc9c', '#16a085', '#27ae60'];
+                const randomColor = chartColors[Math.floor(Math.random() * chartColors.length)];
+                
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: `Casos Mensuales`,
+                            data: chartData,
+                            backgroundColor: `${randomColor}80`,
+                            borderColor: randomColor,
+                            borderWidth: 1,
+                            borderRadius: 6,
+                            barThickness: 'flex',
+                            maxBarThickness: 30
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                title: {
+                                    display: true,
+                                    text: 'Número de Casos',
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                    font: {
+                                        size: 12
+                                    }
+                                },
+                                grid: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                                }
+                            },
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Año-Mes',
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                    font: {
+                                        size: 12
+                                    }
+                                },
+                                grid: {
+                                    display: false
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false,
+                            },
+                            tooltip: {
+                                backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                borderWidth: 1,
+                                padding: 12,
+                                cornerRadius: 8,
+                                callbacks: {
+                                    label: function(context) {
+                                        return `Casos: ${context.raw}`;
+                                    }
+                                }
+                            },
+                            datalabels: {
+                                anchor: 'end',
+                                align: 'end',
+                                color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                font: {
+                                    weight: 'bold',
+                                    size: 11
+                                },
+                                formatter: function(value) {
+                                    return value;
+                                }
+                            }
+                        },
+                        animation: {
+                            duration: 1500,
+                            easing: 'easeOutQuart'
+                        }
+                    }
+                });
+            }
+            
+            // Nueva función para crear tarjetas de comparación anual
+            function createComparisonCards(data) {
+                // Agrupar datos por tipo de información
+                const groupedData = {};
+                data.forEach(item => {
+                    if (!groupedData[item.informacion]) {
+                        groupedData[item.informacion] = [];
+                    }
+                    groupedData[item.informacion].push(item);
+                });
+                
+                // Crear una tarjeta para cada tipo de información
+                Object.keys(groupedData).forEach((type, index) => {
+                    setTimeout(() => {
+                        const typeData = groupedData[type];
+                        const total2024 = typeData.reduce((sum, item) => sum + item['2024'], 0);
+                        const total2025 = typeData.reduce((sum, item) => sum + item['2025'], 0);
+                        const variation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
+                        
+                        // Crear la tarjeta
+                        const card = document.createElement('div');
+                        card.className = 'comparison-card fade-in';
+                        
+                        // Crear el contenedor del gráfico
+                        const chartContainer = document.createElement('div');
+                        chartContainer.className = 'comparison-chart-container';
+                        
+                        // Crear el canvas para el gráfico
+                        const canvas = document.createElement('canvas');
+                        canvas.id = `comparison-chart-${type.replace(/\s/g, '-')}`;
+                        chartContainer.appendChild(canvas);
+                        
+                        // Crear la información de la comparación
+                        const comparisonInfo = document.createElement('div');
+                        comparisonInfo.className = 'comparison-info';
+                        
+                        const year2024 = document.createElement('div');
+                        year2024.className = 'comparison-year year-2024';
+                        year2024.innerHTML = `
+                            <div class="year-label">2024</div>
+                            <div class="year-value">${total2024.toLocaleString()}</div>
+                        `;
+                        
+                        const variationDiv = document.createElement('div');
+                        variationDiv.className = 'comparison-variation';
+                        const variationClass = variation > 0 ? 'variation-positive' : 'variation-negative';
+                        const variationText = variation > 0 ? `+${variation.toFixed(1)}%` : `${variation.toFixed(1)}%`;
+                        variationDiv.innerHTML = `
+                            <div class="variation-label">Variación</div>
+                            <div class="variation-value ${variationClass}">${variationText}</div>
+                        `;
+                        
+                        const year2025 = document.createElement('div');
+                        year2025.className = 'comparison-year year-2025';
+                        year2025.innerHTML = `
+                            <div class="year-label">2025</div>
+                            <div class="year-value">${total2025.toLocaleString()}</div>
+                        `;
+                        
+                        comparisonInfo.appendChild(year2024);
+                        comparisonInfo.appendChild(variationDiv);
+                        comparisonInfo.appendChild(year2025);
+                        
+                        // Agregar todo a la tarjeta
+                        card.appendChild(chartContainer);
+                        card.appendChild(comparisonInfo);
+                        
+                        // Agregar la tarjeta al grid
+                        comparisonGrid.appendChild(card);
+                        
+                        // Crear el gráfico
+                        const ctx = canvas.getContext('2d');
+                        new Chart(ctx, {
+                            type: 'bar',
+                            data: {
+                                labels: [type],
+                                datasets: [
+                                    {
+                                        label: '2024',
+                                        data: [total2024],
+                                        backgroundColor: '#3498db',
+                                        borderColor: '#2980b9',
+                                        borderWidth: 1,
+                                        borderRadius: 6,
+                                        barThickness: 40
+                                    },
+                                    {
+                                        label: '2025',
+                                        data: [total2025],
+                                        backgroundColor: 'rgba(39, 174, 96, 0.7)',
+                                        borderColor: '#27ae60',
+                                        borderWidth: 1,
+                                        borderRadius: 6,
+                                        barThickness: 40
+                                    }
+                                ]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                            font: {
+                                                size: 12
+                                            }
+                                        },
+                                        grid: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                            font: {
+                                                size: 12
+                                            }
+                                        },
+                                        grid: {
+                                            display: false
+                                        }
+                                    }
+                                },
+                                plugins: {
+                                    legend: {
+                                        display: false,
+                                    },
+                                    tooltip: {
+                                        backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                        titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                        borderWidth: 1,
+                                        padding: 12,
+                                        cornerRadius: 8,
+                                        displayColors: true,
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `${context.dataset.label}: ${context.raw} casos`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: {
+                                            weight: 'bold',
+                                            size: 14
+                                        },
+                                        formatter: function(value) {
+                                            return value;
+                                        }
+                                    }
+                                },
+                                animation: {
+                                    duration: 1500,
+                                    easing: 'easeOutQuart'
+                                }
+                            }
+                        });
+                    }, index * 200);
+                });
+            }
+            
+            // Nueva función para crear secciones de análisis para cada tipo de delito
+            function createCrimeAnalysisSections(data) {
+                // Obtener todos los tipos de delitos únicos
+                const uniqueCrimes = [...new Set(data.map(item => item.delito))];
+                
+                // Crear una sección para cada tipo de delito
+                uniqueCrimes.forEach((crime, crimeIndex) => {
+                    // Crear la sección
+                    const crimeSection = document.createElement('div');
+                    crimeSection.className = 'crime-analysis-section fade-in';
+                    crimeSection.style.animationDelay = `${0.4 + crimeIndex * 0.1}s`;
+                    
+                    // Crear el título
+                    const crimeTitle = document.createElement('h2');
+                    crimeTitle.className = 'crime-analysis-title';
+                    crimeTitle.textContent = `Análisis de ${crime}`;
+                    crimeSection.appendChild(crimeTitle);
+                    
+                    // Crear el contenedor principal
+                    const crimeContainer = document.createElement('div');
+                    crimeContainer.className = 'crime-analysis-container';
+                    
+                    // Crear la columna izquierda (estadísticas)
+                    const crimeLeft = document.createElement('div');
+                    crimeLeft.className = 'crime-analysis-left';
+                    
+                    // Crear el contenedor para las estadísticas
+                    const crimeStatsContainer = document.createElement('div');
+                    crimeStatsContainer.id = `crime-stats-${crime.replace(/\s/g, '-')}`;
+                    
+                    // Crear la columna derecha (gráficos)
+                    const crimeRight = document.createElement('div');
+                    crimeRight.className = 'crime-analysis-right';
+                    
+                    // Crear el contenedor para los gráficos
+                    const crimeChartsContainer = document.createElement('div');
+                    crimeChartsContainer.className = 'crime-charts-container';
+                    
+                    // Crear los gráficos pequeños
+                    const crimeSmallCharts = document.createElement('div');
+                    crimeSmallCharts.className = 'crime-small-charts';
+                    
+                    // Crear el gráfico de casos
+                    const crimeChartBox1 = document.createElement('div');
+                    crimeChartBox1.className = 'crime-chart-box';
+                    crimeChartBox1.innerHTML = `
+                        <div class="crime-chart-title">Casos</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-casos-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-casos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox1);
+                    
+                    // Crear el gráfico de detenciones
+                    const crimeChartBox2 = document.createElement('div');
+                    crimeChartBox2.className = 'crime-chart-box';
+                    crimeChartBox2.innerHTML = `
+                        <div class="crime-chart-title">Detenciones</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-detenciones-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-detenciones-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox2);
+                    
+                    // Crear el gráfico de detenidos
+                    const crimeChartBox3 = document.createElement('div');
+                    crimeChartBox3.className = 'crime-chart-box';
+                    crimeChartBox3.innerHTML = `
+                        <div class="crime-chart-title">Detenidos</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-detenidos-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-detenidos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox3);
+                    
+                    crimeChartsContainer.appendChild(crimeSmallCharts);
+                    
+                    // Crear el gráfico grande
+                    const crimeLargeChart = document.createElement('div');
+                    crimeLargeChart.className = 'crime-large-chart';
+                    crimeLargeChart.innerHTML = `
+                        <div class="crime-large-chart-title">Evolución Mensual de ${crime} (2024-2025)</div>
+                        <div class="crime-large-chart-container">
+                            <canvas id="crime-evolucion-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div class="crime-legend-container">
+                            <div class="crime-legend-item">
+                                <div class="crime-legend-color" style="background: linear-gradient(to right, #27ae60, #e74c3c);"></div>
+                                <span>Bajo → Alto</span>
+                            </div>
+                        </div>
+                    `;
+                    crimeChartsContainer.appendChild(crimeLargeChart);
+                    
+                    // Agregar las columnas al contenedor principal
+                    crimeLeft.appendChild(crimeStatsContainer);
+                    crimeRight.appendChild(crimeChartsContainer);
+                    crimeContainer.appendChild(crimeLeft);
+                    crimeContainer.appendChild(crimeRight);
+                    
+                    // Agregar el contenedor principal a la sección
+                    crimeSection.appendChild(crimeContainer);
+                    
+                    // Agregar pie de sección
+                    const sectionFooter = document.createElement('div');
+                    sectionFooter.className = 'section-footer';
+                    sectionFooter.innerHTML = `
+                        <div class="section-footer-number">${5 + crimeIndex}</div>
+                        <div>Análisis detallado de ${crime.toLowerCase()} por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    `;
+                    crimeSection.appendChild(sectionFooter);
+                    
+                    // Agregar la sección al contenedor de secciones
+                    crimeAnalysisSectionsContainer.appendChild(crimeSection);
+                    
+                    // Filtrar datos para este delito
+                    const crimeDataFiltered = data.filter(item => item.delito === crime);
+                    
+                    // Obtener datos por tipo de información
+                    const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
+                    const detencionesData = crimeDataFiltered.filter(item => item.informacion === 'Detenciones');
+                    const detenidosData = crimeDataFiltered.filter(item => item.informacion === 'Detenidos');
+                    
+                    // Calcular totales
+                    const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);
+                    const casos2025 = casosData.reduce((sum, item) => sum + item['2025'], 0);
+                    const casosVariation = casos2024 > 0 ? ((casos2025 - casos2024) / casos2024) * 100 : (casos2025 > 0 ? 100 : 0);
+                    
+                    const detenciones2024 = detencionesData.reduce((sum, item) => sum + item['2024'], 0);
+                    const detenciones2025 = detencionesData.reduce((sum, item) => sum + item['2025'], 0);
+                    const detencionesVariation = detenciones2024 > 0 ? ((detenciones2025 - detenciones2024) / detenciones2024) * 100 : (detenciones2025 > 0 ? 100 : 0);
+                    
+                    const detenidos2024 = detenidosData.reduce((sum, item) => sum + item['2024'], 0);
+                    const detenidos2025 = detenidosData.reduce((sum, item) => sum + item['2025'], 0);
+                    const detenidosVariation = detenidos2024 > 0 ? ((detenidos2025 - detenidos2024) / detenidos2024) * 100 : (detenidos2025 > 0 ? 100 : 0);
+                    
+                    // Crear tarjetas de estadísticas
+                    const statsCard1 = document.createElement('div');
+                    statsCard1.className = 'crime-stats-card fade-in';
+                    statsCard1.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-info-circle text-blue-600" style="margin-right: 5px;"></i>
+                            En <span class="crime-highlight">${comunaName}</span> se registraron <span class="crime-highlight">${casos2025} casos</span> de ${crime.toLowerCase()} en 2025, 
+                            <span class="crime-highlight">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span> vs ${casos2024} casos en 2024.
+                        </div>
+                    `;
+                    
+                    const statsCard2 = document.createElement('div');
+                    statsCard2.className = 'crime-stats-card fade-in';
+                    statsCard2.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-handcuffs text-blue-600" style="margin-right: 5px;"></i>
+                            Detenciones por ${crime.toLowerCase()}: ${detenciones2024} en 2024, 
+                            <span class="crime-highlight">${detenciones2025} detenciones</span> en 2025.
+                        </div>
+                    `;
+                    
+                    const statsCard3 = document.createElement('div');
+                    statsCard3.className = 'crime-stats-card fade-in';
+                    statsCard3.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-users text-blue-600" style="margin-right: 5px;"></i>
+                            Personas detenidas: ${detenidos2024} en 2024, 
+                            <span class="crime-highlight">${detenidos2025} detenidos</span> en 2025.
+                        </div>
+                    `;
+                    
+                    const statsCard4 = document.createElement('div');
+                    statsCard4.className = 'crime-stats-card fade-in';
+                    statsCard4.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-chart-bar text-blue-600" style="margin-right: 5px;"></i>
+                            Evolución mensual con variaciones significativas durante el período analizado.
+                        </div>
+                    `;
+                    
+                    // Agregar tarjetas al contenedor
+                    crimeStatsContainer.appendChild(statsCard1);
+                    crimeStatsContainer.appendChild(statsCard2);
+                    crimeStatsContainer.appendChild(statsCard3);
+                    crimeStatsContainer.appendChild(statsCard4);
+                    
+                    // Actualizar etiquetas de datos
+                    document.getElementById(`crime-casos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${casos2024} | 2025: ${casos2025} <span class="crime-percentage-change ${casosVariation >= 0 ? 'crime-increase' : 'crime-decrease'}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span>`;
+                    
+                    document.getElementById(`crime-detenciones-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${detenciones2024} | 2025: ${detenciones2025} <span class="crime-percentage-change ${detencionesVariation >= 0 ? 'crime-increase' : 'crime-decrease'}">${detencionesVariation >= 0 ? '+' : ''}${detencionesVariation.toFixed(1)}%</span>`;
+                    
+                    document.getElementById(`crime-detenidos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${detenidos2024} | 2025: ${detenidos2025} <span class="crime-percentage-change ${detenidosVariation >= 0 ? 'crime-increase' : 'crime-decrease'}">${detenidosVariation >= 0 ? '+' : ''}${detenidosVariation.toFixed(1)}%</span>`;
+                    
+                    // Crear gráficos para este delito
+                    setTimeout(() => {
+                        // Gráfico de casos
+                        const casosCtx = document.getElementById(`crime-casos-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
+                        new Chart(casosCtx, {
+                            type: 'bar',
+                            data: {
+                                labels: ['2024', '2025'],
+                                datasets: [{
+                                    label: 'Casos',
+                                    data: [casos2024, casos2025],
+                                    backgroundColor: ['#3498db', '#e74c3c'],
+                                    borderColor: ['#2980b9', '#c0392b'],
+                                    borderWidth: 1,
+                                    borderRadius: 4
+                                }]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: {
+                                        display: false
+                                    },
+                                    tooltip: {
+                                        backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                        titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                        borderWidth: 1,
+                                        padding: 12,
+                                        cornerRadius: 8,
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `${context.dataset.label}: ${context.raw} casos`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: {
+                                            weight: 'bold',
+                                            size: 14
+                                        },
+                                        formatter: function(value) {
+                                            return value;
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            stepSize: 1,
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: true,
+                                            color: 'rgba(0, 0, 0, 0.05)'
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: false
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                        
+                        // Gráfico de detenciones
+                        const detencionesCtx = document.getElementById(`crime-detenciones-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
+                        new Chart(detencionesCtx, {
+                            type: 'bar',
+                            data: {
+                                labels: ['2024', '2025'],
+                                datasets: [{
+                                    label: 'Detenciones',
+                                    data: [detenciones2024, detenciones2025],
+                                    backgroundColor: ['#3498db', '#e74c3c'],
+                                    borderColor: ['#2980b9', '#c0392b'],
+                                    borderWidth: 1,
+                                    borderRadius: 4
+                                }]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: {
+                                        display: false
+                                    },
+                                    tooltip: {
+                                        backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                        titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                        borderWidth: 1,
+                                        padding: 12,
+                                        cornerRadius: 8,
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `${context.dataset.label}: ${context.raw} detenciones`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: {
+                                            weight: 'bold',
+                                            size: 14
+                                        },
+                                        formatter: function(value) {
+                                            return value;
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            stepSize: 1,
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: true,
+                                            color: 'rgba(0, 0, 0, 0.05)'
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: false
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                        
+                        // Gráfico de detenidos
+                        const detenidosCtx = document.getElementById(`crime-detenidos-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
+                        new Chart(detenidosCtx, {
+                            type: 'bar',
+                            data: {
+                                labels: ['2024', '2025'],
+                                datasets: [{
+                                    label: 'Detenidos',
+                                    data: [detenidos2024, detenidos2025],
+                                    backgroundColor: ['#3498db', '#e74c3c'],
+                                    borderColor: ['#2980b9', '#c0392b'],
+                                    borderWidth: 1,
+                                    borderRadius: 4
+                                }]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: {
+                                        display: false
+                                    },
+                                    tooltip: {
+                                        backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                        titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                        borderWidth: 1,
+                                        padding: 12,
+                                        cornerRadius: 8,
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `${context.dataset.label}: ${context.raw} detenidos`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: {
+                                            weight: 'bold',
+                                            size: 14
+                                        },
+                                        formatter: function(value) {
+                                            return value;
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            stepSize: 1,
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: true,
+                                            color: 'rgba(0, 0, 0, 0.05)'
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: false
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                        
+                        // Gráfico de evolución mensual
+                        const evolucionCtx = document.getElementById(`crime-evolucion-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
+                        
+                        // Filtrar datos mensuales para este delito
+                        const crimeMensual = crimeData.mensual.filter(item => item.delito === crime);
+                        
+                        // Agrupar por mes-año
+                        const monthlyData = {};
+                        crimeMensual.forEach(item => {
+                            const key = `${item.anio}-${item.mes.toString().padStart(2, '0')}`;
+                            if (!monthlyData[key]) {
+                                monthlyData[key] = 0;
+                            }
+                            monthlyData[key] += item.casos;
+                        });
+                        
+                        // Ordenar cronológicamente
+                        const sortedKeys = Object.keys(monthlyData).sort();
+                        const labels = sortedKeys.map(key => {
+                            const [year, month] = key.split('-');
+                            const monthNames = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'];
+                            return `${monthNames[parseInt(month) - 1]}-${year}`;
+                        });
+                        const values = sortedKeys.map(key => monthlyData[key]);
+                        
+                        // Generar colores degradados
+                        const minValue = Math.min(...values);
+                        const maxValue = Math.max(...values);
+                        const gradientColors = values.map(value => {
+                            // Normalizar el valor entre 0 y 1
+                            const normalized = maxValue > minValue ? (value - minValue) / (maxValue - minValue) : 0.5;
+                            
+                            // Colores base: verde (bajo) a rojo (alto)
+                            const r = Math.round(56 + normalized * (229 - 56));  // 56 (verde) a 229 (rojo)
+                            const g = Math.round(161 - normalized * (161 - 62)); // 161 (verde) a 62 (rojo)
+                            const b = Math.round(105 - normalized * (105 - 62)); // 105 (verde) a 62 (rojo)
+                            
+                            return `rgb(${r}, ${g}, ${b})`;
+                        });
+                        
+                        new Chart(evolucionCtx, {
+                            type: 'bar',
+                            data: {
+                                labels: labels,
+                                datasets: [{
+                                    label: crime,
+                                    data: values,
+                                    backgroundColor: gradientColors,
+                                    borderColor: gradientColors,
+                                    borderWidth: 1
+                                }]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: {
+                                        display: false
+                                    },
+                                    tooltip: {
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `Casos: ${context.parsed.y}`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: {
+                                            weight: 'bold',
+                                            size: 10
+                                        },
+                                        formatter: function(value) {
+                                            return value;
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            stepSize: 1,
+                                            font: {
+                                                size: 10
+                                            }
+                                        },
+                                        grid: {
+                                            display: true,
+                                            color: 'rgba(0, 0, 0, 0.05)'
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            maxRotation: 45,
+                                            minRotation: 45,
+                                            font: {
+                                                size: 9
+                                            }
+                                        },
+                                        grid: {
+                                            display: false
+                                        }
+                                    }
+                                }
+                            }
+                        });
+                    }, 500 + crimeIndex * 200);
+                });
+            }
+            
+            // Renderizado inicial
+            function initialLoad() {
+                const top5 = crimeData.resumen.sort((a, b) => Math.abs(b.variacion) - Math.abs(a.variacion)).slice(0, 5);
+                renderTable(top5);
+                updateSummaryCards(crimeData.resumen);
+                
+                // Actualizar el texto del encabezado y el footer con las variables
+                headerLocation.textContent = `${comunaName} 2024-2025 - ${lastWeekName}`;
+                lastWeekNameElement.textContent = `Fecha de actualización: ${lastWeekName}`;
+                
+                // Calcular valores para el texto informativo
+                const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
+                const totalCasos2025 = casos2025Data.reduce((sum, item) => sum + item['2025'], 0);
+                
+                const detenidos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Detenidos');
+                const totalDetenidos2025 = detenidos2025Data.reduce((sum, item) => sum + item['2025'], 0);
+                
+                const valor2 = totalCasos2025 > 0 ? (24 * 365) / totalCasos2025 : 0;
+                const valor4 = totalCasos2025 > 0 ? (totalDetenidos2025 / totalCasos2025) * 100 : 0;
+                
+                // Actualizar el primer texto informativo
+                infoTextElement1.innerHTML = `
+                    Los casos delictivos registrados, en la comuna de <strong>${comunaName}</strong> (Región: Metropolitana), en la plataforma S.T.O.P. de Carabineros son <strong>${totalCasos2025}</strong> durante el año 2025, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
+                `;
+                
+                // Actualizar el segundo texto informativo
+                infoTextElement2.innerHTML = `
+                    De todos los casos ocurridos, el número de detenidos para todos los delitos que informa la plataforma S.T.O.P. de Carabineros es de <strong>${totalDetenidos2025}</strong> durante el año 2025. Es decir, la proporción de detenidos con relación al número de casos es de <strong>${valor4.toFixed(1)}%</strong>.
+                `;
+                
+                // Crear las tarjetas de comparación anual
+                createComparisonCards(crimeData.nuevo_resumen);
+                
+                // Crear las secciones de análisis para cada tipo de delito
+                createCrimeAnalysisSections(crimeData.nuevo_resumen);
+                
+                // Simular progreso de carga
+                let progress = 0;
+                const progressInterval = setInterval(() => {
+                    progress += 10;
+                    progressBar.style.width = `${progress}%`;
+                    
+                    if (progress >= 100) {
+                        clearInterval(progressInterval);
+                        
+                        // Ocultar el loader después de un pequeño retraso para mostrar la animación
+                        setTimeout(() => {
+                            loaderContainer.style.display = 'none';
+                            
+                            // Crear gráficos
+                            const categories = ["Casos", "Detenciones", "Detenidos"];
+                            categories.forEach((category, index) => {
+                                setTimeout(() => {
+                                    const filteredData = crimeData.nuevo_resumen.filter(item => item.informacion === category);
+                                    if (filteredData.length > 0) {
+                                        createBarChart(`${category} por Delito (2024 vs 2025)`, filteredData);
+                                    }
+                                }, index * 300);
+                            });
+                            
+                            const uniqueCrimes = [...new Set(crimeData.mensual.map(item => item.delito))];
+                            uniqueCrimes.forEach((delito, index) => {
+                                setTimeout(() => {
+                                    const filteredData = crimeData.mensual.filter(item => item.delito === delito);
+                                    filteredData.sort((a, b) => {
+                                        if (a.anio !== b.anio) {
+                                            return a.anio - b.anio;
+                                        }
+                                        return a.mes - b.mes;
+                                    });
+                                    createHistogram(delito, filteredData);
+                                }, (categories.length * 300) + (index * 300));
+                            });
+                            
+                            // Mostrar notificación de éxito
+                            showNotification("Datos cargados correctamente");
+                        }, 500);
+                    }
+                }, 100);
+            }
+            
+            // Listener para el botón "Mostrar Todos"
+            showAllBtn.addEventListener('click', () => {
+                isShowingAll = !isShowingAll;
+                if (isShowingAll) {
+                    renderTable(crimeData.resumen);
+                    showAllBtn.innerHTML = '<i class="fas fa-list-ul"></i> Mostrar Top 5';
+                    showNotification("Mostrando todos los delitos");
+                } else {
+                    const top5 = crimeData.resumen.sort((a, b) => Math.abs(b.variacion) - Math.abs(a.variacion)).slice(0, 5);
+                    renderTable(top5);
+                    showAllBtn.innerHTML = '<i class="fas fa-list"></i> Mostrar Todos';
+                    showNotification("Mostrando top 5 delitos");
+                }
+            });
+            
+            // Cargar la página
+            initialLoad();
+        }
+        
+        // Iniciar la carga de datos
+        loadData();
+    </script>
+</body>
+</html>

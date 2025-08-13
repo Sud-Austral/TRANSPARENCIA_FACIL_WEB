@@ -1435,18 +1435,18 @@
                     
                     let situationClass, iconClass, situationText, variationClass, variationText;
                     
-                    if (item.variacion > 0) {
-                        situationClass = 'situacion-aumento';
-                        iconClass = 'fa-arrow-up';
-                        situationText = 'Aum';
-                        variationClass = 'aumento';
-                        variationText = '+' + item.variacion + '%';
-                    } else if (item.variacion < 0) {
+                    if (item['2024'] > item['2025']) {
                         situationClass = 'situacion-disminucion';
                         iconClass = 'fa-arrow-down';
                         situationText = 'Dis';
                         variationClass = 'disminucion';
                         variationText = item.variacion + '%';
+                    } else if (item['2024'] < item['2025']) {
+                        situationClass = 'situacion-aumento';
+                        iconClass = 'fa-arrow-up';
+                        situationText = 'Aum';
+                        variationClass = 'aumento';
+                        variationText = '+' + item.variacion + '%';
                     } else {
                         situationClass = 'situacion-igual';
                         iconClass = 'fa-minus';
@@ -1549,12 +1549,12 @@
                         variationDiv.className = 'comparison-variation';
                         let variationClass, variationText;
                         
-                        if (variation > 0) {
-                            variationClass = 'variation-positive';
-                            variationText = `+${variation.toFixed(1)}%`;
-                        } else if (variation < 0) {
+                        if (total2024 > total2025) {
                             variationClass = 'variation-negative';
                             variationText = `${variation.toFixed(1)}%`;
+                        } else if (total2024 < total2025) {
+                            variationClass = 'variation-positive';
+                            variationText = `+${variation.toFixed(1)}%`;
                         } else {
                             variationClass = 'variation-equal';
                             variationText = `${variation.toFixed(1)}%`;
@@ -1599,8 +1599,8 @@
                                     {
                                         label: '2025',
                                         data: [total2025],
-                                        backgroundColor: 'rgba(39, 174, 96, 0.7)',
-                                        borderColor: '#27ae60',
+                                        backgroundColor: total2024 > total2025 ? '#27ae60' : (total2024 < total2025 ? '#e74c3c' : '#f1c40f'),
+                                        borderColor: total2024 > total2025 ? '#229954' : (total2024 < total2025 ? '#c0392b' : '#d4ac0d'),
                                         borderWidth: 1,
                                         borderRadius: 6,
                                         barThickness: 40
@@ -1779,40 +1779,40 @@
                     const detenidos2025 = detenidosData.reduce((sum, item) => sum + item['2025'], 0);
                     const detenidosVariation = detenidos2024 > 0 ? ((detenidos2025 - detenidos2024) / detenidos2024) * 100 : (detenidos2025 > 0 ? 100 : 0);
                     
-                    // Determinar clases de color según la variación para casos
+                    // Determinar clases de color según la comparación para casos
                     let casosHighlightClass, casosVariationClass;
-                    if (casosVariation > 0) {
-                        casosHighlightClass = 'crime-highlight-red';
-                        casosVariationClass = 'crime-increase';
-                    } else if (casosVariation < 0) {
+                    if (casos2024 > casos2025) {
                         casosHighlightClass = 'crime-highlight-green';
                         casosVariationClass = 'crime-decrease';
+                    } else if (casos2024 < casos2025) {
+                        casosHighlightClass = 'crime-highlight-red';
+                        casosVariationClass = 'crime-increase';
                     } else {
                         casosHighlightClass = 'crime-highlight-yellow';
                         casosVariationClass = 'crime-equal';
                     }
                     
-                    // Determinar clases de color según la variación para detenciones
+                    // Determinar clases de color según la comparación para detenciones
                     let detencionesHighlightClass, detencionesVariationClass;
-                    if (detencionesVariation > 0) {
-                        detencionesHighlightClass = 'crime-highlight-red';
-                        detencionesVariationClass = 'crime-increase';
-                    } else if (detencionesVariation < 0) {
+                    if (detenciones2024 > detenciones2025) {
                         detencionesHighlightClass = 'crime-highlight-green';
                         detencionesVariationClass = 'crime-decrease';
+                    } else if (detenciones2024 < detenciones2025) {
+                        detencionesHighlightClass = 'crime-highlight-red';
+                        detencionesVariationClass = 'crime-increase';
                     } else {
                         detencionesHighlightClass = 'crime-highlight-yellow';
                         detencionesVariationClass = 'crime-equal';
                     }
                     
-                    // Determinar clases de color según la variación para detenidos
+                    // Determinar clases de color según la comparación para detenidos
                     let detenidosHighlightClass, detenidosVariationClass;
-                    if (detenidosVariation > 0) {
-                        detenidosHighlightClass = 'crime-highlight-red';
-                        detenidosVariationClass = 'crime-increase';
-                    } else if (detenidosVariation < 0) {
+                    if (detenidos2024 > detenidos2025) {
                         detenidosHighlightClass = 'crime-highlight-green';
                         detenidosVariationClass = 'crime-decrease';
+                    } else if (detenidos2024 < detenidos2025) {
+                        detenidosHighlightClass = 'crime-highlight-red';
+                        detenidosVariationClass = 'crime-increase';
                     } else {
                         detenidosHighlightClass = 'crime-highlight-yellow';
                         detenidosVariationClass = 'crime-equal';
@@ -1880,8 +1880,8 @@
                                 datasets: [{
                                     label: 'Casos',
                                     data: [casos2024, casos2025],
-                                    backgroundColor: ['#3498db', casosVariation > 0 ? '#e74c3c' : (casosVariation < 0 ? '#27ae60' : '#f1c40f')],
-                                    borderColor: ['#2980b9', casosVariation > 0 ? '#c0392b' : (casosVariation < 0 ? '#229954' : '#d4ac0d')],
+                                    backgroundColor: ['#3498db', casos2024 > casos2025 ? '#27ae60' : (casos2024 < casos2025 ? '#e74c3c' : '#f1c40f')],
+                                    borderColor: ['#2980b9', casos2024 > casos2025 ? '#229954' : (casos2024 < casos2025 ? '#c0392b' : '#d4ac0d')],
                                     borderWidth: 1,
                                     borderRadius: 4
                                 }]
@@ -1941,8 +1941,8 @@
                                 datasets: [{
                                     label: 'Detenciones',
                                     data: [detenciones2024, detenciones2025],
-                                    backgroundColor: ['#3498db', detencionesVariation > 0 ? '#e74c3c' : (detencionesVariation < 0 ? '#27ae60' : '#f1c40f')],
-                                    borderColor: ['#2980b9', detencionesVariation > 0 ? '#c0392b' : (detencionesVariation < 0 ? '#229954' : '#d4ac0d')],
+                                    backgroundColor: ['#3498db', detenciones2024 > detenciones2025 ? '#27ae60' : (detenciones2024 < detenciones2025 ? '#e74c3c' : '#f1c40f')],
+                                    borderColor: ['#2980b9', detenciones2024 > detenciones2025 ? '#229954' : (detenciones2024 < detenciones2025 ? '#c0392b' : '#d4ac0d')],
                                     borderWidth: 1,
                                     borderRadius: 4
                                 }]
@@ -2002,8 +2002,8 @@
                                 datasets: [{
                                     label: 'Detenidos',
                                     data: [detenidos2024, detenidos2025],
-                                    backgroundColor: ['#3498db', detenidosVariation > 0 ? '#e74c3c' : (detenidosVariation < 0 ? '#27ae60' : '#f1c40f')],
-                                    borderColor: ['#2980b9', detenidosVariation > 0 ? '#c0392b' : (detenidosVariation < 0 ? '#229954' : '#d4ac0d')],
+                                    backgroundColor: ['#3498db', detenidos2024 > detenidos2025 ? '#27ae60' : (detenidos2024 < detenidos2025 ? '#e74c3c' : '#f1c40f')],
+                                    borderColor: ['#2980b9', detenidos2024 > detenidos2025 ? '#229954' : (detenidos2024 < detenidos2025 ? '#c0392b' : '#d4ac0d')],
                                     borderWidth: 1,
                                     borderRadius: 4
                                 }]

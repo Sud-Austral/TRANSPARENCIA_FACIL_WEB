@@ -1,0 +1,2627 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadísticas de Delincuencia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+    <style>
+        /* Variables CSS */
+        :root {
+            --bg-color: #f8f5f0;
+            --container-bg-color: #ffffff;
+            --card-bg-color: #ffffff;
+            --text-color-primary: #333333;
+            --text-color-secondary: #666666;
+            --header-bg-color: rgba(255, 255, 255, 0.7);
+            --header-text-color: #333333;
+            --accent-color: #27ae60;
+            --accent-color-hover: #229954;
+            --accent-color-light: #2ecc71;
+            --accent-color-pastel: #a9dfbf;
+            --accent-color-very-light: #d5f4e6;
+            --success-color: #27ae60;
+            --success-color-hover: #229954;
+            --danger-color: #e74c3c;
+            --danger-color-hover: #c0392b;
+            --warning-color: #f1c40f;
+            --warning-color-hover: #d4ac0d;
+            --border-color: #e0e0e0;
+            --shadow-color: rgba(0, 0, 0, 0.1);
+            --stats-item-bg-color: #f5f5f5;
+            --transition-speed: 0.3s;
+            --glass-bg: rgba(255, 255, 255, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.3);
+            
+            /* Dimensiones de hoja carta horizontal */
+            --page-width: 1122px;
+            --page-height: 793px;
+            --page-margin: 0px;
+            --content-width: calc(var(--page-width) - 2 * var(--page-margin));
+            --content-height: calc(var(--page-height) - 2 * var(--page-margin));
+        }
+        
+        /* Estilos generales */
+        * {
+            box-sizing: border-box;
+            transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease, box-shadow var(--transition-speed) ease, transform var(--transition-speed) ease;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(167, 223, 191, 0.2) 0%, transparent 20%),
+                radial-gradient(circle at 90% 80%, rgba(46, 204, 113, 0.1) 0%, transparent 20%),
+                radial-gradient(circle at 50% 50%, rgba(213, 244, 230, 0.3) 0%, transparent 40%);
+            background-attachment: fixed;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+            color: var(--text-color-primary);
+            line-height: 1.6;
+        }
+        
+        .container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+        
+        /* Header */
+        .header-top {
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            border-bottom: 1px solid var(--glass-border);
+            padding: 8px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .header-top-content {
+            max-width: var(--content-width);
+            width: 100%;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .institution-text {
+            font-size: 14px;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+        
+        .logo-text {
+            font-size: 12px;
+            font-weight: 500;
+            opacity: 0.9;
+            margin-right: 12px;
+        }
+        
+        .logo {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-weight: 700;
+            font-size: 18px;
+            box-shadow: 0 4px 10px rgba(39, 174, 96, 0.3);
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .logo:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 15px rgba(39, 174, 96, 0.4);
+        }
+        
+        .header {
+            background: linear-gradient(90deg, rgba(255, 255, 255, 0.8) 0%, rgba(213, 244, 230, 0.5) 100%);
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            color: var(--header-text-color);
+            text-align: center;
+            position: relative;
+            padding: 15px 0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+        
+        .header-content {
+            padding: 0 5%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: var(--content-width);
+            width: 100%;
+            margin: 0 auto;
+        }
+        
+        .header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            margin: 0;
+            letter-spacing: -0.5px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        
+        .header p {
+            margin: 5px 0 0;
+            opacity: 0.9;
+            font-size: 14px;
+        }
+        
+        .header::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--danger-color) 0%, var(--success-color) 100%);
+        }
+        
+        /* Contenido principal */
+        .content {
+            flex: 1;
+            background-color: var(--container-bg-color);
+            overflow-y: auto;
+            width: 100%;
+            padding: 20px 0;
+        }
+        
+        .content-container {
+            max-width: var(--content-width);
+            margin: 0 auto;
+            width: 100%;
+            padding: 0 var(--page-margin);
+        }
+        
+        /* Páginas */
+        .page {
+            width: var(--page-width);
+            min-height: var(--page-height);
+            margin: 0 auto var(--page-margin);
+            background-color: white;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            position: relative;
+            padding: var(--page-margin);
+            page-break-before: always;
+        }
+        
+        .page:first-child {
+            page-break-before: auto;
+        }
+        
+        .page-content {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        /* Tarjetas */
+        .card {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 
+                8px 8px 16px rgba(0, 0, 0, 0.05),
+                -8px -8px 16px rgba(255, 255, 255, 0.7),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+            position: relative;
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 20px rgba(0, 0, 0, 0.08),
+                -12px -12px 20px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+        }
+        
+        .card-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .card-title i {
+            margin-right: 10px;
+            color: var(--accent-color);
+            font-size: 18px;
+        }
+        
+        /* Estadísticas */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-item {
+            background-color: var(--stats-item-bg-color);
+            padding: 15px;
+            border-radius: 16px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+        }
+        
+        .stat-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                8px 8px 15px rgba(0, 0, 0, 0.08),
+                -8px -8px 15px rgba(255, 255, 255, 0.9),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .stat-item::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.3s ease;
+        }
+        
+        .stat-item:hover::after {
+            transform: scaleX(1);
+        }
+        
+        .stat-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            color: var(--text-color-secondary);
+            font-weight: 500;
+        }
+        
+        /* Tabla */
+        .table-container {
+            overflow-x: auto;
+            width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            margin-bottom: 15px;
+            flex: 1;
+        }
+        
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            text-align: left;
+        }
+        
+        .data-table th, .data-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .data-table th {
+            background-color: var(--stats-item-bg-color);
+            color: var(--text-color-secondary);
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 11px;
+            letter-spacing: 0.5px;
+        }
+        
+        .data-table tbody tr {
+            transition: background-color 0.2s ease;
+        }
+        
+        .data-table tbody tr:hover {
+            background-color: rgba(39, 174, 96, 0.1);
+        }
+        
+        /* Footer */
+        .footer {
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--header-text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 14px;
+            width: 100%;
+            padding: 15px 0;
+            border-top: 1px solid var(--glass-border);
+            box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.05);
+        }
+        
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            max-width: var(--content-width);
+            padding: 0 20px;
+        }
+        
+        .footer-text {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-color-secondary);
+        }
+        
+        .footer-icon {
+            color: var(--accent-color);
+        }
+        
+        /* Indicadores de situación */
+        .situacion {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .situacion-aumento {
+            color: var(--danger-color);
+        }
+        
+        .situacion-disminucion {
+            color: var(--success-color);
+        }
+        
+        .situacion-igual {
+            color: var(--warning-color);
+        }
+        
+        .aumento {
+            color: var(--danger-color);
+            font-weight: 700;
+        }
+        
+        .disminucion {
+            color: var(--success-color);
+            font-weight: 700;
+        }
+        
+        .igual {
+            color: var(--warning-color);
+            font-weight: 700;
+        }
+        
+        .icon-indicator {
+            font-size: 10px;
+        }
+        
+        /* Botones */
+        .btn {
+            background: linear-gradient(145deg, var(--accent-color-light), var(--accent-color));
+            color: white;
+            padding: 10px 20px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border: none;
+            outline: none;
+            margin-left: auto;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 
+                5px 5px 10px rgba(39, 174, 96, 0.3),
+                -5px -5px 10px rgba(255, 255, 255, 0.5);
+            position: relative;
+            overflow: hidden;
+            font-size: 13px;
+        }
+        
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: left 0.5s ease;
+        }
+        
+        .btn:hover::before {
+            left: 100%;
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 
+                8px 8px 15px rgba(39, 174, 96, 0.4),
+                -8px -8px 15px rgba(255, 255, 255, 0.7);
+        }
+        
+        .btn:active {
+            transform: translateY(0);
+            box-shadow: 
+                3px 3px 6px rgba(39, 174, 96, 0.3),
+                -3px -3px 6px rgba(255, 255, 255, 0.5);
+        }
+        
+        /* Utilidades */
+        .flex {
+            display: flex;
+        }
+        
+        .justify-between {
+            justify-content: space-between;
+        }
+        
+        .items-center {
+            align-items: center;
+        }
+        
+        /* Sección de información de la comuna */
+        .comuna-info-section {
+            margin-bottom: 20px;
+        }
+        
+        .comuna-info-title {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 15px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 10px;
+        }
+        
+        .comuna-info-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .comuna-name {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--accent-color);
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        
+        .comuna-info-content {
+            background-color: var(--stats-item-bg-color);
+            border-radius: 16px;
+            padding: 20px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border-left: 4px solid var(--accent-color);
+            margin-bottom: 15px;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .comuna-info-content p {
+            margin-bottom: 10px;
+        }
+        
+        .comuna-info-content p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .comuna-info-content strong {
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+        
+        .institute-logo-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 15px;
+        }
+        
+        .institute-logo {
+            max-width: 150px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            background-color: white;
+            padding: 8px;
+        }
+        
+        /* Sección de comparación anual */
+        .comparison-section {
+            margin-bottom: 20px;
+        }
+        
+        .comparison-title {
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 15px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 10px;
+        }
+        
+        .comparison-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 50px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+        
+        .comparison-card {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 15px;
+            box-shadow: 
+                8px 8px 16px rgba(0, 0, 0, 0.05),
+                -8px -8px 16px rgba(255, 255, 255, 0.7),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+            height: 100%;
+            transform: translateY(0);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .comparison-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 
+                12px 12px 20px rgba(0, 0, 0, 0.08),
+                -12px -12px 20px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .comparison-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+        }
+        
+        .comparison-chart-container {
+            height: 200px;
+            position: relative;
+            flex: 1;
+        }
+        
+        .comparison-info {
+            margin-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .comparison-year {
+            text-align: center;
+            flex: 1;
+        }
+        
+        .year-label {
+            font-size: 12px;
+            color: var(--text-color-secondary);
+            margin-bottom: 5px;
+        }
+        
+        .year-value {
+            font-size: 18px;
+            font-weight: 700;
+        }
+        
+        .year-2024 {
+            color: #3498db;
+        }
+        
+        .year-2025 {
+            color: var(--accent-color);
+        }
+        
+        .comparison-variation {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .variation-label {
+            font-size: 12px;
+            color: var(--text-color-secondary);
+            margin-bottom: 5px;
+        }
+        
+        .variation-value {
+            font-size: 16px;
+            font-weight: 700;
+        }
+        
+        .variation-positive {
+            color: var(--danger-color);
+        }
+        
+        .variation-negative {
+            color: var(--success-color);
+        }
+        
+        .variation-equal {
+            color: var(--warning-color);
+        }
+        
+        .flex-col {
+            flex-direction: column;
+        }
+        
+        .gap-2 {
+            gap: 8px;
+        }
+        
+        .text-sm {
+            font-size: 14px;
+        }
+        
+        .mt-1 {
+            margin-top: 4px;
+        }
+        
+        /* Animaciones */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.6s ease-out forwards;
+        }
+        
+        .float-animation {
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        /* Notificación */
+        .notification {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: var(--glass-bg);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            color: var(--text-color-primary);
+            padding: 15px 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--glass-border);
+            z-index: 1000;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .notification.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+        
+        .notification i {
+            color: var(--accent-color);
+            font-size: 18px;
+        }
+        
+        /* Indicador de carga */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(39, 174, 96, 0.2);
+            border-radius: 50%;
+            border-top-color: var(--accent-color);
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .loading-text {
+            font-size: 18px;
+            font-weight: 500;
+            color: var(--text-color-primary);
+        }
+        
+        /* Sección de análisis de delitos */
+        .crime-analysis-section {
+            margin-bottom: 20px;
+        }
+        
+        .crime-analysis-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--text-color-primary);
+            margin-bottom: 15px;
+            text-align: center;
+            position: relative;
+            padding-bottom: 10px;
+        }
+        
+        .crime-analysis-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent-color), var(--accent-color-light));
+            border-radius: 3px;
+        }
+        
+        .crime-analysis-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .crime-analysis-left {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .crime-analysis-right {
+            flex: 2;
+            min-width: 300px;
+        }
+        
+        .crime-stats-card {
+            background-color: var(--stats-item-bg-color);
+            border-radius: 16px;
+            padding: 15px;
+            margin-bottom: 10px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border-left: 3px solid var(--accent-color);
+            transition: transform 0.2s ease;
+        }
+        
+        .crime-stats-card:hover {
+            transform: translateY(-3px);
+        }
+        
+        .crime-stats-text {
+            font-size: 13px;
+            line-height: 1.5;
+            color: var(--text-color-primary);
+        }
+        
+        .crime-highlight {
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+        
+        .crime-highlight-green {
+            color: var(--success-color);
+            font-weight: 700;
+        }
+        
+        .crime-highlight-red {
+            color: var(--danger-color);
+            font-weight: 700;
+        }
+        
+        .crime-highlight-yellow {
+            color: var(--warning-color);
+            font-weight: 700;
+        }
+        
+        .crime-charts-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            gap: 15px;
+        }
+        
+        .crime-small-charts {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            height: 250px;
+            width: 100%;
+        }
+        
+        .crime-chart-box {
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 15px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            flex: 1;
+            margin: 0 5px;
+            display: flex;
+            flex-direction: column;
+            width: calc(33.333% - 10px);
+            box-sizing: border-box;
+        }
+        
+        .crime-chart-box:first-child {
+            margin-left: 0;
+        }
+        
+        .crime-chart-box:last-child {
+            margin-right: 0;
+        }
+        
+        .crime-chart-title {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-color-primary);
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+        .crime-chart-container {
+            flex: 1;
+            position: relative;
+            height: 180px;
+        }
+        
+        .crime-large-chart {
+            height: 350px;
+            background-color: var(--card-bg-color);
+            border-radius: 16px;
+            padding: 15px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        .crime-large-chart-title {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-color-primary);
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        
+        .crime-large-chart-container {
+            flex: 1;
+            position: relative;
+            height: 280px;
+        }
+        
+        .crime-data-label {
+            font-size: 12px;
+            color: var(--text-color-secondary);
+            text-align: center;
+            margin-top: 8px;
+            padding: 8px;
+        }
+        
+        .crime-percentage-change {
+            font-size: 11px;
+            font-weight: 500;
+            padding: 2px 8px;
+            border-radius: 8px;
+            margin-left: 5px;
+        }
+        
+        .crime-increase {
+            background-color: rgba(231, 76, 60, 0.1);
+            color: var(--danger-color);
+        }
+        
+        .crime-decrease {
+            background-color: rgba(39, 174, 96, 0.1);
+            color: var(--success-color);
+        }
+        
+        .crime-equal {
+            background-color: rgba(241, 196, 15, 0.1);
+            color: var(--warning-color);
+        }
+        
+        .crime-legend-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+            font-size: 12px;
+            padding: 8px;
+        }
+        
+        .crime-legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0 10px;
+        }
+        
+        .crime-legend-color {
+            width: 20px;
+            height: 14px;
+            margin-right: 8px;
+            border-radius: 2px;
+        }
+        
+        /* Pie de sección */
+        .section-footer {
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 10px;
+            font-size: 12px;
+            color: var(--text-color-secondary);
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .section-footer-number {
+            background-color: var(--accent-color);
+            color: white;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: 600;
+            font-size: 11px;
+        }
+        
+        .section-footer-link {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color var(--transition-speed) ease;
+        }
+        
+        .section-footer-link:hover {
+            color: var(--accent-color-hover);
+            text-decoration: underline;
+        }
+        
+        /* Texto informativo */
+        .info-text {
+            background-color: var(--stats-item-bg-color);
+            border-radius: 12px;
+            padding: 12px;
+            font-size: 13px;
+            line-height: 1.5;
+            color: var(--text-color-primary);
+            box-shadow: 
+                3px 3px 6px rgba(0, 0, 0, 0.05),
+                -3px -3px 6px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            border-left: 3px solid var(--accent-color);
+            transition: transform 0.2s ease;
+            margin-bottom: 10px;
+        }
+        
+        .info-text:hover {
+            transform: translateY(-3px);
+        }
+        
+        .info-text strong {
+            color: var(--accent-color);
+            font-weight: 700;
+        }
+        
+        /* Contenedor para la tabla y el texto informativo */
+        .crime-relevance-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .crime-relevance-table {
+            flex: 1;
+            min-width: 300px;
+        }
+        
+        .crime-relevance-info {
+            flex: 0 0 350px;
+            min-width: 300px;
+        }
+        
+        /* Títulos de la sección de información */
+        .section-question {
+            font-size: 18px;
+            font-weight: 600;
+            color: var(--text-color-primary);
+            margin-bottom: 8px;
+            text-align: center;
+        }
+        
+        .section-subtitle {
+            font-size: 16px;
+            font-weight: 500;
+            color: var(--accent-color);
+            margin-bottom: 12px;
+            text-align: center;
+        }
+        
+        /* Media queries */
+        @media (max-width: 1200px) {
+            :root {
+                --page-width: 100%;
+                --page-height: auto;
+                --page-margin: 20px;
+            }
+            
+            .page {
+                width: 100%;
+                min-height: auto;
+                margin-bottom: 30px;
+            }
+            
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .comparison-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .header-top-content {
+                flex-direction: column;
+                align-items: center;
+                gap: 12px;
+            }
+            
+            .header-top, .footer {
+                padding: 16px 0;
+            }
+            
+            .header h1 {
+                font-size: 22px;
+            }
+            
+            .header p {
+                font-size: 12px;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                gap: 12px;
+                text-align: center;
+            }
+            
+            .footer-text {
+                justify-content: center;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .btn {
+                width: 100%;
+                margin-top: 12px;
+                margin-left: 0;
+                justify-content: center;
+            }
+            
+            .flex.items-center {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .card-title {
+                margin-bottom: 12px;
+                font-size: 18px;
+            }
+            
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .crime-relevance-container {
+                flex-direction: column;
+            }
+            
+            .crime-relevance-info {
+                flex: 1;
+                width: 100%;
+            }
+            
+            .crime-small-charts {
+                height: 250px;
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .crime-chart-box {
+                margin: 0;
+                height: 180px;
+            }
+            
+            .crime-chart-container {
+                height: 130px;
+            }
+            
+            .crime-large-chart {
+                height: 300px;
+            }
+            
+            .crime-large-chart-container {
+                height: 230px;
+            }
+            
+            .institute-logo {
+                max-width: 120px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .header h1 {
+                font-size: 18px;
+            }
+            
+            .card {
+                padding: 15px;
+            }
+            
+            .stat-value {
+                font-size: 20px;
+            }
+            
+            .data-table th, .data-table td {
+                padding: 10px 12px;
+            }
+            
+            .comparison-card {
+                padding: 15px;
+            }
+            
+            .comparison-chart-container {
+                height: 180px;
+            }
+            
+            .crime-small-charts {
+                height: 220px;
+            }
+            
+            .crime-chart-box {
+                height: 160px;
+            }
+            
+            .crime-chart-container {
+                height: 110px;
+            }
+            
+            .crime-large-chart {
+                height: 280px;
+            }
+            
+            .crime-large-chart-container {
+                height: 210px;
+            }
+            
+            .institute-logo {
+                max-width: 100px;
+            }
+        }
+        
+        /* Estilos para impresión */
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+                margin: 0;
+            }
+            
+            .header-top, .header, .footer, .notification, .loading-overlay {
+                display: none !important;
+            }
+            
+            .content {
+                padding: 0;
+                background: white;
+            }
+            
+            .content-container {
+                max-width: 100%;
+                padding: 0;
+            }
+            
+            .page {
+                width: 100%;
+                min-height: 100vh;
+                margin: 0;
+                box-shadow: none;
+                padding: 15mm;
+                page-break-before: always;
+                page-break-inside: avoid;
+                overflow: visible;
+            }
+            
+            .page:first-child {
+                page-break-before: auto;
+            }
+            
+            .card {
+                box-shadow: none;
+                border: 1px solid #ddd;
+                break-inside: avoid;
+                page-break-inside: avoid;
+            }
+            
+            .stats-grid {
+                grid-template-columns: repeat(4, 1fr) !important;
+                gap: 10px !important;
+            }
+            
+            /* Mantener la sección de comparación en 3 columnas al imprimir */
+            .comparison-grid {
+                grid-template-columns: repeat(3, 1fr) !important;
+                gap: 10px !important;
+            }
+            
+            .comparison-card {
+                break-inside: avoid;
+                page-break-inside: avoid;
+            }
+            
+            .comparison-chart-container {
+                height: 150px !important;
+            }
+            
+            .comparison-info {
+                margin-top: 10px !important;
+            }
+            
+            .year-label {
+                font-size: 10px !important;
+            }
+            
+            .year-value {
+                font-size: 14px !important;
+            }
+            
+            .variation-value {
+                font-size: 12px !important;
+            }
+            
+            .crime-analysis-container {
+                grid-template-columns: 1fr !important;
+                gap: 10px !important;
+            }
+            
+            .crime-small-charts {
+                flex-direction: row !important;
+                height: auto !important;
+                margin-bottom: 15px !important;
+            }
+            
+            .crime-chart-box {
+                margin: 0 5px !important;
+                height: 180px !important;
+                width: calc(33.333% - 10px) !important;
+                page-break-inside: avoid;
+            }
+            
+            .crime-chart-container {
+                height: 130px !important;
+            }
+            
+            .crime-large-chart {
+                height: 250px !important;
+                page-break-inside: avoid;
+            }
+            
+            .crime-large-chart-container {
+                height: 180px !important;
+            }
+            
+            .btn {
+                display: none;
+            }
+            
+            .section-footer {
+                display: none;
+            }
+            
+            .table-container {
+                overflow: visible;
+            }
+            
+            .data-table {
+                font-size: 10px;
+            }
+            
+            .data-table th, .data-table td {
+                padding: 6px 8px;
+            }
+            
+            .crime-stats-text, .info-text {
+                font-size: 11px;
+            }
+            
+            .comuna-info-content {
+                font-size: 12px;
+            }
+            
+            .card-title, .comuna-info-title, .comparison-title, .crime-analysis-title {
+                font-size: 16px;
+            }
+            
+            .stat-value {
+                font-size: 18px;
+            }
+            
+            canvas {
+                max-width: 100% !important;
+                height: auto !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Indicador de carga -->
+    <div id="loading-overlay" class="loading-overlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Cargando datos...</div>
+    </div>
+    
+    <div class="container">
+        <div class="header-top">
+            <div class="header-top-content">
+                <div class="institution-text">INSTITUTO LIBERTAD</div>
+                <div class="logo-container">
+                    <div class="logo-text">Sistema STOP</div>
+                    <div class="logo float-animation">S</div>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="header-content">
+                <h1 id="main-title">Estadísticas de Delincuencia</h1>
+                <p id="header-location" class="text-sm mt-1"></p>
+            </div>
+        </div>
+        <div class="content">
+            <div class="content-container">
+                <!-- Página 1: Información de la Comuna -->
+                <div class="page">
+                    <div class="page-content">
+                        <div class="comuna-info-section fade-in">
+                            <h2 class="comuna-info-title">Información de la Comuna</h2>
+                            <div class="comuna-name" id="comuna-name-display"></div>
+                            <div class="comuna-info-content">
+                                <h3 class="section-question">¿Qué es la Plataforma S.T.O.P. de Carabineros y por qué sirve para medir la comisión de delitos?</h3>
+                                <h4 class="section-subtitle">La Ley 21.332 Implementa un Sistema Táctico de Operación Policial</h4>
+                                <p>La plataforma <strong>S.T.O.P</strong> de Carabineros es una herramienta fundamental para la transparencia y optimización de la labor policial en la prevención del delito. Este sistema permite medir y analizar la comisión de delitos en tiempo real, facilitando la toma de decisiones basadas en datos concretos.</p>
+                                <p>La <strong>Ley 21.332</strong> implementa un Sistema Táctico de Operación Policial que fortalece las capacidades de Carabineros para responder de manera efectiva a la delincuencia, mejorando la seguridad ciudadana a través de la tecnología y el análisis de información.</p>
+                                <p>Los elementos clave del sistema incluyen una plataforma virtual centralizada, la participación activa de los funcionarios policiales, y el análisis constante de tendencias delictivas para optimizar la distribución de recursos en las zonas de mayor riesgo.</p>
+                                <strong>
+                                    <p>El Instituto Libertad utiliza los datos públicos registrados en la Plataforma Virtual del S.T.O.P. para darle seguimiento permanente a los principales delitos a distintas escalas geográficas y temporales a objeto de informar a los actores involucrados respecto a las tendencias en esta temática de manera oportuna y de simple comprensión.</p>
+                                </strong>
+                            </div>
+                            <div class="institute-logo-container">
+                                <img src="https://institutolibertad.cl/wp-content/uploads/2022/04/logo_il_color.png" alt="Instituto Libertad" class="institute-logo">
+                            </div>
+                            <div class="section-footer">
+                                <div class="section-footer-number">1</div>
+                                <div>Información proporcionada por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Página 2: Resumen de Casos y Comparación Anual -->
+                <div class="page">
+                    <div class="page-content">
+                        <div class="card fade-in">
+                            <div class="card-title">
+                                <i class="fas fa-chart-line"></i>
+                                Resumen de Casos
+                            </div>
+                            <div class="stats-grid">
+                                <div class="stat-item fade-in" style="animation-delay: 0.1s;">
+                                    <div id="total-2024" class="stat-value">0</div>
+                                    <div class="stat-label">Total Casos 2024</div>
+                                </div>
+                                <div class="stat-item fade-in" style="animation-delay: 0.2s;">
+                                    <div id="total-2025" class="stat-value">0</div>
+                                    <div class="stat-label">Total Casos 2025</div>
+                                </div>
+                                <div class="stat-item fade-in" style="animation-delay: 0.3s;">
+                                    <div id="variation" class="stat-value">0%</div>
+                                    <div class="stat-label">Variación</div>
+                                </div>
+                                <div class="stat-item fade-in" style="animation-delay: 0.4s;">
+                                    <div id="situation" class="stat-value">-</div>
+                                    <div class="stat-label">Situación</div>
+                                </div>
+                            </div>
+                            <div class="section-footer">
+                                <div class="section-footer-number">2</div>
+                                <div>Información proporcionada por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                            </div>
+                        </div>
+                        
+                        <div class="comparison-section fade-in" style="animation-delay: 0.3s;">
+                            <h2 class="comparison-title">Comparación Anual por Tipo de Delito</h2>
+                            <div id="comparison-grid" class="comparison-grid"></div>
+                            <div class="section-footer">
+                                <div class="section-footer-number">3</div>
+                                <div>Análisis comparativo por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Página 3: Delitos de Mayor Relevancia -->
+                <div class="page">
+                    <div class="page-content">
+                        <div class="card fade-in" style="animation-delay: 0.2s;">
+                            <div class="flex justify-between items-center mb-4">
+                                <div class="card-title" style="margin-bottom: 0;">
+                                    <i class="fas fa-exclamation-triangle"></i>
+                                    Delitos de Mayor Relevancia
+                                </div>
+                                <button id="show-all-btn" class="btn">
+                                    <i class="fas fa-list-ul"></i>
+                                    Mostrar Top 5
+                                </button>
+                            </div>
+                            
+                            <div class="crime-relevance-container">
+                                <div class="crime-relevance-table">
+                                    <div class="table-container">
+                                        <table class="data-table">
+                                            <thead>
+                                                <tr>
+                                                    <th>Situación</th>
+                                                    <th>Delito</th>
+                                                    <th>Casos 2024</th>
+                                                    <th>Casos 2025</th>
+                                                    <th>Variación</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody id="crime-data-table-body"></tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                                
+                                <div class="crime-relevance-info">
+                                    <div id="info-text-1" class="info-text"></div>
+                                    <div id="info-text-2" class="info-text"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="section-footer">
+                                <div class="section-footer-number">4</div>
+                                <div>Delitos más relevantes según <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Páginas dinámicas para análisis de delitos -->
+                <div id="crime-analysis-pages-container"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-content">
+                <div class="footer-left flex flex-col sm:flex-row gap-2">
+                    <div class="footer-text">
+                        <i class="fas fa-globe footer-icon"></i>
+                        stop.carabineros.cl
+                    </div>
+                    <div class="footer-text">
+                        <i class="fas fa-phone footer-icon"></i>
+                        555 555 0000
+                    </div>
+                </div>
+                <div class="footer-right flex flex-col sm:flex-row gap-2">
+                    <div id="last-week-name" class="footer-text"></div>
+                    <div class="footer-text">Fuente: Sistema STOP</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="notification" class="notification">
+        <i class="fas fa-check-circle"></i>
+        <span id="notification-text">Datos cargados correctamente</span>
+    </div>
+    
+    <script>
+        // Registrar el plugin de datalabels
+        Chart.register(ChartDataLabels);
+        
+        // Array para almacenar todas las instancias de gráficos
+        let chartInstances = [];
+        
+        // Función para manejar la impresión
+        function setupPrintHandling() {
+            // Antes de imprimir
+            window.addEventListener('beforeprint', () => {
+                // Redimensionar todos los gráficos para adaptarse al modo de impresión
+                chartInstances.forEach(chart => {
+                    if (chart && typeof chart.resize === 'function') {
+                        chart.resize();
+                    }
+                });
+            });
+
+            // Después de imprimir
+            window.addEventListener('afterprint', () => {
+                setTimeout(() => {
+                    chartInstances.forEach(chart => {
+                        if (chart && typeof chart.resize === 'function') {
+                            chart.resize();
+                        }
+                    });
+                }, 500);
+            });
+        }
+        
+        let allDATA = {};
+        const params = new URLSearchParams(window.location.search);
+        const codcomParam = params.get("codcom")?.trim() || "13101";
+        const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
+        
+        // Mostrar indicador de carga al inicio
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('loading-overlay').style.display = 'flex';
+        });
+        
+        async function loadData() {
+            try {
+                const response = await fetch(dataURL);
+                if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+                const rawData = await response.json();
+                
+                // Verificar que los datos tienen la estructura esperada
+                if (!rawData.resumen || !rawData.mensual || !rawData.info || !rawData.meta) {
+                    throw new Error('La estructura de datos no es la esperada');
+                }
+                
+                allDATA = rawData;
+                initApp();
+                
+                // Ocultar indicador de carga después de cargar los datos
+                setTimeout(() => {
+                    document.getElementById('loading-overlay').style.display = 'none';
+                }, 500);
+            } catch (error) {
+                console.error("Error al leer el JSON:", error);
+                showNotification("Error al cargar los datos: " + error.message, "error");
+                
+                // Ocultar indicador de carga incluso si hay error
+                document.getElementById('loading-overlay').style.display = 'none';
+                
+                // Mostrar mensaje de error en la página
+                document.querySelector('.content-container').innerHTML = `
+                    <div class="page">
+                        <div class="card">
+                            <div class="card-title">
+                                <i class="fas fa-exclamation-triangle"></i>
+                                Error al cargar los datos
+                            </div>
+                            <div class="info-text">
+                                <p>No se pudieron cargar los datos de la comuna. Por favor, inténtelo de nuevo más tarde.</p>
+                                <p><strong>Error:</strong> ${error.message}</p>
+                                <p>Si el problema persiste, contacte al administrador del sitio.</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
+        
+        function initApp() {
+            const crimeData = {
+                "resumen": allDATA["resumen"],
+                "mensual": allDATA["mensual"],
+                "nuevo_resumen": allDATA["info"]
+            };
+            
+            const tableBody = document.getElementById('crime-data-table-body');
+            const showAllBtn = document.getElementById('show-all-btn');
+            const headerLocation = document.getElementById('header-location');
+            const lastWeekNameElement = document.getElementById('last-week-name');
+            const comunaNameDisplay = document.getElementById('comuna-name-display');
+            const comparisonGrid = document.getElementById('comparison-grid');
+            const crimeAnalysisPagesContainer = document.getElementById('crime-analysis-pages-container');
+            const infoTextElement1 = document.getElementById('info-text-1');
+            const infoTextElement2 = document.getElementById('info-text-2');
+            const mainTitle = document.getElementById('main-title');
+            
+            const comunaName = allDATA["resumen"][0].COMUNA;
+            const regionName = allDATA["meta"].region;
+            const lastWeekName = allDATA["meta"].semana_id;
+            
+            // Calcular horas transcurridas de forma más robusta
+            let horasTranscurridas = 0;
+            let anio;
+            try {
+                // Extraer la fecha del string de forma más flexible
+                const dateMatch = lastWeekName.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+                if (dateMatch) {
+                    const [, diaStr, mesStr, anioStr] = dateMatch;
+                    const dia = parseInt(diaStr, 10);
+                    const mes = parseInt(mesStr, 10) - 1; // Meses en JS son 0-11
+                    anio = parseInt(anioStr, 10);
+                    
+                    if (!isNaN(dia) && !isNaN(mes) && !isNaN(anio)) {
+                        const fechaObjetivo = new Date(anio, mes, dia);
+                        const inicioAnio = new Date(anio, 0, 1);
+                        horasTranscurridas = Math.floor((fechaObjetivo - inicioAnio) / (1000 * 60 * 60));
+                    }
+                }
+            } catch (error) {
+                console.error("Error al calcular horas transcurridas:", error);
+                horasTranscurridas = 0;
+            }
+            
+            // Inicializar mostrando todos los delitos
+            let isShowingAll = true;
+            
+            // Actualizar el título principal
+            mainTitle.textContent = `Estadísticas de Delincuencia, en la comuna de ${comunaName} (Región: ${regionName})`;
+            
+            // Actualizar el título de la página
+            document.title = `Estadísticas de Delincuencia - ${comunaName} (${regionName})`;
+            
+            // Mostrar el nombre de la comuna en la nueva sección
+            comunaNameDisplay.textContent = `${comunaName} - Región ${regionName}`;
+            
+            function showNotification(message, type = "success") {
+                const notification = document.getElementById('notification');
+                const notificationText = document.getElementById('notification-text');
+                
+                notificationText.textContent = message;
+                
+                if (type === "error") {
+                    notification.querySelector('i').className = "fas fa-exclamation-circle";
+                    notification.querySelector('i').style.color = "var(--danger-color)";
+                } else {
+                    notification.querySelector('i').className = "fas fa-check-circle";
+                    notification.querySelector('i').style.color = "var(--success-color)";
+                }
+                
+                notification.classList.add('show');
+                
+                setTimeout(() => {
+                    notification.classList.remove('show');
+                }, 3000);
+            }
+            
+            function formatNumber(num) {
+                return num.toLocaleString('es-CL');
+            }
+            
+            function renderTable(dataToRender) {
+                tableBody.innerHTML = '';
+                dataToRender.forEach((item, index) => {
+                    const row = document.createElement('tr');
+                    row.className = 'fade-in';
+                    row.style.animationDelay = `${index * 0.05}s`;
+                    
+                    let situationClass, iconClass, situationText, variationClass, variationText;
+                    
+                    if (item['2024'] > item['2025']) {
+                        situationClass = 'situacion-disminucion';
+                        iconClass = 'fa-arrow-down';
+                        situationText = 'Dis';
+                        variationClass = 'disminucion';
+                        variationText = item.variacion + '%';
+                    } else if (item['2024'] < item['2025']) {
+                        situationClass = 'situacion-aumento';
+                        iconClass = 'fa-arrow-up';
+                        situationText = 'Aum';
+                        variationClass = 'aumento';
+                        variationText = '+' + item.variacion + '%';
+                    } else {
+                        situationClass = 'situacion-igual';
+                        iconClass = 'fa-minus';
+                        situationText = 'Ig';
+                        variationClass = 'igual';
+                        variationText = item.variacion + '%';
+                    }
+                    
+                    row.innerHTML = `
+                        <td>
+                            <span class="situacion ${situationClass}">
+                                <i class="fas ${iconClass} icon-indicator"></i>${situationText}
+                            </span>
+                        </td>
+                        <td>${item.delito}</td>
+                        <td>${formatNumber(item['2024'])}</td>
+                        <td>${formatNumber(item['2025'])}</td>
+                        <td class="${variationClass}">${variationText}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            }
+            
+            function updateSummaryCards(data) {
+                const total2024 = data.reduce((sum, item) => sum + item['2024'], 0);
+                const total2025 = data.reduce((sum, item) => sum + item['2025'], 0);
+                const totalVariation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
+                const situation = totalVariation > 0 ? 'Aumento de Casos' : (totalVariation < 0 ? 'Disminución de Casos' : 'Sin Variación');
+                
+                animateValue('total-2024', 0, total2024, 1000);
+                animateValue('total-2025', 0, total2025, 1000);
+                
+                setTimeout(() => {
+                    document.getElementById('variation').textContent = `${totalVariation.toFixed(2)}%`;
+                    document.getElementById('situation').textContent = situation;
+                }, 500);
+            }
+            
+            function animateValue(id, start, end, duration) {
+                const obj = document.getElementById(id);
+                const range = end - start;
+                const minTimer = 50;
+                let stepTime = Math.abs(Math.floor(duration / range));
+                stepTime = Math.max(stepTime, minTimer);
+                const startTime = new Date().getTime();
+                const endTime = startTime + duration;
+                let timer;
+                
+                function run() {
+                    const now = new Date().getTime();
+                    const remaining = Math.max((endTime - now) / duration, 0);
+                    const value = Math.round(end - (remaining * range));
+                    obj.textContent = formatNumber(value);
+                    if (value == end) {
+                        clearInterval(timer);
+                    }
+                }
+                
+                timer = setInterval(run, stepTime);
+                run();
+            }
+            
+            function createComparisonCards(data) {
+                const groupedData = {};
+                data.forEach(item => {
+                    if (!groupedData[item.informacion]) {
+                        groupedData[item.informacion] = [];
+                    }
+                    groupedData[item.informacion].push(item);
+                });
+                
+                Object.keys(groupedData).forEach((type, index) => {
+                    setTimeout(() => {
+                        const typeData = groupedData[type];
+                        const total2024 = typeData.reduce((sum, item) => sum + item['2024'], 0);
+                        const total2025 = typeData.reduce((sum, item) => sum + item['2025'], 0);
+                        const variation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
+                        
+                        const card = document.createElement('div');
+                        card.className = 'comparison-card fade-in';
+                        
+                        const chartContainer = document.createElement('div');
+                        chartContainer.className = 'comparison-chart-container';
+                        
+                        const canvas = document.createElement('canvas');
+                        canvas.id = `comparison-chart-${type.replace(/\s/g, '-')}`;
+                        chartContainer.appendChild(canvas);
+                        
+                        const comparisonInfo = document.createElement('div');
+                        comparisonInfo.className = 'comparison-info';
+                        
+                        const year2024 = document.createElement('div');
+                        year2024.className = 'comparison-year year-2024';
+                        year2024.innerHTML = `
+                            <div class="year-label">2024</div>
+                            <div class="year-value">${formatNumber(total2024)}</div>
+                        `;
+                        
+                        const variationDiv = document.createElement('div');
+                        variationDiv.className = 'comparison-variation';
+                        let variationClass, variationText;
+                        
+                        if (total2024 > total2025) {
+                            variationClass = 'variation-negative';
+                            variationText = `${variation.toFixed(1)}%`;
+                        } else if (total2024 < total2025) {
+                            variationClass = 'variation-positive';
+                            variationText = `+${variation.toFixed(1)}%`;
+                        } else {
+                            variationClass = 'variation-equal';
+                            variationText = `${variation.toFixed(1)}%`;
+                        }
+                        
+                        variationDiv.innerHTML = `
+                            <div class="variation-label">Variación</div>
+                            <div class="variation-value ${variationClass}">${variationText}</div>
+                        `;
+                        
+                        const year2025 = document.createElement('div');
+                        year2025.className = 'comparison-year year-2025';
+                        year2025.innerHTML = `
+                            <div class="year-label">2025</div>
+                            <div class="year-value">${formatNumber(total2025)}</div>
+                        `;
+                        
+                        comparisonInfo.appendChild(year2024);
+                        comparisonInfo.appendChild(variationDiv);
+                        comparisonInfo.appendChild(year2025);
+                        
+                        card.appendChild(chartContainer);
+                        card.appendChild(comparisonInfo);
+                        
+                        comparisonGrid.appendChild(card);
+                        
+                        const ctx = canvas.getContext('2d');
+                        const chart = new Chart(ctx, {
+                            type: 'bar',
+                            data: {
+                                labels: [type],
+                                datasets: [
+                                    {
+                                        label: '2024',
+                                        data: [total2024],
+                                        backgroundColor: '#3498db',
+                                        borderColor: '#2980b9',
+                                        borderWidth: 1,
+                                        borderRadius: 6,
+                                        barThickness: 40,
+                                        maxBarThickness: 50
+                                    },
+                                    {
+                                        label: '2025',
+                                        data: [total2025],
+                                        backgroundColor: total2024 > total2025 ? '#27ae60' : (total2024 < total2025 ? '#e74c3c' : '#f1c40f'),
+                                        borderColor: total2024 > total2025 ? '#229954' : (total2024 < total2025 ? '#c0392b' : '#d4ac0d'),
+                                        borderWidth: 1,
+                                        borderRadius: 6,
+                                        barThickness: 40,
+                                        maxBarThickness: 50
+                                    }
+                                ]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                            font: { size: 10 },
+                                            callback: function(value) {
+                                                return formatNumber(value);
+                                            },
+                                            padding: 15
+                                        },
+                                        grid: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--border-color')
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
+                                            font: { size: 10 }
+                                        },
+                                        grid: { display: false }
+                                    }
+                                },
+                                plugins: {
+                                    legend: { display: false },
+                                    tooltip: {
+                                        backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                        titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                        borderWidth: 1,
+                                        padding: 10,
+                                        cornerRadius: 8,
+                                        displayColors: true,
+                                        callbacks: {
+                                            label: function(context) {
+                                                return `${context.dataset.label}: ${formatNumber(context.raw)} casos`;
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: { weight: 'bold', size: 10 },
+                                        formatter: function(value) {
+                                            return formatNumber(value);
+                                        },
+                                        offset: 5
+                                    }
+                                },
+                                layout: {
+                                    padding: {
+                                        top: 20,
+                                        bottom: 5
+                                    }
+                                },
+                                animation: {
+                                    duration: 1500,
+                                    easing: 'easeOutQuart'
+                                }
+                            }
+                        });
+                        
+                        // Guardar la instancia del gráfico
+                        chartInstances.push(chart);
+                    }, index * 200);
+                });
+            }
+            
+            function createCrimeAnalysisPages(data) {
+                const uniqueCrimes = [...new Set(data.map(item => item.delito))];
+                
+                uniqueCrimes.forEach((crime, crimeIndex) => {
+                    const page = document.createElement('div');
+                    page.className = 'page fade-in';
+                    page.style.animationDelay = `${0.4 + crimeIndex * 0.1}s`;
+                    
+                    const pageContent = document.createElement('div');
+                    pageContent.className = 'page-content';
+                    
+                    const crimeSection = document.createElement('div');
+                    crimeSection.className = 'crime-analysis-section';
+                    
+                    const crimeTitle = document.createElement('h2');
+                    crimeTitle.className = 'crime-analysis-title';
+                    crimeTitle.textContent = `Análisis de ${crime}`;
+                    crimeSection.appendChild(crimeTitle);
+                    
+                    const crimeContainer = document.createElement('div');
+                    crimeContainer.className = 'crime-analysis-container';
+                    
+                    const crimeLeft = document.createElement('div');
+                    crimeLeft.className = 'crime-analysis-left';
+                    
+                    const crimeStatsContainer = document.createElement('div');
+                    crimeStatsContainer.id = `crime-stats-${crime.replace(/\s/g, '-')}`;
+                    
+                    const crimeRight = document.createElement('div');
+                    crimeRight.className = 'crime-analysis-right';
+                    
+                    const crimeChartsContainer = document.createElement('div');
+                    crimeChartsContainer.className = 'crime-charts-container';
+                    
+                    const crimeSmallCharts = document.createElement('div');
+                    crimeSmallCharts.className = 'crime-small-charts';
+                    
+                    const crimeChartBox1 = document.createElement('div');
+                    crimeChartBox1.className = 'crime-chart-box';
+                    crimeChartBox1.innerHTML = `
+                        <div class="crime-chart-title">Casos</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-casos-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-casos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox1);
+                    
+                    const crimeChartBox2 = document.createElement('div');
+                    crimeChartBox2.className = 'crime-chart-box';
+                    crimeChartBox2.innerHTML = `
+                        <div class="crime-chart-title">Detenciones</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-detenciones-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-detenciones-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox2);
+                    
+                    const crimeChartBox3 = document.createElement('div');
+                    crimeChartBox3.className = 'crime-chart-box';
+                    crimeChartBox3.innerHTML = `
+                        <div class="crime-chart-title">Detenidos</div>
+                        <div class="crime-chart-container">
+                            <canvas id="crime-detenidos-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div id="crime-detenidos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
+                    `;
+                    crimeSmallCharts.appendChild(crimeChartBox3);
+                    
+                    crimeChartsContainer.appendChild(crimeSmallCharts);
+                    
+                    const crimeLargeChart = document.createElement('div');
+                    crimeLargeChart.className = 'crime-large-chart';
+                    crimeLargeChart.innerHTML = `
+                        <div class="crime-large-chart-title">Evolución Mensual de ${crime} (2024-2025)</div>
+                        <div class="crime-large-chart-container">
+                            <canvas id="crime-evolucion-chart-${crime.replace(/\s/g, '-')}"></canvas>
+                        </div>
+                        <div class="crime-legend-container">
+                            <div class="crime-legend-item">
+                                <div class="crime-legend-color" style="background: linear-gradient(to right, rgb(23,152,11), rgb(217,179,0), rgb(255,0,0));"></div>
+                                <span>Bajo → Alto</span>
+                            </div>
+                        </div>
+                    `;
+                    crimeChartsContainer.appendChild(crimeLargeChart);
+                    
+                    crimeLeft.appendChild(crimeStatsContainer);
+                    crimeRight.appendChild(crimeChartsContainer);
+                    crimeContainer.appendChild(crimeLeft);
+                    crimeContainer.appendChild(crimeRight);
+                    crimeSection.appendChild(crimeContainer);
+                    
+                    const sectionFooter = document.createElement('div');
+                    sectionFooter.className = 'section-footer';
+                    sectionFooter.innerHTML = `
+                        <div class="section-footer-number">${5 + crimeIndex}</div>
+                        <div>Análisis detallado de ${crime.toLowerCase()} por <a href="https://institutolibertad.cl/" target="_blank" class="section-footer-link">Instituto Libertad</a></div>
+                    `;
+                    crimeSection.appendChild(sectionFooter);
+                    
+                    pageContent.appendChild(crimeSection);
+                    page.appendChild(pageContent);
+                    
+                    crimeAnalysisPagesContainer.appendChild(page);
+                    
+                    const crimeDataFiltered = data.filter(item => item.delito === crime);
+                    const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
+                    const detencionesData = crimeDataFiltered.filter(item => item.informacion === 'Detenciones');
+                    const detenidosData = crimeDataFiltered.filter(item => item.informacion === 'Detenidos');
+                    
+                    const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);
+                    const casos2025 = casosData.reduce((sum, item) => sum + item['2025'], 0);
+                    const casosVariation = casos2024 > 0 ? ((casos2025 - casos2024) / casos2024) * 100 : (casos2025 > 0 ? 100 : 0);
+                    
+                    const detenciones2024 = detencionesData.reduce((sum, item) => sum + item['2024'], 0);
+                    const detenciones2025 = detencionesData.reduce((sum, item) => sum + item['2025'], 0);
+                    const detencionesVariation = detenciones2024 > 0 ? ((detenciones2025 - detenciones2024) / detenciones2024) * 100 : (detenciones2025 > 0 ? 100 : 0);
+                    
+                    const detenidos2024 = detenidosData.reduce((sum, item) => sum + item['2024'], 0);
+                    const detenidos2025 = detenidosData.reduce((sum, item) => sum + item['2025'], 0);
+                    const detenidosVariation = detenidos2024 > 0 ? ((detenidos2025 - detenidos2024) / detenidos2024) * 100 : (detenidos2025 > 0 ? 100 : 0);
+                    
+                    // Determinar clases de color según la comparación para casos
+                    let casosHighlightClass, casosVariationClass;
+                    if (casos2024 > casos2025) {
+                        casosHighlightClass = 'crime-highlight-green';
+                        casosVariationClass = 'crime-decrease';
+                    } else if (casos2024 < casos2025) {
+                        casosHighlightClass = 'crime-highlight-red';
+                        casosVariationClass = 'crime-increase';
+                    } else {
+                        casosHighlightClass = 'crime-highlight-yellow';
+                        casosVariationClass = 'crime-equal';
+                    }
+                    
+                    // Determinar clases de color según la comparación para detenciones
+                    let detencionesHighlightClass, detencionesVariationClass;
+                    if (detenciones2024 > detenciones2025) {
+                        detencionesHighlightClass = 'crime-highlight-green';
+                        detencionesVariationClass = 'crime-decrease';
+                    } else if (detenciones2024 < detenciones2025) {
+                        detencionesHighlightClass = 'crime-highlight-red';
+                        detencionesVariationClass = 'crime-increase';
+                    } else {
+                        detencionesHighlightClass = 'crime-highlight-yellow';
+                        detencionesVariationClass = 'crime-equal';
+                    }
+                    
+                    // Determinar clases de color según la comparación para detenidos
+                    let detenidosHighlightClass, detenidosVariationClass;
+                    if (detenidos2024 > detenidos2025) {
+                        detenidosHighlightClass = 'crime-highlight-green';
+                        detenidosVariationClass = 'crime-decrease';
+                    } else if (detenidos2024 < detenidos2025) {
+                        detenidosHighlightClass = 'crime-highlight-red';
+                        detenidosVariationClass = 'crime-increase';
+                    } else {
+                        detenidosHighlightClass = 'crime-highlight-yellow';
+                        detenidosVariationClass = 'crime-equal';
+                    }
+                    
+                    const statsCard1 = document.createElement('div');
+                    statsCard1.className = 'crime-stats-card fade-in';
+                    statsCard1.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-info-circle text-blue-600" style="margin-right: 5px;"></i>
+                            En <span class="crime-highlight">${comunaName} - Región ${regionName}</span> se registraron <span class="${casosHighlightClass}">${formatNumber(casos2025)} casos</span> de ${crime.toLowerCase()} en 2025, 
+                            <span class="${casosHighlightClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span> vs ${formatNumber(casos2024)} casos en 2024.
+                        </div>
+                    `;
+                    
+                    const statsCard2 = document.createElement('div');
+                    statsCard2.className = 'crime-stats-card fade-in';
+                    statsCard2.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-handcuffs text-blue-600" style="margin-right: 5px;"></i>
+                            Detenciones por ${crime.toLowerCase()}: ${formatNumber(detenciones2024)} en 2024, 
+                            <span class="${detencionesHighlightClass}">${formatNumber(detenciones2025)} detenciones</span> en 2025.
+                        </div>
+                    `;
+                    
+                    const statsCard3 = document.createElement('div');
+                    statsCard3.className = 'crime-stats-card fade-in';
+                    statsCard3.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-users text-blue-600" style="margin-right: 5px;"></i>
+                            Personas detenidas: ${formatNumber(detenidos2024)} en 2024, 
+                            <span class="${detenidosHighlightClass}">${formatNumber(detenidos2025)} detenidos</span> en 2025.
+                        </div>
+                    `;
+                    
+                    const statsCard4 = document.createElement('div');
+                    statsCard4.className = 'crime-stats-card fade-in';
+                    statsCard4.innerHTML = `
+                        <div class="crime-stats-text">
+                            <i class="fas fa-chart-bar text-blue-600" style="margin-right: 5px;"></i>
+                            Evolución mensual con variaciones significativas durante el período analizado.
+                        </div>
+                    `;
+                    
+                    crimeStatsContainer.appendChild(statsCard1);
+                    crimeStatsContainer.appendChild(statsCard2);
+                    crimeStatsContainer.appendChild(statsCard3);
+                    crimeStatsContainer.appendChild(statsCard4);
+                    
+                    document.getElementById(`crime-casos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${formatNumber(casos2024)} | 2025: ${formatNumber(casos2025)} <span class="crime-percentage-change ${casosVariationClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span>`;
+                    
+                    document.getElementById(`crime-detenciones-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${formatNumber(detenciones2024)} | 2025: ${formatNumber(detenciones2025)} <span class="crime-percentage-change ${detencionesVariationClass}">${detencionesVariation >= 0 ? '+' : ''}${detencionesVariation.toFixed(1)}%</span>`;
+                    
+                    document.getElementById(`crime-detenidos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
+                        `2024: ${formatNumber(detenidos2024)} | 2025: ${formatNumber(detenidos2025)} <span class="crime-percentage-change ${detenidosVariationClass}">${detenidosVariation >= 0 ? '+' : ''}${detenidosVariation.toFixed(1)}%</span>`;
+                    
+                    setTimeout(() => {
+                        // Función para crear gráficos de barras
+                        function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
+                            const ctx = document.getElementById(canvasId).getContext('2d');
+                            const chart = new Chart(ctx, {
+                                type: 'bar',
+                                data: {
+                                    labels: ['2024', '2025'],
+                                    datasets: [{
+                                        label: label,
+                                        data: [data2024, data2025],
+                                        backgroundColor: ['#3498db', data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f')],
+                                        borderColor: ['#2980b9', data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d')],
+                                        borderWidth: 1,
+                                        borderRadius: 4,
+                                        barThickness: 30,
+                                        maxBarThickness: 40
+                                    }]
+                                },
+                                options: {
+                                    responsive: true,
+                                    maintainAspectRatio: false,
+                                    scales: {
+                                        y: {
+                                            beginAtZero: true,
+                                            ticks: {
+                                                stepSize: 1,
+                                                font: { size: 9 },
+                                                callback: function(value) {
+                                                    return formatNumber(value);
+                                                },
+                                                padding: 15
+                                            },
+                                            grid: {
+                                                display: true,
+                                                color: 'rgba(0, 0, 0, 0.05)'
+                                            }
+                                        },
+                                        x: {
+                                            ticks: { 
+                                                font: { size: 8 },
+                                                padding: 5
+                                            },
+                                            grid: { display: false }
+                                        }
+                                    },
+                                    plugins: {
+                                        legend: { display: false },
+                                        tooltip: {
+                                            backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
+                                            titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                            bodyColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                            borderColor: getComputedStyle(document.body).getPropertyValue('--border-color'),
+                                            borderWidth: 1,
+                                            padding: 10,
+                                            cornerRadius: 8,
+                                            callbacks: {
+                                                label: function(context) {
+                                                    return `${context.dataset.label}: ${formatNumber(context.raw)} ${label.toLowerCase()}`;
+                                                }
+                                            }
+                                        },
+                                        datalabels: {
+                                            anchor: 'end',
+                                            align: 'end',
+                                            color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                            font: { weight: 'bold', size: 9 },
+                                            formatter: function(value) {
+                                                return formatNumber(value);
+                                            },
+                                            offset: 5
+                                        }
+                                    },
+                                    layout: {
+                                        padding: {
+                                            top: 20,
+                                            bottom: 5
+                                        }
+                                    }
+                                }
+                            });
+                            
+                            // Guardar la instancia del gráfico
+                            chartInstances.push(chart);
+                            return chart;
+                        }
+                        
+                        // Crear los tres gráficos pequeños
+                        createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2024, casos2025, casosHighlightClass);
+                        createBarChart(`crime-detenciones-chart-${crime.replace(/\s/g, '-')}`, 'Detenciones', detenciones2024, detenciones2025, detencionesHighlightClass);
+                        createBarChart(`crime-detenidos-chart-${crime.replace(/\s/g, '-')}`, 'Detenidos', detenidos2024, detenidos2025, detenidosHighlightClass);
+                        
+                        // Crear el gráfico de evolución mensual
+                        const evolucionCtx = document.getElementById(`crime-evolucion-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
+                        const crimeMensual = crimeData.mensual.filter(item => item.delito === crime);
+                        
+                        const monthlyData = {};
+                        crimeMensual.forEach(item => {
+                            const key = `${item.anio}-${item.mes.toString().padStart(2, '0')}`;
+                            if (!monthlyData[key]) {
+                                monthlyData[key] = 0;
+                            }
+                            monthlyData[key] += item.casos;
+                        });
+                        
+                        const sortedKeys = Object.keys(monthlyData).sort();
+                        const labels = sortedKeys.map(key => {
+                            const [year, month] = key.split('-');
+                            const monthNames = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'];
+                            return `${monthNames[parseInt(month) - 1]}-${year}`;
+                        });
+                        const values = sortedKeys.map(key => monthlyData[key]);
+                        
+                        // Calcular el promedio
+                        const average = values.reduce((a, b) => a + b, 0) / values.length;
+                        const averageData = new Array(values.length).fill(average);
+                        
+                        // Calcular el índice para mostrar la etiqueta en el 75% del gráfico
+                        const labelIndex = Math.floor(values.length * 0.75);
+                        
+                        const minValue = Math.min(...values);
+                        const maxValue = Math.max(...values);
+                        
+                        const gradientColors = values.map(value => {
+                            const normalized = maxValue > minValue ? (value - minValue) / (maxValue - minValue) : 0.5;
+                            let r, g, b;
+                            if (normalized <= 0.5) {
+                                // Segmento 1: Verde (23,152,11) → Amarillo (217,179,0)
+                                const t = normalized * 2; // Normalizar a [0, 1] para este segmento
+                                r = Math.round(23 + (217 - 23) * t);
+                                g = Math.round(152 + (179 - 152) * t);
+                                b = Math.round(11 + (0 - 11) * t); // 11 → 0
+                            } else {
+                                // Segmento 2: Amarillo (217,179,0) → Rojo (255,0,0)
+                                const t = (normalized - 0.5) * 2; // Normalizar a [0, 1] para este segmento
+                                r = Math.round(217 + (255 - 217) * t);
+                                g = Math.round(179 + (0 - 179) * t); // 179 → 0
+                                b = Math.round(0 + (0 - 0) * t); // Siempre 0
+                            }
+                            return `rgb(${r}, ${g}, ${b})`;
+                        });
+                        
+                        const evolucionChart = new Chart(evolucionCtx, {
+                            type: 'bar',
+                            data: {
+                                labels: labels,
+                                datasets: [
+                                    {
+                                        label: crime,
+                                        data: values,
+                                        backgroundColor: gradientColors,
+                                        borderColor: gradientColors,
+                                        borderWidth: 1,
+                                        barThickness: 15,
+                                        maxBarThickness: 20,
+                                        order: 2 // Las barras se dibujan primero (detrás de la línea)
+                                    },
+                                    {
+                                        label: 'Promedio',
+                                        data: averageData,
+                                        type: 'line',
+                                        borderColor: '#118dff',
+                                        backgroundColor: 'rgba(17, 141, 255, 0.1)',
+                                        borderWidth: 2,
+                                        pointRadius: 0, // Sin puntos en la línea
+                                        fill: false,
+                                        tension: 0, // Línea recta
+                                        order: 1, // La línea se dibuja encima de las barras
+                                        // Agregar etiqueta de promedio en el 75% del gráfico
+                                        datalabels: {
+                                            align: 'top',
+                                            anchor: 'center',
+                                            color: '#118dff',
+                                            font: {
+                                                weight: 'bold',
+                                                size: 10
+                                            },
+                                            formatter: function(value) {
+                                                return `Promedio: ${formatNumber(average)}`;
+                                            },
+                                            offset: 5,
+                                            display: function(context) {
+                                                // Solo mostrar la etiqueta en el punto calculado (75% del gráfico)
+                                                return context.dataIndex === labelIndex;
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                plugins: {
+                                    legend: { 
+                                        display: true,
+                                        position: 'top',
+                                        labels: {
+                                            boxWidth: 15,
+                                            padding: 10,
+                                            font: {
+                                                size: 10
+                                            }
+                                        }
+                                    },
+                                    tooltip: {
+                                        callbacks: {
+                                            label: function(context) {
+                                                if (context.datasetIndex === 0) {
+                                                    return `Casos: ${formatNumber(context.parsed.y)}`;
+                                                } else {
+                                                    return `Promedio: ${formatNumber(average)} casos`;
+                                                }
+                                            }
+                                        }
+                                    },
+                                    datalabels: {
+                                        anchor: 'end',
+                                        align: 'end',
+                                        color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
+                                        font: { weight: 'bold', size: 7 },
+                                        formatter: function(value) {
+                                            return formatNumber(value);
+                                        },
+                                        offset: 5,
+                                        display: function(context) {
+                                            // Solo mostrar etiquetas en las barras, no en la línea
+                                            return context.datasetIndex === 0;
+                                        }
+                                    }
+                                },
+                                scales: {
+                                    y: {
+                                        beginAtZero: true,
+                                        ticks: {
+                                            stepSize: 1,
+                                            font: { size: 8 },
+                                            callback: function(value) {
+                                                return formatNumber(value);
+                                            },
+                                            padding: 10
+                                        },
+                                        grid: {
+                                            display: true,
+                                            color: 'rgba(0, 0, 0, 0.05)'
+                                        }
+                                    },
+                                    x: {
+                                        ticks: {
+                                            maxRotation: 45,
+                                            minRotation: 45,
+                                            font: { size: 7 },
+                                            padding: 3
+                                        },
+                                        grid: { display: false }
+                                    }
+                                },
+                                layout: {
+                                    padding: {
+                                        top: 20,
+                                        bottom: 5
+                                    }
+                                }
+                            }
+                        });
+                        
+                        // Guardar la instancia del gráfico
+                        chartInstances.push(evolucionChart);
+                    }, 500 + crimeIndex * 200);
+                });
+            }
+            
+            function initialLoad() {
+                // Mostrar todos los delitos por defecto
+                renderTable(crimeData.resumen);
+                updateSummaryCards(crimeData.resumen);
+                
+                headerLocation.textContent = `${comunaName} - Región ${regionName} 2024-2025 - ${lastWeekName}`;
+                lastWeekNameElement.textContent = `Fecha de actualización: ${lastWeekName}`;
+                
+                const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
+                const totalCasos2025 = casos2025Data.reduce((sum, item) => sum + item['2025'], 0);
+                
+                const detenidos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Detenidos');
+                const totalDetenidos2025 = detenidos2025Data.reduce((sum, item) => sum + item['2025'], 0);
+                
+                const valor2 = totalCasos2025 > 0 ? horasTranscurridas / totalCasos2025 : 0;
+                const valor4 = totalCasos2025 > 0 ? (totalDetenidos2025 / totalCasos2025) * 100 : 0;
+                
+                infoTextElement1.innerHTML = `
+                    Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2025)}</strong> durante el año 2025, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
+                `;
+                
+                infoTextElement2.innerHTML = `
+                    De todos los casos ocurridos, el número de detenidos para todos los delitos que informa la plataforma S.T.O.P. de Carabineros es de <strong>${formatNumber(totalDetenidos2025)}</strong> durante el año 2025. Es decir, la proporción de detenidos con relación al número de casos es de <strong>${valor4.toFixed(1)}%</strong>.
+                `;
+                
+                createComparisonCards(crimeData.nuevo_resumen);
+                createCrimeAnalysisPages(crimeData.nuevo_resumen);
+                
+                showNotification("Datos cargados correctamente");
+            }
+            
+            showAllBtn.addEventListener('click', () => {
+                isShowingAll = !isShowingAll;
+                if (isShowingAll) {
+                    renderTable(crimeData.resumen);
+                    showAllBtn.innerHTML = '<i class="fas fa-list-ul"></i> Mostrar Top 5';
+                    showNotification("Mostrando todos los delitos");
+                } else {
+                    const top5 = crimeData.resumen.sort((a, b) => Math.abs(b.variacion) - Math.abs(a.variacion)).slice(0, 5);
+                    renderTable(top5);
+                    showAllBtn.innerHTML = '<i class="fas fa-list"></i> Mostrar Todos';
+                    showNotification("Mostrando top 5 delitos");
+                }
+            });
+            
+            initialLoad();
+            
+            // Configurar el manejo de impresión después de cargar todos los gráficos
+            setupPrintHandling();
+        }
+        
+        loadData();
+    </script>
+</body>
+</html>

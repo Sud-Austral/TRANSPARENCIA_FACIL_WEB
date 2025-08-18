@@ -2579,7 +2579,7 @@
                 renderTable(crimeData.resumen);
                 updateSummaryCards(crimeData.resumen);
                 
-                headerLocation.textContent = `${comunaName} - Región ${regionName} 2024-2025 - ${lastWeekName}`;
+                headerLocation.textContent = `Región ${regionName} 2024-2025 - ${lastWeekName}`;
                 lastWeekNameElement.textContent = `Fecha de actualización: ${lastWeekName}`;
                 
                 const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');

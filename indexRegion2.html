@@ -1693,7 +1693,7 @@
         
         let allDATA = {};
         const params = new URLSearchParams(window.location.search);
-        const codcomParam = params.get("codcom")?.trim() || "13101";
+        const codcomParam = params.get("codcom")?.trim() || "13";
         const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
         
         // Mostrar indicador de carga al inicio
@@ -2398,7 +2398,6 @@
                         const monthlyData = {};
                         crimeMensual.forEach(item => {
                             const key = `${item.anio}-${item.mes.toString().padStart(2, '0')}`;
-                            console.log("key",key)
                             if (!monthlyData[key]) {
                                 monthlyData[key] = 0;
                             }

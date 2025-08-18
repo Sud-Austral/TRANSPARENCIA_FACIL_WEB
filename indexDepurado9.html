@@ -2302,7 +2302,6 @@
                     setTimeout(() => {
                         // Función para crear gráficos de barras
                         function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
-                            console.log("data",label)
                             const ctx = document.getElementById(canvasId).getContext('2d');
                             const chart = new Chart(ctx, {
                                 type: 'bar',
@@ -2412,7 +2411,6 @@
                             return `${monthNames[parseInt(month) - 1]}-${year}`;
                         });
                         const values = sortedKeys.map(key => monthlyData[key]);
-                        console.log("label",values)
                         // Calcular el promedio
                         const average = values.reduce((a, b) => a + b, 0) / values.length;
                         const averageData = new Array(values.length).fill(average);

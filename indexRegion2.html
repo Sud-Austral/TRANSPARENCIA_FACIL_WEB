@@ -2303,7 +2303,6 @@
                         // Función para crear gráficos de barras
                         function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
                             const ctx = document.getElementById(canvasId).getContext('2d');
-                            console.log("data",label)
                             const chart = new Chart(ctx, {
                                 type: 'bar',
                                 data: {
@@ -2397,7 +2396,6 @@
                         const crimeMensual = crimeData.mensual.filter(item => item.delito === crime);
                         
                         const monthlyData = {};
-                        console.log("label",crimeMensual)
                         crimeMensual.forEach(item => {
                             const key = `${item.anio}-${item.mes.toString().padStart(2, '0')}`;
                             console.log("key",key)

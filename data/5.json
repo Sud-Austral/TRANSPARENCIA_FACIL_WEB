@@ -1,0 +1,2521 @@
+{
+ "resumen": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "2024": 45,
+   "2025": 38,
+   "variacion": -16,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "2024": 6254,
+   "2025": 6646,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "2024": 4574,
+   "2025": 4651,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "2024": 206,
+   "2025": 315,
+   "variacion": 53,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "2024": 1752,
+   "2025": 1381,
+   "variacion": -21,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "2024": 1297,
+   "2025": 1164,
+   "variacion": -10,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "2024": 3282,
+   "2025": 3895,
+   "variacion": 19,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "2024": 2040,
+   "2025": 1752,
+   "variacion": -14,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "2024": 3392,
+   "2025": 2869,
+   "variacion": -15,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "2024": 2689,
+   "2025": 2602,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "2024": 1400,
+   "2025": 1511,
+   "variacion": 8,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "2024": 219,
+   "2025": 171,
+   "variacion": -22,
+   "situación": "Disminución de Casos",
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "2024": 99,
+   "2025": 112,
+   "variacion": 13,
+   "situación": "Aumento de Casos",
+   "COMUNA": "NO COMUNA"
+  }
+ ],
+ "mensual": [
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 8,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 4,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 4,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 4,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 9,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 5,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 10,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 3,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 9,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 5,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 3,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 4,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 5,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 5,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 2,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 993,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 715,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 733,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 983,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 787,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 812,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 1028,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 867,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 992,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 965,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 897,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 922,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 1187,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 897,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 1042,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 742,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 795,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 936,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 813,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 234,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 755,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 667,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 608,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 727,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 530,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 517,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 643,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 573,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 795,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 630,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 669,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 623,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 711,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 632,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 791,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 578,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 580,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 613,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 575,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 171,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 36,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 25,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 20,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 31,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 24,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 25,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 40,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 45,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 42,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 32,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 36,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 40,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 55,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 50,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 50,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 34,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 40,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 40,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 38,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 8,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 282,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 215,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 197,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 258,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 241,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 223,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 302,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 210,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 313,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 235,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 225,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 181,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 224,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 170,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 214,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 167,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 203,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 194,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 168,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 41,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 240,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 150,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 131,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 147,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 191,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 165,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 237,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 173,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 200,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 143,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 186,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 178,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 185,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 166,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 180,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 140,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 116,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 183,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 145,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 49,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 610,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 409,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 364,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 417,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 416,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 407,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 564,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 435,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 540,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 549,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 540,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 634,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 641,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 583,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 618,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 464,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 458,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 589,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 430,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 112,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 419,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 278,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 247,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 294,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 232,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 219,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 290,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 265,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 322,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 217,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 201,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 236,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 322,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 266,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 262,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 225,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 209,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 232,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 194,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 42,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 576,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 390,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 388,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 455,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 423,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 463,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 596,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 472,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 601,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 440,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 422,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 463,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 459,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 366,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 445,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 340,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 377,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 441,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 359,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 82,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 409,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 334,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 288,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 376,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 383,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 379,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 438,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 364,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 424,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 319,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 370,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 377,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 403,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 297,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 370,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 356,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 353,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 412,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 321,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 90,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 217,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 161,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 159,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 182,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 186,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 185,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 257,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 202,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 277,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 254,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 288,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 235,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 301,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 205,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 224,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 171,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 179,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 223,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 150,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 58,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 55,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 24,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 25,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 34,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 22,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 25,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 28,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 26,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 27,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 29,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 28,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 18,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 25,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 29,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 23,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 20,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 23,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 30,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 14,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 7,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 1,
+   "frecuencia": 20,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 2,
+   "frecuencia": 14,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 3,
+   "frecuencia": 16,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 4,
+   "frecuencia": 13,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 5,
+   "frecuencia": 10,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 6,
+   "frecuencia": 12,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 7,
+   "frecuencia": 11,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 8,
+   "frecuencia": 20,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 9,
+   "frecuencia": 22,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 10,
+   "frecuencia": 17,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 11,
+   "frecuencia": 22,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2024,
+   "mes": 12,
+   "frecuencia": 8,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 1,
+   "frecuencia": 16,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 2,
+   "frecuencia": 12,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 3,
+   "frecuencia": 18,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 4,
+   "frecuencia": 18,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 5,
+   "frecuencia": 11,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 6,
+   "frecuencia": 21,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 7,
+   "frecuencia": 16,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5,
+   "año": 2025,
+   "mes": 8,
+   "frecuencia": 0,
+   "COMUNA": "NO COMUNA"
+  }
+ ],
+ "info": [
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "HOMICIDIOS",
+   "2024": 45,
+   "2025": 38,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "HURTOS",
+   "2024": 6254,
+   "2025": 6646,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "LESIONES",
+   "2024": 4574,
+   "2025": 4651,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 206,
+   "2025": 315,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1752,
+   "2025": 1381,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1297,
+   "2025": 1164,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 3282,
+   "2025": 3895,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 2040,
+   "2025": 1752,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 3392,
+   "2025": 2869,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2689,
+   "2025": 2602,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1400,
+   "2025": 1511,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 219,
+   "2025": 171,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5,
+   "delito": "VIOLACIONES",
+   "2024": 99,
+   "2025": 112,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "HOMICIDIOS",
+   "2024": 5,
+   "2025": 18,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "HURTOS",
+   "2024": 2273,
+   "2025": 2247,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "LESIONES",
+   "2024": 1362,
+   "2025": 1392,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 47,
+   "2025": 57,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 112,
+   "2025": 109,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 163,
+   "2025": 136,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 91,
+   "2025": 92,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 32,
+   "2025": 15,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 172,
+   "2025": 166,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 314,
+   "2025": 308,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 144,
+   "2025": 195,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 8,
+   "2025": 9,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 5,
+   "delito": "VIOLACIONES",
+   "2024": 19,
+   "2025": 22,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "HOMICIDIOS",
+   "2024": 5,
+   "2025": 21,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "HURTOS",
+   "2024": 2457,
+   "2025": 2434,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "LESIONES",
+   "2024": 2378,
+   "2025": 2462,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 66,
+   "2025": 96,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 187,
+   "2025": 161,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 269,
+   "2025": 255,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 125,
+   "2025": 130,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 49,
+   "2025": 24,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 219,
+   "2025": 206,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 437,
+   "2025": 403,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 185,
+   "2025": 276,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 19,
+   "2025": 14,
+   "COMUNA": "NO COMUNA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 5,
+   "delito": "VIOLACIONES",
+   "2024": 22,
+   "2025": 22,
+   "COMUNA": "NO COMUNA"
+  }
+ ],
+ "meta": {
+  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "region": "Valparaíso"
+ }
+}

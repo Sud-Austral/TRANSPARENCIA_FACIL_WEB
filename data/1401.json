@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1401,
-   "2024": 122,
-   "2025": 90,
-   "variacion": -26,
+   "2024": 125,
+   "2025": 91,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 1401,
-   "2024": 86,
-   "2025": 95,
-   "variacion": 10,
+   "2024": 88,
+   "2025": 103,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "POZO ALMONTE"
   },
@@ -31,26 +31,26 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 1401,
    "2024": 6,
-   "2025": 5,
-   "variacion": -17,
-   "situación": "Disminución de Casos",
+   "2025": 6,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "POZO ALMONTE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 1401,
-   "2024": 9,
-   "2025": 10,
-   "variacion": 11,
-   "situación": "Aumento de Casos",
+   "2024": 12,
+   "2025": 11,
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 1401,
-   "2024": 17,
-   "2025": 9,
-   "variacion": -47,
+   "2024": 18,
+   "2025": 11,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
@@ -67,25 +67,25 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 1401,
    "2024": 12,
-   "2025": 21,
-   "variacion": 75,
+   "2025": 24,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "POZO ALMONTE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1401,
-   "2024": 85,
-   "2025": 52,
-   "variacion": -39,
+   "2024": 92,
+   "2025": 55,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1401,
-   "2024": 44,
-   "2025": 25,
+   "2024": 46,
+   "2025": 26,
    "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
@@ -93,9 +93,9 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 1401,
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
-   "variacion": -50,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 1401,
    "2024": 10,
-   "2025": 2,
-   "variacion": -80,
+   "2025": 3,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "POZO ALMONTE"
   },
@@ -288,6 +288,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 1401,
    "anio": 2024,
@@ -440,6 +448,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 1401,
    "anio": 2024,
@@ -517,6 +533,14 @@
    "anio": 2025,
    "mes": 3,
    "casos": 3,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -624,6 +648,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 1401,
    "anio": 2024,
@@ -741,6 +773,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -973,6 +1013,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1128,6 +1176,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1401,
    "anio": 2024,
@@ -1272,6 +1328,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 1401,
    "anio": 2024,
@@ -1432,6 +1496,14 @@
    "COMUNA": "POZO ALMONTE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1401,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "POZO ALMONTE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 1401,
    "anio": 2024,
@@ -1501,16 +1573,16 @@
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "HURTOS",
-   "2024": 122,
-   "2025": 90,
+   "2024": 125,
+   "2025": 91,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "LESIONES",
-   "2024": 86,
-   "2025": 95,
+   "2024": 88,
+   "2025": 103,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1518,23 +1590,23 @@
    "CODCOM": 1401,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 6,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 9,
-   "2025": 10,
+   "2024": 12,
+   "2025": 11,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 17,
-   "2025": 9,
+   "2024": 18,
+   "2025": 11,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1550,30 +1622,30 @@
    "CODCOM": 1401,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 12,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 85,
-   "2025": 52,
+   "2024": 92,
+   "2025": 55,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 44,
-   "2025": 25,
+   "2024": 46,
+   "2025": 26,
    "COMUNA": "POZO ALMONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1401,
    "delito": "ROBO POR SORPRESA",
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1582,7 +1654,7 @@
    "CODCOM": 1401,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 10,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1597,7 +1669,7 @@
    "informacion": "Detenciones",
    "CODCOM": 1401,
    "delito": "HURTOS",
-   "2024": 11,
+   "2024": 12,
    "2025": 6,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1605,8 +1677,8 @@
    "informacion": "Detenciones",
    "CODCOM": 1401,
    "delito": "LESIONES",
-   "2024": 40,
-   "2025": 40,
+   "2024": 41,
+   "2025": 43,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1621,7 +1693,7 @@
    "informacion": "Detenciones",
    "CODCOM": 1401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1645,7 +1717,7 @@
    "informacion": "Detenciones",
    "CODCOM": 1401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 8,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1677,7 +1749,7 @@
    "informacion": "Detenidos",
    "CODCOM": 1401,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 18,
    "2025": 10,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1685,8 +1757,8 @@
    "informacion": "Detenidos",
    "CODCOM": 1401,
    "delito": "LESIONES",
-   "2024": 68,
-   "2025": 70,
+   "2024": 69,
+   "2025": 74,
    "COMUNA": "POZO ALMONTE"
   },
   {
@@ -1701,7 +1773,7 @@
    "informacion": "Detenidos",
    "CODCOM": 1401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1725,7 +1797,7 @@
    "informacion": "Detenidos",
    "CODCOM": 1401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "POZO ALMONTE"
   },
@@ -1755,7 +1827,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Tarapacá"
  }
 }

@@ -12,36 +12,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13115,
-   "2024": 247,
-   "2025": 292,
-   "variacion": 18,
+   "2024": 269,
+   "2025": 323,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13115,
-   "2024": 136,
-   "2025": 147,
-   "variacion": 8,
+   "2024": 140,
+   "2025": 157,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13115,
-   "2024": 21,
+   "2024": 22,
    "2025": 10,
-   "variacion": -52,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13115,
-   "2024": 34,
-   "2025": 29,
-   "variacion": -15,
+   "2024": 37,
+   "2025": 31,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "LO BARNECHEA"
   },
@@ -49,53 +49,53 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13115,
    "2024": 22,
-   "2025": 18,
-   "variacion": -18,
+   "2025": 19,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13115,
-   "2024": 111,
-   "2025": 88,
-   "variacion": -21,
+   "2024": 116,
+   "2025": 93,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13115,
-   "2024": 33,
+   "2024": 35,
    "2025": 30,
-   "variacion": -9,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13115,
-   "2024": 50,
-   "2025": 54,
-   "variacion": 8,
+   "2024": 54,
+   "2025": 58,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13115,
-   "2024": 34,
-   "2025": 49,
-   "variacion": 44,
+   "2024": 35,
+   "2025": 50,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "LO BARNECHEA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13115,
-   "2024": 21,
-   "2025": 25,
-   "variacion": 19,
+   "2024": 24,
+   "2025": 26,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LO BARNECHEA"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 57,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 31,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13115,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1028,6 +1068,14 @@
    "CODCOM": 13115,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LO BARNECHEA"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LO BARNECHEA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13115,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 13115,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LO BARNECHEA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LO BARNECHEA"
   }
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "HURTOS",
-   "2024": 247,
-   "2025": 292,
+   "2024": 269,
+   "2025": 323,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "LESIONES",
-   "2024": 136,
-   "2025": 147,
+   "2024": 140,
+   "2025": 157,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 21,
+   "2024": 22,
    "2025": 10,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2133,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 34,
-   "2025": 29,
+   "2024": 37,
+   "2025": 31,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2142,22 +2246,22 @@
    "CODCOM": 13115,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 22,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 111,
-   "2025": 88,
+   "2024": 116,
+   "2025": 93,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 33,
+   "2024": 35,
    "2025": 30,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2165,24 +2269,24 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 50,
-   "2025": 54,
+   "2024": 54,
+   "2025": 58,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 34,
-   "2025": 49,
+   "2024": 35,
+   "2025": 50,
    "COMUNA": "LO BARNECHEA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBO POR SORPRESA",
-   "2024": 21,
-   "2025": 25,
+   "2024": 24,
+   "2025": 26,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13115,
    "delito": "HURTOS",
-   "2024": 127,
-   "2025": 137,
+   "2024": 133,
+   "2025": 152,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 13115,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 34,
+   "2025": 37,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2237,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13115,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 10,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2254,7 +2358,7 @@
    "CODCOM": 13115,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13115,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2286,7 +2390,7 @@
    "CODCOM": 13115,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13115,
    "delito": "HURTOS",
-   "2024": 142,
-   "2025": 155,
+   "2024": 148,
+   "2025": 172,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 13115,
    "delito": "LESIONES",
    "2024": 52,
-   "2025": 64,
+   "2025": 68,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13115,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 9,
+   "2024": 12,
    "2025": 14,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2358,7 +2462,7 @@
    "CODCOM": 13115,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13115,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 10,
    "2025": 9,
    "COMUNA": "LO BARNECHEA"
   },
@@ -2390,7 +2494,7 @@
    "CODCOM": 13115,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "LO BARNECHEA"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

@@ -3,53 +3,53 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13101,
-   "2024": 7,
-   "2025": 22,
-   "variacion": 214,
+   "2024": 8,
+   "2025": 24,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13101,
-   "2024": 3914,
-   "2025": 3850,
-   "variacion": -2,
+   "2024": 4283,
+   "2025": 4098,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13101,
-   "2024": 1168,
-   "2025": 1040,
-   "variacion": -11,
+   "2024": 1236,
+   "2025": 1081,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13101,
-   "2024": 164,
-   "2025": 340,
-   "variacion": 107,
+   "2024": 177,
+   "2025": 349,
+   "variacion": 97,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13101,
-   "2024": 1778,
-   "2025": 1700,
-   "variacion": -4,
+   "2024": 1910,
+   "2025": 1776,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13101,
-   "2024": 923,
-   "2025": 886,
+   "2024": 977,
+   "2025": 939,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
@@ -57,53 +57,53 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13101,
-   "2024": 1244,
-   "2025": 1380,
-   "variacion": 11,
+   "2024": 1322,
+   "2025": 1428,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13101,
-   "2024": 506,
-   "2025": 591,
-   "variacion": 17,
+   "2024": 541,
+   "2025": 607,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13101,
-   "2024": 160,
-   "2025": 153,
-   "variacion": -4,
+   "2024": 171,
+   "2025": 162,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13101,
-   "2024": 550,
-   "2025": 439,
-   "variacion": -20,
+   "2024": 580,
+   "2025": 453,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13101,
-   "2024": 3513,
-   "2025": 4196,
-   "variacion": 19,
+   "2024": 3763,
+   "2025": 4407,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTIAGO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13101,
-   "2024": 156,
-   "2025": 95,
+   "2024": 170,
+   "2025": 103,
    "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
@@ -111,8 +111,8 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13101,
-   "2024": 35,
-   "2025": 24,
+   "2024": 36,
+   "2025": 25,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTIAGO"
@@ -272,6 +272,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 554,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 248,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 41,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13101,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 47,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 76,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13101,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 113,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 53,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 48,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13101,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 68,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 16,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13101,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 63,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "SANTIAGO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 211,
+   "COMUNA": "SANTIAGO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13101,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 2,
    "COMUNA": "SANTIAGO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SANTIAGO"
   }
  ],
  "info": [
@@ -2101,104 +2205,104 @@
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "HOMICIDIOS",
-   "2024": 7,
-   "2025": 22,
+   "2024": 8,
+   "2025": 24,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "HURTOS",
-   "2024": 3914,
-   "2025": 3850,
+   "2024": 4283,
+   "2025": 4098,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "LESIONES",
-   "2024": 1168,
-   "2025": 1040,
+   "2024": 1236,
+   "2025": 1081,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 164,
-   "2025": 340,
+   "2024": 177,
+   "2025": 349,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1778,
-   "2025": 1700,
+   "2024": 1910,
+   "2025": 1776,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 923,
-   "2025": 886,
+   "2024": 977,
+   "2025": 939,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1244,
-   "2025": 1380,
+   "2024": 1322,
+   "2025": 1428,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 506,
-   "2025": 591,
+   "2024": 541,
+   "2025": 607,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 160,
-   "2025": 153,
+   "2024": 171,
+   "2025": 162,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 550,
-   "2025": 439,
+   "2024": 580,
+   "2025": 453,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 3513,
-   "2025": 4196,
+   "2024": 3763,
+   "2025": 4407,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 156,
-   "2025": 95,
+   "2024": 170,
+   "2025": 103,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13101,
    "delito": "VIOLACIONES",
-   "2024": 35,
-   "2025": 24,
+   "2024": 36,
+   "2025": 25,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2206,47 +2310,47 @@
    "CODCOM": 13101,
    "delito": "HOMICIDIOS",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "HURTOS",
-   "2024": 323,
-   "2025": 360,
+   "2024": 343,
+   "2025": 385,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "LESIONES",
-   "2024": 417,
-   "2025": 352,
+   "2024": 438,
+   "2025": 368,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 24,
-   "2025": 30,
+   "2024": 26,
+   "2025": 31,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 72,
-   "2025": 59,
+   "2024": 76,
+   "2025": 61,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 61,
-   "2025": 66,
+   "2024": 65,
+   "2025": 73,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2254,7 +2358,7 @@
    "CODCOM": 13101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 8,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2270,23 +2374,23 @@
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 6,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 82,
-   "2025": 47,
+   "2024": 85,
+   "2025": 50,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 193,
-   "2025": 195,
+   "2024": 199,
+   "2025": 208,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2310,47 +2414,47 @@
    "CODCOM": 13101,
    "delito": "HOMICIDIOS",
    "2024": 2,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "HURTOS",
-   "2024": 364,
-   "2025": 396,
+   "2024": 386,
+   "2025": 422,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "LESIONES",
-   "2024": 697,
-   "2025": 576,
+   "2024": 739,
+   "2025": 601,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 28,
-   "2025": 42,
+   "2024": 31,
+   "2025": 45,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 119,
-   "2025": 88,
+   "2024": 126,
+   "2025": 91,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 111,
-   "2025": 108,
+   "2024": 116,
+   "2025": 119,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 13101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2374,23 +2478,23 @@
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 132,
-   "2025": 79,
+   "2024": 137,
+   "2025": 84,
    "COMUNA": "SANTIAGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 232,
-   "2025": 239,
+   "2024": 239,
+   "2025": 254,
    "COMUNA": "SANTIAGO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

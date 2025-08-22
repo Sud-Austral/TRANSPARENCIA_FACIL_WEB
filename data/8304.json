@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8304,
-   "2024": 43,
-   "2025": 35,
-   "variacion": -19,
+   "2024": 45,
+   "2025": 38,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "LAJA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8304,
-   "2024": 76,
-   "2025": 63,
-   "variacion": -17,
+   "2024": 80,
+   "2025": 65,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "LAJA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8304,
    "2024": 14,
-   "2025": 7,
-   "variacion": -50,
+   "2025": 8,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "LAJA"
   },
@@ -67,27 +67,27 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8304,
    "2024": 10,
-   "2025": 14,
-   "variacion": 40,
+   "2025": 15,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "LAJA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8304,
-   "2024": 59,
-   "2025": 52,
-   "variacion": -12,
+   "2024": 62,
+   "2025": 55,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LAJA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8304,
-   "2024": 41,
-   "2025": 40,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 42,
+   "2025": 44,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "LAJA"
   },
   {
@@ -272,6 +272,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "LAJA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "LAJA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8304,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAJA"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1180,6 +1228,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAJA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LAJA"
   },
@@ -1332,6 +1388,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAJA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LAJA"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LAJA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAJA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8304,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "LAJA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LAJA"
   }
  ],
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "HURTOS",
-   "2024": 43,
-   "2025": 35,
+   "2024": 45,
+   "2025": 38,
    "COMUNA": "LAJA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "LESIONES",
-   "2024": 76,
-   "2025": 63,
+   "2024": 80,
+   "2025": 65,
    "COMUNA": "LAJA"
   },
   {
@@ -2150,7 +2254,7 @@
    "CODCOM": 8304,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 14,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "LAJA"
   },
   {
@@ -2158,23 +2262,23 @@
    "CODCOM": 8304,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 10,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "LAJA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 59,
-   "2025": 52,
+   "2024": 62,
+   "2025": 55,
    "COMUNA": "LAJA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 41,
-   "2025": 40,
+   "2024": 42,
+   "2025": 44,
    "COMUNA": "LAJA"
   },
   {
@@ -2221,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8304,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 24,
+   "2024": 32,
+   "2025": 25,
    "COMUNA": "LAJA"
   },
   {
@@ -2277,8 +2381,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
-   "2025": 5,
+   "2024": 4,
+   "2025": 6,
    "COMUNA": "LAJA"
   },
   {
@@ -2325,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8304,
    "delito": "LESIONES",
-   "2024": 57,
-   "2025": 45,
+   "2024": 62,
+   "2025": 49,
    "COMUNA": "LAJA"
   },
   {
@@ -2381,8 +2485,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
-   "2025": 8,
+   "2024": 7,
+   "2025": 9,
    "COMUNA": "LAJA"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

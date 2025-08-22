@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8306,
-   "2024": 39,
-   "2025": 33,
-   "variacion": -15,
+   "2024": 44,
+   "2025": 36,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "NACIMIENTO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8306,
-   "2024": 76,
-   "2025": 62,
-   "variacion": -18,
+   "2024": 85,
+   "2025": 66,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "NACIMIENTO"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8306,
-   "2024": 7,
-   "2025": 13,
-   "variacion": 86,
+   "2024": 9,
+   "2025": 14,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "NACIMIENTO"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8306,
    "2024": 11,
-   "2025": 2,
-   "variacion": -82,
+   "2025": 3,
+   "variacion": -73,
    "situación": "Disminución de Casos",
    "COMUNA": "NACIMIENTO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8306,
-   "2024": 18,
-   "2025": 15,
-   "variacion": -17,
+   "2024": 20,
+   "2025": 17,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "NACIMIENTO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8306,
-   "2024": 27,
-   "2025": 55,
-   "variacion": 104,
+   "2024": 28,
+   "2025": 61,
+   "variacion": 118,
    "situación": "Aumento de Casos",
    "COMUNA": "NACIMIENTO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8306,
    "anio": 2024,
@@ -420,6 +428,14 @@
    "CODCOM": 8306,
    "anio": 2025,
    "mes": 7,
+   "casos": 3,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
    "casos": 3,
    "COMUNA": "NACIMIENTO"
   },
@@ -576,6 +592,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8306,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 8306,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "NACIMIENTO"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8306,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8306,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 8306,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "NACIMIENTO"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8306,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8306,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "NACIMIENTO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8306,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 8306,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "NACIMIENTO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8306,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "NACIMIENTO"
   }
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8306,
    "delito": "HURTOS",
-   "2024": 39,
-   "2025": 33,
+   "2024": 44,
+   "2025": 36,
    "COMUNA": "NACIMIENTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8306,
    "delito": "LESIONES",
-   "2024": 76,
-   "2025": 62,
+   "2024": 85,
+   "2025": 66,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2133,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 8306,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
-   "2025": 13,
+   "2024": 9,
+   "2025": 14,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2142,15 +2246,15 @@
    "CODCOM": 8306,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 11,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "NACIMIENTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8306,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 18,
-   "2025": 15,
+   "2024": 20,
+   "2025": 17,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2165,8 +2269,8 @@
    "informacion": "Casos",
    "CODCOM": 8306,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 27,
-   "2025": 55,
+   "2024": 28,
+   "2025": 61,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2221,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8306,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 17,
+   "2024": 28,
+   "2025": 19,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 8306,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2325,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8306,
    "delito": "LESIONES",
-   "2024": 47,
-   "2025": 28,
+   "2024": 51,
+   "2025": 32,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 8306,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "NACIMIENTO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

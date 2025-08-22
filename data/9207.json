@@ -21,10 +21,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9207,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LUMACO"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9207,
    "2024": 5,
-   "2025": 2,
-   "variacion": -60,
+   "2025": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "LUMACO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9207,
-   "2024": 5,
-   "2025": 2,
-   "variacion": -60,
+   "2024": 6,
+   "2025": 4,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "LUMACO"
   },
@@ -412,6 +412,14 @@
    "COMUNA": "LUMACO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LUMACO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9207,
    "anio": 2024,
@@ -476,6 +484,14 @@
    "COMUNA": "LUMACO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LUMACO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9207,
    "anio": 2024,
@@ -505,7 +521,7 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "LUMACO"
   },
@@ -538,15 +554,15 @@
    "CODCOM": 9207,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LUMACO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
-   "2025": 2,
+   "2024": 6,
+   "2025": 4,
    "COMUNA": "LUMACO"
   },
   {
@@ -639,7 +655,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10210,
    "2024": 22,
-   "2025": 14,
-   "variacion": -36,
+   "2025": 15,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINCHAO"
   },
@@ -331,6 +331,14 @@
    "COMUNA": "QUINCHAO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10210,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUINCHAO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10210,
    "anio": 2024,
@@ -449,7 +457,7 @@
    "CODCOM": 10210,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -582,7 +590,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

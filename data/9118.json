@@ -4,17 +4,26 @@
    "delito": "HURTOS",
    "CODCOM": 9118,
    "2024": 8,
-   "2025": 6,
-   "variacion": -25,
+   "2025": 7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "TOLTÉN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9118,
-   "2024": 20,
+   "2024": 22,
    "2025": 28,
-   "variacion": 40,
+   "variacion": 27,
+   "situación": "Aumento de Casos",
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9118,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "TOLTÉN"
   },
@@ -49,17 +58,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9118,
    "2024": 7,
-   "2025": 4,
-   "variacion": -43,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TOLTÉN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9118,
    "2024": 10,
-   "2025": 6,
-   "variacion": -40,
+   "2025": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "TOLTÉN"
   },
@@ -192,6 +201,14 @@
    "anio": 2025,
    "mes": 6,
    "casos": 2,
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -339,6 +356,14 @@
    "COMUNA": "TOLTÉN"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TOLTÉN"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9118,
    "anio": 2024,
@@ -483,6 +508,14 @@
    "COMUNA": "TOLTÉN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "TOLTÉN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9118,
    "anio": 2024,
@@ -571,6 +604,14 @@
    "COMUNA": "TOLTÉN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "TOLTÉN"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9118,
    "anio": 2024,
@@ -593,15 +634,23 @@
    "CODCOM": 9118,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "TOLTÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9118,
    "delito": "LESIONES",
-   "2024": 20,
+   "2024": 22,
    "2025": 28,
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9118,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -633,7 +682,7 @@
    "CODCOM": 9118,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 4,
+   "2025": 7,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -641,7 +690,7 @@
    "CODCOM": 9118,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -657,15 +706,23 @@
    "CODCOM": 9118,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "TOLTÉN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9118,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 9,
    "2025": 13,
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9118,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -689,15 +746,23 @@
    "CODCOM": 9118,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "TOLTÉN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9118,
    "delito": "LESIONES",
-   "2024": 15,
+   "2024": 16,
    "2025": 18,
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9118,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -718,7 +783,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

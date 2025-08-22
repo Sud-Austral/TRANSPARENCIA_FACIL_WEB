@@ -3,9 +3,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 11203,
-   "2024": 6,
-   "2025": 5,
-   "variacion": -17,
+   "2024": 7,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "GUAITECAS"
   },
@@ -34,6 +34,15 @@
    "2025": 2,
    "variacion": 0,
    "situación": "Sin variación de Casos",
+   "COMUNA": "GUAITECAS"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 11203,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "GUAITECAS"
   }
  ],
@@ -159,6 +168,14 @@
    "COMUNA": "GUAITECAS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GUAITECAS"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 11203,
    "anio": 2024,
@@ -205,6 +222,14 @@
    "mes": 2,
    "casos": 1,
    "COMUNA": "GUAITECAS"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 11203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GUAITECAS"
   }
  ],
  "info": [
@@ -212,8 +237,8 @@
    "informacion": "Casos",
    "CODCOM": 11203,
    "delito": "LESIONES",
-   "2024": 6,
-   "2025": 5,
+   "2024": 7,
+   "2025": 6,
    "COMUNA": "GUAITECAS"
   },
   {
@@ -241,6 +266,14 @@
    "COMUNA": "GUAITECAS"
   },
   {
+   "informacion": "Casos",
+   "CODCOM": 11203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GUAITECAS"
+  },
+  {
    "informacion": "Detenciones",
    "CODCOM": 11203,
    "delito": "LESIONES",
@@ -254,6 +287,14 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
    "2025": 0,
+   "COMUNA": "GUAITECAS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "GUAITECAS"
   },
   {
@@ -271,10 +312,18 @@
    "2024": 1,
    "2025": 0,
    "COMUNA": "GUAITECAS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11203,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GUAITECAS"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Aysén"
  }
 }

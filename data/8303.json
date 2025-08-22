@@ -12,54 +12,54 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8303,
-   "2024": 84,
-   "2025": 101,
-   "variacion": 20,
+   "2024": 87,
+   "2025": 103,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8303,
-   "2024": 79,
-   "2025": 80,
-   "variacion": 1,
+   "2024": 81,
+   "2025": 87,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8303,
-   "2024": 16,
+   "2024": 19,
    "2025": 18,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8303,
-   "2024": 22,
-   "2025": 8,
-   "variacion": -64,
+   "2024": 24,
+   "2025": 10,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8303,
-   "2024": 13,
-   "2025": 7,
-   "variacion": -46,
+   "2024": 14,
+   "2025": 8,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8303,
-   "2024": 43,
-   "2025": 37,
-   "variacion": -14,
+   "2024": 46,
+   "2025": 38,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
@@ -67,25 +67,25 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8303,
    "2024": 17,
-   "2025": 15,
-   "variacion": -12,
+   "2025": 16,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8303,
-   "2024": 49,
-   "2025": 57,
-   "variacion": 16,
+   "2024": 50,
+   "2025": 61,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8303,
-   "2024": 125,
-   "2025": 73,
+   "2024": 128,
+   "2025": 74,
    "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
@@ -93,19 +93,19 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8303,
-   "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2024": 5,
+   "2025": 3,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8303,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "CABRERO"
   },
   {
@@ -272,6 +272,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8303,
    "anio": 2024,
@@ -424,6 +432,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 8303,
    "anio": 2024,
@@ -576,6 +592,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8303,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8303,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8303,
    "anio": 2024,
@@ -1028,6 +1068,14 @@
    "CODCOM": 8303,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "CABRERO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "CABRERO"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8303,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "CABRERO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "CABRERO"
   },
   {
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "CABRERO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "CABRERO"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8303,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "CABRERO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CABRERO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8303,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 8303,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "CABRERO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "CABRERO"
   },
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "CABRERO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CABRERO"
   }
  ],
  "info": [
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "HURTOS",
-   "2024": 84,
-   "2025": 101,
+   "2024": 87,
+   "2025": 103,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "LESIONES",
-   "2024": 79,
-   "2025": 80,
+   "2024": 81,
+   "2025": 87,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 16,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "CABRERO"
   },
@@ -2133,24 +2237,24 @@
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 22,
-   "2025": 8,
+   "2024": 24,
+   "2025": 10,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 13,
-   "2025": 7,
+   "2024": 14,
+   "2025": 8,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 43,
-   "2025": 37,
+   "2024": 46,
+   "2025": 38,
    "COMUNA": "CABRERO"
   },
   {
@@ -2158,38 +2262,38 @@
    "CODCOM": 8303,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 17,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 49,
-   "2025": 57,
+   "2024": 50,
+   "2025": 61,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 125,
-   "2025": 73,
+   "2024": 128,
+   "2025": 74,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO POR SORPRESA",
-   "2024": 4,
-   "2025": 2,
+   "2024": 5,
+   "2025": 3,
    "COMUNA": "CABRERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8303,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "CABRERO"
   },
@@ -2222,7 +2326,7 @@
    "CODCOM": 8303,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 18,
+   "2025": 22,
    "COMUNA": "CABRERO"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 8303,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CABRERO"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 8303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CABRERO"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 8303,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 26,
+   "2025": 34,
    "COMUNA": "CABRERO"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 8303,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CABRERO"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 8303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 3,
+   "2025": 6,
    "COMUNA": "CABRERO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

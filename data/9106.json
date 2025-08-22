@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9106,
-   "2024": 24,
-   "2025": 10,
-   "variacion": -58,
+   "2024": 25,
+   "2025": 11,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9106,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "GALVARINO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9106,
-   "2024": 10,
-   "2025": 4,
-   "variacion": -60,
+   "2024": 11,
+   "2025": 5,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -347,6 +347,14 @@
    "COMUNA": "GALVARINO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9106,
    "anio": 2024,
@@ -499,6 +507,14 @@
    "COMUNA": "GALVARINO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9106,
    "anio": 2024,
@@ -632,8 +648,8 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 10,
+   "2024": 25,
+   "2025": 11,
    "COMUNA": "GALVARINO"
   },
   {
@@ -656,7 +672,7 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "GALVARINO"
   },
@@ -664,8 +680,8 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 10,
-   "2025": 4,
+   "2024": 11,
+   "2025": 5,
    "COMUNA": "GALVARINO"
   },
   {
@@ -703,6 +719,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 9106,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 0,
    "2025": 1,
@@ -727,6 +751,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 9106,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 0,
    "2025": 2,
@@ -734,7 +766,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

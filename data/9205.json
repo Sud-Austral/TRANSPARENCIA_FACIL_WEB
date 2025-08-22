@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9205,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LONQUIMAY"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9205,
-   "2024": 29,
-   "2025": 32,
-   "variacion": 10,
+   "2024": 31,
+   "2025": 36,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "LONQUIMAY"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9205,
    "2024": 3,
-   "2025": 9,
-   "variacion": 200,
+   "2025": 10,
+   "variacion": 233,
    "situación": "Aumento de Casos",
    "COMUNA": "LONQUIMAY"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9205,
    "2024": 9,
-   "2025": 11,
-   "variacion": 22,
+   "2025": 13,
+   "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "LONQUIMAY"
   },
@@ -347,6 +347,14 @@
    "COMUNA": "LONQUIMAY"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9205,
    "anio": 2024,
@@ -499,6 +507,14 @@
    "COMUNA": "LONQUIMAY"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9205,
    "anio": 2024,
@@ -595,6 +611,14 @@
    "COMUNA": "LONQUIMAY"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9205,
    "anio": 2024,
@@ -640,7 +664,7 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "LONQUIMAY"
   },
@@ -648,8 +672,8 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 29,
-   "2025": 32,
+   "2024": 31,
+   "2025": 36,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -681,7 +705,7 @@
    "CODCOM": 9205,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -689,7 +713,7 @@
    "CODCOM": 9205,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -712,8 +736,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 11,
-   "2025": 18,
+   "2024": 12,
+   "2025": 20,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -752,8 +776,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 21,
-   "2025": 38,
+   "2024": 22,
+   "2025": 41,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -782,7 +806,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

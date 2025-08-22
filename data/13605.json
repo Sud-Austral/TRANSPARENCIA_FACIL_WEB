@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13605,
-   "2024": 127,
-   "2025": 117,
-   "variacion": -8,
+   "2024": 137,
+   "2025": 121,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13605,
-   "2024": 139,
-   "2025": 120,
-   "variacion": -14,
+   "2024": 147,
+   "2025": 122,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "PENAFLOR"
   },
@@ -40,71 +40,71 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13605,
    "2024": 41,
-   "2025": 66,
-   "variacion": 61,
+   "2025": 67,
+   "variacion": 63,
    "situación": "Aumento de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13605,
-   "2024": 26,
-   "2025": 24,
-   "variacion": -8,
+   "2024": 29,
+   "2025": 25,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13605,
-   "2024": 75,
+   "2024": 79,
    "2025": 101,
-   "variacion": 35,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13605,
-   "2024": 64,
-   "2025": 65,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 70,
+   "2025": 66,
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13605,
-   "2024": 64,
-   "2025": 98,
-   "variacion": 53,
+   "2024": 68,
+   "2025": 103,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13605,
-   "2024": 59,
-   "2025": 69,
-   "variacion": 17,
+   "2024": 66,
+   "2025": 74,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13605,
-   "2024": 17,
-   "2025": 28,
-   "variacion": 65,
+   "2024": 18,
+   "2025": 32,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "PENAFLOR"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13605,
-   "2024": 20,
+   "2024": 21,
    "2025": 8,
-   "variacion": -60,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "PENAFLOR"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13605,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13605,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 13605,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "PENAFLOR"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13605,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13605,
    "anio": 2024,
@@ -1336,6 +1392,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13605,
    "anio": 2024,
@@ -1484,6 +1548,14 @@
    "CODCOM": 13605,
    "anio": 2025,
    "mes": 7,
+   "casos": 5,
+   "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
    "casos": 5,
    "COMUNA": "PENAFLOR"
   },
@@ -1640,6 +1712,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13605,
    "anio": 2024,
@@ -1789,6 +1869,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -1944,6 +2032,14 @@
    "COMUNA": "PENAFLOR"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PENAFLOR"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13605,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "PENAFLOR"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13605,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PENAFLOR"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "HURTOS",
-   "2024": 127,
-   "2025": 117,
+   "2024": 137,
+   "2025": 121,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "LESIONES",
-   "2024": 139,
-   "2025": 120,
+   "2024": 147,
+   "2025": 122,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -2134,22 +2238,22 @@
    "CODCOM": 13605,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 41,
-   "2025": 66,
+   "2025": 67,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 26,
-   "2025": 24,
+   "2024": 29,
+   "2025": 25,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 75,
+   "2024": 79,
    "2025": 101,
    "COMUNA": "PENAFLOR"
   },
@@ -2157,39 +2261,39 @@
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 64,
-   "2025": 65,
+   "2024": 70,
+   "2025": 66,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 64,
-   "2025": 98,
+   "2024": 68,
+   "2025": 103,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 59,
-   "2025": 69,
+   "2024": 66,
+   "2025": 74,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO POR SORPRESA",
-   "2024": 17,
-   "2025": 28,
+   "2024": 18,
+   "2025": 32,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13605,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 20,
+   "2024": 21,
    "2025": 8,
    "COMUNA": "PENAFLOR"
   },
@@ -2213,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 13605,
    "delito": "HURTOS",
-   "2024": 41,
-   "2025": 36,
+   "2024": 44,
+   "2025": 38,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13605,
    "delito": "LESIONES",
-   "2024": 37,
+   "2024": 40,
    "2025": 28,
    "COMUNA": "PENAFLOR"
   },
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 6,
    "COMUNA": "PENAFLOR"
   },
@@ -2277,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "PENAFLOR"
   },
@@ -2286,7 +2390,7 @@
    "CODCOM": 13605,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 13605,
    "delito": "HURTOS",
-   "2024": 42,
-   "2025": 40,
+   "2024": 45,
+   "2025": 42,
    "COMUNA": "PENAFLOR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13605,
    "delito": "LESIONES",
-   "2024": 55,
+   "2024": 58,
    "2025": 52,
    "COMUNA": "PENAFLOR"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "PENAFLOR"
   },
@@ -2381,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13605,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 12,
    "COMUNA": "PENAFLOR"
   },
@@ -2390,7 +2494,7 @@
    "CODCOM": 13605,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 0,
+   "2025": 3,
    "COMUNA": "PENAFLOR"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

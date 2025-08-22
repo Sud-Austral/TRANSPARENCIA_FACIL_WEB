@@ -12,36 +12,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9211,
-   "2024": 119,
-   "2025": 104,
-   "variacion": -13,
+   "2024": 125,
+   "2025": 110,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9211,
-   "2024": 117,
-   "2025": 130,
-   "variacion": 11,
+   "2024": 125,
+   "2025": 143,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9211,
-   "2024": 11,
-   "2025": 10,
-   "variacion": -9,
-   "situación": "Disminución de Casos",
+   "2024": 12,
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9211,
    "2024": 17,
-   "2025": 4,
-   "variacion": -76,
+   "2025": 5,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9211,
-   "2024": 32,
+   "2024": 35,
    "2025": 16,
-   "variacion": -50,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
@@ -67,26 +67,26 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9211,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
-   "situación": "Disminución de Casos",
+   "2025": 7,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9211,
-   "2024": 68,
-   "2025": 38,
-   "variacion": -44,
+   "2024": 70,
+   "2025": 40,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9211,
-   "2024": 67,
-   "2025": 70,
-   "variacion": 4,
+   "2024": 71,
+   "2025": 76,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "VICTORIA"
   },
@@ -103,16 +103,16 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9211,
    "2024": 4,
-   "2025": 1,
-   "variacion": -75,
+   "2025": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 9211,
-   "2024": 2,
-   "2025": 2,
+   "2024": 3,
+   "2025": 3,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "VICTORIA"
@@ -272,6 +272,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9211,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 17,
+   "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "VICTORIA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9211,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "VICTORIA"
   },
   {
@@ -877,6 +909,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VICTORIA"
   },
   {
@@ -1032,6 +1072,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9211,
    "anio": 2024,
@@ -1184,6 +1232,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9211,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "VICTORIA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9211,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9211,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "VICTORIA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9211,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "VICTORIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9211,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "VICTORIA"
   }
  ],
  "info": [
@@ -2109,24 +2213,24 @@
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "HURTOS",
-   "2024": 119,
-   "2025": 104,
+   "2024": 125,
+   "2025": 110,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 117,
-   "2025": 130,
+   "2024": 125,
+   "2025": 143,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 11,
-   "2025": 10,
+   "2024": 12,
+   "2025": 12,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2134,7 +2238,7 @@
    "CODCOM": 9211,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 17,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2149,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 32,
+   "2024": 35,
    "2025": 16,
    "COMUNA": "VICTORIA"
   },
@@ -2158,23 +2262,23 @@
    "CODCOM": 9211,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 7,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 68,
-   "2025": 38,
+   "2024": 70,
+   "2025": 40,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 67,
-   "2025": 70,
+   "2024": 71,
+   "2025": 76,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2190,15 +2294,15 @@
    "CODCOM": 9211,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "VIOLACIONES",
-   "2024": 2,
-   "2025": 2,
+   "2024": 3,
+   "2025": 3,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2214,22 +2318,22 @@
    "CODCOM": 9211,
    "delito": "HURTOS",
    "2024": 35,
-   "2025": 14,
+   "2025": 17,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 60,
-   "2025": 59,
+   "2024": 64,
+   "2025": 66,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "VICTORIA"
   },
@@ -2253,7 +2357,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "VICTORIA"
   },
@@ -2278,7 +2382,7 @@
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 6,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2301,7 +2405,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "VICTORIA"
   },
@@ -2318,22 +2422,22 @@
    "CODCOM": 9211,
    "delito": "HURTOS",
    "2024": 47,
-   "2025": 17,
+   "2025": 21,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 111,
-   "2025": 97,
+   "2024": 118,
+   "2025": 113,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "VICTORIA"
   },
@@ -2357,7 +2461,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "VICTORIA"
   },
@@ -2382,7 +2486,7 @@
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 13,
+   "2025": 19,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2405,13 +2509,13 @@
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "VICTORIA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -3,26 +3,26 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 8206,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8206,
-   "2024": 45,
-   "2025": 33,
-   "variacion": -27,
+   "2024": 46,
+   "2025": 36,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8206,
-   "2024": 66,
-   "2025": 68,
+   "2024": 70,
+   "2025": 72,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS ALAMOS"
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8206,
    "2024": 0,
-   "2025": 5,
-   "variacion": 500,
+   "2025": 6,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS ALAMOS"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8206,
    "2024": 30,
-   "2025": 21,
-   "variacion": -30,
+   "2025": 24,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8206,
-   "2024": 10,
-   "2025": 8,
-   "variacion": -20,
+   "2024": 12,
+   "2025": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8206,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8206,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8206,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1184,6 +1232,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 8206,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LOS ALAMOS"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8206,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LOS ALAMOS"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8206,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 8206,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LOS ALAMOS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8206,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LOS ALAMOS"
   }
@@ -2101,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "LOS ALAMOS"
   },
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "HURTOS",
-   "2024": 45,
-   "2025": 33,
+   "2024": 46,
+   "2025": 36,
    "COMUNA": "LOS ALAMOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "LESIONES",
-   "2024": 66,
-   "2025": 68,
+   "2024": 70,
+   "2025": 72,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2150,7 +2254,7 @@
    "CODCOM": 8206,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2166,15 +2270,15 @@
    "CODCOM": 8206,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 30,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "LOS ALAMOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 8,
+   "2024": 12,
+   "2025": 9,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2221,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8206,
    "delito": "LESIONES",
-   "2024": 21,
-   "2025": 31,
+   "2024": 22,
+   "2025": 34,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 8206,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2325,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8206,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 43,
+   "2024": 40,
+   "2025": 48,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 8206,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 8,
+   "2025": 11,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

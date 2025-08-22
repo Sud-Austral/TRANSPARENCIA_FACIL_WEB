@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 6103,
    "2024": 13,
-   "2025": 8,
-   "variacion": -38,
+   "2025": 9,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "COINCO"
   },
@@ -13,8 +13,17 @@
    "delito": "LESIONES",
    "CODCOM": 6103,
    "2024": 13,
-   "2025": 14,
-   "variacion": 8,
+   "2025": 15,
+   "variacion": 15,
+   "situación": "Aumento de Casos",
+   "COMUNA": "COINCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6103,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "COINCO"
   },
@@ -57,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6103,
-   "2024": 23,
-   "2025": 6,
-   "variacion": -74,
+   "2024": 24,
+   "2025": 9,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "COINCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6103,
-   "2024": 10,
+   "2024": 11,
    "2025": 8,
-   "variacion": -20,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "COINCO"
   },
@@ -197,6 +206,14 @@
    "COMUNA": "COINCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COINCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6103,
    "anio": 2024,
@@ -305,6 +322,22 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "COINCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COINCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6103,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "COINCO"
   },
@@ -541,6 +574,14 @@
    "COMUNA": "COINCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "COINCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6103,
    "anio": 2024,
@@ -675,7 +716,7 @@
    "CODCOM": 6103,
    "delito": "HURTOS",
    "2024": 13,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "COINCO"
   },
   {
@@ -683,7 +724,15 @@
    "CODCOM": 6103,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 14,
+   "2025": 15,
+   "COMUNA": "COINCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6103,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "COINCO"
   },
   {
@@ -722,15 +771,15 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 23,
-   "2025": 6,
+   "2024": 24,
+   "2025": 9,
    "COMUNA": "COINCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 8,
    "COMUNA": "COINCO"
   },
@@ -787,7 +836,7 @@
    "CODCOM": 6103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "COINCO"
   },
   {
@@ -835,7 +884,7 @@
    "CODCOM": 6103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
-   "2025": 1,
+   "2025": 4,
    "COMUNA": "COINCO"
   },
   {
@@ -848,7 +897,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

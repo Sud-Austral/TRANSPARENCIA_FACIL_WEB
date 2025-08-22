@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8305,
-   "2024": 76,
-   "2025": 46,
-   "variacion": -39,
+   "2024": 83,
+   "2025": 56,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MULCHEN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8305,
-   "2024": 89,
-   "2025": 68,
-   "variacion": -24,
+   "2024": 92,
+   "2025": 76,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "MULCHEN"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8305,
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
-   "variacion": 150,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "MULCHEN"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8305,
    "2024": 20,
-   "2025": 10,
-   "variacion": -50,
+   "2025": 12,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "MULCHEN"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8305,
-   "2024": 41,
-   "2025": 23,
+   "2024": 45,
+   "2025": 25,
    "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "MULCHEN"
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8305,
-   "2024": 79,
-   "2025": 54,
-   "variacion": -32,
+   "2024": 82,
+   "2025": 57,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "MULCHEN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8305,
-   "2024": 65,
-   "2025": 65,
+   "2024": 71,
+   "2025": 71,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "MULCHEN"
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 8305,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "MULCHEN"
   }
  ],
@@ -272,6 +272,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8305,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "MULCHEN"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8305,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "MULCHEN"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8305,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "MULCHEN"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8305,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 8305,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "MULCHEN"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8305,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "MULCHEN"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8305,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "MULCHEN"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MULCHEN"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8305,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "MULCHEN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MULCHEN"
   }
  ],
  "info": [
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "HURTOS",
-   "2024": 76,
-   "2025": 46,
+   "2024": 83,
+   "2025": 56,
    "COMUNA": "MULCHEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "LESIONES",
-   "2024": 89,
-   "2025": 68,
+   "2024": 92,
+   "2025": 76,
    "COMUNA": "MULCHEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
    "COMUNA": "MULCHEN"
   },
@@ -2134,7 +2238,7 @@
    "CODCOM": 8305,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 20,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2149,8 +2253,8 @@
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 41,
-   "2025": 23,
+   "2024": 45,
+   "2025": 25,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2165,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 79,
-   "2025": 54,
+   "2024": 82,
+   "2025": 57,
    "COMUNA": "MULCHEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 65,
-   "2025": 65,
+   "2024": 71,
+   "2025": 71,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2198,7 +2302,7 @@
    "CODCOM": 8305,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8305,
    "delito": "HURTOS",
-   "2024": 15,
-   "2025": 11,
+   "2024": 16,
+   "2025": 15,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 8305,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 23,
+   "2025": 27,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 8305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8305,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 15,
+   "2024": 22,
+   "2025": 19,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 8305,
    "delito": "LESIONES",
    "2024": 55,
-   "2025": 44,
+   "2025": 50,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 8305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "MULCHEN"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

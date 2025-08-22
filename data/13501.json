@@ -3,44 +3,44 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13501,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13501,
-   "2024": 336,
-   "2025": 303,
-   "variacion": -10,
+   "2024": 350,
+   "2025": 323,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13501,
-   "2024": 330,
-   "2025": 311,
-   "variacion": -6,
+   "2024": 352,
+   "2025": 338,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13501,
-   "2024": 30,
-   "2025": 45,
-   "variacion": 50,
+   "2024": 31,
+   "2025": 48,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13501,
-   "2024": 112,
-   "2025": 105,
+   "2024": 119,
+   "2025": 112,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
@@ -48,63 +48,63 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13501,
-   "2024": 67,
-   "2025": 45,
-   "variacion": -33,
+   "2024": 73,
+   "2025": 50,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13501,
-   "2024": 84,
-   "2025": 114,
-   "variacion": 36,
+   "2024": 95,
+   "2025": 120,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13501,
-   "2024": 47,
-   "2025": 70,
-   "variacion": 49,
+   "2024": 48,
+   "2025": 72,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13501,
-   "2024": 173,
-   "2025": 188,
-   "variacion": 9,
+   "2024": 185,
+   "2025": 207,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13501,
-   "2024": 217,
-   "2025": 193,
-   "variacion": -11,
+   "2024": 229,
+   "2025": 201,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13501,
-   "2024": 66,
-   "2025": 57,
-   "variacion": -14,
-   "situación": "Disminución de Casos",
+   "2024": 68,
+   "2025": 68,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MELIPILLA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13501,
    "2024": 14,
-   "2025": 9,
-   "variacion": -36,
+   "2025": 10,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "MELIPILLA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13501,
    "2024": 4,
-   "2025": 6,
-   "variacion": 50,
+   "2025": 7,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "MELIPILLA"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13501,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 42,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 27,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13501,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13501,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13501,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 16,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13501,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 23,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13501,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "MELIPILLA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MELIPILLA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13501,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "MELIPILLA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13501,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "MELIPILLA"
   }
  ],
@@ -2101,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "HOMICIDIOS",
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "MELIPILLA"
   },
@@ -2109,80 +2213,80 @@
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "HURTOS",
-   "2024": 336,
-   "2025": 303,
+   "2024": 350,
+   "2025": 323,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "LESIONES",
-   "2024": 330,
-   "2025": 311,
+   "2024": 352,
+   "2025": 338,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 30,
-   "2025": 45,
+   "2024": 31,
+   "2025": 48,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 112,
-   "2025": 105,
+   "2024": 119,
+   "2025": 112,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 67,
-   "2025": 45,
+   "2024": 73,
+   "2025": 50,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 84,
-   "2025": 114,
+   "2024": 95,
+   "2025": 120,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 47,
-   "2025": 70,
+   "2024": 48,
+   "2025": 72,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 173,
-   "2025": 188,
+   "2024": 185,
+   "2025": 207,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 217,
-   "2025": 193,
+   "2024": 229,
+   "2025": 201,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13501,
    "delito": "ROBO POR SORPRESA",
-   "2024": 66,
-   "2025": 57,
+   "2024": 68,
+   "2025": 68,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2190,7 +2294,7 @@
    "CODCOM": 13501,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 14,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2198,14 +2302,14 @@
    "CODCOM": 13501,
    "delito": "VIOLACIONES",
    "2024": 4,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "MELIPILLA"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "HURTOS",
-   "2024": 82,
-   "2025": 88,
+   "2024": 90,
+   "2025": 95,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "LESIONES",
-   "2024": 79,
-   "2025": 89,
+   "2024": 85,
+   "2025": 100,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2230,15 +2334,15 @@
    "CODCOM": 13501,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 7,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 12,
-   "2025": 11,
+   "2024": 13,
+   "2025": 12,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2269,16 +2373,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 18,
-   "2025": 16,
+   "2024": 21,
+   "2025": 18,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 27,
-   "2025": 20,
+   "2024": 29,
+   "2025": 21,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2302,14 +2406,14 @@
    "CODCOM": 13501,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "MELIPILLA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "HURTOS",
-   "2024": 96,
-   "2025": 96,
+   "2024": 107,
+   "2025": 103,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "LESIONES",
-   "2024": 125,
-   "2025": 149,
+   "2024": 135,
+   "2025": 175,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2334,15 +2438,15 @@
    "CODCOM": 13501,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 10,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 13,
-   "2025": 16,
+   "2024": 14,
+   "2025": 17,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2373,16 +2477,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
-   "2025": 17,
+   "2024": 25,
+   "2025": 21,
    "COMUNA": "MELIPILLA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
-   "2025": 25,
+   "2024": 48,
+   "2025": 28,
    "COMUNA": "MELIPILLA"
   },
   {
@@ -2406,12 +2510,12 @@
    "CODCOM": 13501,
    "delito": "VIOLACIONES",
    "2024": 3,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "MELIPILLA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

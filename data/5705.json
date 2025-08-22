@@ -4,18 +4,27 @@
    "delito": "HURTOS",
    "CODCOM": 5705,
    "2024": 17,
-   "2025": 18,
-   "variacion": 6,
+   "2025": 21,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "PUTAENDO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5705,
-   "2024": 25,
-   "2025": 31,
-   "variacion": 24,
+   "2024": 28,
+   "2025": 34,
+   "variacion": 21,
    "situación": "Aumento de Casos",
+   "COMUNA": "PUTAENDO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5705,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "PUTAENDO"
   },
   {
@@ -67,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5705,
    "2024": 8,
-   "2025": 21,
-   "variacion": 162,
+   "2025": 22,
+   "variacion": 175,
    "situación": "Aumento de Casos",
    "COMUNA": "PUTAENDO"
   },
@@ -254,6 +263,14 @@
    "COMUNA": "PUTAENDO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PUTAENDO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5705,
    "anio": 2024,
@@ -398,6 +415,14 @@
    "COMUNA": "PUTAENDO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PUTAENDO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5705,
    "anio": 2024,
@@ -867,6 +892,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "PUTAENDO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5705,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -948,15 +981,23 @@
    "CODCOM": 5705,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 18,
+   "2025": 21,
    "COMUNA": "PUTAENDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 31,
+   "2024": 28,
+   "2025": 34,
+   "COMUNA": "PUTAENDO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5705,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1004,7 +1045,7 @@
    "CODCOM": 5705,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1043,8 +1084,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 14,
-   "2025": 15,
+   "2024": 16,
+   "2025": 16,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1115,8 +1156,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 20,
+   "2024": 24,
+   "2025": 22,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1177,7 +1218,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

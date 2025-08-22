@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13132,
-   "2024": 262,
-   "2025": 271,
+   "2024": 279,
+   "2025": 288,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "VITACURA"
@@ -21,90 +21,90 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13132,
-   "2024": 68,
-   "2025": 55,
-   "variacion": -19,
+   "2024": 69,
+   "2025": 59,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13132,
-   "2024": 31,
+   "2024": 34,
    "2025": 27,
-   "variacion": -13,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13132,
-   "2024": 37,
-   "2025": 50,
-   "variacion": 35,
+   "2024": 39,
+   "2025": 53,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13132,
-   "2024": 18,
-   "2025": 34,
-   "variacion": 89,
+   "2024": 19,
+   "2025": 37,
+   "variacion": 95,
    "situación": "Aumento de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13132,
-   "2024": 164,
-   "2025": 165,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 176,
+   "2025": 174,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13132,
-   "2024": 95,
-   "2025": 85,
-   "variacion": -11,
+   "2024": 105,
+   "2025": 88,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13132,
-   "2024": 51,
-   "2025": 43,
-   "variacion": -16,
+   "2024": 57,
+   "2025": 49,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13132,
-   "2024": 65,
-   "2025": 67,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 71,
+   "2025": 68,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13132,
-   "2024": 43,
-   "2025": 35,
-   "variacion": -19,
+   "2024": 44,
+   "2025": 37,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "VITACURA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13132,
-   "2024": 30,
-   "2025": 39,
-   "variacion": 30,
+   "2024": 32,
+   "2025": 40,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "VITACURA"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13132,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 35,
+   "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
    "COMUNA": "VITACURA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13132,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "VITACURA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "VITACURA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1336,6 +1392,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1488,6 +1552,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VITACURA"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "VITACURA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VITACURA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13132,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VITACURA"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "VITACURA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13132,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VITACURA"
   }
  ],
  "info": [
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "HURTOS",
-   "2024": 262,
-   "2025": 271,
+   "2024": 279,
+   "2025": 288,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "LESIONES",
-   "2024": 68,
-   "2025": 55,
+   "2024": 69,
+   "2025": 59,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 31,
+   "2024": 34,
    "2025": 27,
    "COMUNA": "VITACURA"
   },
@@ -2133,64 +2237,64 @@
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 37,
-   "2025": 50,
+   "2024": 39,
+   "2025": 53,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 18,
-   "2025": 34,
+   "2024": 19,
+   "2025": 37,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 164,
-   "2025": 165,
+   "2024": 176,
+   "2025": 174,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 95,
-   "2025": 85,
+   "2024": 105,
+   "2025": 88,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 51,
-   "2025": 43,
+   "2024": 57,
+   "2025": 49,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 65,
-   "2025": 67,
+   "2024": 71,
+   "2025": 68,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO POR SORPRESA",
-   "2024": 43,
-   "2025": 35,
+   "2024": 44,
+   "2025": 37,
    "COMUNA": "VITACURA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13132,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 30,
-   "2025": 39,
+   "2024": 32,
+   "2025": 40,
    "COMUNA": "VITACURA"
   },
   {
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13132,
    "delito": "HURTOS",
-   "2024": 73,
-   "2025": 90,
+   "2024": 77,
+   "2025": 100,
    "COMUNA": "VITACURA"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 13132,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "VITACURA"
   },
   {
@@ -2237,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13132,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "VITACURA"
   },
@@ -2246,7 +2350,7 @@
    "CODCOM": 13132,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "VITACURA"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 13132,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 6,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "VITACURA"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13132,
    "delito": "HURTOS",
-   "2024": 79,
-   "2025": 115,
+   "2024": 83,
+   "2025": 127,
    "COMUNA": "VITACURA"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 13132,
    "delito": "LESIONES",
    "2024": 17,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "VITACURA"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13132,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
+   "2024": 9,
    "2025": 15,
    "COMUNA": "VITACURA"
   },
@@ -2350,7 +2454,7 @@
    "CODCOM": 13132,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 7,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "VITACURA"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 13132,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "VITACURA"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

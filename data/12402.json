@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 12402,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "TORRES DEL PAINE"
   },
@@ -62,6 +62,14 @@
    "COMUNA": "TORRES DEL PAINE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 12402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TORRES DEL PAINE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 12402,
    "anio": 2024,
@@ -100,7 +108,7 @@
    "CODCOM": 12402,
    "delito": "LESIONES",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TORRES DEL PAINE"
   },
   {
@@ -145,7 +153,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Magallanes"
  }
 }

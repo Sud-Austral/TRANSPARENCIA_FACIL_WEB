@@ -4,16 +4,16 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 10301,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 10301,
-   "2024": 1181,
-   "2025": 1130,
+   "2024": 1262,
+   "2025": 1216,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
@@ -21,62 +21,62 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10301,
-   "2024": 349,
-   "2025": 395,
-   "variacion": 13,
+   "2024": 371,
+   "2025": 426,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10301,
-   "2024": 10,
+   "2024": 11,
    "2025": 8,
-   "variacion": -20,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10301,
-   "2024": 83,
-   "2025": 80,
-   "variacion": -4,
+   "2024": 94,
+   "2025": 89,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10301,
-   "2024": 81,
-   "2025": 78,
-   "variacion": -4,
+   "2024": 88,
+   "2025": 82,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10301,
-   "2024": 241,
-   "2025": 197,
-   "variacion": -18,
+   "2024": 262,
+   "2025": 212,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10301,
-   "2024": 61,
-   "2025": 58,
-   "variacion": -5,
+   "2024": 67,
+   "2025": 62,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10301,
-   "2024": 293,
-   "2025": 251,
+   "2024": 313,
+   "2025": 270,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10301,
-   "2024": 207,
-   "2025": 155,
+   "2024": 222,
+   "2025": 167,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
@@ -93,27 +93,27 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10301,
-   "2024": 80,
-   "2025": 84,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "2024": 85,
+   "2025": 85,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10301,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 10301,
-   "2024": 16,
-   "2025": 11,
-   "variacion": -31,
+   "2024": 17,
+   "2025": 12,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "OSORNO"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10301,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 165,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 86,
    "COMUNA": "OSORNO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 31,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10301,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 10301,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "OSORNO"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10301,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "OSORNO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10301,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 14,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "OSORNO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10301,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 30,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
    "COMUNA": "OSORNO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10301,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "OSORNO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "OSORNO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 10301,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 10301,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "OSORNO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10301,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "OSORNO"
   }
@@ -2102,30 +2206,30 @@
    "CODCOM": 10301,
    "delito": "HOMICIDIOS",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "HURTOS",
-   "2024": 1181,
-   "2025": 1130,
+   "2024": 1262,
+   "2025": 1216,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "LESIONES",
-   "2024": 349,
-   "2025": 395,
+   "2024": 371,
+   "2025": 426,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 10,
+   "2024": 11,
    "2025": 8,
    "COMUNA": "OSORNO"
   },
@@ -2133,63 +2237,63 @@
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 83,
-   "2025": 80,
+   "2024": 94,
+   "2025": 89,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 81,
-   "2025": 78,
+   "2024": 88,
+   "2025": 82,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 241,
-   "2025": 197,
+   "2024": 262,
+   "2025": 212,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 61,
-   "2025": 58,
+   "2024": 67,
+   "2025": 62,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 293,
-   "2025": 251,
+   "2024": 313,
+   "2025": 270,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 207,
-   "2025": 155,
+   "2024": 222,
+   "2025": 167,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 80,
-   "2025": 84,
+   "2024": 85,
+   "2025": 85,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "OSORNO"
   },
@@ -2197,8 +2301,8 @@
    "informacion": "Casos",
    "CODCOM": 10301,
    "delito": "VIOLACIONES",
-   "2024": 16,
-   "2025": 11,
+   "2024": 17,
+   "2025": 12,
    "COMUNA": "OSORNO"
   },
   {
@@ -2206,23 +2310,23 @@
    "CODCOM": 10301,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "HURTOS",
-   "2024": 511,
-   "2025": 538,
+   "2024": 553,
+   "2025": 589,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "LESIONES",
-   "2024": 109,
-   "2025": 134,
+   "2024": 117,
+   "2025": 146,
    "COMUNA": "OSORNO"
   },
   {
@@ -2237,16 +2341,16 @@
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
-   "2025": 9,
+   "2024": 7,
+   "2025": 10,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 12,
-   "2025": 13,
+   "2024": 14,
+   "2025": 14,
    "COMUNA": "OSORNO"
   },
   {
@@ -2254,7 +2358,7 @@
    "CODCOM": 10301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 16,
-   "2025": 14,
+   "2025": 17,
    "COMUNA": "OSORNO"
   },
   {
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 14,
+   "2024": 15,
    "2025": 17,
    "COMUNA": "OSORNO"
   },
@@ -2277,15 +2381,15 @@
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 24,
-   "2025": 22,
+   "2024": 27,
+   "2025": 23,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "OSORNO"
   },
@@ -2310,23 +2414,23 @@
    "CODCOM": 10301,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "HURTOS",
-   "2024": 532,
-   "2025": 570,
+   "2024": 577,
+   "2025": 627,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "LESIONES",
-   "2024": 208,
-   "2025": 226,
+   "2024": 222,
+   "2025": 246,
    "COMUNA": "OSORNO"
   },
   {
@@ -2341,16 +2445,16 @@
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
-   "2025": 11,
+   "2024": 8,
+   "2025": 13,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 16,
-   "2025": 19,
+   "2024": 18,
+   "2025": 20,
    "COMUNA": "OSORNO"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 10301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 20,
-   "2025": 21,
+   "2025": 26,
    "COMUNA": "OSORNO"
   },
   {
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
+   "2024": 17,
    "2025": 21,
    "COMUNA": "OSORNO"
   },
@@ -2381,15 +2485,15 @@
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 33,
-   "2025": 38,
+   "2024": 38,
+   "2025": 39,
    "COMUNA": "OSORNO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "OSORNO"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

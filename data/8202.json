@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8202,
-   "2024": 82,
-   "2025": 84,
-   "variacion": 2,
+   "2024": 88,
+   "2025": 89,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8202,
-   "2024": 107,
-   "2025": 83,
-   "variacion": -22,
+   "2024": 115,
+   "2025": 92,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "ARAUCO"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8202,
-   "2024": 19,
+   "2024": 21,
    "2025": 16,
-   "variacion": -16,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "ARAUCO"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8202,
-   "2024": 50,
+   "2024": 55,
    "2025": 68,
-   "variacion": 36,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8202,
-   "2024": 52,
-   "2025": 54,
+   "2024": 54,
+   "2025": 56,
    "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
@@ -272,6 +272,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8202,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 13,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "ARAUCO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8202,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "ARAUCO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8202,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "ARAUCO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8202,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "ARAUCO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8202,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8202,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "ARAUCO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8202,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "ARAUCO"
   },
@@ -2092,6 +2188,14 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "ARAUCO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8202,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "ARAUCO"
   }
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 82,
-   "2025": 84,
+   "2024": 88,
+   "2025": 89,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 107,
-   "2025": 83,
+   "2024": 115,
+   "2025": 92,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2149,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 19,
+   "2024": 21,
    "2025": 16,
    "COMUNA": "ARAUCO"
   },
@@ -2165,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 50,
+   "2024": 55,
    "2025": 68,
    "COMUNA": "ARAUCO"
   },
@@ -2173,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 52,
-   "2025": 54,
+   "2024": 54,
+   "2025": 56,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 16,
-   "2025": 12,
+   "2024": 18,
+   "2025": 13,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 33,
+   "2024": 41,
+   "2025": 36,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2277,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 6,
    "COMUNA": "ARAUCO"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 20,
-   "2025": 17,
+   "2024": 24,
+   "2025": 19,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 79,
-   "2025": 58,
+   "2024": 84,
+   "2025": 66,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "ARAUCO"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

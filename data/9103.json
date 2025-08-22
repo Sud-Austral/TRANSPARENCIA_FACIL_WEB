@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9103,
-   "2024": 32,
-   "2025": 37,
-   "variacion": 16,
+   "2024": 35,
+   "2025": 39,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "CUNCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9103,
-   "2024": 30,
+   "2024": 32,
    "2025": 40,
-   "variacion": 33,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "CUNCO"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9103,
-   "2024": 26,
-   "2025": 16,
-   "variacion": -38,
+   "2024": 27,
+   "2025": 18,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "CUNCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9103,
-   "2024": 20,
+   "2024": 22,
    "2025": 17,
-   "variacion": -15,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "CUNCO"
   },
@@ -260,6 +260,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "CUNCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CUNCO"
   },
   {
@@ -799,6 +807,14 @@
    "COMUNA": "CUNCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CUNCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9103,
    "anio": 2024,
@@ -996,15 +1012,15 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "HURTOS",
-   "2024": 32,
-   "2025": 37,
+   "2024": 35,
+   "2025": 39,
    "COMUNA": "CUNCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "LESIONES",
-   "2024": 30,
+   "2024": 32,
    "2025": 40,
    "COMUNA": "CUNCO"
   },
@@ -1052,15 +1068,15 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 26,
-   "2025": 16,
+   "2024": 27,
+   "2025": 18,
    "COMUNA": "CUNCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
+   "2024": 22,
    "2025": 17,
    "COMUNA": "CUNCO"
   },
@@ -1093,14 +1109,14 @@
    "CODCOM": 9103,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CUNCO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9103,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 13,
    "2025": 17,
    "COMUNA": "CUNCO"
   },
@@ -1157,14 +1173,14 @@
    "CODCOM": 9103,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CUNCO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9103,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 21,
    "2025": 30,
    "COMUNA": "CUNCO"
   },
@@ -1218,7 +1234,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

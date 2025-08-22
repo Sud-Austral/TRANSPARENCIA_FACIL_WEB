@@ -12,36 +12,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9108,
-   "2024": 100,
-   "2025": 91,
-   "variacion": -9,
+   "2024": 104,
+   "2025": 96,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9108,
-   "2024": 105,
-   "2025": 71,
-   "variacion": -32,
+   "2024": 108,
+   "2025": 80,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9108,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9108,
-   "2024": 10,
+   "2024": 11,
    "2025": 6,
-   "variacion": -40,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9108,
-   "2024": 21,
+   "2024": 22,
    "2025": 17,
-   "variacion": -19,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
@@ -67,26 +67,26 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9108,
    "2024": 12,
-   "2025": 6,
-   "variacion": -50,
+   "2025": 7,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9108,
-   "2024": 49,
-   "2025": 47,
-   "variacion": -4,
+   "2024": 51,
+   "2025": 48,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9108,
-   "2024": 62,
-   "2025": 34,
-   "variacion": -45,
+   "2024": 69,
+   "2025": 39,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9108,
    "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2025": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 9108,
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
-   "variacion": -57,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 8,
+   "COMUNA": "LAUTARO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "LAUTARO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9108,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9108,
    "anio": 2024,
@@ -877,6 +909,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "LAUTARO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LAUTARO"
   },
   {
@@ -1028,6 +1068,14 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAUTARO"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LAUTARO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LAUTARO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9108,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAUTARO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAUTARO"
   }
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 100,
-   "2025": 91,
+   "2024": 104,
+   "2025": 96,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "LESIONES",
-   "2024": 105,
-   "2025": 71,
+   "2024": 108,
+   "2025": 80,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "LAUTARO"
   },
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 10,
+   "2024": 11,
    "2025": 6,
    "COMUNA": "LAUTARO"
   },
@@ -2149,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 21,
+   "2024": 22,
    "2025": 17,
    "COMUNA": "LAUTARO"
   },
@@ -2158,23 +2262,23 @@
    "CODCOM": 9108,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 12,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 49,
-   "2025": 47,
+   "2024": 51,
+   "2025": 48,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 62,
-   "2025": 34,
+   "2024": 69,
+   "2025": 39,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2182,7 +2286,7 @@
    "CODCOM": 9108,
    "delito": "ROBO POR SORPRESA",
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2197,7 +2301,7 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "VIOLACIONES",
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
    "COMUNA": "LAUTARO"
   },
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 20,
-   "2025": 9,
+   "2024": 21,
+   "2025": 10,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 9108,
    "delito": "LESIONES",
    "2024": 39,
-   "2025": 33,
+   "2025": 35,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2277,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "LAUTARO"
   },
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 24,
-   "2025": 11,
+   "2024": 25,
+   "2025": 12,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 9108,
    "delito": "LESIONES",
    "2024": 65,
-   "2025": 55,
+   "2025": 60,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 9,
    "2025": 7,
    "COMUNA": "LAUTARO"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

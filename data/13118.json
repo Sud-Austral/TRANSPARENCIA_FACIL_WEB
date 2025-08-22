@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13118,
-   "2024": 352,
-   "2025": 310,
-   "variacion": -12,
+   "2024": 392,
+   "2025": 334,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13118,
-   "2024": 156,
-   "2025": 148,
-   "variacion": -5,
+   "2024": 163,
+   "2025": 154,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
@@ -31,16 +31,16 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13118,
    "2024": 15,
-   "2025": 19,
-   "variacion": 27,
+   "2025": 20,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13118,
-   "2024": 262,
-   "2025": 215,
+   "2024": 274,
+   "2025": 225,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
@@ -48,17 +48,17 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13118,
-   "2024": 103,
-   "2025": 82,
-   "variacion": -20,
+   "2024": 110,
+   "2025": 85,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13118,
-   "2024": 359,
-   "2025": 365,
+   "2024": 380,
+   "2025": 386,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "MACUL"
@@ -66,45 +66,45 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13118,
-   "2024": 195,
-   "2025": 146,
-   "variacion": -25,
+   "2024": 208,
+   "2025": 151,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13118,
-   "2024": 123,
-   "2025": 98,
-   "variacion": -20,
+   "2024": 127,
+   "2025": 112,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13118,
-   "2024": 104,
-   "2025": 87,
-   "variacion": -16,
+   "2024": 111,
+   "2025": 92,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13118,
-   "2024": 268,
-   "2025": 229,
-   "variacion": -15,
+   "2024": 286,
+   "2025": 249,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13118,
-   "2024": 124,
-   "2025": 74,
-   "variacion": -40,
+   "2024": 134,
+   "2025": 77,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "MACUL"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13118,
    "anio": 2024,
@@ -424,6 +432,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 24,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 13118,
    "anio": 2024,
@@ -573,6 +589,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 21,
+   "COMUNA": "MACUL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "MACUL"
   },
   {
@@ -728,6 +752,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13118,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13118,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 10,
+   "COMUNA": "MACUL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "MACUL"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 21,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13118,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 16,
+   "COMUNA": "MACUL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "MACUL"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13118,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 13,
+   "COMUNA": "MACUL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "MACUL"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13118,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "MACUL"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "MACUL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13118,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "MACUL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13118,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "MACUL"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "HURTOS",
-   "2024": 352,
-   "2025": 310,
+   "2024": 392,
+   "2025": 334,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "LESIONES",
-   "2024": 156,
-   "2025": 148,
+   "2024": 163,
+   "2025": 154,
    "COMUNA": "MACUL"
   },
   {
@@ -2126,71 +2230,71 @@
    "CODCOM": 13118,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 15,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 262,
-   "2025": 215,
+   "2024": 274,
+   "2025": 225,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 103,
-   "2025": 82,
+   "2024": 110,
+   "2025": 85,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 359,
-   "2025": 365,
+   "2024": 380,
+   "2025": 386,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 195,
-   "2025": 146,
+   "2024": 208,
+   "2025": 151,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 123,
-   "2025": 98,
+   "2024": 127,
+   "2025": 112,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 104,
-   "2025": 87,
+   "2024": 111,
+   "2025": 92,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO POR SORPRESA",
-   "2024": 268,
-   "2025": 229,
+   "2024": 286,
+   "2025": 249,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13118,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 124,
-   "2025": 74,
+   "2024": 134,
+   "2025": 77,
    "COMUNA": "MACUL"
   },
   {
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13118,
    "delito": "HURTOS",
-   "2024": 83,
-   "2025": 90,
+   "2024": 89,
+   "2025": 102,
    "COMUNA": "MACUL"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 13118,
    "delito": "LESIONES",
    "2024": 34,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "MACUL"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 13118,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 8,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "MACUL"
   },
   {
@@ -2277,16 +2381,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13118,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 5,
+   "2024": 12,
+   "2025": 8,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13118,
    "delito": "ROBO POR SORPRESA",
-   "2024": 4,
-   "2025": 8,
+   "2024": 6,
+   "2025": 9,
    "COMUNA": "MACUL"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13118,
    "delito": "HURTOS",
-   "2024": 85,
-   "2025": 97,
+   "2024": 91,
+   "2025": 109,
    "COMUNA": "MACUL"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 13118,
    "delito": "LESIONES",
    "2024": 56,
-   "2025": 36,
+   "2025": 37,
    "COMUNA": "MACUL"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 13118,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 21,
-   "2025": 8,
+   "2025": 10,
    "COMUNA": "MACUL"
   },
   {
@@ -2381,16 +2485,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13118,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 16,
-   "2025": 7,
+   "2024": 18,
+   "2025": 11,
    "COMUNA": "MACUL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13118,
    "delito": "ROBO POR SORPRESA",
-   "2024": 5,
-   "2025": 14,
+   "2024": 7,
+   "2025": 15,
    "COMUNA": "MACUL"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

@@ -4,25 +4,25 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 4102,
    "2024": 4,
-   "2025": 5,
-   "variacion": 25,
+   "2025": 7,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 4102,
-   "2024": 876,
-   "2025": 796,
-   "variacion": -9,
+   "2024": 935,
+   "2025": 858,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4102,
-   "2024": 692,
-   "2025": 670,
+   "2024": 729,
+   "2025": 706,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
@@ -30,8 +30,8 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4102,
-   "2024": 67,
-   "2025": 75,
+   "2024": 73,
+   "2025": 82,
    "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "COQUIMBO"
@@ -39,8 +39,8 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4102,
-   "2024": 244,
-   "2025": 159,
+   "2024": 257,
+   "2025": 168,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
@@ -48,26 +48,26 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4102,
-   "2024": 161,
-   "2025": 107,
-   "variacion": -34,
+   "2024": 170,
+   "2025": 116,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4102,
-   "2024": 611,
-   "2025": 637,
-   "variacion": 4,
+   "2024": 664,
+   "2025": 671,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4102,
-   "2024": 241,
-   "2025": 167,
+   "2024": 252,
+   "2025": 174,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
@@ -75,27 +75,27 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4102,
-   "2024": 727,
-   "2025": 668,
-   "variacion": -8,
+   "2024": 772,
+   "2025": 725,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4102,
-   "2024": 433,
-   "2025": 460,
-   "variacion": 6,
+   "2024": 447,
+   "2025": 489,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4102,
-   "2024": 142,
-   "2025": 125,
-   "variacion": -12,
+   "2024": 149,
+   "2025": 134,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
   },
@@ -103,17 +103,17 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 4102,
    "2024": 18,
-   "2025": 7,
-   "variacion": -61,
+   "2025": 9,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "COQUIMBO"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 4102,
-   "2024": 17,
-   "2025": 19,
-   "variacion": 12,
+   "2024": 18,
+   "2025": 21,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "COQUIMBO"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 4102,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 111,
+   "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 62,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 36,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4102,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4102,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 34,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4102,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 20,
+   "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 57,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4102,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 61,
+   "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 29,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 4102,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "COQUIMBO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COQUIMBO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 4102,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "COQUIMBO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COQUIMBO"
   }
  ],
  "info": [
@@ -2102,87 +2206,87 @@
    "CODCOM": 4102,
    "delito": "HOMICIDIOS",
    "2024": 4,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "HURTOS",
-   "2024": 876,
-   "2025": 796,
+   "2024": 935,
+   "2025": 858,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "LESIONES",
-   "2024": 692,
-   "2025": 670,
+   "2024": 729,
+   "2025": 706,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 67,
-   "2025": 75,
+   "2024": 73,
+   "2025": 82,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 244,
-   "2025": 159,
+   "2024": 257,
+   "2025": 168,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 161,
-   "2025": 107,
+   "2024": 170,
+   "2025": 116,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 611,
-   "2025": 637,
+   "2024": 664,
+   "2025": 671,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 241,
-   "2025": 167,
+   "2024": 252,
+   "2025": 174,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 727,
-   "2025": 668,
+   "2024": 772,
+   "2025": 725,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 433,
-   "2025": 460,
+   "2024": 447,
+   "2025": 489,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 142,
-   "2025": 125,
+   "2024": 149,
+   "2025": 134,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2190,15 +2294,15 @@
    "CODCOM": 4102,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 18,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4102,
    "delito": "VIOLACIONES",
-   "2024": 17,
-   "2025": 19,
+   "2024": 18,
+   "2025": 21,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2206,39 +2310,39 @@
    "CODCOM": 4102,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "HURTOS",
-   "2024": 326,
-   "2025": 251,
+   "2024": 346,
+   "2025": 278,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "LESIONES",
-   "2024": 163,
-   "2025": 163,
+   "2024": 170,
+   "2025": 175,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 7,
-   "2025": 20,
+   "2024": 8,
+   "2025": 21,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 8,
-   "2025": 12,
+   "2024": 9,
+   "2025": 13,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2253,7 +2357,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 16,
+   "2024": 17,
    "2025": 18,
    "COMUNA": "COQUIMBO"
   },
@@ -2261,7 +2365,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
    "COMUNA": "COQUIMBO"
   },
@@ -2269,16 +2373,16 @@
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 26,
-   "2025": 47,
+   "2024": 30,
+   "2025": 52,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 41,
-   "2025": 49,
+   "2024": 43,
+   "2025": 54,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2286,7 +2390,7 @@
    "CODCOM": 4102,
    "delito": "ROBO POR SORPRESA",
    "2024": 5,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2294,7 +2398,7 @@
    "CODCOM": 4102,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2310,39 +2414,39 @@
    "CODCOM": 4102,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "HURTOS",
-   "2024": 347,
-   "2025": 275,
+   "2024": 371,
+   "2025": 306,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "LESIONES",
-   "2024": 264,
-   "2025": 303,
+   "2024": 279,
+   "2025": 322,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 9,
-   "2025": 22,
+   "2024": 10,
+   "2025": 23,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
-   "2025": 20,
+   "2024": 13,
+   "2025": 21,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2357,7 +2461,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 19,
+   "2024": 20,
    "2025": 26,
    "COMUNA": "COQUIMBO"
   },
@@ -2365,7 +2469,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 3,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "COQUIMBO"
   },
@@ -2373,16 +2477,16 @@
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
-   "2025": 61,
+   "2024": 40,
+   "2025": 66,
    "COMUNA": "COQUIMBO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 57,
-   "2025": 66,
+   "2024": 59,
+   "2025": 72,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 4102,
    "delito": "ROBO POR SORPRESA",
    "2024": 5,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2398,7 +2502,7 @@
    "CODCOM": 4102,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "COQUIMBO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Coquimbo"
  }
 }

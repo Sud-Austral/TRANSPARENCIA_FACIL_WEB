@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5403,
-   "2024": 14,
+   "2024": 16,
    "2025": 20,
-   "variacion": 43,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5403,
-   "2024": 21,
+   "2024": 23,
    "2025": 18,
-   "variacion": -14,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5403,
    "2024": 4,
-   "2025": 14,
-   "variacion": 250,
+   "2025": 15,
+   "variacion": 275,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5403,
-   "2024": 20,
-   "2025": 11,
+   "2024": 22,
+   "2025": 12,
    "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "PAPUDO"
@@ -460,6 +460,14 @@
    "COMUNA": "PAPUDO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PAPUDO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5403,
    "anio": 2025,
@@ -588,6 +596,14 @@
    "COMUNA": "PAPUDO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PAPUDO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5403,
    "anio": 2024,
@@ -689,7 +705,7 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "HURTOS",
-   "2024": 14,
+   "2024": 16,
    "2025": 20,
    "COMUNA": "PAPUDO"
   },
@@ -697,7 +713,7 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "LESIONES",
-   "2024": 21,
+   "2024": 23,
    "2025": 18,
    "COMUNA": "PAPUDO"
   },
@@ -722,7 +738,7 @@
    "CODCOM": 5403,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 4,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "PAPUDO"
   },
   {
@@ -737,8 +753,8 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 20,
-   "2025": 11,
+   "2024": 22,
+   "2025": 12,
    "COMUNA": "PAPUDO"
   },
   {
@@ -769,7 +785,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5403,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 11,
    "2025": 5,
    "COMUNA": "PAPUDO"
   },
@@ -801,7 +817,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5403,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 14,
    "2025": 8,
    "COMUNA": "PAPUDO"
   },
@@ -823,7 +839,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

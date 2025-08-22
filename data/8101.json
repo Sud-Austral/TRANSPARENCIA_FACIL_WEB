@@ -3,44 +3,44 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 8101,
-   "2024": 5,
-   "2025": 12,
-   "variacion": 140,
+   "2024": 6,
+   "2025": 13,
+   "variacion": 117,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8101,
-   "2024": 1591,
-   "2025": 1701,
-   "variacion": 7,
+   "2024": 1707,
+   "2025": 1840,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8101,
-   "2024": 572,
-   "2025": 590,
-   "variacion": 3,
+   "2024": 618,
+   "2025": 640,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8101,
-   "2024": 51,
-   "2025": 119,
-   "variacion": 133,
+   "2024": 55,
+   "2025": 129,
+   "variacion": 135,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8101,
-   "2024": 384,
-   "2025": 264,
+   "2024": 411,
+   "2025": 282,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
@@ -48,17 +48,17 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8101,
-   "2024": 189,
-   "2025": 197,
-   "variacion": 4,
+   "2024": 202,
+   "2025": 204,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8101,
-   "2024": 815,
-   "2025": 562,
+   "2024": 860,
+   "2025": 597,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
@@ -66,26 +66,26 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8101,
-   "2024": 460,
-   "2025": 366,
-   "variacion": -20,
+   "2024": 486,
+   "2025": 382,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8101,
-   "2024": 324,
-   "2025": 231,
-   "variacion": -29,
+   "2024": 339,
+   "2025": 257,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8101,
-   "2024": 456,
-   "2025": 385,
+   "2024": 486,
+   "2025": 408,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
@@ -93,27 +93,27 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8101,
-   "2024": 206,
-   "2025": 193,
-   "variacion": -6,
+   "2024": 225,
+   "2025": 201,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8101,
-   "2024": 27,
-   "2025": 17,
-   "variacion": -37,
+   "2024": 29,
+   "2025": 18,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCEPCION"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 8101,
-   "2024": 13,
-   "2025": 20,
-   "variacion": 54,
+   "2024": 14,
+   "2025": 21,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCEPCION"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 285,
+   "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 139,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 50,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8101,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 18,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8101,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 28,
+   "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 35,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8101,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 35,
+   "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 16,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 26,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8101,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 53,
+   "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8101,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "CONCEPCION"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CONCEPCION"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8101,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "CONCEPCION"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CONCEPCION"
   }
  ],
  "info": [
@@ -2101,104 +2205,104 @@
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "HOMICIDIOS",
-   "2024": 5,
-   "2025": 12,
+   "2024": 6,
+   "2025": 13,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "HURTOS",
-   "2024": 1591,
-   "2025": 1701,
+   "2024": 1707,
+   "2025": 1840,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "LESIONES",
-   "2024": 572,
-   "2025": 590,
+   "2024": 618,
+   "2025": 640,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 51,
-   "2025": 119,
+   "2024": 55,
+   "2025": 129,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 384,
-   "2025": 264,
+   "2024": 411,
+   "2025": 282,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 189,
-   "2025": 197,
+   "2024": 202,
+   "2025": 204,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 815,
-   "2025": 562,
+   "2024": 860,
+   "2025": 597,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 460,
-   "2025": 366,
+   "2024": 486,
+   "2025": 382,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 324,
-   "2025": 231,
+   "2024": 339,
+   "2025": 257,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 456,
-   "2025": 385,
+   "2024": 486,
+   "2025": 408,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 206,
-   "2025": 193,
+   "2024": 225,
+   "2025": 201,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 27,
-   "2025": 17,
+   "2024": 29,
+   "2025": 18,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8101,
    "delito": "VIOLACIONES",
-   "2024": 13,
-   "2025": 20,
+   "2024": 14,
+   "2025": 21,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -2213,39 +2317,39 @@
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "HURTOS",
-   "2024": 700,
-   "2025": 892,
+   "2024": 750,
+   "2025": 970,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "LESIONES",
-   "2024": 148,
-   "2025": 164,
+   "2024": 157,
+   "2025": 179,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 14,
-   "2025": 19,
+   "2024": 17,
+   "2025": 21,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 27,
-   "2025": 20,
+   "2024": 28,
+   "2025": 21,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 17,
+   "2024": 18,
    "2025": 23,
    "COMUNA": "CONCEPCION"
   },
@@ -2253,8 +2357,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 26,
-   "2025": 25,
+   "2024": 29,
+   "2025": 27,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -2270,23 +2374,23 @@
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 18,
-   "2025": 16,
+   "2025": 19,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 48,
-   "2025": 57,
+   "2024": 54,
+   "2025": 64,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 18,
-   "2025": 16,
+   "2024": 19,
+   "2025": 17,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -2317,39 +2421,39 @@
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "HURTOS",
-   "2024": 726,
-   "2025": 915,
+   "2024": 777,
+   "2025": 995,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "LESIONES",
-   "2024": 236,
-   "2025": 290,
+   "2024": 249,
+   "2025": 319,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 21,
-   "2025": 28,
+   "2024": 25,
+   "2025": 31,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 43,
-   "2025": 38,
+   "2024": 45,
+   "2025": 41,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 34,
+   "2024": 35,
    "2025": 52,
    "COMUNA": "CONCEPCION"
   },
@@ -2357,8 +2461,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 39,
-   "2025": 33,
+   "2024": 46,
+   "2025": 36,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -2374,23 +2478,23 @@
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 27,
-   "2025": 16,
+   "2025": 19,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 68,
-   "2025": 86,
+   "2024": 77,
+   "2025": 96,
    "COMUNA": "CONCEPCION"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 27,
-   "2025": 19,
+   "2024": 28,
+   "2025": 20,
    "COMUNA": "CONCEPCION"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

@@ -4,61 +4,61 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 5109,
    "2024": 9,
-   "2025": 6,
-   "variacion": -33,
+   "2025": 7,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5109,
-   "2024": 1915,
-   "2025": 2009,
-   "variacion": 5,
+   "2024": 2040,
+   "2025": 2157,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5109,
-   "2024": 809,
-   "2025": 739,
-   "variacion": -9,
+   "2024": 848,
+   "2025": 805,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5109,
-   "2024": 12,
-   "2025": 64,
-   "variacion": 433,
+   "2024": 13,
+   "2025": 65,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5109,
-   "2024": 388,
-   "2025": 272,
-   "variacion": -30,
+   "2024": 401,
+   "2025": 286,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5109,
-   "2024": 321,
-   "2025": 315,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 338,
+   "2025": 341,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5109,
-   "2024": 809,
-   "2025": 995,
+   "2024": 858,
+   "2025": 1052,
    "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
@@ -66,54 +66,54 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5109,
-   "2024": 693,
-   "2025": 572,
-   "variacion": -17,
+   "2024": 747,
+   "2025": 603,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5109,
-   "2024": 380,
-   "2025": 346,
-   "variacion": -9,
+   "2024": 417,
+   "2025": 367,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5109,
-   "2024": 402,
-   "2025": 340,
-   "variacion": -15,
+   "2024": 426,
+   "2025": 359,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5109,
-   "2024": 417,
-   "2025": 540,
-   "variacion": 29,
+   "2024": 442,
+   "2025": 567,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5109,
-   "2024": 45,
+   "2024": 49,
    "2025": 50,
-   "variacion": 11,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 5109,
-   "2024": 12,
-   "2025": 18,
-   "variacion": 50,
+   "2024": 15,
+   "2025": 20,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "VIÑA DEL MAR"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5109,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 213,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 148,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 66,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5109,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5109,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 38,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 26,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 57,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5109,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 63,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 31,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 21,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5109,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 31,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 27,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5109,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "VIÑA DEL MAR"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VIÑA DEL MAR"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5109,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "VIÑA DEL MAR"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VIÑA DEL MAR"
   }
  ],
  "info": [
@@ -2102,94 +2206,94 @@
    "CODCOM": 5109,
    "delito": "HOMICIDIOS",
    "2024": 9,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "HURTOS",
-   "2024": 1915,
-   "2025": 2009,
+   "2024": 2040,
+   "2025": 2157,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "LESIONES",
-   "2024": 809,
-   "2025": 739,
+   "2024": 848,
+   "2025": 805,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 12,
-   "2025": 64,
+   "2024": 13,
+   "2025": 65,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 388,
-   "2025": 272,
+   "2024": 401,
+   "2025": 286,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 321,
-   "2025": 315,
+   "2024": 338,
+   "2025": 341,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 809,
-   "2025": 995,
+   "2024": 858,
+   "2025": 1052,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 693,
-   "2025": 572,
+   "2024": 747,
+   "2025": 603,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 380,
-   "2025": 346,
+   "2024": 417,
+   "2025": 367,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 402,
-   "2025": 340,
+   "2024": 426,
+   "2025": 359,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO POR SORPRESA",
-   "2024": 417,
-   "2025": 540,
+   "2024": 442,
+   "2025": 567,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 45,
+   "2024": 49,
    "2025": 50,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2197,8 +2301,8 @@
    "informacion": "Casos",
    "CODCOM": 5109,
    "delito": "VIOLACIONES",
-   "2024": 12,
-   "2025": 18,
+   "2024": 15,
+   "2025": 20,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -2206,30 +2310,30 @@
    "CODCOM": 5109,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "HURTOS",
-   "2024": 868,
-   "2025": 752,
+   "2024": 928,
+   "2025": 812,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "LESIONES",
-   "2024": 188,
-   "2025": 170,
+   "2024": 200,
+   "2025": 186,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2237,23 +2341,23 @@
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 20,
-   "2025": 18,
+   "2024": 21,
+   "2025": 19,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 40,
-   "2025": 44,
+   "2024": 41,
+   "2025": 47,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 17,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2261,7 +2365,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2270,23 +2374,23 @@
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 17,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 41,
-   "2025": 31,
+   "2024": 42,
+   "2025": 35,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "ROBO POR SORPRESA",
-   "2024": 60,
-   "2025": 97,
+   "2024": 64,
+   "2025": 101,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -2301,7 +2405,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5109,
    "delito": "VIOLACIONES",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2310,30 +2414,30 @@
    "CODCOM": 5109,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "HURTOS",
-   "2024": 903,
-   "2025": 799,
+   "2024": 964,
+   "2025": 863,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "LESIONES",
-   "2024": 316,
-   "2025": 295,
+   "2024": 337,
+   "2025": 323,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2341,23 +2445,23 @@
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 32,
-   "2025": 24,
+   "2024": 34,
+   "2025": 25,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 68,
-   "2025": 87,
+   "2024": 70,
+   "2025": 95,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 22,
+   "2024": 26,
    "2025": 26,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2365,7 +2469,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 14,
+   "2024": 16,
    "2025": 6,
    "COMUNA": "VIÑA DEL MAR"
   },
@@ -2374,23 +2478,23 @@
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 21,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 50,
-   "2025": 43,
+   "2024": 51,
+   "2025": 47,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "ROBO POR SORPRESA",
-   "2024": 82,
-   "2025": 147,
+   "2024": 88,
+   "2025": 154,
    "COMUNA": "VIÑA DEL MAR"
   },
   {
@@ -2405,13 +2509,13 @@
    "informacion": "Detenidos",
    "CODCOM": 5109,
    "delito": "VIOLACIONES",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "VIÑA DEL MAR"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

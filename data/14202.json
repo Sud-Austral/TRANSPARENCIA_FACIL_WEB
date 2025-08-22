@@ -3,19 +3,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14202,
-   "2024": 37,
-   "2025": 30,
-   "variacion": -19,
+   "2024": 38,
+   "2025": 32,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "FUTRONO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14202,
-   "2024": 33,
-   "2025": 33,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 35,
+   "2025": 40,
+   "variacion": 14,
+   "situación": "Aumento de Casos",
    "COMUNA": "FUTRONO"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14202,
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
-   "variacion": 17,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "FUTRONO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14202,
-   "2024": 24,
+   "2024": 25,
    "2025": 14,
-   "variacion": -42,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "FUTRONO"
   },
@@ -228,6 +228,14 @@
    "COMUNA": "FUTRONO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "FUTRONO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 14202,
    "anio": 2024,
@@ -377,6 +385,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "FUTRONO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 14202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "FUTRONO"
   },
   {
@@ -825,16 +841,16 @@
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "HURTOS",
-   "2024": 37,
-   "2025": 30,
+   "2024": 38,
+   "2025": 32,
    "COMUNA": "FUTRONO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 33,
+   "2024": 35,
+   "2025": 40,
    "COMUNA": "FUTRONO"
   },
   {
@@ -873,7 +889,7 @@
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
    "COMUNA": "FUTRONO"
   },
@@ -881,7 +897,7 @@
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 24,
+   "2024": 25,
    "2025": 14,
    "COMUNA": "FUTRONO"
   },
@@ -906,7 +922,7 @@
    "CODCOM": 14202,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "FUTRONO"
   },
   {
@@ -946,7 +962,7 @@
    "CODCOM": 14202,
    "delito": "LESIONES",
    "2024": 18,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "FUTRONO"
   },
   {
@@ -975,7 +991,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Ríos"
  }
 }

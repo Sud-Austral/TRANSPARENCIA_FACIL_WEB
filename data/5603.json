@@ -3,28 +3,28 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 5603,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5603,
-   "2024": 64,
-   "2025": 89,
-   "variacion": 39,
+   "2024": 67,
+   "2025": 95,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5603,
-   "2024": 167,
-   "2025": 163,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 172,
+   "2025": 176,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
@@ -39,54 +39,54 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5603,
-   "2024": 26,
-   "2025": 24,
-   "variacion": -8,
+   "2024": 28,
+   "2025": 26,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5603,
-   "2024": 32,
-   "2025": 25,
-   "variacion": -22,
+   "2024": 33,
+   "2025": 28,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5603,
-   "2024": 40,
-   "2025": 23,
-   "variacion": -42,
+   "2024": 41,
+   "2025": 24,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5603,
-   "2024": 39,
-   "2025": 17,
-   "variacion": -56,
+   "2024": 41,
+   "2025": 19,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5603,
-   "2024": 107,
-   "2025": 76,
-   "variacion": -29,
+   "2024": 115,
+   "2025": 87,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5603,
-   "2024": 70,
-   "2025": 35,
-   "variacion": -50,
+   "2024": 73,
+   "2025": 37,
+   "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
@@ -94,17 +94,17 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5603,
    "2024": 13,
-   "2025": 14,
-   "variacion": 8,
+   "2025": 15,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "CARTAGENA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5603,
-   "2024": 9,
-   "2025": 5,
-   "variacion": -44,
+   "2024": 10,
+   "2025": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "CARTAGENA"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5603,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 10,
+   "COMUNA": "CARTAGENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5603,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "CARTAGENA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "CARTAGENA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "CARTAGENA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5603,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "CARTAGENA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CARTAGENA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5603,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "CARTAGENA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5603,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CARTAGENA"
   }
  ],
  "info": [
@@ -2101,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "CARTAGENA"
   },
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "HURTOS",
-   "2024": 64,
-   "2025": 89,
+   "2024": 67,
+   "2025": 95,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "LESIONES",
-   "2024": 167,
-   "2025": 163,
+   "2024": 172,
+   "2025": 176,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2133,48 +2237,48 @@
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 26,
-   "2025": 24,
+   "2024": 28,
+   "2025": 26,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 32,
-   "2025": 25,
+   "2024": 33,
+   "2025": 28,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 40,
-   "2025": 23,
+   "2024": 41,
+   "2025": 24,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 39,
-   "2025": 17,
+   "2024": 41,
+   "2025": 19,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 107,
-   "2025": 76,
+   "2024": 115,
+   "2025": 87,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 70,
-   "2025": 35,
+   "2024": 73,
+   "2025": 37,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2182,15 +2286,15 @@
    "CODCOM": 5603,
    "delito": "ROBO POR SORPRESA",
    "2024": 13,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5603,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 9,
-   "2025": 5,
+   "2024": 10,
+   "2025": 6,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2205,7 +2309,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5603,
    "delito": "HOMICIDIOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "CARTAGENA"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 5603,
    "delito": "HURTOS",
-   "2024": 19,
-   "2025": 36,
+   "2024": 20,
+   "2025": 38,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5603,
    "delito": "LESIONES",
-   "2024": 50,
-   "2025": 59,
+   "2024": 51,
+   "2025": 67,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2254,7 +2358,7 @@
    "CODCOM": 5603,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2269,8 +2373,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5603,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 7,
-   "2025": 9,
+   "2024": 9,
+   "2025": 11,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2294,7 +2398,7 @@
    "CODCOM": 5603,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2309,7 +2413,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5603,
    "delito": "HOMICIDIOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "CARTAGENA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 5603,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 44,
+   "2024": 22,
+   "2025": 46,
    "COMUNA": "CARTAGENA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5603,
    "delito": "LESIONES",
-   "2024": 97,
-   "2025": 111,
+   "2024": 101,
+   "2025": 127,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 5603,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2373,8 +2477,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5603,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
-   "2025": 12,
+   "2024": 11,
+   "2025": 14,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2398,7 +2502,7 @@
    "CODCOM": 5603,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "CARTAGENA"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

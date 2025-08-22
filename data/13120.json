@@ -12,108 +12,108 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13120,
-   "2024": 1225,
-   "2025": 882,
-   "variacion": -28,
+   "2024": 1315,
+   "2025": 959,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13120,
-   "2024": 281,
-   "2025": 279,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 302,
+   "2025": 301,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13120,
-   "2024": 74,
-   "2025": 75,
-   "variacion": 1,
+   "2024": 78,
+   "2025": 82,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13120,
-   "2024": 335,
-   "2025": 352,
-   "variacion": 5,
+   "2024": 357,
+   "2025": 366,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13120,
-   "2024": 161,
-   "2025": 167,
-   "variacion": 4,
+   "2024": 172,
+   "2025": 173,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13120,
-   "2024": 795,
-   "2025": 682,
-   "variacion": -14,
+   "2024": 849,
+   "2025": 725,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13120,
-   "2024": 341,
-   "2025": 366,
-   "variacion": 7,
+   "2024": 371,
+   "2025": 392,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13120,
-   "2024": 153,
-   "2025": 186,
-   "variacion": 22,
+   "2024": 159,
+   "2025": 205,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13120,
-   "2024": 188,
-   "2025": 203,
-   "variacion": 8,
+   "2024": 196,
+   "2025": 219,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13120,
-   "2024": 719,
-   "2025": 825,
-   "variacion": 15,
+   "2024": 782,
+   "2025": 882,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13120,
-   "2024": 117,
-   "2025": 77,
-   "variacion": -34,
+   "2024": 124,
+   "2025": 81,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "NUNOA"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13120,
-   "2024": 12,
+   "2024": 13,
    "2025": 5,
-   "variacion": -58,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "NUNOA"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13120,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 141,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 77,
    "COMUNA": "NUNOA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13120,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 8,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "NUNOA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13120,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 23,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "NUNOA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 43,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13120,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 44,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 26,
    "COMUNA": "NUNOA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13120,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 26,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 16,
    "COMUNA": "NUNOA"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "NUNOA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 57,
+   "COMUNA": "NUNOA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13120,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "NUNOA"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "NUNOA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "NUNOA"
   }
  ],
  "info": [
@@ -2109,95 +2213,95 @@
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "HURTOS",
-   "2024": 1225,
-   "2025": 882,
+   "2024": 1315,
+   "2025": 959,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "LESIONES",
-   "2024": 281,
-   "2025": 279,
+   "2024": 302,
+   "2025": 301,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 74,
-   "2025": 75,
+   "2024": 78,
+   "2025": 82,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 335,
-   "2025": 352,
-   "COMUNA": "NUNOA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13120,
-   "delito": "ROBO CON VIOLENCIA",
-   "2024": 161,
-   "2025": 167,
-   "COMUNA": "NUNOA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13120,
-   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 795,
-   "2025": 682,
-   "COMUNA": "NUNOA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13120,
-   "delito": "ROBO DE VEHÍCULO",
-   "2024": 341,
+   "2024": 357,
    "2025": 366,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 172,
+   "2025": 173,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13120,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 849,
+   "2025": 725,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13120,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 371,
+   "2025": 392,
+   "COMUNA": "NUNOA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13120,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 153,
-   "2025": 186,
+   "2024": 159,
+   "2025": 205,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 188,
-   "2025": 203,
+   "2024": 196,
+   "2025": 219,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 719,
-   "2025": 825,
+   "2024": 782,
+   "2025": 882,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 117,
-   "2025": 77,
+   "2024": 124,
+   "2025": 81,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13120,
    "delito": "VIOLACIONES",
-   "2024": 12,
+   "2024": 13,
    "2025": 5,
    "COMUNA": "NUNOA"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "HURTOS",
-   "2024": 448,
-   "2025": 327,
+   "2024": 480,
+   "2025": 356,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "LESIONES",
-   "2024": 59,
-   "2025": 58,
+   "2024": 65,
+   "2025": 63,
    "COMUNA": "NUNOA"
   },
   {
@@ -2237,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 25,
+   "2024": 29,
    "2025": 18,
    "COMUNA": "NUNOA"
   },
@@ -2245,15 +2349,15 @@
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 7,
-   "2025": 18,
+   "2024": 8,
+   "2025": 19,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
    "COMUNA": "NUNOA"
   },
@@ -2269,24 +2373,24 @@
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 13,
-   "2025": 7,
+   "2024": 14,
+   "2025": 8,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
-   "2025": 29,
+   "2024": 20,
+   "2025": 31,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 16,
-   "2025": 23,
+   "2024": 21,
+   "2025": 25,
    "COMUNA": "NUNOA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "HURTOS",
-   "2024": 491,
-   "2025": 362,
+   "2024": 525,
+   "2025": 394,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "LESIONES",
-   "2024": 93,
-   "2025": 90,
+   "2024": 101,
+   "2025": 97,
    "COMUNA": "NUNOA"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 44,
+   "2024": 52,
    "2025": 29,
    "COMUNA": "NUNOA"
   },
@@ -2349,15 +2453,15 @@
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 12,
-   "2025": 32,
+   "2024": 13,
+   "2025": 33,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "NUNOA"
   },
@@ -2373,24 +2477,24 @@
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 20,
-   "2025": 13,
+   "2024": 21,
+   "2025": 15,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 26,
-   "2025": 47,
+   "2024": 29,
+   "2025": 49,
    "COMUNA": "NUNOA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 19,
-   "2025": 32,
+   "2024": 26,
+   "2025": 35,
    "COMUNA": "NUNOA"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

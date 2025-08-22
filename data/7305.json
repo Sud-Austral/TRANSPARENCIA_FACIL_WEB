@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7305,
-   "2024": 17,
-   "2025": 13,
-   "variacion": -24,
+   "2024": 18,
+   "2025": 14,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "RAUCO"
   },
@@ -13,9 +13,9 @@
    "delito": "LESIONES",
    "CODCOM": 7305,
    "2024": 13,
-   "2025": 13,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 15,
+   "variacion": 15,
+   "situación": "Aumento de Casos",
    "COMUNA": "RAUCO"
   },
   {
@@ -31,9 +31,9 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7305,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "RAUCO"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7305,
-   "2024": 16,
+   "2024": 19,
    "2025": 11,
-   "variacion": -31,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "RAUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7305,
-   "2024": 18,
-   "2025": 22,
-   "variacion": 22,
+   "2024": 21,
+   "2025": 23,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "RAUCO"
   },
@@ -228,6 +228,14 @@
    "COMUNA": "RAUCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RAUCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 7305,
    "anio": 2024,
@@ -364,6 +372,14 @@
    "COMUNA": "RAUCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "RAUCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7305,
    "anio": 2024,
@@ -464,6 +480,14 @@
    "CODCOM": 7305,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "RAUCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7305,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "RAUCO"
   },
@@ -772,6 +796,14 @@
    "COMUNA": "RAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RAUCO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7305,
    "anio": 2024,
@@ -793,8 +825,8 @@
    "informacion": "Casos",
    "CODCOM": 7305,
    "delito": "HURTOS",
-   "2024": 17,
-   "2025": 13,
+   "2024": 18,
+   "2025": 14,
    "COMUNA": "RAUCO"
   },
   {
@@ -802,7 +834,7 @@
    "CODCOM": 7305,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "RAUCO"
   },
   {
@@ -818,7 +850,7 @@
    "CODCOM": 7305,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RAUCO"
   },
   {
@@ -841,7 +873,7 @@
    "informacion": "Casos",
    "CODCOM": 7305,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
+   "2024": 19,
    "2025": 11,
    "COMUNA": "RAUCO"
   },
@@ -849,8 +881,8 @@
    "informacion": "Casos",
    "CODCOM": 7305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
-   "2025": 22,
+   "2024": 21,
+   "2025": 23,
    "COMUNA": "RAUCO"
   },
   {
@@ -865,7 +897,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7305,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "RAUCO"
   },
@@ -905,7 +937,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7305,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "RAUCO"
   },
@@ -943,7 +975,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Maule"
  }
 }

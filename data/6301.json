@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6301,
-   "2024": 305,
-   "2025": 323,
+   "2024": 327,
+   "2025": 346,
    "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
@@ -21,81 +21,81 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6301,
-   "2024": 273,
-   "2025": 250,
-   "variacion": -8,
+   "2024": 288,
+   "2025": 261,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6301,
-   "2024": 18,
-   "2025": 36,
-   "variacion": 100,
+   "2024": 19,
+   "2025": 41,
+   "variacion": 116,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6301,
-   "2024": 69,
-   "2025": 73,
-   "variacion": 6,
+   "2024": 72,
+   "2025": 81,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6301,
-   "2024": 41,
-   "2025": 58,
-   "variacion": 41,
+   "2024": 42,
+   "2025": 59,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6301,
-   "2024": 131,
-   "2025": 106,
-   "variacion": -19,
+   "2024": 140,
+   "2025": 128,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6301,
-   "2024": 52,
-   "2025": 31,
-   "variacion": -40,
+   "2024": 56,
+   "2025": 36,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6301,
-   "2024": 129,
-   "2025": 173,
-   "variacion": 34,
+   "2024": 134,
+   "2025": 190,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6301,
-   "2024": 113,
-   "2025": 132,
-   "variacion": 17,
+   "2024": 130,
+   "2025": 141,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FERNANDO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6301,
-   "2024": 33,
-   "2025": 24,
-   "variacion": -27,
+   "2024": 35,
+   "2025": 27,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FERNANDO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6301,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 41,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6301,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 16,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6301,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "SAN FERNANDO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 6301,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 6301,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "SAN FERNANDO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6301,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "SAN FERNANDO"
   }
@@ -2109,80 +2213,80 @@
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "HURTOS",
-   "2024": 305,
-   "2025": 323,
+   "2024": 327,
+   "2025": 346,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "LESIONES",
-   "2024": 273,
-   "2025": 250,
+   "2024": 288,
+   "2025": 261,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 18,
-   "2025": 36,
+   "2024": 19,
+   "2025": 41,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 69,
-   "2025": 73,
+   "2024": 72,
+   "2025": 81,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 41,
-   "2025": 58,
+   "2024": 42,
+   "2025": 59,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 131,
-   "2025": 106,
+   "2024": 140,
+   "2025": 128,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 52,
-   "2025": 31,
+   "2024": 56,
+   "2025": 36,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 129,
-   "2025": 173,
+   "2024": 134,
+   "2025": 190,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 113,
-   "2025": 132,
+   "2024": 130,
+   "2025": 141,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 33,
-   "2025": 24,
+   "2024": 35,
+   "2025": 27,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 6301,
    "delito": "HURTOS",
-   "2024": 67,
-   "2025": 69,
+   "2024": 75,
+   "2025": 77,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6301,
    "delito": "LESIONES",
-   "2024": 75,
-   "2025": 71,
+   "2024": 78,
+   "2025": 72,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2230,15 +2334,15 @@
    "CODCOM": 6301,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 11,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
-   "2025": 7,
+   "2024": 8,
+   "2025": 8,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2269,8 +2373,8 @@
    "informacion": "Detenciones",
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 11,
-   "2025": 20,
+   "2024": 13,
+   "2025": 21,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2278,7 +2382,7 @@
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 6301,
    "delito": "HURTOS",
-   "2024": 80,
-   "2025": 81,
+   "2024": 89,
+   "2025": 92,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6301,
    "delito": "LESIONES",
-   "2024": 111,
-   "2025": 108,
+   "2024": 115,
+   "2025": 109,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2334,15 +2438,15 @@
    "CODCOM": 6301,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 16,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "SAN FERNANDO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 8,
-   "2025": 9,
+   "2024": 9,
+   "2025": 11,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2373,8 +2477,8 @@
    "informacion": "Detenidos",
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 15,
-   "2025": 22,
+   "2024": 17,
+   "2025": 24,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2382,7 +2486,7 @@
    "CODCOM": 6301,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 18,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "SAN FERNANDO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

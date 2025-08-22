@@ -3,27 +3,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10305,
-   "2024": 46,
-   "2025": 37,
-   "variacion": -20,
+   "2024": 49,
+   "2025": 42,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO NEGRO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10305,
-   "2024": 41,
-   "2025": 52,
-   "variacion": 27,
+   "2024": 49,
+   "2025": 56,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "RÍO NEGRO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10305,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO NEGRO"
   },
@@ -58,17 +58,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10305,
    "2024": 28,
-   "2025": 20,
-   "variacion": -29,
+   "2025": 23,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO NEGRO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10305,
-   "2024": 25,
-   "2025": 29,
-   "variacion": 16,
+   "2024": 28,
+   "2025": 30,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "RÍO NEGRO"
   },
@@ -245,6 +245,14 @@
    "COMUNA": "RÍO NEGRO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "RÍO NEGRO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10305,
    "anio": 2024,
@@ -394,6 +402,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "RÍO NEGRO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -749,6 +765,14 @@
    "COMUNA": "RÍO NEGRO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "RÍO NEGRO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10305,
    "anio": 2024,
@@ -901,6 +925,14 @@
    "COMUNA": "RÍO NEGRO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO NEGRO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10305,
    "anio": 2024,
@@ -978,23 +1010,23 @@
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "HURTOS",
-   "2024": 46,
-   "2025": 37,
+   "2024": 49,
+   "2025": 42,
    "COMUNA": "RÍO NEGRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 41,
-   "2025": 52,
+   "2024": 49,
+   "2025": 56,
    "COMUNA": "RÍO NEGRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1027,15 +1059,15 @@
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 28,
-   "2025": 20,
+   "2025": 23,
    "COMUNA": "RÍO NEGRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 25,
-   "2025": 29,
+   "2024": 28,
+   "2025": 30,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1066,8 +1098,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 15,
-   "2025": 16,
+   "2024": 17,
+   "2025": 17,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1106,7 +1138,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1138,8 +1170,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 27,
+   "2024": 26,
+   "2025": 28,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1178,7 +1210,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1200,7 +1232,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

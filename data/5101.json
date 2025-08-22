@@ -12,35 +12,35 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5101,
-   "2024": 1158,
-   "2025": 1216,
-   "variacion": 5,
+   "2024": 1231,
+   "2025": 1312,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5101,
-   "2024": 753,
-   "2025": 793,
-   "variacion": 5,
+   "2024": 816,
+   "2025": 861,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5101,
-   "2024": 41,
-   "2025": 50,
-   "variacion": 22,
+   "2024": 43,
+   "2025": 55,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5101,
-   "2024": 483,
-   "2025": 362,
+   "2024": 504,
+   "2025": 379,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
@@ -48,35 +48,35 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5101,
-   "2024": 366,
-   "2025": 313,
-   "variacion": -14,
+   "2024": 400,
+   "2025": 336,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5101,
-   "2024": 883,
-   "2025": 1053,
-   "variacion": 19,
+   "2024": 949,
+   "2025": 1124,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5101,
-   "2024": 437,
-   "2025": 315,
-   "variacion": -28,
+   "2024": 460,
+   "2025": 334,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5101,
-   "2024": 463,
-   "2025": 357,
+   "2024": 494,
+   "2025": 381,
    "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
@@ -84,17 +84,17 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5101,
-   "2024": 345,
-   "2025": 338,
-   "variacion": -2,
+   "2024": 372,
+   "2025": 361,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5101,
-   "2024": 556,
-   "2025": 516,
+   "2024": 600,
+   "2025": 557,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
@@ -102,8 +102,8 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5101,
-   "2024": 45,
-   "2025": 36,
+   "2024": 49,
+   "2025": 39,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "VALPARAÍSO"
@@ -272,6 +272,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 181,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 96,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 68,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5101,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5101,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 38,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 71,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5101,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 44,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 24,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5101,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 44,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 41,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5101,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "VALPARAÍSO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "VALPARAÍSO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5101,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 3,
    "COMUNA": "VALPARAÍSO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VALPARAÍSO"
   }
  ],
  "info": [
@@ -2109,88 +2213,88 @@
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "HURTOS",
-   "2024": 1158,
-   "2025": 1216,
+   "2024": 1231,
+   "2025": 1312,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "LESIONES",
-   "2024": 753,
-   "2025": 793,
+   "2024": 816,
+   "2025": 861,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 41,
-   "2025": 50,
+   "2024": 43,
+   "2025": 55,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 483,
-   "2025": 362,
+   "2024": 504,
+   "2025": 379,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 366,
-   "2025": 313,
+   "2024": 400,
+   "2025": 336,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 883,
-   "2025": 1053,
+   "2024": 949,
+   "2025": 1124,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 437,
-   "2025": 315,
+   "2024": 460,
+   "2025": 334,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 463,
-   "2025": 357,
+   "2024": 494,
+   "2025": 381,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 345,
-   "2025": 338,
+   "2024": 372,
+   "2025": 361,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 556,
-   "2025": 516,
+   "2024": 600,
+   "2025": 557,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 45,
-   "2025": 36,
+   "2024": 49,
+   "2025": 39,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "HURTOS",
-   "2024": 411,
-   "2025": 423,
+   "2024": 437,
+   "2025": 468,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "LESIONES",
-   "2024": 190,
-   "2025": 220,
+   "2024": 204,
+   "2025": 239,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -2230,14 +2334,14 @@
    "CODCOM": 5101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 14,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 20,
+   "2024": 22,
    "2025": 18,
    "COMUNA": "VALPARAÍSO"
   },
@@ -2245,23 +2349,23 @@
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 35,
-   "2025": 29,
+   "2024": 40,
+   "2025": 31,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 30,
-   "2025": 37,
+   "2024": 31,
+   "2025": 38,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "VALPARAÍSO"
   },
@@ -2270,23 +2374,23 @@
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 19,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 44,
-   "2025": 53,
+   "2024": 46,
+   "2025": 56,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 50,
-   "2025": 60,
+   "2024": 51,
+   "2025": 65,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "HURTOS",
-   "2024": 447,
-   "2025": 450,
+   "2024": 475,
+   "2025": 502,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "LESIONES",
-   "2024": 326,
-   "2025": 361,
+   "2024": 353,
+   "2025": 393,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -2334,14 +2438,14 @@
    "CODCOM": 5101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 17,
-   "2025": 28,
+   "2025": 30,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 34,
+   "2024": 36,
    "2025": 26,
    "COMUNA": "VALPARAÍSO"
   },
@@ -2349,23 +2453,23 @@
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 62,
-   "2025": 48,
+   "2024": 70,
+   "2025": 50,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 42,
-   "2025": 53,
+   "2024": 43,
+   "2025": 54,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 8,
    "COMUNA": "VALPARAÍSO"
   },
@@ -2374,23 +2478,23 @@
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 24,
-   "2025": 15,
+   "2025": 18,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 74,
-   "2025": 69,
+   "2024": 76,
+   "2025": 73,
    "COMUNA": "VALPARAÍSO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 62,
-   "2025": 78,
+   "2024": 63,
+   "2025": 86,
    "COMUNA": "VALPARAÍSO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

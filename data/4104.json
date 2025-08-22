@@ -13,17 +13,17 @@
    "delito": "LESIONES",
    "CODCOM": 4104,
    "2024": 15,
-   "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 16,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
    "COMUNA": "LA HIGUERA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4104,
-   "2024": 12,
-   "2025": 19,
-   "variacion": 58,
+   "2024": 14,
+   "2025": 20,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "LA HIGUERA"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4104,
-   "2024": 22,
-   "2025": 9,
-   "variacion": -59,
+   "2024": 23,
+   "2025": 10,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "LA HIGUERA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4104,
-   "2024": 11,
+   "2024": 12,
    "2025": 14,
-   "variacion": 27,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "LA HIGUERA"
   },
@@ -327,6 +327,14 @@
    "COMUNA": "LA HIGUERA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LA HIGUERA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4104,
    "anio": 2024,
@@ -452,6 +460,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "LA HIGUERA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -759,6 +775,14 @@
    "COMUNA": "LA HIGUERA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LA HIGUERA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4104,
    "anio": 2024,
@@ -949,15 +973,15 @@
    "CODCOM": 4104,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "LA HIGUERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 12,
-   "2025": 19,
+   "2024": 14,
+   "2025": 20,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -996,15 +1020,15 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
-   "2025": 9,
+   "2024": 23,
+   "2025": 10,
    "COMUNA": "LA HIGUERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 14,
    "COMUNA": "LA HIGUERA"
   },
@@ -1045,7 +1069,7 @@
    "CODCOM": 4104,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -1077,7 +1101,7 @@
    "CODCOM": 4104,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -1098,7 +1122,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Coquimbo"
  }
 }

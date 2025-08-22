@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5405,
-   "2024": 14,
-   "2025": 19,
-   "variacion": 36,
+   "2024": 15,
+   "2025": 20,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "ZAPALLAR"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5405,
-   "2024": 15,
-   "2025": 38,
-   "variacion": 153,
+   "2024": 16,
+   "2025": 42,
+   "variacion": 162,
    "situación": "Aumento de Casos",
    "COMUNA": "ZAPALLAR"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5405,
-   "2024": 19,
-   "2025": 24,
-   "variacion": 26,
+   "2024": 22,
+   "2025": 25,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "ZAPALLAR"
   },
@@ -76,15 +76,15 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5405,
    "2024": 8,
-   "2025": 7,
-   "variacion": -12,
-   "situación": "Disminución de Casos",
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "ZAPALLAR"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5405,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -374,6 +374,14 @@
    "COMUNA": "ZAPALLAR"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ZAPALLAR"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5405,
    "anio": 2025,
@@ -598,6 +606,14 @@
    "COMUNA": "ZAPALLAR"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "ZAPALLAR"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5405,
    "anio": 2024,
@@ -790,6 +806,14 @@
    "COMUNA": "ZAPALLAR"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ZAPALLAR"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5405,
    "anio": 2024,
@@ -902,6 +926,14 @@
    "COMUNA": "ZAPALLAR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5405,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ZAPALLAR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5405,
    "anio": 2024,
@@ -955,8 +987,8 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "LESIONES",
-   "2024": 14,
-   "2025": 19,
+   "2024": 15,
+   "2025": 20,
    "COMUNA": "ZAPALLAR"
   },
   {
@@ -987,8 +1019,8 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 15,
-   "2025": 38,
+   "2024": 16,
+   "2025": 42,
    "COMUNA": "ZAPALLAR"
   },
   {
@@ -1003,8 +1035,8 @@
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 19,
-   "2025": 24,
+   "2024": 22,
+   "2025": 25,
    "COMUNA": "ZAPALLAR"
   },
   {
@@ -1012,14 +1044,14 @@
    "CODCOM": 5405,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "ZAPALLAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5405,
    "delito": "ROBO POR SORPRESA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "ZAPALLAR"
   },
@@ -1193,7 +1225,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

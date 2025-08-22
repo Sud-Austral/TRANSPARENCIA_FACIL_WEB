@@ -3,28 +3,28 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10307,
-   "2024": 35,
-   "2025": 47,
-   "variacion": 34,
+   "2024": 36,
+   "2025": 48,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10307,
-   "2024": 19,
+   "2024": 21,
    "2025": 27,
-   "variacion": 42,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10307,
-   "2024": 2,
+   "2024": 4,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10307,
-   "2024": 10,
+   "2024": 12,
    "2025": 8,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10307,
-   "2024": 19,
-   "2025": 16,
-   "variacion": -16,
+   "2024": 20,
+   "2025": 17,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PABLO"
   },
@@ -245,6 +245,14 @@
    "COMUNA": "SAN PABLO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10307,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN PABLO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10307,
    "anio": 2024,
@@ -821,6 +829,14 @@
    "COMUNA": "SAN PABLO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10307,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN PABLO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10307,
    "anio": 2024,
@@ -858,15 +874,15 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "HURTOS",
-   "2024": 35,
-   "2025": 47,
+   "2024": 36,
+   "2025": 48,
    "COMUNA": "SAN PABLO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 19,
+   "2024": 21,
    "2025": 27,
    "COMUNA": "SAN PABLO"
   },
@@ -874,7 +890,7 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "SAN PABLO"
   },
@@ -914,7 +930,7 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 10,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "SAN PABLO"
   },
@@ -922,8 +938,8 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
-   "2025": 16,
+   "2024": 20,
+   "2025": 17,
    "COMUNA": "SAN PABLO"
   },
   {
@@ -946,7 +962,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 12,
    "COMUNA": "SAN PABLO"
   },
@@ -994,7 +1010,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 21,
+   "2024": 22,
    "2025": 20,
    "COMUNA": "SAN PABLO"
   },
@@ -1032,7 +1048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

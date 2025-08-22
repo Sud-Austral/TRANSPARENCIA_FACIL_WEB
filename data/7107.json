@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7107,
-   "2024": 9,
+   "2024": 10,
    "2025": 8,
-   "variacion": -11,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7107,
    "2024": 10,
-   "2025": 14,
-   "variacion": 40,
+   "2025": 15,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7107,
-   "2024": 18,
-   "2025": 12,
-   "variacion": -33,
+   "2024": 19,
+   "2025": 16,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -297,6 +297,14 @@
    "CODCOM": 7107,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PENCAHUE"
   },
@@ -589,6 +597,14 @@
    "COMUNA": "PENCAHUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "PENCAHUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 7107,
    "anio": 2024,
@@ -602,7 +618,7 @@
    "informacion": "Casos",
    "CODCOM": 7107,
    "delito": "HURTOS",
-   "2024": 9,
+   "2024": 10,
    "2025": 8,
    "COMUNA": "PENCAHUE"
   },
@@ -611,7 +627,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -666,8 +682,8 @@
    "informacion": "Casos",
    "CODCOM": 7107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
-   "2025": 12,
+   "2024": 19,
+   "2025": 16,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -683,7 +699,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -715,7 +731,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -744,7 +760,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Maule"
  }
 }

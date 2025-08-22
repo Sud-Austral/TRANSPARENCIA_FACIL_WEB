@@ -3,19 +3,28 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9110,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "MELIPEUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9110,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
+   "COMUNA": "MELIPEUCO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9110,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "MELIPEUCO"
   },
   {
@@ -39,10 +48,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9110,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "MELIPEUCO"
   },
   {
@@ -249,6 +258,14 @@
    "COMUNA": "MELIPEUCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9110,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MELIPEUCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9110,
    "anio": 2024,
@@ -398,7 +415,7 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "HURTOS",
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
    "COMUNA": "MELIPEUCO"
   },
@@ -407,7 +424,15 @@
    "CODCOM": 9110,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
+   "COMUNA": "MELIPEUCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9110,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "MELIPEUCO"
   },
   {
@@ -430,7 +455,7 @@
    "informacion": "Casos",
    "CODCOM": 9110,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "MELIPEUCO"
   },
@@ -456,6 +481,14 @@
    "delito": "LESIONES",
    "2024": 2,
    "2025": 3,
+   "COMUNA": "MELIPEUCO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9110,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "MELIPEUCO"
   },
   {
@@ -493,6 +526,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 9110,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "MELIPEUCO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9110,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 0,
    "2025": 3,
@@ -508,7 +549,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 16105,
    "2024": 8,
-   "2025": 11,
-   "variacion": 38,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "PEMUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16105,
-   "2024": 18,
+   "2024": 19,
    "2025": 12,
-   "variacion": -33,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "PEMUCO"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16105,
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
-   "variacion": 29,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PEMUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16105,
-   "2024": 10,
-   "2025": 15,
-   "variacion": 50,
+   "2024": 12,
+   "2025": 17,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "PEMUCO"
   },
@@ -214,6 +214,14 @@
    "COMUNA": "PEMUCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PEMUCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16105,
    "anio": 2024,
@@ -726,6 +734,14 @@
    "COMUNA": "PEMUCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PEMUCO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16105,
    "anio": 2024,
@@ -756,14 +772,14 @@
    "CODCOM": 16105,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PEMUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 12,
    "COMUNA": "PEMUCO"
   },
@@ -811,7 +827,7 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "PEMUCO"
   },
@@ -819,8 +835,8 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 15,
+   "2024": 12,
+   "2025": 17,
    "COMUNA": "PEMUCO"
   },
   {
@@ -881,7 +897,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Ñuble"
  }
 }

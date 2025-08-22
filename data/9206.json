@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 9206,
    "2024": 21,
-   "2025": 14,
-   "variacion": -33,
+   "2025": 16,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9206,
-   "2024": 7,
-   "2025": 10,
-   "variacion": 43,
+   "2024": 8,
+   "2025": 11,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -375,6 +375,14 @@
    "COMUNA": "LOS SAUCES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9206,
    "anio": 2024,
@@ -735,6 +743,14 @@
    "COMUNA": "LOS SAUCES"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9206,
    "anio": 2024,
@@ -805,7 +821,7 @@
    "CODCOM": 9206,
    "delito": "LESIONES",
    "2024": 21,
-   "2025": 14,
+   "2025": 16,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -860,8 +876,8 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 7,
-   "2025": 10,
+   "2024": 8,
+   "2025": 11,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -915,6 +931,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 9206,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9206,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -947,6 +971,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 9206,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9206,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -954,7 +986,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

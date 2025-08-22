@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 16202,
    "2024": 3,
-   "2025": 12,
-   "variacion": 300,
+   "2025": 13,
+   "variacion": 333,
    "situación": "Aumento de Casos",
    "COMUNA": "COBQUECURA"
   },
@@ -79,6 +79,15 @@
    "2025": 1,
    "variacion": -67,
    "situación": "Disminución de Casos",
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16202,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "COBQUECURA"
   }
  ],
@@ -177,6 +186,14 @@
    "anio": 2025,
    "mes": 6,
    "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -450,6 +467,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "COBQUECURA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
   }
  ],
  "info": [
@@ -466,7 +491,7 @@
    "CODCOM": 16202,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -526,6 +551,14 @@
    "COMUNA": "COBQUECURA"
   },
   {
+   "informacion": "Casos",
+   "CODCOM": 16202,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
    "informacion": "Detenciones",
    "CODCOM": 16202,
    "delito": "HOMICIDIOS",
@@ -555,6 +588,14 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
+   "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16202,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -588,10 +629,18 @@
    "2024": 2,
    "2025": 0,
    "COMUNA": "COBQUECURA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16202,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COBQUECURA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Ñuble"
  }
 }

@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5604,
-   "2024": 36,
-   "2025": 55,
-   "variacion": 53,
+   "2024": 38,
+   "2025": 57,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5604,
-   "2024": 71,
-   "2025": 101,
-   "variacion": 42,
+   "2024": 77,
+   "2025": 108,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5604,
    "2024": 14,
-   "2025": 21,
-   "variacion": 50,
+   "2025": 22,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5604,
-   "2024": 30,
-   "2025": 56,
-   "variacion": 87,
+   "2024": 32,
+   "2025": 57,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5604,
-   "2024": 174,
-   "2025": 148,
-   "variacion": -15,
+   "2024": 185,
+   "2025": 154,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5604,
-   "2024": 17,
-   "2025": 31,
-   "variacion": 82,
+   "2024": 19,
+   "2025": 34,
+   "variacion": 79,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
@@ -85,9 +85,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5604,
    "2024": 6,
-   "2025": 6,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 7,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
@@ -255,6 +255,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5604,
    "anio": 2024,
@@ -407,6 +415,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5604,
    "anio": 2025,
@@ -719,6 +735,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5604,
    "anio": 2024,
@@ -860,6 +884,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "EL QUISCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1159,6 +1191,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5604,
    "anio": 2024,
@@ -1287,6 +1327,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5604,
    "anio": 2024,
@@ -1367,6 +1415,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5604,
    "anio": 2024,
@@ -1436,16 +1492,16 @@
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "HURTOS",
-   "2024": 36,
-   "2025": 55,
+   "2024": 38,
+   "2025": 57,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 71,
-   "2025": 101,
+   "2024": 77,
+   "2025": 108,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1469,15 +1525,15 @@
    "CODCOM": 5604,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 14,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 30,
-   "2025": 56,
+   "2024": 32,
+   "2025": 57,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1492,16 +1548,16 @@
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 174,
-   "2025": 148,
+   "2024": 185,
+   "2025": 154,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
-   "2025": 31,
+   "2024": 19,
+   "2025": 34,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1509,7 +1565,7 @@
    "CODCOM": 5604,
    "delito": "ROBO POR SORPRESA",
    "2024": 6,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1533,15 +1589,15 @@
    "CODCOM": 5604,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 21,
-   "2025": 22,
+   "2024": 22,
+   "2025": 24,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1597,7 +1653,7 @@
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1613,15 +1669,15 @@
    "CODCOM": 5604,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 32,
-   "2025": 45,
+   "2024": 34,
+   "2025": 47,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1677,7 +1733,7 @@
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1690,7 +1746,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10109,
-   "2024": 190,
-   "2025": 204,
+   "2024": 202,
+   "2025": 217,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO VARAS"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10109,
-   "2024": 107,
-   "2025": 99,
-   "variacion": -7,
+   "2024": 116,
+   "2025": 106,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO VARAS"
   },
@@ -31,17 +31,17 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10109,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO VARAS"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10109,
-   "2024": 14,
-   "2025": 12,
-   "variacion": -14,
+   "2024": 15,
+   "2025": 13,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO VARAS"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10109,
-   "2024": 69,
-   "2025": 68,
-   "variacion": -1,
+   "2024": 73,
+   "2025": 71,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO VARAS"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10109,
-   "2024": 57,
-   "2025": 61,
-   "variacion": 7,
+   "2024": 61,
+   "2025": 67,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO VARAS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10109,
-   "2024": 86,
-   "2025": 57,
-   "variacion": -34,
+   "2024": 91,
+   "2025": 58,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO VARAS"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10109,
    "2024": 9,
-   "2025": 14,
-   "variacion": 56,
+   "2025": 15,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO VARAS"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10109,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 24,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10109,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10109,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10109,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 10109,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "PUERTO VARAS"
   },
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 8,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10109,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "PUERTO VARAS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10109,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 10109,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "PUERTO VARAS"
   },
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 2,
    "COMUNA": "PUERTO VARAS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10109,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUERTO VARAS"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "HURTOS",
-   "2024": 190,
-   "2025": 204,
+   "2024": 202,
+   "2025": 217,
    "COMUNA": "PUERTO VARAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "LESIONES",
-   "2024": 107,
-   "2025": 99,
+   "2024": 116,
+   "2025": 106,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2126,15 +2230,15 @@
    "CODCOM": 10109,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 5,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "PUERTO VARAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 14,
-   "2025": 12,
+   "2024": 15,
+   "2025": 13,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2149,8 +2253,8 @@
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 69,
-   "2025": 68,
+   "2024": 73,
+   "2025": 71,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2165,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 57,
-   "2025": 61,
+   "2024": 61,
+   "2025": 67,
    "COMUNA": "PUERTO VARAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 86,
-   "2025": 57,
+   "2024": 91,
+   "2025": 58,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2182,7 +2286,7 @@
    "CODCOM": 10109,
    "delito": "ROBO POR SORPRESA",
    "2024": 9,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2213,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 10109,
    "delito": "HURTOS",
-   "2024": 26,
-   "2025": 51,
+   "2024": 29,
+   "2025": 56,
    "COMUNA": "PUERTO VARAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10109,
    "delito": "LESIONES",
-   "2024": 34,
+   "2024": 37,
    "2025": 41,
    "COMUNA": "PUERTO VARAS"
   },
@@ -2253,8 +2357,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 2,
-   "2025": 4,
+   "2024": 3,
+   "2025": 5,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2277,8 +2381,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 1,
+   "2024": 11,
+   "2025": 2,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 10109,
    "delito": "HURTOS",
-   "2024": 33,
-   "2025": 60,
+   "2024": 36,
+   "2025": 65,
    "COMUNA": "PUERTO VARAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10109,
    "delito": "LESIONES",
-   "2024": 55,
+   "2024": 60,
    "2025": 58,
    "COMUNA": "PUERTO VARAS"
   },
@@ -2357,8 +2461,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 3,
-   "2025": 5,
+   "2024": 5,
+   "2025": 6,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2381,8 +2485,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
-   "2025": 1,
+   "2024": 19,
+   "2025": 2,
    "COMUNA": "PUERTO VARAS"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

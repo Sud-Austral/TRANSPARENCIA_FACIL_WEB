@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10403,
-   "2024": 26,
+   "2024": 27,
    "2025": 10,
-   "variacion": -62,
+   "variacion": -63,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10403,
    "2024": 27,
-   "2025": 21,
-   "variacion": -22,
+   "2025": 22,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
@@ -39,8 +39,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10403,
-   "2024": 4,
-   "2025": 4,
+   "2024": 5,
+   "2025": 5,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "HUALAIHUÉ"
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10403,
    "2024": 10,
-   "2025": 2,
-   "variacion": -80,
+   "2025": 3,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
@@ -354,6 +354,14 @@
    "COMUNA": "HUALAIHUÉ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10403,
    "anio": 2024,
@@ -458,6 +466,14 @@
    "COMUNA": "HUALAIHUÉ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10403,
    "anio": 2024,
@@ -538,6 +554,14 @@
    "COMUNA": "HUALAIHUÉ"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 10403,
    "anio": 2024,
@@ -567,7 +591,7 @@
    "informacion": "Casos",
    "CODCOM": 10403,
    "delito": "HURTOS",
-   "2024": 26,
+   "2024": 27,
    "2025": 10,
    "COMUNA": "HUALAIHUÉ"
   },
@@ -576,7 +600,7 @@
    "CODCOM": 10403,
    "delito": "LESIONES",
    "2024": 27,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "HUALAIHUÉ"
   },
   {
@@ -599,8 +623,8 @@
    "informacion": "Casos",
    "CODCOM": 10403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
-   "2025": 4,
+   "2024": 5,
+   "2025": 5,
    "COMUNA": "HUALAIHUÉ"
   },
   {
@@ -608,7 +632,7 @@
    "CODCOM": 10403,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "HUALAIHUÉ"
   },
   {
@@ -636,6 +660,14 @@
    "COMUNA": "HUALAIHUÉ"
   },
   {
+   "informacion": "Detenciones",
+   "CODCOM": 10403,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
    "informacion": "Detenidos",
    "CODCOM": 10403,
    "delito": "HURTOS",
@@ -650,10 +682,18 @@
    "2024": 6,
    "2025": 10,
    "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10403,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "HUALAIHUÉ"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

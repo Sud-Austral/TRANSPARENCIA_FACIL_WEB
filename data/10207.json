@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 10207,
    "2024": 5,
-   "2025": 3,
-   "variacion": -40,
+   "2025": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "QUEILÉN"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10207,
    "2024": 8,
-   "2025": 10,
-   "variacion": 25,
+   "2025": 11,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "QUEILÉN"
   },
@@ -125,6 +125,14 @@
    "CODCOM": 10207,
    "anio": 2025,
    "mes": 5,
+   "casos": 1,
+   "COMUNA": "QUEILÉN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10207,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "QUEILÉN"
   },
@@ -241,6 +249,14 @@
    "COMUNA": "QUEILÉN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUEILÉN"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10207,
    "anio": 2025,
@@ -351,7 +367,7 @@
    "CODCOM": 10207,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -359,7 +375,7 @@
    "CODCOM": 10207,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -397,6 +413,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 10207,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "QUEILÉN"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10207,
    "delito": "LESIONES",
    "2024": 3,
    "2025": 7,
@@ -408,6 +432,14 @@
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
+   "COMUNA": "QUEILÉN"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10207,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -428,7 +460,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

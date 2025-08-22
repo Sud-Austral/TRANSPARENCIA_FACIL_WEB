@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13107,
-   "2024": 330,
-   "2025": 283,
+   "2024": 354,
+   "2025": 303,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "HUECHURABA"
@@ -21,26 +21,26 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13107,
-   "2024": 148,
-   "2025": 150,
-   "variacion": 1,
+   "2024": 158,
+   "2025": 164,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13107,
-   "2024": 28,
-   "2025": 57,
-   "variacion": 104,
+   "2024": 30,
+   "2025": 63,
+   "variacion": 110,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13107,
-   "2024": 188,
-   "2025": 162,
+   "2024": 200,
+   "2025": 172,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "HUECHURABA"
@@ -48,63 +48,63 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13107,
-   "2024": 56,
-   "2025": 68,
-   "variacion": 21,
+   "2024": 60,
+   "2025": 73,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13107,
-   "2024": 330,
-   "2025": 274,
-   "variacion": -17,
+   "2024": 363,
+   "2025": 285,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13107,
-   "2024": 75,
-   "2025": 82,
-   "variacion": 9,
+   "2024": 81,
+   "2025": 94,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13107,
-   "2024": 36,
-   "2025": 31,
-   "variacion": -14,
+   "2024": 38,
+   "2025": 35,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13107,
-   "2024": 54,
-   "2025": 58,
-   "variacion": 7,
+   "2024": 59,
+   "2025": 66,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13107,
-   "2024": 122,
-   "2025": 141,
-   "variacion": 16,
+   "2024": 138,
+   "2025": 148,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13107,
-   "2024": 68,
-   "2025": 80,
-   "variacion": 18,
+   "2024": 71,
+   "2025": 83,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "HUECHURABA"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13107,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 35,
+   "COMUNA": "HUECHURABA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13107,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 12,
+   "COMUNA": "HUECHURABA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13107,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "HUECHURABA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13107,
    "anio": 2024,
@@ -1336,6 +1392,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13107,
    "anio": 2024,
@@ -1488,6 +1552,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13107,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 12,
+   "COMUNA": "HUECHURABA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13107,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "HUECHURABA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "HUECHURABA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13107,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "HUECHURABA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "HUECHURABA"
   }
  ],
  "info": [
@@ -2109,88 +2213,88 @@
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "HURTOS",
-   "2024": 330,
-   "2025": 283,
+   "2024": 354,
+   "2025": 303,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "LESIONES",
-   "2024": 148,
-   "2025": 150,
+   "2024": 158,
+   "2025": 164,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 28,
-   "2025": 57,
+   "2024": 30,
+   "2025": 63,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 188,
-   "2025": 162,
+   "2024": 200,
+   "2025": 172,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 56,
-   "2025": 68,
+   "2024": 60,
+   "2025": 73,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 330,
-   "2025": 274,
+   "2024": 363,
+   "2025": 285,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 75,
-   "2025": 82,
+   "2024": 81,
+   "2025": 94,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
-   "2025": 31,
+   "2024": 38,
+   "2025": 35,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 54,
-   "2025": 58,
+   "2024": 59,
+   "2025": 66,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO POR SORPRESA",
-   "2024": 122,
-   "2025": 141,
+   "2024": 138,
+   "2025": 148,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13107,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 68,
-   "2025": 80,
+   "2024": 71,
+   "2025": 83,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -2213,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13107,
    "delito": "HURTOS",
-   "2024": 126,
-   "2025": 66,
+   "2024": 137,
+   "2025": 77,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -2222,15 +2326,15 @@
    "CODCOM": 13107,
    "delito": "LESIONES",
    "2024": 28,
-   "2025": 33,
+   "2025": 37,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13107,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
-   "2025": 7,
+   "2024": 6,
+   "2025": 8,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -2246,14 +2350,14 @@
    "CODCOM": 13107,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "HUECHURABA"
   },
@@ -2317,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13107,
    "delito": "HURTOS",
-   "2024": 133,
-   "2025": 72,
+   "2024": 146,
+   "2025": 84,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -2326,15 +2430,15 @@
    "CODCOM": 13107,
    "delito": "LESIONES",
    "2024": 41,
-   "2025": 71,
+   "2025": 78,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13107,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
-   "2025": 9,
+   "2024": 7,
+   "2025": 10,
    "COMUNA": "HUECHURABA"
   },
   {
@@ -2350,14 +2454,14 @@
    "CODCOM": 13107,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "HUECHURABA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "HUECHURABA"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

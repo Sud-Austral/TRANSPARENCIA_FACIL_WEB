@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11301,
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
-   "variacion": 29,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "COCHRANE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11301,
-   "2024": 7,
-   "2025": 11,
-   "variacion": 57,
+   "2024": 8,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "COCHRANE"
   },
@@ -31,9 +31,9 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11301,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COCHRANE"
   },
   {
@@ -272,6 +272,14 @@
    "COMUNA": "COCHRANE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 11301,
    "anio": 2024,
@@ -308,6 +316,14 @@
    "CODCOM": 11301,
    "anio": 2025,
    "mes": 4,
+   "casos": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11301,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "COCHRANE"
   },
@@ -381,7 +397,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "COCHRANE"
   },
@@ -389,8 +405,8 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "LESIONES",
-   "2024": 7,
-   "2025": 11,
+   "2024": 8,
+   "2025": 12,
    "COMUNA": "COCHRANE"
   },
   {
@@ -406,7 +422,7 @@
    "CODCOM": 11301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "COCHRANE"
   },
   {
@@ -428,6 +444,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 11301,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
@@ -444,6 +468,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 11301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "COCHRANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 11301,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
@@ -451,7 +483,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Aysén"
  }
 }

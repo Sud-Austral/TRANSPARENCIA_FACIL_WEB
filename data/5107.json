@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5107,
-   "2024": 96,
-   "2025": 86,
-   "variacion": -10,
+   "2024": 101,
+   "2025": 88,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5107,
-   "2024": 107,
-   "2025": 130,
-   "variacion": 21,
+   "2024": 120,
+   "2025": 136,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
@@ -31,80 +31,80 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5107,
    "2024": 1,
-   "2025": 5,
-   "variacion": 400,
+   "2025": 6,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5107,
-   "2024": 51,
-   "2025": 30,
-   "variacion": -41,
+   "2024": 52,
+   "2025": 31,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5107,
-   "2024": 33,
+   "2024": 34,
    "2025": 20,
-   "variacion": -39,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5107,
-   "2024": 78,
-   "2025": 93,
-   "variacion": 19,
+   "2024": 82,
+   "2025": 100,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5107,
-   "2024": 36,
-   "2025": 30,
-   "variacion": -17,
+   "2024": 37,
+   "2025": 33,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5107,
-   "2024": 120,
-   "2025": 128,
-   "variacion": 7,
+   "2024": 130,
+   "2025": 133,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5107,
-   "2024": 48,
-   "2025": 62,
-   "variacion": 29,
+   "2024": 50,
+   "2025": 71,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5107,
-   "2024": 13,
-   "2025": 23,
-   "variacion": 77,
+   "2024": 15,
+   "2025": 24,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTERO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5107,
-   "2024": 15,
+   "2024": 16,
    "2025": 11,
-   "variacion": -27,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINTERO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5107,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 10,
+   "COMUNA": "QUINTERO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "QUINTERO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5107,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "QUINTERO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "QUINTERO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5107,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "QUINTERO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "QUINTERO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5107,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "QUINTERO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "QUINTERO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5107,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5107,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5107,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "QUINTERO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "QUINTERO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5107,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 5107,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "QUINTERO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "QUINTERO"
   }
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "HURTOS",
-   "2024": 96,
-   "2025": 86,
+   "2024": 101,
+   "2025": 88,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "LESIONES",
-   "2024": 107,
-   "2025": 130,
+   "2024": 120,
+   "2025": 136,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2126,22 +2230,22 @@
    "CODCOM": 5107,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 51,
-   "2025": 30,
+   "2024": 52,
+   "2025": 31,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 33,
+   "2024": 34,
    "2025": 20,
    "COMUNA": "QUINTERO"
   },
@@ -2149,47 +2253,47 @@
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 78,
-   "2025": 93,
+   "2024": 82,
+   "2025": 100,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 36,
-   "2025": 30,
+   "2024": 37,
+   "2025": 33,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 120,
-   "2025": 128,
+   "2024": 130,
+   "2025": 133,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 48,
-   "2025": 62,
+   "2024": 50,
+   "2025": 71,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO POR SORPRESA",
-   "2024": 13,
-   "2025": 23,
+   "2024": 15,
+   "2025": 24,
    "COMUNA": "QUINTERO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5107,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 15,
+   "2024": 16,
    "2025": 11,
    "COMUNA": "QUINTERO"
   },
@@ -2221,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5107,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 37,
+   "2024": 34,
+   "2025": 40,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2253,7 +2357,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
    "COMUNA": "QUINTERO"
   },
@@ -2262,7 +2366,7 @@
    "CODCOM": 5107,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2286,7 +2390,7 @@
    "CODCOM": 5107,
    "delito": "ROBO POR SORPRESA",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2325,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5107,
    "delito": "LESIONES",
-   "2024": 50,
-   "2025": 57,
+   "2024": 58,
+   "2025": 60,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2357,7 +2461,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 1,
    "COMUNA": "QUINTERO"
   },
@@ -2366,7 +2470,7 @@
    "CODCOM": 5107,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 1,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 5107,
    "delito": "ROBO POR SORPRESA",
    "2024": 0,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "QUINTERO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

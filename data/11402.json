@@ -40,17 +40,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11402,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "RÍO IBÁÑEZ"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11402,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO IBÁÑEZ"
   }
@@ -249,6 +249,14 @@
    "COMUNA": "RÍO IBÁÑEZ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO IBÁÑEZ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11402,
    "anio": 2024,
@@ -383,14 +391,14 @@
    "CODCOM": 11402,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "RÍO IBÁÑEZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11402,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "RÍO IBÁÑEZ"
   },
@@ -428,7 +436,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Aysén"
  }
 }

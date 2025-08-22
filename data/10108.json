@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 10108,
    "2024": 19,
-   "2025": 31,
-   "variacion": 63,
+   "2025": 32,
+   "variacion": 68,
    "situación": "Aumento de Casos",
    "COMUNA": "MAULLÍN"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10108,
    "2024": 22,
-   "2025": 30,
-   "variacion": 36,
+   "2025": 33,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "MAULLÍN"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10108,
    "2024": 2,
-   "2025": 13,
-   "variacion": 550,
+   "2025": 15,
+   "variacion": 650,
    "situación": "Aumento de Casos",
    "COMUNA": "MAULLÍN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10108,
-   "2024": 4,
-   "2025": 10,
-   "variacion": 150,
+   "2024": 5,
+   "2025": 11,
+   "variacion": 120,
    "situación": "Aumento de Casos",
    "COMUNA": "MAULLÍN"
   },
@@ -211,6 +211,14 @@
    "COMUNA": "MAULLÍN"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10108,
    "anio": 2024,
@@ -351,6 +359,14 @@
    "CODCOM": 10108,
    "anio": 2025,
    "mes": 7,
+   "casos": 3,
+   "COMUNA": "MAULLÍN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 8,
    "casos": 3,
    "COMUNA": "MAULLÍN"
   },
@@ -467,6 +483,14 @@
    "COMUNA": "MAULLÍN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "MAULLÍN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10108,
    "anio": 2024,
@@ -563,6 +587,14 @@
    "COMUNA": "MAULLÍN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MAULLÍN"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10108,
    "anio": 2024,
@@ -601,7 +633,7 @@
    "CODCOM": 10108,
    "delito": "HURTOS",
    "2024": 19,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -609,7 +641,7 @@
    "CODCOM": 10108,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 30,
+   "2025": 33,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -633,15 +665,15 @@
    "CODCOM": 10108,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "MAULLÍN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
-   "2025": 10,
+   "2024": 5,
+   "2025": 11,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -673,7 +705,7 @@
    "CODCOM": 10108,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -689,7 +721,7 @@
    "CODCOM": 10108,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -713,7 +745,7 @@
    "CODCOM": 10108,
    "delito": "LESIONES",
    "2024": 12,
-   "2025": 25,
+   "2025": 27,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -729,7 +761,7 @@
    "CODCOM": 10108,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "MAULLÍN"
   },
   {
@@ -742,7 +774,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

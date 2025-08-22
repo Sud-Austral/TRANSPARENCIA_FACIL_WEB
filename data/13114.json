@@ -3,17 +3,17 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13114,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13114,
-   "2024": 1324,
-   "2025": 1491,
+   "2024": 1429,
+   "2025": 1616,
    "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
@@ -21,90 +21,90 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13114,
-   "2024": 269,
-   "2025": 264,
-   "variacion": -2,
+   "2024": 287,
+   "2025": 278,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13114,
-   "2024": 86,
-   "2025": 64,
-   "variacion": -26,
+   "2024": 90,
+   "2025": 68,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13114,
-   "2024": 113,
-   "2025": 124,
-   "variacion": 10,
+   "2024": 116,
+   "2025": 133,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13114,
-   "2024": 57,
-   "2025": 78,
-   "variacion": 37,
+   "2024": 65,
+   "2025": 84,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13114,
-   "2024": 469,
-   "2025": 363,
-   "variacion": -23,
+   "2024": 496,
+   "2025": 386,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13114,
-   "2024": 199,
-   "2025": 191,
-   "variacion": -4,
-   "situación": "Disminución de Casos",
+   "2024": 210,
+   "2025": 210,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13114,
-   "2024": 102,
-   "2025": 199,
-   "variacion": 95,
+   "2024": 110,
+   "2025": 203,
+   "variacion": 85,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13114,
-   "2024": 114,
-   "2025": 140,
-   "variacion": 23,
+   "2024": 123,
+   "2025": 149,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13114,
-   "2024": 189,
-   "2025": 302,
-   "variacion": 60,
+   "2024": 206,
+   "2025": 322,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13114,
-   "2024": 23,
-   "2025": 31,
-   "variacion": 35,
+   "2024": 24,
+   "2025": 33,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CONDES"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13114,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 212,
+   "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 125,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13114,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 9,
+   "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13114,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 12,
+   "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 23,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13114,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 29,
+   "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 19,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13114,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 21,
+   "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13114,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LAS CONDES"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LAS CONDES"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13114,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "LAS CONDES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13114,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAS CONDES"
   }
  ],
  "info": [
@@ -2101,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "LAS CONDES"
   },
@@ -2109,88 +2213,88 @@
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "HURTOS",
-   "2024": 1324,
-   "2025": 1491,
+   "2024": 1429,
+   "2025": 1616,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "LESIONES",
-   "2024": 269,
-   "2025": 264,
+   "2024": 287,
+   "2025": 278,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 86,
-   "2025": 64,
+   "2024": 90,
+   "2025": 68,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 113,
-   "2025": 124,
+   "2024": 116,
+   "2025": 133,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 57,
-   "2025": 78,
+   "2024": 65,
+   "2025": 84,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 469,
-   "2025": 363,
+   "2024": 496,
+   "2025": 386,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 199,
-   "2025": 191,
+   "2024": 210,
+   "2025": 210,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 102,
-   "2025": 199,
+   "2024": 110,
+   "2025": 203,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 114,
-   "2025": 140,
+   "2024": 123,
+   "2025": 149,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO POR SORPRESA",
-   "2024": 189,
-   "2025": 302,
+   "2024": 206,
+   "2025": 322,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13114,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 23,
-   "2025": 31,
+   "2024": 24,
+   "2025": 33,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2205,7 +2309,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13114,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "LAS CONDES"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13114,
    "delito": "HURTOS",
-   "2024": 551,
-   "2025": 531,
+   "2024": 594,
+   "2025": 574,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13114,
    "delito": "LESIONES",
-   "2024": 49,
-   "2025": 55,
+   "2024": 53,
+   "2025": 59,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2238,15 +2342,15 @@
    "CODCOM": 13114,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 16,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13114,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 9,
-   "2025": 9,
+   "2024": 12,
+   "2025": 10,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2278,15 +2382,15 @@
    "CODCOM": 13114,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 14,
+   "2025": 16,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13114,
    "delito": "ROBO POR SORPRESA",
-   "2024": 12,
-   "2025": 14,
+   "2024": 14,
+   "2025": 15,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2309,7 +2413,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13114,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "LAS CONDES"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13114,
    "delito": "HURTOS",
-   "2024": 579,
-   "2025": 572,
+   "2024": 625,
+   "2025": 617,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13114,
    "delito": "LESIONES",
-   "2024": 66,
-   "2025": 84,
+   "2024": 70,
+   "2025": 91,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2342,15 +2446,15 @@
    "CODCOM": 13114,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 31,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13114,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 20,
-   "2025": 23,
+   "2024": 29,
+   "2025": 25,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2382,15 +2486,15 @@
    "CODCOM": 13114,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 23,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "LAS CONDES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13114,
    "delito": "ROBO POR SORPRESA",
-   "2024": 16,
-   "2025": 17,
+   "2024": 20,
+   "2025": 19,
    "COMUNA": "LAS CONDES"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

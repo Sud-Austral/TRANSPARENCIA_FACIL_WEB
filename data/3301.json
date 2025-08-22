@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3301,
-   "2024": 138,
-   "2025": 109,
-   "variacion": -21,
+   "2024": 152,
+   "2025": 117,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3301,
-   "2024": 166,
-   "2025": 121,
-   "variacion": -27,
+   "2024": 174,
+   "2025": 133,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "VALLENAR"
   },
@@ -31,17 +31,17 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3301,
    "2024": 22,
-   "2025": 26,
-   "variacion": 18,
+   "2025": 27,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3301,
-   "2024": 56,
-   "2025": 53,
-   "variacion": -5,
+   "2024": 58,
+   "2025": 56,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "VALLENAR"
   },
@@ -49,44 +49,44 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3301,
    "2024": 24,
-   "2025": 42,
-   "variacion": 75,
+   "2025": 45,
+   "variacion": 88,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 3301,
-   "2024": 76,
-   "2025": 92,
-   "variacion": 21,
+   "2024": 77,
+   "2025": 100,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3301,
-   "2024": 20,
-   "2025": 27,
-   "variacion": 35,
+   "2024": 21,
+   "2025": 28,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3301,
-   "2024": 75,
-   "2025": 85,
-   "variacion": 13,
+   "2024": 76,
+   "2025": 87,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3301,
-   "2024": 68,
-   "2025": 58,
-   "variacion": -15,
+   "2024": 73,
+   "2025": 60,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "VALLENAR"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3301,
    "2024": 16,
-   "2025": 18,
-   "variacion": 12,
+   "2025": 19,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "VALLENAR"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 16,
+   "COMUNA": "VALLENAR"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
    "COMUNA": "VALLENAR"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3301,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "VALLENAR"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VALLENAR"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "VALLENAR"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "VALLENAR"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "VALLENAR"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "VALLENAR"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "VALLENAR"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VALLENAR"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 3301,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "VALLENAR"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "VALLENAR"
   }
  ],
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "HURTOS",
-   "2024": 138,
-   "2025": 109,
+   "2024": 152,
+   "2025": 117,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "LESIONES",
-   "2024": 166,
-   "2025": 121,
+   "2024": 174,
+   "2025": 133,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2126,15 +2230,15 @@
    "CODCOM": 3301,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 22,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 56,
-   "2025": 53,
+   "2024": 58,
+   "2025": 56,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2142,39 +2246,39 @@
    "CODCOM": 3301,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 24,
-   "2025": 42,
+   "2025": 45,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 76,
-   "2025": 92,
+   "2024": 77,
+   "2025": 100,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 20,
-   "2025": 27,
+   "2024": 21,
+   "2025": 28,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 75,
-   "2025": 85,
+   "2024": 76,
+   "2025": 87,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 68,
-   "2025": 58,
+   "2024": 73,
+   "2025": 60,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2182,7 +2286,7 @@
    "CODCOM": 3301,
    "delito": "ROBO POR SORPRESA",
    "2024": 16,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 3301,
    "delito": "HURTOS",
-   "2024": 31,
-   "2025": 24,
+   "2024": 37,
+   "2025": 25,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 3301,
    "delito": "LESIONES",
-   "2024": 53,
-   "2025": 34,
+   "2024": 56,
+   "2025": 42,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 3301,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2277,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 6,
    "COMUNA": "VALLENAR"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 3301,
    "delito": "HURTOS",
-   "2024": 35,
-   "2025": 33,
+   "2024": 41,
+   "2025": 34,
    "COMUNA": "VALLENAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 3301,
    "delito": "LESIONES",
-   "2024": 85,
-   "2025": 60,
+   "2024": 91,
+   "2025": 76,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 3301,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "VALLENAR"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "VALLENAR"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Atacama"
  }
 }

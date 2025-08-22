@@ -4,25 +4,25 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 12101,
    "2024": 1,
-   "2025": 7,
-   "variacion": 600,
+   "2025": 8,
+   "variacion": 700,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 12101,
-   "2024": 209,
-   "2025": 202,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 221,
+   "2025": 223,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 12101,
-   "2024": 200,
-   "2025": 220,
+   "2024": 215,
+   "2025": 237,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNTA ARENAS"
@@ -39,35 +39,35 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 12101,
-   "2024": 11,
+   "2024": 15,
    "2025": 12,
-   "variacion": 9,
-   "situación": "Aumento de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 12101,
-   "2024": 12,
-   "2025": 17,
-   "variacion": 42,
+   "2024": 14,
+   "2025": 18,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 12101,
-   "2024": 27,
+   "2024": 30,
    "2025": 18,
-   "variacion": -33,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 12101,
-   "2024": 8,
-   "2025": 8,
+   "2024": 10,
+   "2025": 10,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "PUNTA ARENAS"
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 12101,
-   "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2024": 23,
+   "2025": 20,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 12101,
-   "2024": 30,
-   "2025": 40,
-   "variacion": 33,
+   "2024": 37,
+   "2025": 43,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNTA ARENAS"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "PUNTA ARENAS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 12101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 26,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 21,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "PUNTA ARENAS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 12101,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 12101,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -877,6 +909,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -1028,6 +1068,14 @@
    "CODCOM": 12101,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "PUNTA ARENAS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 12101,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "PUNTA ARENAS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 12101,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "PUNTA ARENAS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 12101,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 12101,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 5,
    "COMUNA": "PUNTA ARENAS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 12101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUNTA ARENAS"
   }
  ],
  "info": [
@@ -2102,23 +2206,23 @@
    "CODCOM": 12101,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "HURTOS",
-   "2024": 209,
-   "2025": 202,
+   "2024": 221,
+   "2025": 223,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "LESIONES",
-   "2024": 200,
-   "2025": 220,
+   "2024": 215,
+   "2025": 237,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
+   "2024": 15,
    "2025": 12,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2141,15 +2245,15 @@
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 12,
-   "2025": 17,
+   "2024": 14,
+   "2025": 18,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 27,
+   "2024": 30,
    "2025": 18,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2157,24 +2261,24 @@
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 8,
-   "2025": 8,
+   "2024": 10,
+   "2025": 10,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 21,
-   "2025": 17,
+   "2024": 23,
+   "2025": 20,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 30,
-   "2025": 40,
+   "2024": 37,
+   "2025": 43,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2206,23 +2310,23 @@
    "CODCOM": 12101,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 12101,
    "delito": "HURTOS",
-   "2024": 78,
-   "2025": 103,
+   "2024": 81,
+   "2025": 117,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 12101,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 75,
+   "2024": 55,
+   "2025": 80,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2237,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 12101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2245,7 +2349,7 @@
    "informacion": "Detenciones",
    "CODCOM": 12101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2270,15 +2374,15 @@
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
-   "2025": 2,
+   "2024": 5,
+   "2025": 4,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2310,23 +2414,23 @@
    "CODCOM": 12101,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 12101,
    "delito": "HURTOS",
-   "2024": 83,
-   "2025": 112,
+   "2024": 86,
+   "2025": 128,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 12101,
    "delito": "LESIONES",
-   "2024": 81,
-   "2025": 118,
+   "2024": 85,
+   "2025": 125,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 12101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 8,
+   "2024": 10,
    "2025": 2,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2349,7 +2453,7 @@
    "informacion": "Detenidos",
    "CODCOM": 12101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "PUNTA ARENAS"
   },
@@ -2374,15 +2478,15 @@
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUNTA ARENAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 12101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 9,
-   "2025": 2,
+   "2024": 13,
+   "2025": 5,
    "COMUNA": "PUNTA ARENAS"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Magallanes"
  }
 }

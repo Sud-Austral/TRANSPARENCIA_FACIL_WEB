@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4105,
-   "2024": 11,
-   "2025": 6,
-   "variacion": -45,
+   "2024": 12,
+   "2025": 7,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "PAIGUANO"
   },
@@ -49,9 +49,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 4105,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "PAIGUANO"
   }
  ],
@@ -150,6 +150,14 @@
    "anio": 2025,
    "mes": 6,
    "casos": 3,
+   "COMUNA": "PAIGUANO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -455,6 +463,14 @@
    "mes": 1,
    "casos": 1,
    "COMUNA": "PAIGUANO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PAIGUANO"
   }
  ],
  "info": [
@@ -462,8 +478,8 @@
    "informacion": "Casos",
    "CODCOM": 4105,
    "delito": "HURTOS",
-   "2024": 11,
-   "2025": 6,
+   "2024": 12,
+   "2025": 7,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -503,7 +519,7 @@
    "CODCOM": 4105,
    "delito": "VIOLACIONES",
    "2024": 1,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -556,7 +572,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Coquimbo"
  }
 }

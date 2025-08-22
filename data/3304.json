@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3304,
-   "2024": 6,
-   "2025": 29,
-   "variacion": 383,
+   "2024": 7,
+   "2025": 31,
+   "variacion": 343,
    "situación": "Aumento de Casos",
    "COMUNA": "HUASCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3304,
-   "2024": 56,
-   "2025": 34,
-   "variacion": -39,
+   "2024": 57,
+   "2025": 36,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3304,
-   "2024": 24,
-   "2025": 9,
-   "variacion": -62,
+   "2024": 25,
+   "2025": 10,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3304,
    "2024": 22,
-   "2025": 10,
-   "variacion": -55,
+   "2025": 14,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3304,
    "2024": 3,
-   "2025": 1,
-   "variacion": -67,
+   "2025": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -235,6 +235,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "HUASCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "HUASCO"
   },
   {
@@ -390,6 +398,14 @@
    "COMUNA": "HUASCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "HUASCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3304,
    "anio": 2024,
@@ -726,6 +742,14 @@
    "COMUNA": "HUASCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUASCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3304,
    "anio": 2024,
@@ -854,6 +878,14 @@
    "COMUNA": "HUASCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "HUASCO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3304,
    "anio": 2024,
@@ -886,6 +918,14 @@
    "COMUNA": "HUASCO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUASCO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 3304,
    "anio": 2025,
@@ -899,16 +939,16 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "HURTOS",
-   "2024": 6,
-   "2025": 29,
+   "2024": 7,
+   "2025": 31,
    "COMUNA": "HUASCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "LESIONES",
-   "2024": 56,
-   "2025": 34,
+   "2024": 57,
+   "2025": 36,
    "COMUNA": "HUASCO"
   },
   {
@@ -955,8 +995,8 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 24,
-   "2025": 9,
+   "2024": 25,
+   "2025": 10,
    "COMUNA": "HUASCO"
   },
   {
@@ -964,7 +1004,7 @@
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 22,
-   "2025": 10,
+   "2025": 14,
    "COMUNA": "HUASCO"
   },
   {
@@ -972,7 +1012,7 @@
    "CODCOM": 3304,
    "delito": "ROBO POR SORPRESA",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "HUASCO"
   },
   {
@@ -1036,7 +1076,7 @@
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "HUASCO"
   },
   {
@@ -1044,7 +1084,7 @@
    "CODCOM": 3304,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "HUASCO"
   },
   {
@@ -1100,7 +1140,7 @@
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 6,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "HUASCO"
   },
   {
@@ -1108,12 +1148,12 @@
    "CODCOM": 3304,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "HUASCO"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Atacama"
  }
 }

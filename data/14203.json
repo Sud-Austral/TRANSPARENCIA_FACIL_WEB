@@ -13,22 +13,31 @@
    "delito": "HURTOS",
    "CODCOM": 14203,
    "2024": 17,
-   "2025": 8,
-   "variacion": -53,
+   "2025": 9,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14203,
-   "2024": 28,
-   "2025": 35,
-   "variacion": 25,
+   "2024": 30,
+   "2025": 37,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 14203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14203,
    "2024": 1,
    "2025": 0,
@@ -58,16 +67,16 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14203,
    "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2025": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14203,
-   "2024": 10,
-   "2025": 10,
+   "2024": 11,
+   "2025": 11,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "LAGO RANCO"
@@ -208,6 +217,14 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LAGO RANCO"
   },
@@ -364,6 +381,14 @@
    "COMUNA": "LAGO RANCO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 14203,
    "anio": 2024,
@@ -464,6 +489,14 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LAGO RANCO"
   },
@@ -596,6 +629,14 @@
    "COMUNA": "LAGO RANCO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 14203,
    "anio": 2024,
@@ -618,21 +659,29 @@
    "CODCOM": 14203,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "LAGO RANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 35,
+   "2024": 30,
+   "2025": 37,
    "COMUNA": "LAGO RANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14203,
+   "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
    "2025": 0,
    "COMUNA": "LAGO RANCO"
@@ -658,15 +707,15 @@
    "CODCOM": 14203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LAGO RANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 10,
+   "2024": 11,
+   "2025": 11,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -698,7 +747,7 @@
    "CODCOM": 14203,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -746,7 +795,7 @@
    "CODCOM": 14203,
    "delito": "LESIONES",
    "2024": 31,
-   "2025": 34,
+   "2025": 38,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -775,7 +824,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Ríos"
  }
 }

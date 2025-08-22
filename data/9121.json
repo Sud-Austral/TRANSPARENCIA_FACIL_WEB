@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9121,
-   "2024": 38,
-   "2025": 25,
-   "variacion": -34,
+   "2024": 39,
+   "2025": 26,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9121,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHOLCHOL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9121,
    "2024": 1,
-   "2025": 6,
-   "variacion": 500,
+   "2025": 8,
+   "variacion": 700,
    "situación": "Aumento de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9121,
-   "2024": 16,
+   "2024": 17,
    "2025": 5,
-   "variacion": -69,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9121,
-   "2024": 18,
-   "2025": 10,
-   "variacion": -44,
+   "2024": 19,
+   "2025": 11,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -93,7 +93,7 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 9121,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -414,6 +414,14 @@
    "COMUNA": "CHOLCHOL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9121,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9121,
    "anio": 2024,
@@ -502,6 +510,14 @@
    "COMUNA": "CHOLCHOL"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9121,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9121,
    "anio": 2024,
@@ -539,6 +555,14 @@
    "anio": 2025,
    "mes": 4,
    "casos": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9121,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -806,6 +830,14 @@
    "COMUNA": "CHOLCHOL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9121,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9121,
    "anio": 2024,
@@ -883,8 +915,8 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 25,
+   "2024": 39,
+   "2025": 26,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -900,7 +932,7 @@
    "CODCOM": 9121,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -908,7 +940,7 @@
    "CODCOM": 9121,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 1,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -923,7 +955,7 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
+   "2024": 17,
    "2025": 5,
    "COMUNA": "CHOLCHOL"
   },
@@ -931,8 +963,8 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
-   "2025": 10,
+   "2024": 19,
+   "2025": 11,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -947,7 +979,7 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "VIOLACIONES",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "CHOLCHOL"
   },
@@ -963,7 +995,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9121,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 6,
    "COMUNA": "CHOLCHOL"
   },
@@ -986,6 +1018,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 9121,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9121,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
    "2025": 0,
@@ -1011,7 +1051,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9121,
    "delito": "LESIONES",
-   "2024": 23,
+   "2024": 24,
    "2025": 11,
    "COMUNA": "CHOLCHOL"
   },
@@ -1034,6 +1074,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 9121,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9121,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
    "2025": 0,
@@ -1049,7 +1097,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

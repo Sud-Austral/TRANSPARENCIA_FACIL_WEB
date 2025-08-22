@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16206,
-   "2024": 13,
-   "2025": 8,
-   "variacion": -38,
+   "2024": 14,
+   "2025": 9,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "RÁNQUIL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16206,
-   "2024": 19,
+   "2024": 22,
    "2025": 11,
-   "variacion": -42,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "RÁNQUIL"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16206,
-   "2024": 13,
+   "2024": 14,
    "2025": 6,
-   "variacion": -54,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "RÁNQUIL"
   },
@@ -216,6 +216,14 @@
    "CODCOM": 16206,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "RÁNQUIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "RÁNQUIL"
   },
@@ -729,15 +737,15 @@
    "informacion": "Casos",
    "CODCOM": 16206,
    "delito": "HURTOS",
-   "2024": 13,
-   "2025": 8,
+   "2024": 14,
+   "2025": 9,
    "COMUNA": "RÁNQUIL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16206,
    "delito": "LESIONES",
-   "2024": 19,
+   "2024": 22,
    "2025": 11,
    "COMUNA": "RÁNQUIL"
   },
@@ -785,7 +793,7 @@
    "informacion": "Casos",
    "CODCOM": 16206,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 13,
+   "2024": 14,
    "2025": 6,
    "COMUNA": "RÁNQUIL"
   },
@@ -809,7 +817,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16206,
    "delito": "LESIONES",
-   "2024": 3,
+   "2024": 4,
    "2025": 1,
    "COMUNA": "RÁNQUIL"
   },
@@ -841,7 +849,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16206,
    "delito": "LESIONES",
-   "2024": 4,
+   "2024": 6,
    "2025": 2,
    "COMUNA": "RÁNQUIL"
   },
@@ -863,7 +871,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Ñuble"
  }
 }

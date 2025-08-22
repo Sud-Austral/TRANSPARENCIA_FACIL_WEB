@@ -12,10 +12,19 @@
   {
    "delito": "LESIONES",
    "CODCOM": 4305,
-   "2024": 8,
+   "2024": 9,
    "2025": 5,
-   "variacion": -38,
+   "variacion": -44,
    "situación": "Disminución de Casos",
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4305,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "RÍO HURTADO"
   },
   {
@@ -241,6 +250,14 @@
    "COMUNA": "RÍO HURTADO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4305,
    "anio": 2025,
@@ -366,8 +383,16 @@
    "informacion": "Casos",
    "CODCOM": 4305,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 9,
    "2025": 5,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4305,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "RÍO HURTADO"
   },
   {
@@ -421,6 +446,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 4305,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
    "2025": 1,
@@ -453,6 +486,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 4305,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 2,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
    "2025": 1,
@@ -468,7 +509,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Coquimbo"
  }
 }

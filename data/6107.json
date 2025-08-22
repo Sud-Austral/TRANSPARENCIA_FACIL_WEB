@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6107,
-   "2024": 63,
-   "2025": 51,
-   "variacion": -19,
+   "2024": 69,
+   "2025": 53,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6107,
-   "2024": 87,
-   "2025": 98,
-   "variacion": 13,
+   "2024": 98,
+   "2025": 106,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CABRAS"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6107,
-   "2024": 11,
-   "2025": 9,
-   "variacion": -18,
+   "2024": 13,
+   "2025": 11,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6107,
-   "2024": 54,
-   "2025": 41,
-   "variacion": -24,
+   "2024": 57,
+   "2025": 44,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6107,
-   "2024": 41,
-   "2025": 51,
-   "variacion": 24,
+   "2024": 49,
+   "2025": 56,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CABRAS"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6107,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 8,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6107,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAS CABRAS"
   },
@@ -877,6 +909,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -1032,6 +1072,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6107,
    "anio": 2024,
@@ -1180,6 +1228,14 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAS CABRAS"
   },
@@ -1332,6 +1388,14 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAS CABRAS"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6107,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6107,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LAS CABRAS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6107,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LAS CABRAS"
   },
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "LAS CABRAS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LAS CABRAS"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "HURTOS",
-   "2024": 63,
-   "2025": 51,
+   "2024": 69,
+   "2025": 53,
    "COMUNA": "LAS CABRAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "LESIONES",
-   "2024": 87,
-   "2025": 98,
+   "2024": 98,
+   "2025": 106,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2141,8 +2245,8 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 11,
-   "2025": 9,
+   "2024": 13,
+   "2025": 11,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2165,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 54,
-   "2025": 41,
+   "2024": 57,
+   "2025": 44,
    "COMUNA": "LAS CABRAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 41,
-   "2025": 51,
+   "2024": 49,
+   "2025": 56,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2214,15 +2318,15 @@
    "CODCOM": 6107,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "LAS CABRAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6107,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 33,
+   "2024": 35,
+   "2025": 36,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2245,7 +2349,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "LAS CABRAS"
   },
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "LAS CABRAS"
   },
@@ -2277,8 +2381,8 @@
    "informacion": "Detenciones",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
-   "2025": 9,
+   "2024": 7,
+   "2025": 11,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2318,15 +2422,15 @@
    "CODCOM": 6107,
    "delito": "HURTOS",
    "2024": 9,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "LAS CABRAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6107,
    "delito": "LESIONES",
-   "2024": 53,
-   "2025": 48,
+   "2024": 63,
+   "2025": 51,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2349,7 +2453,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "LAS CABRAS"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 1,
    "COMUNA": "LAS CABRAS"
   },
@@ -2381,8 +2485,8 @@
    "informacion": "Detenidos",
    "CODCOM": 6107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 14,
-   "2025": 11,
+   "2024": 17,
+   "2025": 17,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

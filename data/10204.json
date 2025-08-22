@@ -13,9 +13,9 @@
    "delito": "LESIONES",
    "CODCOM": 10204,
    "2024": 9,
-   "2025": 8,
-   "variacion": -11,
-   "situación": "Disminución de Casos",
+   "2025": 9,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CURACO DE VÉLEZ"
   },
   {
@@ -174,6 +174,14 @@
    "COMUNA": "CURACO DE VÉLEZ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10204,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10204,
    "anio": 2024,
@@ -212,7 +220,7 @@
    "CODCOM": 10204,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "CURACO DE VÉLEZ"
   },
   {
@@ -228,7 +236,7 @@
    "CODCOM": 10204,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CURACO DE VÉLEZ"
   },
   {
@@ -236,12 +244,12 @@
    "CODCOM": 10204,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 8,
+   "2025": 10,
    "COMUNA": "CURACO DE VÉLEZ"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

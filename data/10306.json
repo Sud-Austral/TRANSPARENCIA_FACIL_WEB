@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10306,
-   "2024": 13,
+   "2024": 15,
    "2025": 15,
-   "variacion": 15,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10306,
-   "2024": 27,
-   "2025": 27,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 31,
+   "2025": 29,
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10306,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10306,
-   "2024": 20,
+   "2024": 22,
    "2025": 7,
-   "variacion": -65,
+   "variacion": -68,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -365,6 +365,14 @@
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10306,
    "anio": 2024,
@@ -433,6 +441,14 @@
    "CODCOM": 10306,
    "anio": 2024,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -666,7 +682,7 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "HURTOS",
-   "2024": 13,
+   "2024": 15,
    "2025": 15,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -674,8 +690,8 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "LESIONES",
-   "2024": 27,
-   "2025": 27,
+   "2024": 31,
+   "2025": 29,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -707,14 +723,14 @@
    "CODCOM": 10306,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 20,
+   "2024": 22,
    "2025": 7,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -746,7 +762,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10306,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -755,7 +771,7 @@
    "CODCOM": 10306,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -778,7 +794,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10306,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 4,
    "2025": 1,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -787,7 +803,7 @@
    "CODCOM": 10306,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -800,7 +816,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

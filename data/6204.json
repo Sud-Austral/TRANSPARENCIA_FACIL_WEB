@@ -3,19 +3,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6204,
-   "2024": 10,
+   "2024": 12,
    "2025": 8,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MARCHIHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6204,
-   "2024": 9,
+   "2024": 10,
    "2025": 10,
-   "variacion": 11,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MARCHIHUE"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6204,
    "2024": 7,
-   "2025": 9,
-   "variacion": 29,
+   "2025": 10,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "MARCHIHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6204,
-   "2024": 14,
+   "2024": 15,
    "2025": 19,
-   "variacion": 36,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "MARCHIHUE"
   }
@@ -499,6 +499,14 @@
    "COMUNA": "MARCHIHUE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6204,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MARCHIHUE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6204,
    "anio": 2024,
@@ -624,7 +632,7 @@
    "informacion": "Casos",
    "CODCOM": 6204,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "MARCHIHUE"
   },
@@ -632,7 +640,7 @@
    "informacion": "Casos",
    "CODCOM": 6204,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 10,
    "COMUNA": "MARCHIHUE"
   },
@@ -673,14 +681,14 @@
    "CODCOM": 6204,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "MARCHIHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6204,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 14,
+   "2024": 15,
    "2025": 19,
    "COMUNA": "MARCHIHUE"
   },
@@ -696,7 +704,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6204,
    "delito": "LESIONES",
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "MARCHIHUE"
   },
@@ -728,7 +736,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6204,
    "delito": "LESIONES",
-   "2024": 10,
+   "2024": 13,
    "2025": 9,
    "COMUNA": "MARCHIHUE"
   },
@@ -750,7 +758,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

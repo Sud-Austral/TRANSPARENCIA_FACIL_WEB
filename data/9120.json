@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9120,
-   "2024": 330,
-   "2025": 264,
-   "variacion": -20,
+   "2024": 351,
+   "2025": 275,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9120,
-   "2024": 139,
-   "2025": 134,
-   "variacion": -4,
+   "2024": 149,
+   "2025": 140,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9120,
-   "2024": 17,
+   "2024": 18,
    "2025": 15,
-   "variacion": -12,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
@@ -49,34 +49,34 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9120,
    "2024": 19,
-   "2025": 20,
-   "variacion": 5,
+   "2025": 22,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLARRICA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9120,
-   "2024": 38,
-   "2025": 41,
-   "variacion": 8,
-   "situación": "Aumento de Casos",
+   "2024": 44,
+   "2025": 43,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9120,
-   "2024": 23,
-   "2025": 4,
-   "variacion": -83,
+   "2024": 24,
+   "2025": 7,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9120,
-   "2024": 102,
-   "2025": 63,
+   "2024": 112,
+   "2025": 69,
    "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9120,
-   "2024": 86,
-   "2025": 56,
-   "variacion": -35,
+   "2024": 91,
+   "2025": 60,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9120,
-   "2024": 7,
+   "2024": 9,
    "2025": 6,
-   "variacion": -14,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLARRICA"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "VILLARRICA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VILLARRICA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9120,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 35,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "VILLARRICA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "VILLARRICA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9120,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 9120,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "VILLARRICA"
   },
@@ -877,6 +909,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "VILLARRICA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "VILLARRICA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9120,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "VILLARRICA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "VILLARRICA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9120,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "VILLARRICA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VILLARRICA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9120,
    "anio": 2024,
@@ -1940,6 +2028,14 @@
    "CODCOM": 9120,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "VILLARRICA"
   },
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "VILLARRICA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9120,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "VILLARRICA"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "HURTOS",
-   "2024": 330,
-   "2025": 264,
+   "2024": 351,
+   "2025": 275,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "LESIONES",
-   "2024": 139,
-   "2025": 134,
+   "2024": 149,
+   "2025": 140,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 17,
+   "2024": 18,
    "2025": 15,
    "COMUNA": "VILLARRICA"
   },
@@ -2142,46 +2246,46 @@
    "CODCOM": 9120,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 19,
-   "2025": 20,
+   "2025": 22,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 38,
-   "2025": 41,
+   "2024": 44,
+   "2025": 43,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 23,
-   "2025": 4,
+   "2024": 24,
+   "2025": 7,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 102,
-   "2025": 63,
+   "2024": 112,
+   "2025": 69,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 86,
-   "2025": 56,
+   "2024": 91,
+   "2025": 60,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 7,
+   "2024": 9,
    "2025": 6,
    "COMUNA": "VILLARRICA"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 9120,
    "delito": "HURTOS",
-   "2024": 135,
-   "2025": 106,
+   "2024": 141,
+   "2025": 113,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9120,
    "delito": "LESIONES",
-   "2024": 54,
-   "2025": 48,
+   "2024": 58,
+   "2025": 49,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 9120,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 6,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2254,7 +2358,7 @@
    "CODCOM": 9120,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2278,14 +2382,14 @@
    "CODCOM": 9120,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 3,
+   "2024": 5,
    "2025": 0,
    "COMUNA": "VILLARRICA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 9120,
    "delito": "HURTOS",
-   "2024": 153,
-   "2025": 119,
+   "2024": 163,
+   "2025": 127,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9120,
    "delito": "LESIONES",
-   "2024": 91,
-   "2025": 72,
+   "2024": 97,
+   "2025": 74,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 9120,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 8,
-   "2025": 9,
+   "2025": 16,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 9120,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "VILLARRICA"
   },
   {
@@ -2382,14 +2486,14 @@
    "CODCOM": 9120,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 10,
+   "2025": 13,
    "COMUNA": "VILLARRICA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9120,
    "delito": "ROBO POR SORPRESA",
-   "2024": 4,
+   "2024": 7,
    "2025": 0,
    "COMUNA": "VILLARRICA"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -12,36 +12,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6303,
-   "2024": 103,
-   "2025": 84,
-   "variacion": -18,
+   "2024": 106,
+   "2025": 86,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6303,
-   "2024": 72,
-   "2025": 51,
-   "variacion": -29,
+   "2024": 76,
+   "2025": 55,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6303,
-   "2024": 2,
-   "2025": 16,
-   "variacion": 700,
+   "2024": 3,
+   "2025": 17,
+   "variacion": 467,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6303,
-   "2024": 8,
+   "2024": 9,
    "2025": 11,
-   "variacion": 38,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   },
@@ -49,44 +49,44 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6303,
    "2024": 12,
-   "2025": 11,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6303,
-   "2024": 49,
-   "2025": 27,
-   "variacion": -45,
+   "2024": 54,
+   "2025": 29,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6303,
-   "2024": 15,
+   "2024": 16,
    "2025": 5,
-   "variacion": -67,
+   "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6303,
-   "2024": 38,
-   "2025": 39,
-   "variacion": 3,
+   "2024": 40,
+   "2025": 42,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6303,
-   "2024": 59,
-   "2025": 88,
-   "variacion": 49,
+   "2024": 64,
+   "2025": 91,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6303,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 6303,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIMBARONGO"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6303,
    "anio": 2024,
@@ -424,6 +432,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6303,
    "anio": 2024,
@@ -576,6 +592,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6303,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6303,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1028,6 +1068,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "CHIMBARONGO"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "CHIMBARONGO"
   },
@@ -1484,6 +1548,14 @@
    "CODCOM": 6303,
    "anio": 2025,
    "mes": 7,
+   "casos": 3,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 3,
    "COMUNA": "CHIMBARONGO"
   },
@@ -1640,6 +1712,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "CHIMBARONGO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6303,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "CHIMBARONGO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "CHIMBARONGO"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "CHIMBARONGO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHIMBARONGO"
   }
  ],
  "info": [
@@ -2109,31 +2213,31 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "HURTOS",
-   "2024": 103,
-   "2025": 84,
+   "2024": 106,
+   "2025": 86,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "LESIONES",
-   "2024": 72,
-   "2025": 51,
+   "2024": 76,
+   "2025": 55,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
-   "2025": 16,
+   "2024": 3,
+   "2025": 17,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 8,
+   "2024": 9,
    "2025": 11,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2142,22 +2246,22 @@
    "CODCOM": 6303,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 49,
-   "2025": 27,
+   "2024": 54,
+   "2025": 29,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 15,
+   "2024": 16,
    "2025": 5,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2165,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 38,
-   "2025": 39,
+   "2024": 40,
+   "2025": 42,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 59,
-   "2025": 88,
+   "2024": 64,
+   "2025": 91,
    "COMUNA": "CHIMBARONGO"
   },
   {
@@ -2189,7 +2293,7 @@
    "informacion": "Casos",
    "CODCOM": 6303,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2198,7 +2302,7 @@
    "CODCOM": 6303,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CHIMBARONGO"
   },
   {
@@ -2213,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 6303,
    "delito": "HURTOS",
-   "2024": 5,
-   "2025": 11,
+   "2024": 6,
+   "2025": 12,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6303,
    "delito": "LESIONES",
-   "2024": 30,
+   "2024": 32,
    "2025": 18,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2302,7 +2406,7 @@
    "CODCOM": 6303,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CHIMBARONGO"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 6303,
    "delito": "HURTOS",
-   "2024": 5,
-   "2025": 13,
+   "2024": 7,
+   "2025": 14,
    "COMUNA": "CHIMBARONGO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6303,
    "delito": "LESIONES",
-   "2024": 52,
+   "2024": 56,
    "2025": 31,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "CHIMBARONGO"
   },
@@ -2406,12 +2510,12 @@
    "CODCOM": 6303,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CHIMBARONGO"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

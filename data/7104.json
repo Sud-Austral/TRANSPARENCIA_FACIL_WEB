@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7104,
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "EMPEDRADO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7104,
-   "2024": 8,
-   "2025": 4,
-   "variacion": -50,
+   "2024": 11,
+   "2025": 5,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "EMPEDRADO"
   },
@@ -225,6 +225,14 @@
    "COMUNA": "EMPEDRADO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7104,
    "anio": 2025,
@@ -334,7 +342,7 @@
    "informacion": "Casos",
    "CODCOM": 7104,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "EMPEDRADO"
   },
@@ -342,8 +350,8 @@
    "informacion": "Casos",
    "CODCOM": 7104,
    "delito": "LESIONES",
-   "2024": 8,
-   "2025": 4,
+   "2024": 11,
+   "2025": 5,
    "COMUNA": "EMPEDRADO"
   },
   {
@@ -382,7 +390,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7104,
    "delito": "LESIONES",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "EMPEDRADO"
   },
@@ -390,13 +398,13 @@
    "informacion": "Detenidos",
    "CODCOM": 7104,
    "delito": "LESIONES",
-   "2024": 7,
+   "2024": 8,
    "2025": 1,
    "COMUNA": "EMPEDRADO"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Maule"
  }
 }

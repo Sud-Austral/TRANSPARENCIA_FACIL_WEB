@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7108,
-   "2024": 19,
+   "2024": 20,
    "2025": 13,
-   "variacion": -32,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 7108,
    "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2025": 18,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7108,
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7108,
-   "2024": 36,
-   "2025": 34,
-   "variacion": -6,
+   "2024": 40,
+   "2025": 35,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7108,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7108,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7108,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7108,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7108,
    "anio": 2024,
@@ -1184,6 +1232,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7108,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 7108,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "RÍO CLARO"
   },
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7108,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 7108,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "RÍO CLARO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 7108,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 7108,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "RÍO CLARO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7108,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "RÍO CLARO"
   }
@@ -2109,7 +2213,7 @@
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "HURTOS",
-   "2024": 19,
+   "2024": 20,
    "2025": 13,
    "COMUNA": "RÍO CLARO"
   },
@@ -2118,7 +2222,7 @@
    "CODCOM": 7108,
    "delito": "LESIONES",
    "2024": 21,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "RÍO CLARO"
   },
@@ -2173,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 36,
-   "2025": 34,
+   "2024": 40,
+   "2025": 35,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -2277,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
    "COMUNA": "RÍO CLARO"
   },
@@ -2381,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
    "COMUNA": "RÍO CLARO"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Maule"
  }
 }

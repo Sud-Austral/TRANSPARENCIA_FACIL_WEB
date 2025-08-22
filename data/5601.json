@@ -4,16 +4,16 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 5601,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ANTONIO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5601,
-   "2024": 222,
-   "2025": 218,
+   "2024": 237,
+   "2025": 233,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5601,
-   "2024": 257,
-   "2025": 278,
-   "variacion": 8,
+   "2024": 271,
+   "2025": 304,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ANTONIO"
   },
@@ -39,44 +39,44 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5601,
-   "2024": 93,
-   "2025": 83,
-   "variacion": -11,
+   "2024": 97,
+   "2025": 93,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5601,
-   "2024": 52,
-   "2025": 45,
-   "variacion": -13,
+   "2024": 56,
+   "2025": 49,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5601,
-   "2024": 110,
-   "2025": 110,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 118,
+   "2025": 120,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN ANTONIO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5601,
-   "2024": 86,
-   "2025": 50,
-   "variacion": -42,
+   "2024": 93,
+   "2025": 52,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5601,
-   "2024": 189,
-   "2025": 135,
+   "2024": 199,
+   "2025": 141,
    "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5601,
-   "2024": 175,
-   "2025": 121,
+   "2024": 190,
+   "2025": 131,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
@@ -93,9 +93,9 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5601,
-   "2024": 40,
-   "2025": 24,
-   "variacion": -40,
+   "2024": 42,
+   "2025": 26,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5601,
    "2024": 11,
-   "2025": 2,
-   "variacion": -82,
+   "2025": 4,
+   "variacion": -64,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ANTONIO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5601,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 22,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 26,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5601,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5601,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 14,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5601,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5601,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 24,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5601,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "SAN ANTONIO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "SAN ANTONIO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5601,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "SAN ANTONIO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5601,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN ANTONIO"
   }
  ],
  "info": [
@@ -2102,23 +2206,23 @@
    "CODCOM": 5601,
    "delito": "HOMICIDIOS",
    "2024": 2,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "HURTOS",
-   "2024": 222,
-   "2025": 218,
+   "2024": 237,
+   "2025": 233,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "LESIONES",
-   "2024": 257,
-   "2025": 278,
+   "2024": 271,
+   "2025": 304,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2133,56 +2237,56 @@
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 93,
-   "2025": 83,
+   "2024": 97,
+   "2025": 93,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 52,
-   "2025": 45,
+   "2024": 56,
+   "2025": 49,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 110,
-   "2025": 110,
+   "2024": 118,
+   "2025": 120,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 86,
-   "2025": 50,
+   "2024": 93,
+   "2025": 52,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 189,
-   "2025": 135,
+   "2024": 199,
+   "2025": 141,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 175,
-   "2025": 121,
+   "2024": 190,
+   "2025": 131,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5601,
    "delito": "ROBO POR SORPRESA",
-   "2024": 40,
-   "2025": 24,
+   "2024": 42,
+   "2025": 26,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2190,7 +2294,7 @@
    "CODCOM": 5601,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 11,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2206,23 +2310,23 @@
    "CODCOM": 5601,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5601,
    "delito": "HURTOS",
-   "2024": 58,
-   "2025": 59,
+   "2024": 59,
+   "2025": 66,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5601,
    "delito": "LESIONES",
-   "2024": 72,
-   "2025": 68,
+   "2024": 74,
+   "2025": 76,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2237,8 +2341,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5601,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
-   "2025": 4,
+   "2024": 8,
+   "2025": 5,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 5601,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2277,8 +2381,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5601,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
-   "2025": 19,
+   "2024": 19,
+   "2025": 20,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2310,23 +2414,23 @@
    "CODCOM": 5601,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5601,
    "delito": "HURTOS",
-   "2024": 61,
-   "2025": 64,
+   "2024": 62,
+   "2025": 73,
    "COMUNA": "SAN ANTONIO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5601,
    "delito": "LESIONES",
-   "2024": 132,
-   "2025": 130,
+   "2024": 139,
+   "2025": 150,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2341,8 +2445,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5601,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
-   "2025": 4,
+   "2024": 12,
+   "2025": 6,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 5601,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 10,
-   "2025": 13,
+   "2025": 16,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2381,8 +2485,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5601,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 23,
-   "2025": 22,
+   "2024": 25,
+   "2025": 23,
    "COMUNA": "SAN ANTONIO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

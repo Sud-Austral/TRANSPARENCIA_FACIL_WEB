@@ -3,17 +3,17 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13102,
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13102,
-   "2024": 338,
-   "2025": 332,
+   "2024": 357,
+   "2025": 350,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRILLOS"
@@ -21,90 +21,90 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13102,
-   "2024": 181,
-   "2025": 187,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 199,
+   "2025": 197,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13102,
    "2024": 19,
-   "2025": 35,
-   "variacion": 84,
+   "2025": 37,
+   "variacion": 95,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13102,
-   "2024": 273,
-   "2025": 232,
-   "variacion": -15,
+   "2024": 287,
+   "2025": 241,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13102,
-   "2024": 121,
-   "2025": 123,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 134,
+   "2025": 133,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13102,
-   "2024": 222,
-   "2025": 321,
-   "variacion": 45,
+   "2024": 234,
+   "2025": 343,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13102,
-   "2024": 117,
-   "2025": 158,
-   "variacion": 35,
+   "2024": 133,
+   "2025": 170,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13102,
-   "2024": 67,
-   "2025": 104,
-   "variacion": 55,
+   "2024": 73,
+   "2025": 115,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13102,
-   "2024": 94,
-   "2025": 137,
-   "variacion": 46,
+   "2024": 101,
+   "2025": 151,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13102,
-   "2024": 166,
-   "2025": 167,
-   "variacion": 1,
+   "2024": 171,
+   "2025": 182,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRILLOS"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13102,
-   "2024": 152,
-   "2025": 125,
-   "variacion": -18,
+   "2024": 160,
+   "2025": 146,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRILLOS"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13102,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 49,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 18,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13102,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13102,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 18,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13102,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 24,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13102,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 29,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 14,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "CERRILLOS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "CERRILLOS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13102,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 27,
+   "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 21,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 2,
    "COMUNA": "CERRILLOS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CERRILLOS"
   }
  ],
  "info": [
@@ -2101,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "CERRILLOS"
   },
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "HURTOS",
-   "2024": 338,
-   "2025": 332,
+   "2024": 357,
+   "2025": 350,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "LESIONES",
-   "2024": 181,
-   "2025": 187,
+   "2024": 199,
+   "2025": 197,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2126,71 +2230,71 @@
    "CODCOM": 13102,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 19,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 273,
-   "2025": 232,
+   "2024": 287,
+   "2025": 241,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 121,
-   "2025": 123,
+   "2024": 134,
+   "2025": 133,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 222,
-   "2025": 321,
+   "2024": 234,
+   "2025": 343,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 117,
-   "2025": 158,
+   "2024": 133,
+   "2025": 170,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 67,
-   "2025": 104,
+   "2024": 73,
+   "2025": 115,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 94,
-   "2025": 137,
+   "2024": 101,
+   "2025": 151,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 166,
-   "2025": 167,
+   "2024": 171,
+   "2025": 182,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13102,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 152,
-   "2025": 125,
+   "2024": 160,
+   "2025": 146,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13102,
    "delito": "HURTOS",
-   "2024": 152,
-   "2025": 124,
+   "2024": 162,
+   "2025": 132,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13102,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 38,
+   "2024": 48,
+   "2025": 39,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 13102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 7,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2270,22 +2374,22 @@
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 12,
-   "2025": 10,
+   "2024": 13,
+   "2025": 11,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "CERRILLOS"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13102,
    "delito": "HURTOS",
-   "2024": 163,
-   "2025": 132,
+   "2024": 175,
+   "2025": 140,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13102,
    "delito": "LESIONES",
-   "2024": 80,
-   "2025": 74,
+   "2024": 92,
+   "2025": 76,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 13102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 13,
-   "2025": 18,
+   "2025": 22,
    "COMUNA": "CERRILLOS"
   },
   {
@@ -2374,22 +2478,22 @@
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 16,
-   "2025": 12,
+   "2024": 17,
+   "2025": 13,
    "COMUNA": "CERRILLOS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "CERRILLOS"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

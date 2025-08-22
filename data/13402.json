@@ -3,8 +3,8 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13402,
-   "2024": 0,
-   "2025": 4,
+   "2024": 1,
+   "2025": 5,
    "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13402,
-   "2024": 191,
-   "2025": 206,
-   "variacion": 8,
+   "2024": 205,
+   "2025": 218,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13402,
-   "2024": 190,
-   "2025": 213,
-   "variacion": 12,
+   "2024": 203,
+   "2025": 223,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   },
@@ -39,35 +39,35 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13402,
-   "2024": 117,
-   "2025": 110,
-   "variacion": -6,
+   "2024": 128,
+   "2025": 113,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13402,
-   "2024": 38,
-   "2025": 35,
-   "variacion": -8,
+   "2024": 42,
+   "2025": 39,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13402,
-   "2024": 137,
-   "2025": 181,
-   "variacion": 32,
+   "2024": 149,
+   "2025": 192,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13402,
-   "2024": 76,
-   "2025": 84,
+   "2024": 81,
+   "2025": 90,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
@@ -75,45 +75,45 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13402,
-   "2024": 138,
-   "2025": 191,
-   "variacion": 38,
+   "2024": 152,
+   "2025": 200,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13402,
-   "2024": 132,
-   "2025": 125,
-   "variacion": -5,
+   "2024": 138,
+   "2025": 132,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13402,
-   "2024": 43,
-   "2025": 47,
-   "variacion": 9,
+   "2024": 46,
+   "2025": 51,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13402,
-   "2024": 77,
-   "2025": 45,
-   "variacion": -42,
+   "2024": 84,
+   "2025": 46,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "BUIN"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13402,
-   "2024": 6,
+   "2024": 7,
    "2025": 12,
-   "variacion": 100,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "BUIN"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13402,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 25,
+   "COMUNA": "BUIN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
    "COMUNA": "BUIN"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13402,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "BUIN"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "BUIN"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13402,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "BUIN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "BUIN"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13402,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "BUIN"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "BUIN"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13402,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13402,
    "anio": 2024,
@@ -1788,6 +1868,14 @@
    "CODCOM": 13402,
    "anio": 2025,
    "mes": 7,
+   "casos": 4,
+   "COMUNA": "BUIN"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
    "casos": 4,
    "COMUNA": "BUIN"
   },
@@ -1944,6 +2032,14 @@
    "COMUNA": "BUIN"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "BUIN"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13402,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 2,
    "COMUNA": "BUIN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "BUIN"
   }
  ],
  "info": [
@@ -2101,24 +2205,24 @@
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "HOMICIDIOS",
-   "2024": 0,
-   "2025": 4,
+   "2024": 1,
+   "2025": 5,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "HURTOS",
-   "2024": 191,
-   "2025": 206,
+   "2024": 205,
+   "2025": 218,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "LESIONES",
-   "2024": 190,
-   "2025": 213,
+   "2024": 203,
+   "2025": 223,
    "COMUNA": "BUIN"
   },
   {
@@ -2133,71 +2237,71 @@
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 117,
-   "2025": 110,
+   "2024": 128,
+   "2025": 113,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 38,
-   "2025": 35,
+   "2024": 42,
+   "2025": 39,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 137,
-   "2025": 181,
+   "2024": 149,
+   "2025": 192,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 76,
-   "2025": 84,
+   "2024": 81,
+   "2025": 90,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 138,
-   "2025": 191,
+   "2024": 152,
+   "2025": 200,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 132,
-   "2025": 125,
+   "2024": 138,
+   "2025": 132,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO POR SORPRESA",
-   "2024": 43,
-   "2025": 47,
+   "2024": 46,
+   "2025": 51,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 77,
-   "2025": 45,
+   "2024": 84,
+   "2025": 46,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13402,
    "delito": "VIOLACIONES",
-   "2024": 6,
+   "2024": 7,
    "2025": 12,
    "COMUNA": "BUIN"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13402,
    "delito": "HURTOS",
-   "2024": 66,
-   "2025": 68,
+   "2024": 71,
+   "2025": 70,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13402,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 56,
+   "2024": 45,
+   "2025": 57,
    "COMUNA": "BUIN"
   },
   {
@@ -2245,8 +2349,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
-   "2025": 3,
+   "2024": 2,
+   "2025": 4,
    "COMUNA": "BUIN"
   },
   {
@@ -2261,7 +2365,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13402,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 3,
    "COMUNA": "BUIN"
   },
@@ -2278,7 +2382,7 @@
    "CODCOM": 13402,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "BUIN"
   },
   {
@@ -2286,7 +2390,7 @@
    "CODCOM": 13402,
    "delito": "ROBO POR SORPRESA",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "BUIN"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13402,
    "delito": "HURTOS",
-   "2024": 73,
-   "2025": 76,
+   "2024": 81,
+   "2025": 78,
    "COMUNA": "BUIN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13402,
    "delito": "LESIONES",
-   "2024": 70,
-   "2025": 104,
+   "2024": 75,
+   "2025": 105,
    "COMUNA": "BUIN"
   },
   {
@@ -2349,8 +2453,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
-   "2025": 6,
+   "2024": 2,
+   "2025": 8,
    "COMUNA": "BUIN"
   },
   {
@@ -2365,7 +2469,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13402,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 5,
    "COMUNA": "BUIN"
   },
@@ -2382,7 +2486,7 @@
    "CODCOM": 13402,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 13,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "BUIN"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 13402,
    "delito": "ROBO POR SORPRESA",
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "BUIN"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

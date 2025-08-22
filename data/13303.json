@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13303,
-   "2024": 16,
-   "2025": 19,
-   "variacion": 19,
+   "2024": 17,
+   "2025": 21,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "TILTIL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13303,
-   "2024": 36,
-   "2025": 38,
-   "variacion": 6,
+   "2024": 40,
+   "2025": 42,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "TILTIL"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13303,
-   "2024": 22,
-   "2025": 19,
-   "variacion": -14,
+   "2024": 24,
+   "2025": 23,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "TILTIL"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13303,
-   "2024": 41,
-   "2025": 25,
-   "variacion": -39,
+   "2024": 43,
+   "2025": 30,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TILTIL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13303,
-   "2024": 68,
-   "2025": 47,
-   "variacion": -31,
+   "2024": 71,
+   "2025": 54,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "TILTIL"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13303,
    "2024": 19,
-   "2025": 9,
-   "variacion": -53,
+   "2025": 11,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "TILTIL"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "TILTIL"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TILTIL"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13303,
    "anio": 2024,
@@ -420,6 +428,14 @@
    "CODCOM": 13303,
    "anio": 2025,
    "mes": 7,
+   "casos": 2,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 2,
    "COMUNA": "TILTIL"
   },
@@ -576,6 +592,14 @@
    "COMUNA": "TILTIL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "TILTIL"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13303,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "TILTIL"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "TILTIL"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "TILTIL"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13303,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "TILTIL"
   },
   {
@@ -1180,6 +1228,14 @@
    "CODCOM": 13303,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "TILTIL"
   },
@@ -1332,6 +1388,14 @@
    "CODCOM": 13303,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "TILTIL"
   },
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "TILTIL"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "TILTIL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "TILTIL"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13303,
    "anio": 2024,
@@ -1788,6 +1868,14 @@
    "CODCOM": 13303,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "TILTIL"
   },
@@ -1944,6 +2032,14 @@
    "COMUNA": "TILTIL"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "TILTIL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13303,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "TILTIL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TILTIL"
   }
  ],
  "info": [
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13303,
    "delito": "HURTOS",
-   "2024": 16,
-   "2025": 19,
+   "2024": 17,
+   "2025": 21,
    "COMUNA": "TILTIL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13303,
    "delito": "LESIONES",
-   "2024": 36,
-   "2025": 38,
+   "2024": 40,
+   "2025": 42,
    "COMUNA": "TILTIL"
   },
   {
@@ -2133,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 13303,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 22,
-   "2025": 19,
+   "2024": 24,
+   "2025": 23,
    "COMUNA": "TILTIL"
   },
   {
@@ -2165,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 13303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 41,
-   "2025": 25,
+   "2024": 43,
+   "2025": 30,
    "COMUNA": "TILTIL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 68,
-   "2025": 47,
+   "2024": 71,
+   "2025": 54,
    "COMUNA": "TILTIL"
   },
   {
@@ -2190,7 +2294,7 @@
    "CODCOM": 13303,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 19,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "TILTIL"
   },
   {
@@ -2221,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13303,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 13,
    "COMUNA": "TILTIL"
   },
@@ -2325,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13303,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 21,
    "2025": 15,
    "COMUNA": "TILTIL"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

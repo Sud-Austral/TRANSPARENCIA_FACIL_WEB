@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10206,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "PUQUELDÓN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10206,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "PUQUELDÓN"
   },
@@ -29,6 +29,15 @@
   },
   {
    "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10206,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PUQUELDÓN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10206,
    "2024": 1,
    "2025": 0,
@@ -277,7 +286,7 @@
    "informacion": "Casos",
    "CODCOM": 10206,
    "delito": "HURTOS",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "PUQUELDÓN"
   },
@@ -285,7 +294,7 @@
    "informacion": "Casos",
    "CODCOM": 10206,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "PUQUELDÓN"
   },
@@ -301,6 +310,14 @@
    "informacion": "Casos",
    "CODCOM": 10206,
    "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUQUELDÓN"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10206,
+   "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
    "2025": 0,
    "COMUNA": "PUQUELDÓN"
@@ -331,7 +348,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

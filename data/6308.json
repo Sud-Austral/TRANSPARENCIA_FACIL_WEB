@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 6308,
    "2024": 20,
-   "2025": 15,
-   "variacion": -25,
+   "2025": 17,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "PLACILLA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6308,
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
-   "variacion": 17,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PLACILLA"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6308,
    "2024": 0,
-   "2025": 2,
-   "variacion": 200,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "PLACILLA"
   },
@@ -229,6 +229,14 @@
    "COMUNA": "PLACILLA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6308,
    "anio": 2024,
@@ -402,6 +410,14 @@
    "anio": 2025,
    "mes": 2,
    "casos": 2,
+   "COMUNA": "PLACILLA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PLACILLA"
   },
   {
@@ -779,14 +795,14 @@
    "CODCOM": 6308,
    "delito": "HURTOS",
    "2024": 20,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "PLACILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
    "COMUNA": "PLACILLA"
   },
@@ -803,7 +819,7 @@
    "CODCOM": 6308,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PLACILLA"
   },
   {
@@ -936,7 +952,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

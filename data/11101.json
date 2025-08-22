@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11101,
-   "2024": 174,
-   "2025": 155,
-   "variacion": -11,
+   "2024": 179,
+   "2025": 165,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11101,
-   "2024": 149,
-   "2025": 124,
-   "variacion": -17,
+   "2024": 160,
+   "2025": 125,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -40,26 +40,26 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 11101,
    "2024": 12,
-   "2025": 9,
-   "variacion": -25,
+   "2025": 10,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 11101,
-   "2024": 15,
-   "2025": 12,
-   "variacion": -20,
+   "2024": 16,
+   "2025": 13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 11101,
-   "2024": 7,
+   "2024": 8,
    "2025": 10,
-   "variacion": 43,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -75,27 +75,27 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11101,
-   "2024": 30,
-   "2025": 33,
-   "variacion": 10,
+   "2024": 33,
+   "2025": 36,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11101,
-   "2024": 57,
-   "2025": 30,
-   "variacion": -47,
+   "2024": 61,
+   "2025": 31,
+   "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 11101,
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
-   "variacion": -40,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -103,9 +103,9 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 11101,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -272,6 +272,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 27,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 11101,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "COYHAIQUE"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1184,6 +1232,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "COYHAIQUE"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "COYHAIQUE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "COYHAIQUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "COYHAIQUE"
   }
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 174,
-   "2025": 155,
+   "2024": 179,
+   "2025": 165,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LESIONES",
-   "2024": 149,
-   "2025": 124,
+   "2024": 160,
+   "2025": 125,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2134,22 +2238,22 @@
    "CODCOM": 11101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 12,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 15,
-   "2025": 12,
+   "2024": 16,
+   "2025": 13,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 10,
    "COMUNA": "COYHAIQUE"
   },
@@ -2165,23 +2269,23 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 30,
-   "2025": 33,
+   "2024": 33,
+   "2025": 36,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 57,
-   "2025": 30,
+   "2024": 61,
+   "2025": 31,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "COYHAIQUE"
   },
@@ -2190,7 +2294,7 @@
    "CODCOM": 11101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2213,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 71,
-   "2025": 59,
+   "2024": 74,
+   "2025": 63,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 11101,
    "delito": "LESIONES",
-   "2024": 56,
+   "2024": 62,
    "2025": 52,
    "COMUNA": "COYHAIQUE"
   },
@@ -2317,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 79,
-   "2025": 64,
+   "2024": 82,
+   "2025": 68,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 11101,
    "delito": "LESIONES",
-   "2024": 93,
+   "2024": 104,
    "2025": 91,
    "COMUNA": "COYHAIQUE"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Aysén"
  }
 }

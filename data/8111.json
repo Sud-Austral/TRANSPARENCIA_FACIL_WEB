@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8111,
-   "2024": 135,
-   "2025": 118,
-   "variacion": -13,
+   "2024": 140,
+   "2025": 128,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8111,
-   "2024": 135,
-   "2025": 138,
-   "variacion": 2,
+   "2024": 143,
+   "2025": 144,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "TOME"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8111,
-   "2024": 29,
+   "2024": 33,
    "2025": 18,
-   "variacion": -38,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8111,
    "2024": 27,
-   "2025": 22,
-   "variacion": -19,
+   "2025": 24,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8111,
-   "2024": 28,
-   "2025": 13,
-   "variacion": -54,
+   "2024": 30,
+   "2025": 15,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
@@ -67,26 +67,26 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8111,
    "2024": 33,
-   "2025": 26,
-   "variacion": -21,
+   "2025": 27,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8111,
-   "2024": 75,
-   "2025": 52,
-   "variacion": -31,
+   "2024": 80,
+   "2025": 56,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8111,
-   "2024": 93,
-   "2025": 78,
-   "variacion": -16,
+   "2024": 100,
+   "2025": 80,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "TOME"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 8111,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "TOME"
   }
  ],
@@ -272,6 +272,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8111,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 23,
+   "COMUNA": "TOME"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
    "COMUNA": "TOME"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8111,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "TOME"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "TOME"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "TOME"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "TOME"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 8111,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "TOME"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "TOME"
   },
@@ -1488,6 +1552,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8111,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "TOME"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "TOME"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8111,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "TOME"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "TOME"
   }
  ],
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "HURTOS",
-   "2024": 135,
-   "2025": 118,
+   "2024": 140,
+   "2025": 128,
    "COMUNA": "TOME"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "LESIONES",
-   "2024": 135,
-   "2025": 138,
+   "2024": 143,
+   "2025": 144,
    "COMUNA": "TOME"
   },
   {
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 29,
+   "2024": 33,
    "2025": 18,
    "COMUNA": "TOME"
   },
@@ -2142,15 +2246,15 @@
    "CODCOM": 8111,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 27,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "TOME"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 28,
-   "2025": 13,
+   "2024": 30,
+   "2025": 15,
    "COMUNA": "TOME"
   },
   {
@@ -2158,23 +2262,23 @@
    "CODCOM": 8111,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 33,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "TOME"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 75,
-   "2025": 52,
+   "2024": 80,
+   "2025": 56,
    "COMUNA": "TOME"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8111,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 93,
-   "2025": 78,
+   "2024": 100,
+   "2025": 80,
    "COMUNA": "TOME"
   },
   {
@@ -2198,7 +2302,7 @@
    "CODCOM": 8111,
    "delito": "VIOLACIONES",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "TOME"
   },
   {
@@ -2214,7 +2318,7 @@
    "CODCOM": 8111,
    "delito": "HURTOS",
    "2024": 18,
-   "2025": 16,
+   "2025": 19,
    "COMUNA": "TOME"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 8111,
    "delito": "LESIONES",
    "2024": 38,
-   "2025": 39,
+   "2025": 40,
    "COMUNA": "TOME"
   },
   {
@@ -2254,7 +2358,7 @@
    "CODCOM": 8111,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TOME"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 8111,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "TOME"
   },
   {
@@ -2318,7 +2422,7 @@
    "CODCOM": 8111,
    "delito": "HURTOS",
    "2024": 22,
-   "2025": 20,
+   "2025": 23,
    "COMUNA": "TOME"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 8111,
    "delito": "LESIONES",
    "2024": 61,
-   "2025": 62,
+   "2025": 64,
    "COMUNA": "TOME"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 8111,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TOME"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 8111,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "TOME"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

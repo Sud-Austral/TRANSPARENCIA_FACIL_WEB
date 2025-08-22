@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10201,
-   "2024": 211,
-   "2025": 202,
+   "2024": 222,
+   "2025": 213,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "CASTRO"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10201,
-   "2024": 143,
-   "2025": 112,
+   "2024": 157,
+   "2025": 123,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "CASTRO"
@@ -30,10 +30,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10201,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "CASTRO"
   },
   {
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10201,
-   "2024": 13,
-   "2025": 16,
-   "variacion": 23,
+   "2024": 14,
+   "2025": 18,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "CASTRO"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10201,
    "2024": 23,
-   "2025": 16,
-   "variacion": -30,
+   "2025": 17,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "CASTRO"
   },
@@ -75,27 +75,27 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10201,
-   "2024": 22,
-   "2025": 28,
-   "variacion": 27,
+   "2024": 24,
+   "2025": 29,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "CASTRO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10201,
-   "2024": 37,
-   "2025": 65,
-   "variacion": 76,
+   "2024": 41,
+   "2025": 78,
+   "variacion": 90,
    "situación": "Aumento de Casos",
    "COMUNA": "CASTRO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10201,
-   "2024": 11,
+   "2024": 13,
    "2025": 14,
-   "variacion": 27,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "CASTRO"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 30,
+   "COMUNA": "CASTRO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
    "COMUNA": "CASTRO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10201,
    "anio": 2024,
@@ -728,6 +752,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10201,
    "anio": 2024,
@@ -880,6 +912,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1028,6 +1068,14 @@
    "CODCOM": 10201,
    "anio": 2025,
    "mes": 7,
+   "casos": 2,
+   "COMUNA": "CASTRO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
    "casos": 2,
    "COMUNA": "CASTRO"
   },
@@ -1184,6 +1232,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1332,6 +1388,14 @@
    "CODCOM": 10201,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "CASTRO"
   },
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "CASTRO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "CASTRO"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "CASTRO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 10201,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 10201,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "CASTRO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "CASTRO"
   }
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "HURTOS",
-   "2024": 211,
-   "2025": 202,
+   "2024": 222,
+   "2025": 213,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "LESIONES",
-   "2024": 143,
-   "2025": 112,
+   "2024": 157,
+   "2025": 123,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "CASTRO"
   },
@@ -2141,8 +2245,8 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 13,
-   "2025": 16,
+   "2024": 14,
+   "2025": 18,
    "COMUNA": "CASTRO"
   },
   {
@@ -2150,7 +2254,7 @@
    "CODCOM": 10201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 23,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "CASTRO"
   },
   {
@@ -2165,23 +2269,23 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
-   "2025": 28,
+   "2024": 24,
+   "2025": 29,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 37,
-   "2025": 65,
+   "2024": 41,
+   "2025": 78,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "ROBO POR SORPRESA",
-   "2024": 11,
+   "2024": 13,
    "2025": 14,
    "COMUNA": "CASTRO"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 10201,
    "delito": "HURTOS",
-   "2024": 35,
-   "2025": 52,
+   "2024": 40,
+   "2025": 57,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10201,
    "delito": "LESIONES",
-   "2024": 54,
-   "2025": 49,
+   "2024": 60,
+   "2025": 50,
    "COMUNA": "CASTRO"
   },
   {
@@ -2278,7 +2382,7 @@
    "CODCOM": 10201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CASTRO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 10201,
    "delito": "HURTOS",
-   "2024": 42,
-   "2025": 54,
+   "2024": 47,
+   "2025": 60,
    "COMUNA": "CASTRO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10201,
    "delito": "LESIONES",
-   "2024": 92,
-   "2025": 89,
+   "2024": 104,
+   "2025": 91,
    "COMUNA": "CASTRO"
   },
   {
@@ -2382,7 +2486,7 @@
    "CODCOM": 10201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
-   "2025": 8,
+   "2025": 10,
    "COMUNA": "CASTRO"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Los Lagos"
  }
 }

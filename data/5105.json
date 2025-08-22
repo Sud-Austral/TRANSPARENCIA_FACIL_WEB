@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5105,
-   "2024": 71,
-   "2025": 88,
-   "variacion": 24,
+   "2024": 75,
+   "2025": 90,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5105,
-   "2024": 91,
-   "2025": 112,
-   "variacion": 23,
+   "2024": 98,
+   "2025": 125,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -22,8 +22,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5105,
    "2024": 2,
-   "2025": 7,
-   "variacion": 250,
+   "2025": 8,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -39,26 +39,26 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5105,
-   "2024": 20,
-   "2025": 12,
-   "variacion": -40,
+   "2024": 21,
+   "2025": 13,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5105,
-   "2024": 51,
-   "2025": 91,
-   "variacion": 78,
+   "2024": 53,
+   "2025": 97,
+   "variacion": 83,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5105,
-   "2024": 41,
-   "2025": 37,
+   "2024": 42,
+   "2025": 38,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCHUNCAVÍ"
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5105,
-   "2024": 176,
-   "2025": 97,
-   "variacion": -45,
+   "2024": 192,
+   "2025": 103,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5105,
-   "2024": 33,
-   "2025": 41,
-   "variacion": 24,
+   "2024": 36,
+   "2025": 44,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -93,9 +93,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5105,
-   "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2024": 2,
+   "2025": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -103,8 +103,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 5105,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCHUNCAVÍ"
   }
@@ -271,6 +271,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5105,
    "anio": 2024,
@@ -423,6 +431,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 13,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5105,
    "anio": 2024,
@@ -499,6 +515,14 @@
    "CODCOM": 5105,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -795,6 +819,14 @@
    "CODCOM": 5105,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -951,6 +983,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5105,
    "anio": 2024,
@@ -1084,6 +1124,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1239,6 +1287,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5105,
    "anio": 2024,
@@ -1391,6 +1447,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5105,
    "anio": 2024,
@@ -1551,6 +1615,14 @@
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5105,
    "anio": 2024,
@@ -1589,6 +1661,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUCHUNCAVÍ"
   }
  ],
  "info": [
@@ -1596,16 +1676,16 @@
    "informacion": "Casos",
    "CODCOM": 5105,
    "delito": "HURTOS",
-   "2024": 71,
-   "2025": 88,
+   "2024": 75,
+   "2025": 90,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5105,
    "delito": "LESIONES",
-   "2024": 91,
-   "2025": 112,
+   "2024": 98,
+   "2025": 125,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1613,7 +1693,7 @@
    "CODCOM": 5105,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 2,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1628,40 +1708,40 @@
    "informacion": "Casos",
    "CODCOM": 5105,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 20,
-   "2025": 12,
+   "2024": 21,
+   "2025": 13,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5105,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 51,
-   "2025": 91,
-   "COMUNA": "PUCHUNCAVÍ"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 5105,
-   "delito": "ROBO DE VEHÍCULO",
-   "2024": 41,
-   "2025": 37,
-   "COMUNA": "PUCHUNCAVÍ"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 5105,
-   "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 176,
+   "2024": 53,
    "2025": 97,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5105,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 42,
+   "2025": 38,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5105,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 192,
+   "2025": 103,
+   "COMUNA": "PUCHUNCAVÍ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 33,
-   "2025": 41,
+   "2024": 36,
+   "2025": 44,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1676,8 +1756,8 @@
    "informacion": "Casos",
    "CODCOM": 5105,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
-   "2025": 3,
+   "2024": 2,
+   "2025": 4,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1685,23 +1765,23 @@
    "CODCOM": 5105,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5105,
    "delito": "HURTOS",
-   "2024": 23,
-   "2025": 27,
+   "2024": 24,
+   "2025": 28,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5105,
    "delito": "LESIONES",
-   "2024": 21,
-   "2025": 32,
+   "2024": 23,
+   "2025": 36,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1732,7 +1812,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -1740,7 +1820,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -1764,16 +1844,16 @@
    "informacion": "Detenidos",
    "CODCOM": 5105,
    "delito": "HURTOS",
-   "2024": 26,
-   "2025": 33,
+   "2024": 27,
+   "2025": 34,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5105,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 60,
+   "2024": 37,
+   "2025": 68,
    "COMUNA": "PUCHUNCAVÍ"
   },
   {
@@ -1804,7 +1884,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 10,
    "2025": 7,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -1812,7 +1892,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 11,
    "2025": 8,
    "COMUNA": "PUCHUNCAVÍ"
   },
@@ -1834,7 +1914,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

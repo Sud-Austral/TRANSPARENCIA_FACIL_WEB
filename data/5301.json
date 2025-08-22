@@ -12,90 +12,90 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5301,
-   "2024": 276,
-   "2025": 224,
-   "variacion": -19,
+   "2024": 300,
+   "2025": 241,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5301,
-   "2024": 177,
-   "2025": 130,
-   "variacion": -27,
+   "2024": 188,
+   "2025": 139,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5301,
-   "2024": 12,
+   "2024": 14,
    "2025": 13,
-   "variacion": 8,
-   "situación": "Aumento de Casos",
+   "variacion": -7,
+   "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5301,
-   "2024": 61,
+   "2024": 62,
    "2025": 43,
-   "variacion": -30,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5301,
-   "2024": 42,
-   "2025": 19,
-   "variacion": -55,
+   "2024": 47,
+   "2025": 20,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5301,
-   "2024": 121,
-   "2025": 86,
-   "variacion": -29,
+   "2024": 130,
+   "2025": 101,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5301,
-   "2024": 27,
-   "2025": 19,
-   "variacion": -30,
+   "2024": 28,
+   "2025": 20,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5301,
-   "2024": 82,
-   "2025": 83,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 89,
+   "2025": 86,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5301,
-   "2024": 95,
-   "2025": 50,
-   "variacion": -47,
+   "2024": 100,
+   "2025": 59,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5301,
-   "2024": 28,
-   "2025": 29,
-   "variacion": 4,
+   "2024": 31,
+   "2025": 32,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS ANDES"
   },
@@ -103,9 +103,9 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5301,
    "2024": 6,
-   "2025": 6,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 7,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
    "COMUNA": "LOS ANDES"
   },
   {
@@ -272,6 +272,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5301,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 27,
+   "COMUNA": "LOS ANDES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 17,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5301,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 5301,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "LOS ANDES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "LOS ANDES"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5301,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "LOS ANDES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5301,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "LOS ANDES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5301,
    "anio": 2024,
@@ -1640,6 +1712,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5301,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5301,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "LOS ANDES"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS ANDES"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5301,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "LOS ANDES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
    "COMUNA": "LOS ANDES"
   }
  ],
@@ -2109,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "HURTOS",
-   "2024": 276,
-   "2025": 224,
+   "2024": 300,
+   "2025": 241,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "LESIONES",
-   "2024": 177,
-   "2025": 130,
+   "2024": 188,
+   "2025": 139,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 12,
+   "2024": 14,
    "2025": 13,
    "COMUNA": "LOS ANDES"
   },
@@ -2133,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 61,
+   "2024": 62,
    "2025": 43,
    "COMUNA": "LOS ANDES"
   },
@@ -2141,48 +2245,48 @@
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 42,
-   "2025": 19,
+   "2024": 47,
+   "2025": 20,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 121,
-   "2025": 86,
+   "2024": 130,
+   "2025": 101,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 27,
-   "2025": 19,
+   "2024": 28,
+   "2025": 20,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 82,
-   "2025": 83,
+   "2024": 89,
+   "2025": 86,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 95,
-   "2025": 50,
+   "2024": 100,
+   "2025": 59,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 28,
-   "2025": 29,
+   "2024": 31,
+   "2025": 32,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2190,7 +2294,7 @@
    "CODCOM": 5301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 6,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 5301,
    "delito": "HURTOS",
-   "2024": 109,
-   "2025": 92,
+   "2024": 124,
+   "2025": 99,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5301,
    "delito": "LESIONES",
-   "2024": 57,
-   "2025": 42,
+   "2024": 62,
+   "2025": 45,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 5301,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 10,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2270,7 +2374,7 @@
    "CODCOM": 5301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 6,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2286,7 +2390,7 @@
    "CODCOM": 5301,
    "delito": "ROBO POR SORPRESA",
    "2024": 3,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2294,7 +2398,7 @@
    "CODCOM": 5301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 5301,
    "delito": "HURTOS",
-   "2024": 122,
-   "2025": 103,
+   "2024": 137,
+   "2025": 111,
    "COMUNA": "LOS ANDES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5301,
    "delito": "LESIONES",
-   "2024": 110,
-   "2025": 74,
+   "2024": 124,
+   "2025": 80,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 5301,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 17,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 5301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 5301,
    "delito": "ROBO POR SORPRESA",
    "2024": 3,
-   "2025": 2,
+   "2025": 5,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2398,7 +2502,7 @@
    "CODCOM": 5301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 4,
    "COMUNA": "LOS ANDES"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Valparaíso"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3101,
-   "2024": 425,
-   "2025": 432,
-   "variacion": 2,
+   "2024": 456,
+   "2025": 472,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3101,
-   "2024": 365,
-   "2025": 279,
-   "variacion": -24,
+   "2024": 388,
+   "2025": 299,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
@@ -31,80 +31,80 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3101,
    "2024": 26,
-   "2025": 53,
-   "variacion": 104,
+   "2025": 57,
+   "variacion": 119,
    "situación": "Aumento de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3101,
-   "2024": 180,
-   "2025": 162,
-   "variacion": -10,
+   "2024": 197,
+   "2025": 168,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3101,
-   "2024": 153,
-   "2025": 101,
-   "variacion": -34,
+   "2024": 173,
+   "2025": 104,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 3101,
-   "2024": 383,
-   "2025": 471,
-   "variacion": 23,
+   "2024": 408,
+   "2025": 507,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3101,
-   "2024": 142,
-   "2025": 122,
-   "variacion": -14,
+   "2024": 151,
+   "2025": 129,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3101,
-   "2024": 176,
-   "2025": 181,
-   "variacion": 3,
+   "2024": 189,
+   "2025": 191,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3101,
-   "2024": 300,
-   "2025": 260,
-   "variacion": -13,
+   "2024": 328,
+   "2025": 287,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3101,
-   "2024": 113,
-   "2025": 101,
-   "variacion": -11,
+   "2024": 126,
+   "2025": 110,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 3101,
-   "2024": 14,
-   "2025": 11,
-   "variacion": -21,
+   "2024": 16,
+   "2025": 12,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 3101,
    "2024": 12,
-   "2025": 7,
-   "variacion": -42,
+   "2025": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "COPIAPO"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 3101,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 76,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 40,
    "COMUNA": "COPIAPO"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 20,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3101,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "COPIAPO"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3101,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 13,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "COPIAPO"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 36,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3101,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 17,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
    "COMUNA": "COPIAPO"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3101,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 44,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 27,
    "COMUNA": "COPIAPO"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 3101,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "COPIAPO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COPIAPO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 3101,
    "anio": 2024,
@@ -2093,6 +2189,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "COPIAPO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 3101,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "COPIAPO"
   }
  ],
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "HURTOS",
-   "2024": 425,
-   "2025": 432,
+   "2024": 456,
+   "2025": 472,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "LESIONES",
-   "2024": 365,
-   "2025": 279,
+   "2024": 388,
+   "2025": 299,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2126,71 +2230,71 @@
    "CODCOM": 3101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 26,
-   "2025": 53,
+   "2025": 57,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 180,
-   "2025": 162,
+   "2024": 197,
+   "2025": 168,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 153,
-   "2025": 101,
+   "2024": 173,
+   "2025": 104,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 383,
-   "2025": 471,
+   "2024": 408,
+   "2025": 507,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 142,
-   "2025": 122,
+   "2024": 151,
+   "2025": 129,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 176,
-   "2025": 181,
+   "2024": 189,
+   "2025": 191,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 300,
-   "2025": 260,
+   "2024": 328,
+   "2025": 287,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 113,
-   "2025": 101,
+   "2024": 126,
+   "2025": 110,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 14,
-   "2025": 11,
+   "2024": 16,
+   "2025": 12,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2198,7 +2302,7 @@
    "CODCOM": 3101,
    "delito": "VIOLACIONES",
    "2024": 12,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "HURTOS",
-   "2024": 126,
-   "2025": 158,
+   "2024": 134,
+   "2025": 174,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "LESIONES",
-   "2024": 91,
-   "2025": 63,
+   "2024": 99,
+   "2025": 69,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2230,14 +2334,14 @@
    "CODCOM": 3101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 5,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 16,
+   "2024": 18,
    "2025": 11,
    "COMUNA": "COPIAPO"
   },
@@ -2245,7 +2349,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 14,
+   "2024": 18,
    "2025": 8,
    "COMUNA": "COPIAPO"
   },
@@ -2253,8 +2357,8 @@
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 6,
-   "2025": 2,
+   "2024": 8,
+   "2025": 3,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2269,23 +2373,23 @@
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
-   "2025": 12,
+   "2024": 17,
+   "2025": 13,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 25,
-   "2025": 26,
+   "2024": 26,
+   "2025": 32,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 3101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 0,
+   "2024": 1,
    "2025": 9,
    "COMUNA": "COPIAPO"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "HURTOS",
-   "2024": 139,
-   "2025": 169,
+   "2024": 147,
+   "2025": 185,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "LESIONES",
-   "2024": 165,
-   "2025": 123,
+   "2024": 181,
+   "2025": 132,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2334,14 +2438,14 @@
    "CODCOM": 3101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 12,
-   "2025": 17,
+   "2025": 19,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 28,
+   "2024": 31,
    "2025": 17,
    "COMUNA": "COPIAPO"
   },
@@ -2349,7 +2453,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 24,
+   "2024": 28,
    "2025": 11,
    "COMUNA": "COPIAPO"
   },
@@ -2357,8 +2461,8 @@
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
-   "2025": 2,
+   "2024": 10,
+   "2025": 4,
    "COMUNA": "COPIAPO"
   },
   {
@@ -2373,23 +2477,23 @@
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
-   "2025": 14,
+   "2024": 25,
+   "2025": 15,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 33,
-   "2025": 35,
+   "2024": 35,
+   "2025": 44,
    "COMUNA": "COPIAPO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 3101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 0,
+   "2024": 1,
    "2025": 10,
    "COMUNA": "COPIAPO"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Atacama"
  }
 }

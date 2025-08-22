@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6112,
-   "2024": 26,
-   "2025": 31,
-   "variacion": 19,
+   "2024": 28,
+   "2025": 35,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "PEUMO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6112,
-   "2024": 43,
-   "2025": 30,
-   "variacion": -30,
+   "2024": 45,
+   "2025": 31,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "PEUMO"
   },
@@ -31,9 +31,9 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6112,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "PEUMO"
   },
   {
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6112,
    "2024": 3,
-   "2025": 5,
-   "variacion": 67,
+   "2025": 6,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PEUMO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6112,
-   "2024": 25,
+   "2024": 26,
    "2025": 9,
-   "variacion": -64,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "PEUMO"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6112,
    "2024": 40,
-   "2025": 20,
-   "variacion": -50,
+   "2025": 22,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "PEUMO"
   },
@@ -271,6 +271,14 @@
    "COMUNA": "PEUMO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6112,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "PEUMO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6112,
    "anio": 2024,
@@ -423,6 +431,14 @@
    "COMUNA": "PEUMO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6112,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PEUMO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6112,
    "anio": 2024,
@@ -435,6 +451,14 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 4,
+   "casos": 1,
+   "COMUNA": "PEUMO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6112,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PEUMO"
   },
@@ -532,6 +556,14 @@
    "anio": 2025,
    "mes": 5,
    "casos": 3,
+   "COMUNA": "PEUMO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6112,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PEUMO"
   },
   {
@@ -879,6 +911,14 @@
    "COMUNA": "PEUMO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6112,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PEUMO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6112,
    "anio": 2024,
@@ -940,16 +980,16 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "HURTOS",
-   "2024": 26,
-   "2025": 31,
+   "2024": 28,
+   "2025": 35,
    "COMUNA": "PEUMO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 30,
+   "2024": 45,
+   "2025": 31,
    "COMUNA": "PEUMO"
   },
   {
@@ -957,7 +997,7 @@
    "CODCOM": 6112,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PEUMO"
   },
   {
@@ -973,7 +1013,7 @@
    "CODCOM": 6112,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PEUMO"
   },
   {
@@ -996,7 +1036,7 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 25,
+   "2024": 26,
    "2025": 9,
    "COMUNA": "PEUMO"
   },
@@ -1005,7 +1045,7 @@
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 40,
-   "2025": 20,
+   "2025": 22,
    "COMUNA": "PEUMO"
   },
   {
@@ -1037,7 +1077,7 @@
    "CODCOM": 6112,
    "delito": "HURTOS",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PEUMO"
   },
   {
@@ -1053,7 +1093,7 @@
    "CODCOM": 6112,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PEUMO"
   },
   {
@@ -1077,7 +1117,7 @@
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 4,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PEUMO"
   },
   {
@@ -1101,7 +1141,7 @@
    "CODCOM": 6112,
    "delito": "HURTOS",
    "2024": 2,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "PEUMO"
   },
   {
@@ -1117,7 +1157,7 @@
    "CODCOM": 6112,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "PEUMO"
   },
   {
@@ -1141,7 +1181,7 @@
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 6,
-   "2025": 7,
+   "2025": 10,
    "COMUNA": "PEUMO"
   },
   {
@@ -1154,7 +1194,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

@@ -12,108 +12,108 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13103,
-   "2024": 132,
-   "2025": 117,
-   "variacion": -11,
+   "2024": 144,
+   "2025": 126,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13103,
-   "2024": 342,
-   "2025": 303,
-   "variacion": -11,
+   "2024": 360,
+   "2025": 327,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13103,
-   "2024": 48,
-   "2025": 44,
-   "variacion": -8,
+   "2024": 53,
+   "2025": 46,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13103,
-   "2024": 354,
-   "2025": 260,
-   "variacion": -27,
+   "2024": 371,
+   "2025": 282,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13103,
-   "2024": 138,
-   "2025": 136,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 145,
+   "2025": 146,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13103,
-   "2024": 40,
-   "2025": 55,
-   "variacion": 38,
+   "2024": 45,
+   "2025": 57,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13103,
-   "2024": 150,
-   "2025": 134,
-   "variacion": -11,
+   "2024": 155,
+   "2025": 146,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13103,
-   "2024": 69,
-   "2025": 69,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 73,
+   "2025": 74,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13103,
-   "2024": 86,
-   "2025": 89,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 95,
+   "2025": 94,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13103,
-   "2024": 109,
-   "2025": 100,
-   "variacion": -8,
+   "2024": 121,
+   "2025": 105,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13103,
-   "2024": 103,
-   "2025": 66,
-   "variacion": -36,
+   "2024": 112,
+   "2025": 70,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13103,
-   "2024": 15,
-   "2025": 8,
-   "variacion": -47,
+   "2024": 16,
+   "2025": 9,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "CERRO NAVIA"
   }
@@ -272,6 +272,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13103,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 14,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 9,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 24,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13103,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 7,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13103,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 10,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13103,
    "anio": 2024,
@@ -1181,6 +1229,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 5,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -1336,6 +1392,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 12,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13103,
    "anio": 2024,
@@ -1485,6 +1549,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -1640,6 +1712,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13103,
    "anio": 2024,
@@ -1789,6 +1869,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -1944,6 +2032,14 @@
    "COMUNA": "CERRO NAVIA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "CERRO NAVIA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13103,
    "anio": 2024,
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 0,
    "COMUNA": "CERRO NAVIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CERRO NAVIA"
   }
  ],
  "info": [
@@ -2109,96 +2213,96 @@
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "HURTOS",
-   "2024": 132,
-   "2025": 117,
+   "2024": 144,
+   "2025": 126,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "LESIONES",
-   "2024": 342,
-   "2025": 303,
+   "2024": 360,
+   "2025": 327,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 48,
-   "2025": 44,
+   "2024": 53,
+   "2025": 46,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 354,
-   "2025": 260,
+   "2024": 371,
+   "2025": 282,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 138,
-   "2025": 136,
+   "2024": 145,
+   "2025": 146,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 40,
-   "2025": 55,
+   "2024": 45,
+   "2025": 57,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 150,
-   "2025": 134,
+   "2024": 155,
+   "2025": 146,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 69,
-   "2025": 69,
+   "2024": 73,
+   "2025": 74,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 86,
-   "2025": 89,
+   "2024": 95,
+   "2025": 94,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO POR SORPRESA",
-   "2024": 109,
-   "2025": 100,
+   "2024": 121,
+   "2025": 105,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 103,
-   "2025": 66,
+   "2024": 112,
+   "2025": 70,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13103,
    "delito": "VIOLACIONES",
-   "2024": 15,
-   "2025": 8,
+   "2024": 16,
+   "2025": 9,
    "COMUNA": "CERRO NAVIA"
   },
   {
@@ -2221,15 +2325,15 @@
    "informacion": "Detenciones",
    "CODCOM": 13103,
    "delito": "LESIONES",
-   "2024": 56,
-   "2025": 53,
+   "2024": 58,
+   "2025": 56,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13103,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "CERRO NAVIA"
   },
@@ -2285,7 +2389,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13103,
    "delito": "ROBO POR SORPRESA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "CERRO NAVIA"
   },
@@ -2325,15 +2429,15 @@
    "informacion": "Detenidos",
    "CODCOM": 13103,
    "delito": "LESIONES",
-   "2024": 93,
-   "2025": 81,
+   "2024": 96,
+   "2025": 85,
    "COMUNA": "CERRO NAVIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13103,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "CERRO NAVIA"
   },
@@ -2389,7 +2493,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13103,
    "delito": "ROBO POR SORPRESA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "CERRO NAVIA"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6111,
-   "2024": 21,
+   "2024": 23,
    "2025": 16,
-   "variacion": -24,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "OLIVAR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6111,
-   "2024": 38,
-   "2025": 36,
+   "2024": 41,
+   "2025": 39,
    "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "OLIVAR"
@@ -57,36 +57,36 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6111,
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12,
+   "situación": "Disminución de Casos",
    "COMUNA": "OLIVAR"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6111,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
-   "variacion": -82,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "OLIVAR"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6111,
-   "2024": 19,
+   "2024": 20,
    "2025": 15,
-   "variacion": -21,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "OLIVAR"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6111,
-   "2024": 25,
-   "2025": 40,
-   "variacion": 60,
+   "2024": 27,
+   "2025": 41,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "OLIVAR"
   },
@@ -413,6 +413,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "OLIVAR"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "OLIVAR"
   },
   {
@@ -1056,6 +1064,14 @@
    "COMUNA": "OLIVAR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6111,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "OLIVAR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6111,
    "anio": 2024,
@@ -1117,7 +1133,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "HURTOS",
-   "2024": 21,
+   "2024": 23,
    "2025": 16,
    "COMUNA": "OLIVAR"
   },
@@ -1125,8 +1141,8 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 36,
+   "2024": 41,
+   "2025": 39,
    "COMUNA": "OLIVAR"
   },
   {
@@ -1157,7 +1173,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "OLIVAR"
   },
@@ -1165,7 +1181,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
    "COMUNA": "OLIVAR"
   },
@@ -1173,7 +1189,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 19,
+   "2024": 20,
    "2025": 15,
    "COMUNA": "OLIVAR"
   },
@@ -1181,8 +1197,8 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 25,
-   "2025": 40,
+   "2024": 27,
+   "2025": 41,
    "COMUNA": "OLIVAR"
   },
   {
@@ -1229,8 +1245,8 @@
    "informacion": "Detenciones",
    "CODCOM": 6111,
    "delito": "LESIONES",
-   "2024": 18,
-   "2025": 13,
+   "2024": 19,
+   "2025": 16,
    "COMUNA": "OLIVAR"
   },
   {
@@ -1285,8 +1301,8 @@
    "informacion": "Detenidos",
    "CODCOM": 6111,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 17,
+   "2024": 33,
+   "2025": 23,
    "COMUNA": "OLIVAR"
   },
   {
@@ -1323,7 +1339,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "O'Higgins"
  }
 }

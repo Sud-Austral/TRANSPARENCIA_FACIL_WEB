@@ -3,27 +3,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9208,
-   "2024": 21,
-   "2025": 14,
-   "variacion": -33,
+   "2024": 24,
+   "2025": 19,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "PURÉN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9208,
-   "2024": 28,
-   "2025": 44,
-   "variacion": 57,
+   "2024": 31,
+   "2025": 45,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "PURÉN"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9208,
-   "2024": 4,
+   "2024": 5,
    "2025": 3,
-   "variacion": -25,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "PURÉN"
   },
@@ -67,16 +67,16 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9208,
    "2024": 10,
-   "2025": 11,
-   "variacion": 10,
+   "2025": 12,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "PURÉN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9208,
-   "2024": 9,
-   "2025": 9,
+   "2024": 10,
+   "2025": 10,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "PURÉN"
@@ -239,6 +239,14 @@
    "COMUNA": "PURÉN"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9208,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 5,
+   "COMUNA": "PURÉN"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 9208,
    "anio": 2024,
@@ -391,6 +399,14 @@
    "COMUNA": "PURÉN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9208,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PURÉN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9208,
    "anio": 2024,
@@ -692,6 +708,14 @@
    "anio": 2025,
    "mes": 4,
    "casos": 3,
+   "COMUNA": "PURÉN"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9208,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PURÉN"
   },
   {
@@ -807,6 +831,14 @@
    "COMUNA": "PURÉN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9208,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PURÉN"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9208,
    "anio": 2025,
@@ -876,23 +908,23 @@
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 14,
+   "2024": 24,
+   "2025": 19,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 44,
+   "2024": 31,
+   "2025": 45,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "PURÉN"
   },
@@ -933,15 +965,15 @@
    "CODCOM": 9208,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 9,
-   "2025": 9,
+   "2024": 10,
+   "2025": 10,
    "COMUNA": "PURÉN"
   },
   {
@@ -972,23 +1004,23 @@
    "informacion": "Detenciones",
    "CODCOM": 9208,
    "delito": "HURTOS",
-   "2024": 7,
-   "2025": 1,
+   "2024": 8,
+   "2025": 2,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9208,
    "delito": "LESIONES",
-   "2024": 12,
-   "2025": 14,
+   "2024": 13,
+   "2025": 15,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9208,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "PURÉN"
   },
@@ -1012,23 +1044,23 @@
    "informacion": "Detenidos",
    "CODCOM": 9208,
    "delito": "HURTOS",
-   "2024": 9,
-   "2025": 1,
+   "2024": 11,
+   "2025": 2,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9208,
    "delito": "LESIONES",
-   "2024": 14,
-   "2025": 30,
+   "2024": 15,
+   "2025": 32,
    "COMUNA": "PURÉN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9208,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 5,
    "2025": 0,
    "COMUNA": "PURÉN"
   },
@@ -1050,7 +1082,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "La Araucanía"
  }
 }

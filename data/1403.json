@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 1403,
    "2024": 8,
-   "2025": 1,
-   "variacion": -88,
+   "2025": 3,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "COLCHANE"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 1403,
-   "2024": 0,
+   "2024": 1,
    "2025": 3,
-   "variacion": 300,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "COLCHANE"
   },
@@ -155,6 +155,14 @@
    "anio": 2025,
    "mes": 1,
    "casos": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "COLCHANE"
   },
   {
@@ -428,7 +436,7 @@
    "CODCOM": 1403,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "COLCHANE"
   },
   {
@@ -459,7 +467,7 @@
    "informacion": "Casos",
    "CODCOM": 1403,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 0,
+   "2024": 1,
    "2025": 3,
    "COMUNA": "COLCHANE"
   },
@@ -506,6 +514,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 1403,
+   "delito": "HURTOS",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 1403,
    "delito": "LESIONES",
    "2024": 1,
    "2025": 4,
@@ -515,6 +531,14 @@
    "informacion": "Detenciones",
    "CODCOM": 1403,
    "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "COLCHANE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 1403,
+   "delito": "HURTOS",
    "2024": 0,
    "2025": 1,
    "COMUNA": "COLCHANE"
@@ -537,7 +561,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Tarapacá"
  }
 }

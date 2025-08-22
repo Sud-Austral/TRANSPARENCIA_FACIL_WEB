@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13602,
-   "2024": 7,
-   "2025": 9,
-   "variacion": 29,
+   "2024": 8,
+   "2025": 13,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "EL MONTE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13602,
-   "2024": 18,
-   "2025": 17,
-   "variacion": -6,
-   "situación": "Disminución de Casos",
+   "2024": 19,
+   "2025": 21,
+   "variacion": 11,
+   "situación": "Aumento de Casos",
    "COMUNA": "EL MONTE"
   },
   {
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13602,
    "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2025": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "EL MONTE"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13602,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "EL MONTE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13602,
-   "2024": 5,
+   "2024": 7,
    "2025": 1,
-   "variacion": -80,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "EL MONTE"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13602,
-   "2024": 12,
-   "2025": 10,
-   "variacion": -17,
+   "2024": 14,
+   "2025": 12,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "EL MONTE"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13602,
    "2024": 9,
-   "2025": 5,
-   "variacion": -44,
+   "2025": 7,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "EL MONTE"
   },
@@ -272,6 +272,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13602,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
    "COMUNA": "EL MONTE"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13602,
    "anio": 2024,
@@ -724,6 +748,14 @@
    "CODCOM": 13602,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "EL MONTE"
   },
@@ -880,6 +912,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13602,
    "anio": 2024,
@@ -1032,6 +1072,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13602,
    "anio": 2024,
@@ -1180,6 +1228,14 @@
    "CODCOM": 13602,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "EL MONTE"
   },
@@ -1332,6 +1388,14 @@
    "CODCOM": 13602,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "EL MONTE"
   },
@@ -1484,6 +1548,14 @@
    "CODCOM": 13602,
    "anio": 2025,
    "mes": 7,
+   "casos": 2,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 2,
    "COMUNA": "EL MONTE"
   },
@@ -1640,6 +1712,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13602,
    "anio": 2024,
@@ -1792,6 +1872,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13602,
    "anio": 2024,
@@ -1944,6 +2032,14 @@
    "COMUNA": "EL MONTE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13602,
    "anio": 2024,
@@ -2092,6 +2188,14 @@
    "CODCOM": 13602,
    "anio": 2025,
    "mes": 7,
+   "casos": 0,
+   "COMUNA": "EL MONTE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 0,
    "COMUNA": "EL MONTE"
   }
@@ -2109,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13602,
    "delito": "HURTOS",
-   "2024": 7,
-   "2025": 9,
+   "2024": 8,
+   "2025": 13,
    "COMUNA": "EL MONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13602,
    "delito": "LESIONES",
-   "2024": 18,
-   "2025": 17,
+   "2024": 19,
+   "2025": 21,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2134,7 +2238,7 @@
    "CODCOM": 13602,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2142,14 +2246,14 @@
    "CODCOM": 13602,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "EL MONTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13602,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 5,
+   "2024": 7,
    "2025": 1,
    "COMUNA": "EL MONTE"
   },
@@ -2165,8 +2269,8 @@
    "informacion": "Casos",
    "CODCOM": 13602,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
-   "2025": 10,
+   "2024": 14,
+   "2025": 12,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2174,7 +2278,7 @@
    "CODCOM": 13602,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2222,7 +2326,7 @@
    "CODCOM": 13602,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2246,7 +2350,7 @@
    "CODCOM": 13602,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 13602,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 13602,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "EL MONTE"
   },
   {
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

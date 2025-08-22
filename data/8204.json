@@ -3,25 +3,25 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8204,
-   "2024": 15,
-   "2025": 6,
-   "variacion": -60,
+   "2024": 16,
+   "2025": 9,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "CONTULMO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8204,
-   "2024": 12,
+   "2024": 14,
    "2025": 10,
-   "variacion": -17,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "CONTULMO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8204,
-   "2024": 4,
+   "2024": 5,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8204,
-   "2024": 3,
+   "2024": 4,
    "2025": 9,
-   "variacion": 200,
+   "variacion": 125,
    "situación": "Aumento de Casos",
    "COMUNA": "CONTULMO"
   },
@@ -76,8 +76,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 8204,
    "2024": 0,
-   "2025": 2,
-   "variacion": 200,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "CONTULMO"
   }
@@ -225,6 +225,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "CONTULMO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
    "COMUNA": "CONTULMO"
   },
   {
@@ -562,6 +570,14 @@
    "mes": 4,
    "casos": 1,
    "COMUNA": "CONTULMO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8204,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CONTULMO"
   }
  ],
  "info": [
@@ -569,15 +585,15 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "HURTOS",
-   "2024": 15,
-   "2025": 6,
+   "2024": 16,
+   "2025": 9,
    "COMUNA": "CONTULMO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "LESIONES",
-   "2024": 12,
+   "2024": 14,
    "2025": 10,
    "COMUNA": "CONTULMO"
   },
@@ -585,7 +601,7 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 4,
+   "2024": 5,
    "2025": 0,
    "COMUNA": "CONTULMO"
   },
@@ -609,7 +625,7 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 9,
    "COMUNA": "CONTULMO"
   },
@@ -634,22 +650,22 @@
    "CODCOM": 8204,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CONTULMO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8204,
    "delito": "HURTOS",
-   "2024": 1,
-   "2025": 0,
+   "2024": 2,
+   "2025": 1,
    "COMUNA": "CONTULMO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8204,
    "delito": "LESIONES",
-   "2024": 4,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "CONTULMO"
   },
@@ -665,15 +681,15 @@
    "informacion": "Detenidos",
    "CODCOM": 8204,
    "delito": "HURTOS",
-   "2024": 1,
-   "2025": 0,
+   "2024": 2,
+   "2025": 2,
    "COMUNA": "CONTULMO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8204,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "CONTULMO"
   },
@@ -687,7 +703,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Biobío"
  }
 }

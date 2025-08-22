@@ -3,26 +3,26 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13106,
-   "2024": 7,
-   "2025": 11,
-   "variacion": 57,
+   "2024": 8,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13106,
-   "2024": 1336,
-   "2025": 1401,
-   "variacion": 5,
+   "2024": 1440,
+   "2025": 1494,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13106,
-   "2024": 442,
-   "2025": 433,
+   "2024": 472,
+   "2025": 464,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "ESTACION CENTRAL"
@@ -31,25 +31,25 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13106,
    "2024": 22,
-   "2025": 62,
-   "variacion": 182,
+   "2025": 64,
+   "variacion": 191,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13106,
-   "2024": 696,
-   "2025": 566,
-   "variacion": -19,
+   "2024": 728,
+   "2025": 600,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13106,
-   "2024": 336,
-   "2025": 265,
+   "2024": 348,
+   "2025": 276,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "ESTACION CENTRAL"
@@ -57,53 +57,53 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13106,
-   "2024": 245,
-   "2025": 253,
-   "variacion": 3,
+   "2024": 265,
+   "2025": 275,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13106,
-   "2024": 174,
-   "2025": 181,
-   "variacion": 4,
+   "2024": 183,
+   "2025": 203,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13106,
-   "2024": 89,
-   "2025": 110,
-   "variacion": 24,
+   "2024": 95,
+   "2025": 117,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13106,
-   "2024": 79,
-   "2025": 138,
-   "variacion": 75,
+   "2024": 87,
+   "2025": 153,
+   "variacion": 76,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13106,
-   "2024": 1041,
-   "2025": 1051,
-   "variacion": 1,
+   "2024": 1100,
+   "2025": 1129,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13106,
-   "2024": 93,
-   "2025": 52,
+   "2024": 104,
+   "2025": 58,
    "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "ESTACION CENTRAL"
@@ -111,8 +111,8 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13106,
-   "2024": 6,
-   "2025": 9,
+   "2024": 8,
+   "2025": 12,
    "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "ESTACION CENTRAL"
@@ -272,6 +272,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13106,
    "anio": 2024,
@@ -421,6 +429,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 190,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 93,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -576,6 +592,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 31,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13106,
    "anio": 2024,
@@ -725,6 +749,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 11,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -880,6 +912,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 34,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13106,
    "anio": 2024,
@@ -1029,6 +1069,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 29,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 11,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -1184,6 +1232,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13106,
    "anio": 2024,
@@ -1333,6 +1389,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 32,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 22,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -1488,6 +1552,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 7,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13106,
    "anio": 2024,
@@ -1637,6 +1709,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 21,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 15,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -1792,6 +1872,14 @@
    "COMUNA": "ESTACION CENTRAL"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 78,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13106,
    "anio": 2024,
@@ -1941,6 +2029,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 10,
+   "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 6,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2094,6 +2190,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "ESTACION CENTRAL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "ESTACION CENTRAL"
   }
  ],
  "info": [
@@ -2101,24 +2205,24 @@
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "HOMICIDIOS",
-   "2024": 7,
-   "2025": 11,
+   "2024": 8,
+   "2025": 12,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "HURTOS",
-   "2024": 1336,
-   "2025": 1401,
+   "2024": 1440,
+   "2025": 1494,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "LESIONES",
-   "2024": 442,
-   "2025": 433,
+   "2024": 472,
+   "2025": 464,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2126,79 +2230,79 @@
    "CODCOM": 13106,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 22,
-   "2025": 62,
+   "2025": 64,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 696,
-   "2025": 566,
+   "2024": 728,
+   "2025": 600,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 336,
-   "2025": 265,
+   "2024": 348,
+   "2025": 276,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 245,
-   "2025": 253,
+   "2024": 265,
+   "2025": 275,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 174,
-   "2025": 181,
+   "2024": 183,
+   "2025": 203,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 89,
-   "2025": 110,
+   "2024": 95,
+   "2025": 117,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 79,
-   "2025": 138,
+   "2024": 87,
+   "2025": 153,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 1041,
-   "2025": 1051,
+   "2024": 1100,
+   "2025": 1129,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 93,
-   "2025": 52,
+   "2024": 104,
+   "2025": 58,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13106,
    "delito": "VIOLACIONES",
-   "2024": 6,
-   "2025": 9,
+   "2024": 8,
+   "2025": 12,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2213,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "HURTOS",
-   "2024": 177,
-   "2025": 147,
+   "2024": 195,
+   "2025": 155,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "LESIONES",
-   "2024": 123,
-   "2025": 102,
+   "2024": 132,
+   "2025": 111,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2237,16 +2341,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 33,
-   "2025": 25,
+   "2024": 34,
+   "2025": 26,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 23,
-   "2025": 17,
+   "2024": 24,
+   "2025": 18,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2269,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "ESTACION CENTRAL"
   },
@@ -2278,22 +2382,22 @@
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 18,
+   "2025": 21,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 88,
-   "2025": 69,
+   "2024": 91,
+   "2025": 75,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13106,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "ESTACION CENTRAL"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "HURTOS",
-   "2024": 190,
-   "2025": 163,
+   "2024": 208,
+   "2025": 172,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "LESIONES",
-   "2024": 222,
-   "2025": 165,
+   "2024": 237,
+   "2025": 180,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2341,16 +2445,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 39,
-   "2025": 38,
+   "2024": 40,
+   "2025": 40,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 44,
-   "2025": 23,
+   "2024": 47,
+   "2025": 25,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
@@ -2373,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "ESTACION CENTRAL"
   },
@@ -2382,22 +2486,22 @@
    "CODCOM": 13106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 27,
+   "2025": 32,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 128,
-   "2025": 110,
+   "2024": 135,
+   "2025": 119,
    "COMUNA": "ESTACION CENTRAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13106,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "ESTACION CENTRAL"
   },
@@ -2411,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 32/2025 (del 04/08/2025 al 10/08/2025)",
+  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
   "region": "Metropolitana"
  }
 }

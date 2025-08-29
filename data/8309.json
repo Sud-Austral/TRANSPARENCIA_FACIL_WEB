@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8309,
    "2024": 12,
-   "2025": 6,
-   "variacion": -50,
+   "2025": 7,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLECO"
   },
@@ -654,6 +654,14 @@
    "COMUNA": "QUILLECO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUILLECO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8309,
    "anio": 2025,
@@ -740,7 +748,7 @@
    "CODCOM": 8309,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "QUILLECO"
   },
   {
@@ -817,7 +825,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Biobío"
  }
 }

@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 7302,
    "2024": 17,
-   "2025": 33,
-   "variacion": 94,
+   "2025": 34,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7302,
    "2024": 15,
-   "2025": 23,
-   "variacion": 53,
+   "2025": 26,
+   "variacion": 73,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7302,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7302,
-   "2024": 9,
-   "2025": 14,
-   "variacion": 56,
+   "2024": 11,
+   "2025": 15,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7302,
    "2024": 17,
-   "2025": 20,
-   "variacion": 18,
+   "2025": 22,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -241,7 +241,7 @@
    "CODCOM": 7302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -381,6 +381,14 @@
    "COMUNA": "HUALAÑÉ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 3,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7302,
    "anio": 2025,
@@ -457,6 +465,14 @@
    "CODCOM": 7302,
    "anio": 2025,
    "mes": 1,
+   "casos": 1,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "HUALAÑÉ"
   },
@@ -586,6 +602,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -721,7 +745,7 @@
    "CODCOM": 7302,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -755,7 +779,7 @@
    "CODCOM": 7302,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 33,
+   "2025": 34,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -763,7 +787,7 @@
    "CODCOM": 7302,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 23,
+   "2025": 26,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -787,7 +811,7 @@
    "CODCOM": 7302,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -802,8 +826,8 @@
    "informacion": "Casos",
    "CODCOM": 7302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
-   "2025": 14,
+   "2024": 11,
+   "2025": 15,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -811,7 +835,7 @@
    "CODCOM": 7302,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 17,
-   "2025": 20,
+   "2025": 22,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -835,7 +859,7 @@
    "CODCOM": 7302,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -843,7 +867,7 @@
    "CODCOM": 7302,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -883,7 +907,7 @@
    "CODCOM": 7302,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 6,
+   "2025": 9,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -891,7 +915,7 @@
    "CODCOM": 7302,
    "delito": "LESIONES",
    "2024": 12,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -928,7 +952,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

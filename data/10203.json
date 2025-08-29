@@ -12,28 +12,28 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10203,
-   "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2024": 22,
+   "2025": 18,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "CHONCHI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10203,
-   "2024": 38,
+   "2024": 40,
    "2025": 35,
-   "variacion": -8,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "CHONCHI"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10203,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHONCHI"
   },
   {
@@ -267,7 +267,7 @@
    "CODCOM": 10203,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CHONCHI"
   },
   {
@@ -828,15 +828,15 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 17,
+   "2024": 22,
+   "2025": 18,
    "COMUNA": "CHONCHI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "LESIONES",
-   "2024": 38,
+   "2024": 40,
    "2025": 35,
    "COMUNA": "CHONCHI"
   },
@@ -844,7 +844,7 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "CHONCHI"
   },
@@ -925,14 +925,14 @@
    "CODCOM": 10203,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CHONCHI"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10203,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 12,
    "COMUNA": "CHONCHI"
   },
@@ -981,14 +981,14 @@
    "CODCOM": 10203,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CHONCHI"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10203,
    "delito": "LESIONES",
-   "2024": 20,
+   "2024": 21,
    "2025": 19,
    "COMUNA": "CHONCHI"
   },
@@ -1026,7 +1026,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

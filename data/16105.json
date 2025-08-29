@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16105,
-   "2024": 8,
-   "2025": 12,
-   "variacion": 50,
+   "2024": 9,
+   "2025": 13,
+   "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "PEMUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16105,
-   "2024": 19,
-   "2025": 12,
-   "variacion": -37,
+   "2024": 20,
+   "2025": 14,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "PEMUCO"
   },
@@ -75,10 +75,10 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16105,
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PEMUCO"
   },
   {
@@ -218,7 +218,7 @@
    "CODCOM": 16105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PEMUCO"
   },
   {
@@ -339,6 +339,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 3,
+   "COMUNA": "PEMUCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16105,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "PEMUCO"
   },
   {
@@ -771,16 +779,16 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "HURTOS",
-   "2024": 8,
-   "2025": 12,
+   "2024": 9,
+   "2025": 13,
    "COMUNA": "PEMUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 12,
+   "2024": 20,
+   "2025": 14,
    "COMUNA": "PEMUCO"
   },
   {
@@ -827,7 +835,7 @@
    "informacion": "Casos",
    "CODCOM": 16105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "PEMUCO"
   },
@@ -897,7 +905,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 12401,
-   "2024": 80,
-   "2025": 54,
-   "variacion": -32,
+   "2024": 82,
+   "2025": 57,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 12401,
    "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2025": 4,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "NATALES"
   },
@@ -596,7 +596,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "NATALES"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "NATALES"
   },
   {
@@ -2221,8 +2221,8 @@
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 80,
-   "2025": 54,
+   "2024": 82,
+   "2025": 57,
    "COMUNA": "NATALES"
   },
   {
@@ -2270,7 +2270,7 @@
    "CODCOM": 12401,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "NATALES"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 12401,
    "delito": "LESIONES",
    "2024": 42,
-   "2025": 23,
+   "2025": 25,
    "COMUNA": "NATALES"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 12401,
    "delito": "LESIONES",
    "2024": 65,
-   "2025": 43,
+   "2025": 45,
    "COMUNA": "NATALES"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Magallanes"
  }
 }

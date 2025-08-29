@@ -12,28 +12,28 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9108,
-   "2024": 104,
-   "2025": 96,
-   "variacion": -8,
+   "2024": 107,
+   "2025": 99,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9108,
-   "2024": 108,
+   "2024": 110,
    "2025": 80,
-   "variacion": -26,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9108,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9108,
-   "2024": 51,
+   "2024": 52,
    "2025": 48,
-   "variacion": -6,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9108,
-   "2024": 69,
-   "2025": 39,
-   "variacion": -43,
+   "2024": 72,
+   "2025": 43,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "LAUTARO"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "LAUTARO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2213,15 +2213,15 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 104,
-   "2025": 96,
+   "2024": 107,
+   "2025": 99,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "LESIONES",
-   "2024": 108,
+   "2024": 110,
    "2025": 80,
    "COMUNA": "LAUTARO"
   },
@@ -2229,7 +2229,7 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "LAUTARO"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 51,
+   "2024": 52,
    "2025": 48,
    "COMUNA": "LAUTARO"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 69,
-   "2025": 39,
+   "2024": 72,
+   "2025": 43,
    "COMUNA": "LAUTARO"
   },
   {
@@ -2317,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 10,
+   "2024": 22,
+   "2025": 11,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9108,
    "delito": "LESIONES",
-   "2024": 39,
+   "2024": 40,
    "2025": 35,
    "COMUNA": "LAUTARO"
   },
@@ -2421,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2024": 25,
-   "2025": 12,
+   "2024": 26,
+   "2025": 13,
    "COMUNA": "LAUTARO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9108,
    "delito": "LESIONES",
-   "2024": 65,
+   "2024": 66,
    "2025": 60,
    "COMUNA": "LAUTARO"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

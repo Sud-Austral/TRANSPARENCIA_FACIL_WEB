@@ -58,17 +58,17 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6304,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "LOLOL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6304,
-   "2024": 9,
-   "2025": 8,
-   "variacion": -11,
+   "2024": 10,
+   "2025": 9,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "LOLOL"
   },
@@ -373,6 +373,14 @@
    "COMUNA": "LOLOL"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOLOL"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6304,
    "anio": 2024,
@@ -474,6 +482,14 @@
    "anio": 2025,
    "mes": 6,
    "casos": 2,
+   "COMUNA": "LOLOL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LOLOL"
   },
   {
@@ -667,15 +683,15 @@
    "CODCOM": 6304,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LOLOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
-   "2025": 8,
+   "2024": 10,
+   "2025": 9,
    "COMUNA": "LOLOL"
   },
   {
@@ -744,7 +760,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "O'Higgins"
  }
 }

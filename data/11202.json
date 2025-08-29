@@ -12,10 +12,10 @@
   {
    "delito": "LESIONES",
    "CODCOM": 11202,
-   "2024": 20,
-   "2025": 20,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 22,
+   "2025": 21,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "CISNES"
   },
   {
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11202,
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
-   "variacion": 300,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "CISNES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11202,
-   "2024": 8,
-   "2025": 9,
-   "variacion": 12,
+   "2024": 9,
+   "2025": 11,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "CISNES"
   },
@@ -310,7 +310,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CISNES"
   },
   {
@@ -494,7 +494,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "CISNES"
   },
   {
@@ -527,8 +527,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "LESIONES",
-   "2024": 20,
-   "2025": 20,
+   "2024": 22,
+   "2025": 21,
    "COMUNA": "CISNES"
   },
   {
@@ -551,7 +551,7 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
    "COMUNA": "CISNES"
   },
@@ -559,8 +559,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
-   "2025": 9,
+   "2024": 9,
+   "2025": 11,
    "COMUNA": "CISNES"
   },
   {
@@ -583,8 +583,8 @@
    "informacion": "Detenciones",
    "CODCOM": 11202,
    "delito": "LESIONES",
-   "2024": 11,
-   "2025": 8,
+   "2024": 12,
+   "2025": 9,
    "COMUNA": "CISNES"
   },
   {
@@ -607,8 +607,8 @@
    "informacion": "Detenidos",
    "CODCOM": 11202,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 12,
+   "2024": 25,
+   "2025": 14,
    "COMUNA": "CISNES"
   },
   {
@@ -621,7 +621,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Aysén"
  }
 }

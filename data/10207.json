@@ -39,9 +39,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10207,
-   "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2024": 4,
+   "2025": 1,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "QUEILÉN"
   },
@@ -353,6 +353,14 @@
    "COMUNA": "QUEILÉN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUEILÉN"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 10207,
    "anio": 2024,
@@ -398,8 +406,8 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
-   "2025": 0,
+   "2024": 4,
+   "2025": 1,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -460,7 +468,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

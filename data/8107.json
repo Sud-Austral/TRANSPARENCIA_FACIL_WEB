@@ -3,7 +3,7 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 8107,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8107,
-   "2024": 83,
-   "2025": 59,
-   "variacion": -29,
+   "2024": 86,
+   "2025": 63,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8107,
-   "2024": 107,
+   "2024": 112,
    "2025": 128,
-   "variacion": 20,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "PENCO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8107,
-   "2024": 2,
-   "2025": 3,
-   "variacion": 50,
+   "2024": 3,
+   "2025": 4,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "PENCO"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8107,
    "2024": 25,
-   "2025": 19,
-   "variacion": -24,
+   "2025": 21,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8107,
    "2024": 19,
-   "2025": 9,
-   "variacion": -53,
+   "2025": 10,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8107,
    "2024": 46,
-   "2025": 38,
-   "variacion": -17,
+   "2025": 39,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8107,
-   "2024": 62,
-   "2025": 52,
+   "2024": 64,
+   "2025": 54,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8107,
-   "2024": 61,
-   "2025": 68,
-   "variacion": 11,
+   "2024": 62,
+   "2025": 73,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "PENCO"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8107,
    "2024": 3,
-   "2025": 1,
-   "variacion": -67,
+   "2025": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCO"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 8107,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "PENCO"
   }
  ],
@@ -436,7 +436,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "PENCO"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PENCO"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "PENCO"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PENCO"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PENCO"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "PENCO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 11,
    "COMUNA": "PENCO"
   },
   {
@@ -2036,7 +2036,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PENCO"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 8107,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PENCO"
   }
  ],
@@ -2205,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "HOMICIDIOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "PENCO"
   },
@@ -2213,15 +2213,15 @@
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "HURTOS",
-   "2024": 83,
-   "2025": 59,
+   "2024": 86,
+   "2025": 63,
    "COMUNA": "PENCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "LESIONES",
-   "2024": 107,
+   "2024": 112,
    "2025": 128,
    "COMUNA": "PENCO"
   },
@@ -2229,8 +2229,8 @@
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
-   "2025": 3,
+   "2024": 3,
+   "2025": 4,
    "COMUNA": "PENCO"
   },
   {
@@ -2238,7 +2238,7 @@
    "CODCOM": 8107,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 25,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "PENCO"
   },
   {
@@ -2246,7 +2246,7 @@
    "CODCOM": 8107,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 19,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "PENCO"
   },
   {
@@ -2254,7 +2254,7 @@
    "CODCOM": 8107,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 46,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "PENCO"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 62,
-   "2025": 52,
+   "2024": 64,
+   "2025": 54,
    "COMUNA": "PENCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 61,
-   "2025": 68,
+   "2024": 62,
+   "2025": 73,
    "COMUNA": "PENCO"
   },
   {
@@ -2294,7 +2294,7 @@
    "CODCOM": 8107,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PENCO"
   },
   {
@@ -2302,7 +2302,7 @@
    "CODCOM": 8107,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PENCO"
   },
   {
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8107,
    "delito": "LESIONES",
-   "2024": 19,
+   "2024": 20,
    "2025": 35,
    "COMUNA": "PENCO"
   },
@@ -2382,7 +2382,7 @@
    "CODCOM": 8107,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 5,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PENCO"
   },
   {
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8107,
    "delito": "LESIONES",
-   "2024": 30,
+   "2024": 32,
    "2025": 61,
    "COMUNA": "PENCO"
   },
@@ -2486,7 +2486,7 @@
    "CODCOM": 8107,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "PENCO"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Biobío"
  }
 }

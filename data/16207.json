@@ -48,9 +48,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16207,
-   "2024": 9,
-   "2025": 5,
-   "variacion": -44,
+   "2024": 10,
+   "2025": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "TREGUACO"
   },
@@ -571,6 +571,14 @@
    "COMUNA": "TREGUACO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TREGUACO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16207,
    "anio": 2025,
@@ -640,8 +648,8 @@
    "informacion": "Casos",
    "CODCOM": 16207,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 9,
-   "2025": 5,
+   "2024": 10,
+   "2025": 6,
    "COMUNA": "TREGUACO"
   },
   {
@@ -726,7 +734,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

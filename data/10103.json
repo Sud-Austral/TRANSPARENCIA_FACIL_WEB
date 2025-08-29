@@ -12,10 +12,19 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10103,
-   "2024": 11,
+   "2024": 14,
    "2025": 12,
-   "variacion": 9,
-   "situación": "Aumento de Casos",
+   "variacion": -14,
+   "situación": "Disminución de Casos",
+   "COMUNA": "COCHAMÓ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10103,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "COCHAMÓ"
   },
   {
@@ -31,8 +40,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10103,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "COCHAMÓ"
   }
@@ -309,6 +318,14 @@
    "mes": 6,
    "casos": 1,
    "COMUNA": "COCHAMÓ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COCHAMÓ"
   }
  ],
  "info": [
@@ -324,8 +341,16 @@
    "informacion": "Casos",
    "CODCOM": 10103,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 14,
    "2025": 12,
+   "COMUNA": "COCHAMÓ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10103,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "COCHAMÓ"
   },
   {
@@ -341,14 +366,14 @@
    "CODCOM": 10103,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "COCHAMÓ"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10103,
    "delito": "LESIONES",
-   "2024": 3,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "COCHAMÓ"
   },
@@ -356,13 +381,13 @@
    "informacion": "Detenidos",
    "CODCOM": 10103,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "COCHAMÓ"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

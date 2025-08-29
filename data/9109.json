@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9109,
-   "2024": 83,
-   "2025": 75,
-   "variacion": -10,
+   "2024": 88,
+   "2025": 78,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9109,
-   "2024": 64,
-   "2025": 66,
-   "variacion": 3,
+   "2024": 67,
+   "2025": 70,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9109,
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
-   "variacion": -40,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
@@ -67,27 +67,27 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9109,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9109,
-   "2024": 35,
-   "2025": 19,
-   "variacion": -46,
+   "2024": 36,
+   "2025": 20,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9109,
-   "2024": 27,
-   "2025": 27,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 29,
+   "2025": 28,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 83,
-   "2025": 75,
+   "2024": 88,
+   "2025": 78,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 64,
-   "2025": 66,
+   "2024": 67,
+   "2025": 70,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "LONCOCHE"
   },
@@ -2262,23 +2262,23 @@
    "CODCOM": 9109,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 35,
-   "2025": 19,
+   "2024": 36,
+   "2025": 20,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 27,
-   "2025": 27,
+   "2024": 29,
+   "2025": 28,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 14,
+   "2024": 15,
    "2025": 19,
    "COMUNA": "LONCOCHE"
   },
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 32,
+   "2024": 33,
    "2025": 17,
    "COMUNA": "LONCOCHE"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 20,
+   "2024": 22,
    "2025": 21,
    "COMUNA": "LONCOCHE"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 56,
+   "2024": 58,
    "2025": 29,
    "COMUNA": "LONCOCHE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

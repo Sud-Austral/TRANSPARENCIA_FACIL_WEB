@@ -4,16 +4,16 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 10102,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 10102,
-   "2024": 93,
-   "2025": 87,
+   "2024": 98,
+   "2025": 92,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 10102,
    "2024": 112,
-   "2025": 99,
-   "variacion": -12,
+   "2025": 101,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
   },
@@ -31,26 +31,26 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10102,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10102,
    "2024": 2,
-   "2025": 7,
-   "variacion": 250,
+   "2025": 8,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10102,
-   "2024": 9,
+   "2024": 10,
    "2025": 2,
-   "variacion": -78,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10102,
-   "2024": 18,
-   "2025": 27,
-   "variacion": 50,
+   "2024": 21,
+   "2025": 29,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10102,
-   "2024": 70,
-   "2025": 31,
-   "variacion": -56,
+   "2024": 72,
+   "2025": 34,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
   },
@@ -276,7 +276,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 10,
    "COMUNA": "CALBUCO"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "CALBUCO"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "CALBUCO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2206,15 +2206,15 @@
    "CODCOM": 10102,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "CALBUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "HURTOS",
-   "2024": 93,
-   "2025": 87,
+   "2024": 98,
+   "2025": 92,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2222,7 +2222,7 @@
    "CODCOM": 10102,
    "delito": "LESIONES",
    "2024": 112,
-   "2025": 99,
+   "2025": 101,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2230,7 +2230,7 @@
    "CODCOM": 10102,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2238,14 +2238,14 @@
    "CODCOM": 10102,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 2,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CALBUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 9,
+   "2024": 10,
    "2025": 2,
    "COMUNA": "CALBUCO"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 18,
-   "2025": 27,
+   "2024": 21,
+   "2025": 29,
    "COMUNA": "CALBUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 70,
-   "2025": 31,
+   "2024": 72,
+   "2025": 34,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2310,7 +2310,7 @@
    "CODCOM": 10102,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2318,7 +2318,7 @@
    "CODCOM": 10102,
    "delito": "HURTOS",
    "2024": 12,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 10102,
    "delito": "LESIONES",
    "2024": 39,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2414,7 +2414,7 @@
    "CODCOM": 10102,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2422,7 +2422,7 @@
    "CODCOM": 10102,
    "delito": "HURTOS",
    "2024": 18,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 10102,
    "delito": "LESIONES",
    "2024": 54,
-   "2025": 67,
+   "2025": 69,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 6203,
    "2024": 8,
-   "2025": 10,
-   "variacion": 25,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "LITUECHE"
   },
@@ -176,6 +176,14 @@
    "anio": 2025,
    "mes": 5,
    "casos": 1,
+   "COMUNA": "LITUECHE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "LITUECHE"
   },
   {
@@ -721,7 +729,7 @@
    "CODCOM": 6203,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "LITUECHE"
   },
   {
@@ -878,7 +886,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "O'Higgins"
  }
 }

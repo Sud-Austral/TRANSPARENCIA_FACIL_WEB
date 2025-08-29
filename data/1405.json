@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1405,
-   "2024": 25,
+   "2024": 26,
    "2025": 17,
-   "variacion": -32,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "PICA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 1405,
-   "2024": 29,
+   "2024": 31,
    "2025": 21,
-   "variacion": -28,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "PICA"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1405,
-   "2024": 5,
+   "2024": 8,
    "2025": 9,
-   "variacion": 80,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PICA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1405,
-   "2024": 6,
-   "2025": 8,
-   "variacion": 33,
+   "2024": 7,
+   "2025": 9,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "PICA"
   },
@@ -745,7 +745,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PICA"
   },
   {
@@ -786,7 +786,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "HURTOS",
-   "2024": 25,
+   "2024": 26,
    "2025": 17,
    "COMUNA": "PICA"
   },
@@ -794,7 +794,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "LESIONES",
-   "2024": 29,
+   "2024": 31,
    "2025": 21,
    "COMUNA": "PICA"
   },
@@ -834,7 +834,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "PICA"
   },
@@ -842,8 +842,8 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
-   "2025": 8,
+   "2024": 7,
+   "2025": 9,
    "COMUNA": "PICA"
   },
   {
@@ -874,7 +874,7 @@
    "informacion": "Detenciones",
    "CODCOM": 1405,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "PICA"
   },
@@ -890,13 +890,13 @@
    "informacion": "Detenidos",
    "CODCOM": 1405,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 10,
    "2025": 8,
    "COMUNA": "PICA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Tarapacá"
  }
 }

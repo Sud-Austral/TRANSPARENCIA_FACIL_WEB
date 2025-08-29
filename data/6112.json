@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6112,
-   "2024": 28,
+   "2024": 30,
    "2025": 35,
-   "variacion": 25,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "PEUMO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6112,
-   "2024": 45,
+   "2024": 46,
    "2025": 31,
-   "variacion": -31,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "PEUMO"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6112,
-   "2024": 40,
+   "2024": 43,
    "2025": 22,
-   "variacion": -45,
+   "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "PEUMO"
   },
@@ -980,7 +980,7 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "HURTOS",
-   "2024": 28,
+   "2024": 30,
    "2025": 35,
    "COMUNA": "PEUMO"
   },
@@ -988,7 +988,7 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "LESIONES",
-   "2024": 45,
+   "2024": 46,
    "2025": 31,
    "COMUNA": "PEUMO"
   },
@@ -1044,7 +1044,7 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
+   "2024": 43,
    "2025": 22,
    "COMUNA": "PEUMO"
   },
@@ -1076,7 +1076,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6112,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "PEUMO"
   },
@@ -1116,7 +1116,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "PEUMO"
   },
@@ -1140,7 +1140,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6112,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 8,
    "COMUNA": "PEUMO"
   },
@@ -1180,7 +1180,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6112,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 8,
    "2025": 10,
    "COMUNA": "PEUMO"
   },
@@ -1194,7 +1194,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "O'Higgins"
  }
 }

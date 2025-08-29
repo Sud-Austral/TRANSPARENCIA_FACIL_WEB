@@ -3,17 +3,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16302,
-   "2024": 59,
+   "2024": 60,
    "2025": 49,
-   "variacion": -17,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "COIHUECO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16302,
-   "2024": 53,
-   "2025": 47,
+   "2024": 55,
+   "2025": 49,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "COIHUECO"
@@ -21,10 +21,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16302,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COIHUECO"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16302,
-   "2024": 43,
-   "2025": 35,
-   "variacion": -19,
+   "2024": 44,
+   "2025": 36,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "COIHUECO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16302,
-   "2024": 25,
-   "2025": 43,
-   "variacion": 72,
+   "2024": 27,
+   "2025": 44,
+   "variacion": 63,
    "situación": "Aumento de Casos",
    "COMUNA": "COIHUECO"
   },
@@ -418,7 +418,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "COIHUECO"
   },
   {
@@ -874,7 +874,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "COIHUECO"
   },
   {
@@ -1018,7 +1018,7 @@
    "CODCOM": 16302,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "COIHUECO"
   },
   {
@@ -1091,7 +1091,7 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "HURTOS",
-   "2024": 59,
+   "2024": 60,
    "2025": 49,
    "COMUNA": "COIHUECO"
   },
@@ -1099,15 +1099,15 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "LESIONES",
-   "2024": 53,
-   "2025": 47,
+   "2024": 55,
+   "2025": 49,
    "COMUNA": "COIHUECO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "COIHUECO"
   },
@@ -1139,16 +1139,16 @@
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 43,
-   "2025": 35,
+   "2024": 44,
+   "2025": 36,
    "COMUNA": "COIHUECO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 25,
-   "2025": 43,
+   "2024": 27,
+   "2025": 44,
    "COMUNA": "COIHUECO"
   },
   {
@@ -1187,7 +1187,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16302,
    "delito": "LESIONES",
-   "2024": 22,
+   "2024": 23,
    "2025": 13,
    "COMUNA": "COIHUECO"
   },
@@ -1235,7 +1235,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16302,
    "delito": "LESIONES",
-   "2024": 29,
+   "2024": 31,
    "2025": 27,
    "COMUNA": "COIHUECO"
   },
@@ -1273,7 +1273,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3304,
-   "2024": 7,
+   "2024": 8,
    "2025": 31,
-   "variacion": 343,
+   "variacion": 288,
    "situación": "Aumento de Casos",
    "COMUNA": "HUASCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3304,
-   "2024": 57,
+   "2024": 58,
    "2025": 36,
-   "variacion": -37,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3304,
-   "2024": 0,
-   "2025": 1,
+   "2024": 1,
+   "2025": 2,
    "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "HUASCO"
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3304,
    "2024": 25,
-   "2025": 10,
-   "variacion": -60,
+   "2025": 13,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3304,
-   "2024": 22,
+   "2024": 23,
    "2025": 14,
-   "variacion": -36,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "HUASCO"
   },
@@ -470,6 +470,14 @@
    "COMUNA": "HUASCO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "HUASCO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3304,
    "anio": 2024,
@@ -746,7 +754,7 @@
    "CODCOM": 3304,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "HUASCO"
   },
   {
@@ -939,7 +947,7 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 31,
    "COMUNA": "HUASCO"
   },
@@ -947,7 +955,7 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "LESIONES",
-   "2024": 57,
+   "2024": 58,
    "2025": 36,
    "COMUNA": "HUASCO"
   },
@@ -963,8 +971,8 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 0,
-   "2025": 1,
+   "2024": 1,
+   "2025": 2,
    "COMUNA": "HUASCO"
   },
   {
@@ -996,14 +1004,14 @@
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 25,
-   "2025": 10,
+   "2025": 13,
    "COMUNA": "HUASCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 22,
+   "2024": 23,
    "2025": 14,
    "COMUNA": "HUASCO"
   },
@@ -1153,7 +1161,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Atacama"
  }
 }

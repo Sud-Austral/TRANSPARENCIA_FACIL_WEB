@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 11201,
    "2024": 77,
-   "2025": 67,
-   "variacion": -13,
+   "2025": 69,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "AYSEN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11201,
-   "2024": 85,
-   "2025": 87,
+   "2024": 88,
+   "2025": 90,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "AYSEN"
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11201,
-   "2024": 15,
-   "2025": 11,
-   "variacion": -27,
+   "2024": 18,
+   "2025": 12,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "AYSEN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11201,
-   "2024": 35,
-   "2025": 26,
-   "variacion": -26,
+   "2024": 36,
+   "2025": 28,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "AYSEN"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "AYSEN"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "AYSEN"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "AYSEN"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "AYSEN"
   },
   {
@@ -2214,15 +2214,15 @@
    "CODCOM": 11201,
    "delito": "HURTOS",
    "2024": 77,
-   "2025": 67,
+   "2025": 69,
    "COMUNA": "AYSEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "LESIONES",
-   "2024": 85,
-   "2025": 87,
+   "2024": 88,
+   "2025": 90,
    "COMUNA": "AYSEN"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 15,
-   "2025": 11,
+   "2024": 18,
+   "2025": 12,
    "COMUNA": "AYSEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 35,
-   "2025": 26,
+   "2024": 36,
+   "2025": 28,
    "COMUNA": "AYSEN"
   },
   {
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 11201,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 44,
+   "2024": 29,
+   "2025": 45,
    "COMUNA": "AYSEN"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 11201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "AYSEN"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 11201,
    "delito": "LESIONES",
-   "2024": 49,
-   "2025": 72,
+   "2024": 50,
+   "2025": 73,
    "COMUNA": "AYSEN"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 11201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "AYSEN"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Aysén"
  }
 }

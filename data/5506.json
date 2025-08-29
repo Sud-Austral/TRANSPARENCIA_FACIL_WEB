@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5506,
-   "2024": 32,
+   "2024": 33,
    "2025": 47,
-   "variacion": 47,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "NOGALES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5506,
-   "2024": 36,
-   "2025": 58,
-   "variacion": 61,
+   "2024": 37,
+   "2025": 61,
+   "variacion": 65,
    "situación": "Aumento de Casos",
    "COMUNA": "NOGALES"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5506,
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
-   "variacion": 100,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "NOGALES"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5506,
-   "2024": 40,
+   "2024": 41,
    "2025": 40,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "NOGALES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5506,
-   "2024": 40,
-   "2025": 27,
-   "variacion": -32,
+   "2024": 43,
+   "2025": 28,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "NOGALES"
   },
@@ -410,7 +410,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 11,
    "COMUNA": "NOGALES"
   },
   {
@@ -1226,7 +1226,7 @@
    "CODCOM": 5506,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "NOGALES"
   },
   {
@@ -1291,7 +1291,7 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "HURTOS",
-   "2024": 32,
+   "2024": 33,
    "2025": 47,
    "COMUNA": "NOGALES"
   },
@@ -1299,8 +1299,8 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "LESIONES",
-   "2024": 36,
-   "2025": 58,
+   "2024": 37,
+   "2025": 61,
    "COMUNA": "NOGALES"
   },
   {
@@ -1323,7 +1323,7 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
    "COMUNA": "NOGALES"
   },
@@ -1347,7 +1347,7 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 40,
+   "2024": 41,
    "2025": 40,
    "COMUNA": "NOGALES"
   },
@@ -1355,8 +1355,8 @@
    "informacion": "Casos",
    "CODCOM": 5506,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
-   "2025": 27,
+   "2024": 43,
+   "2025": 28,
    "COMUNA": "NOGALES"
   },
   {
@@ -1379,7 +1379,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5506,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 9,
    "COMUNA": "NOGALES"
   },
@@ -1419,7 +1419,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5506,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "NOGALES"
   },
@@ -1427,7 +1427,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5506,
    "delito": "HURTOS",
-   "2024": 3,
+   "2024": 4,
    "2025": 15,
    "COMUNA": "NOGALES"
   },
@@ -1467,13 +1467,13 @@
    "informacion": "Detenidos",
    "CODCOM": 5506,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "NOGALES"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

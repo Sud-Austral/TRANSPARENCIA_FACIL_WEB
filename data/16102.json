@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16102,
-   "2024": 66,
-   "2025": 50,
-   "variacion": -24,
+   "2024": 68,
+   "2025": 51,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
@@ -22,26 +22,26 @@
    "delito": "LESIONES",
    "CODCOM": 16102,
    "2024": 37,
-   "2025": 71,
-   "variacion": 92,
+   "2025": 74,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16102,
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
-   "variacion": 75,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16102,
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
-   "variacion": -67,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16102,
    "2024": 12,
-   "2025": 21,
-   "variacion": 75,
+   "2025": 22,
+   "variacion": 83,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16102,
-   "2024": 42,
+   "2024": 43,
    "2025": 39,
-   "variacion": -7,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16102,
-   "2024": 42,
-   "2025": 44,
+   "2024": 43,
+   "2025": 45,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
@@ -436,7 +436,7 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "BULNES"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "BULNES"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "BULNES"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "BULNES"
   },
   {
@@ -2213,8 +2213,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "HURTOS",
-   "2024": 66,
-   "2025": 50,
+   "2024": 68,
+   "2025": 51,
    "COMUNA": "BULNES"
   },
   {
@@ -2222,14 +2222,14 @@
    "CODCOM": 16102,
    "delito": "LESIONES",
    "2024": 37,
-   "2025": 71,
+   "2025": 74,
    "COMUNA": "BULNES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "BULNES"
   },
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
    "COMUNA": "BULNES"
   },
@@ -2254,7 +2254,7 @@
    "CODCOM": 16102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 12,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "BULNES"
   },
   {
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 42,
+   "2024": 43,
    "2025": 39,
    "COMUNA": "BULNES"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 42,
-   "2025": 44,
+   "2024": 43,
+   "2025": 45,
    "COMUNA": "BULNES"
   },
   {
@@ -2318,7 +2318,7 @@
    "CODCOM": 16102,
    "delito": "HURTOS",
    "2024": 11,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "BULNES"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 16102,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 34,
+   "2025": 36,
    "COMUNA": "BULNES"
   },
   {
@@ -2422,7 +2422,7 @@
    "CODCOM": 16102,
    "delito": "HURTOS",
    "2024": 12,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "BULNES"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 16102,
    "delito": "LESIONES",
    "2024": 23,
-   "2025": 65,
+   "2025": 69,
    "COMUNA": "BULNES"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

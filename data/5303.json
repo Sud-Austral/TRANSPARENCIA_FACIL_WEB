@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 5303,
    "2024": 22,
-   "2025": 22,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 24,
+   "variacion": 9,
+   "situación": "Aumento de Casos",
    "COMUNA": "RINCONADA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5303,
-   "2024": 24,
+   "2024": 25,
    "2025": 26,
-   "variacion": 8,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "RINCONADA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5303,
    "2024": 10,
-   "2025": 4,
-   "variacion": -60,
+   "2025": 5,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "RINCONADA"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 5303,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "RINCONADA"
   }
  ],
@@ -276,7 +276,7 @@
    "CODCOM": 5303,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "RINCONADA"
   },
   {
@@ -644,6 +644,14 @@
    "CODCOM": 5303,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "RINCONADA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5303,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "RINCONADA"
   },
@@ -1174,14 +1182,14 @@
    "CODCOM": 5303,
    "delito": "HURTOS",
    "2024": 22,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "RINCONADA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "LESIONES",
-   "2024": 24,
+   "2024": 25,
    "2025": 26,
    "COMUNA": "RINCONADA"
   },
@@ -1206,7 +1214,7 @@
    "CODCOM": 5303,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 10,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1261,7 +1269,7 @@
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "RINCONADA"
   },
@@ -1270,7 +1278,7 @@
    "CODCOM": 5303,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1310,7 +1318,7 @@
    "CODCOM": 5303,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1347,7 +1355,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

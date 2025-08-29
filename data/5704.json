@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5704,
-   "2024": 10,
-   "2025": 16,
-   "variacion": 60,
+   "2024": 11,
+   "2025": 17,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "PANQUEHUE"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 5704,
    "2024": 10,
-   "2025": 20,
-   "variacion": 100,
+   "2025": 21,
+   "variacion": 110,
    "situación": "Aumento de Casos",
    "COMUNA": "PANQUEHUE"
   },
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5704,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "PANQUEHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5704,
-   "2024": 17,
-   "2025": 30,
-   "variacion": 76,
+   "2024": 18,
+   "2025": 32,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "PANQUEHUE"
   },
@@ -222,6 +222,14 @@
    "COMUNA": "PANQUEHUE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5704,
    "anio": 2024,
@@ -354,7 +362,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -630,6 +638,14 @@
    "COMUNA": "PANQUEHUE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PANQUEHUE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5704,
    "anio": 2024,
@@ -770,7 +786,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -795,8 +811,8 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "HURTOS",
-   "2024": 10,
-   "2025": 16,
+   "2024": 11,
+   "2025": 17,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -804,7 +820,7 @@
    "CODCOM": 5704,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -852,15 +868,15 @@
    "CODCOM": 5704,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PANQUEHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
-   "2025": 30,
+   "2024": 18,
+   "2025": 32,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -884,7 +900,7 @@
    "CODCOM": 5704,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -916,7 +932,7 @@
    "CODCOM": 5704,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -924,7 +940,7 @@
    "CODCOM": 5704,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PANQUEHUE"
   },
   {
@@ -956,12 +972,12 @@
    "CODCOM": 5704,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "PANQUEHUE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

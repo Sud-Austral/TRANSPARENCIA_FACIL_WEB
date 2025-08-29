@@ -4,34 +4,34 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 4301,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 3,
+   "variacion": 50,
+   "situación": "Aumento de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 4301,
-   "2024": 412,
-   "2025": 399,
-   "variacion": -3,
+   "2024": 418,
+   "2025": 414,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4301,
-   "2024": 316,
-   "2025": 305,
-   "variacion": -3,
+   "2024": 326,
+   "2025": 310,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4301,
-   "2024": 46,
-   "2025": 30,
+   "2024": 48,
+   "2025": 31,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
@@ -39,8 +39,8 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4301,
-   "2024": 79,
-   "2025": 67,
+   "2024": 81,
+   "2025": 69,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
@@ -48,26 +48,26 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4301,
-   "2024": 53,
-   "2025": 49,
-   "variacion": -8,
+   "2024": 56,
+   "2025": 50,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4301,
-   "2024": 151,
-   "2025": 125,
-   "variacion": -17,
+   "2024": 154,
+   "2025": 131,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4301,
-   "2024": 65,
-   "2025": 67,
+   "2024": 67,
+   "2025": 69,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "OVALLE"
@@ -75,19 +75,19 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4301,
-   "2024": 267,
-   "2025": 228,
-   "variacion": -15,
+   "2024": 279,
+   "2025": 240,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "OVALLE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4301,
-   "2024": 224,
-   "2025": 229,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 237,
+   "2025": 237,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "OVALLE"
   },
   {
@@ -276,7 +276,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "OVALLE"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 30,
+   "casos": 45,
    "COMUNA": "OVALLE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 28,
+   "casos": 33,
    "COMUNA": "OVALLE"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "OVALLE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "OVALLE"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "OVALLE"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 18,
+   "casos": 24,
    "COMUNA": "OVALLE"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "OVALLE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 16,
+   "casos": 28,
    "COMUNA": "OVALLE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 4301,
    "anio": 2025,
    "mes": 8,
-   "casos": 20,
+   "casos": 28,
    "COMUNA": "OVALLE"
   },
   {
@@ -2206,79 +2206,79 @@
    "CODCOM": 4301,
    "delito": "HOMICIDIOS",
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "HURTOS",
-   "2024": 412,
-   "2025": 399,
+   "2024": 418,
+   "2025": 414,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "LESIONES",
-   "2024": 316,
-   "2025": 305,
+   "2024": 326,
+   "2025": 310,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 46,
-   "2025": 30,
+   "2024": 48,
+   "2025": 31,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 79,
-   "2025": 67,
+   "2024": 81,
+   "2025": 69,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 53,
-   "2025": 49,
+   "2024": 56,
+   "2025": 50,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 151,
-   "2025": 125,
+   "2024": 154,
+   "2025": 131,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 65,
-   "2025": 67,
+   "2024": 67,
+   "2025": 69,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 267,
-   "2025": 228,
+   "2024": 279,
+   "2025": 240,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 224,
-   "2025": 229,
+   "2024": 237,
+   "2025": 237,
    "COMUNA": "OVALLE"
   },
   {
@@ -2310,23 +2310,23 @@
    "CODCOM": 4301,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4301,
    "delito": "HURTOS",
-   "2024": 141,
-   "2025": 120,
+   "2024": 143,
+   "2025": 125,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4301,
    "delito": "LESIONES",
-   "2024": 74,
-   "2025": 76,
+   "2024": 77,
+   "2025": 78,
    "COMUNA": "OVALLE"
   },
   {
@@ -2342,7 +2342,7 @@
    "CODCOM": 4301,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "OVALLE"
   },
   {
@@ -2358,7 +2358,7 @@
    "CODCOM": 4301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 5,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "OVALLE"
   },
   {
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
+   "2024": 21,
    "2025": 28,
    "COMUNA": "OVALLE"
   },
@@ -2414,23 +2414,23 @@
    "CODCOM": 4301,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4301,
    "delito": "HURTOS",
-   "2024": 160,
-   "2025": 130,
+   "2024": 162,
+   "2025": 136,
    "COMUNA": "OVALLE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4301,
    "delito": "LESIONES",
-   "2024": 116,
-   "2025": 124,
+   "2024": 123,
+   "2025": 126,
    "COMUNA": "OVALLE"
   },
   {
@@ -2446,7 +2446,7 @@
    "CODCOM": 4301,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 13,
+   "2025": 19,
    "COMUNA": "OVALLE"
   },
   {
@@ -2462,7 +2462,7 @@
    "CODCOM": 4301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 5,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "OVALLE"
   },
   {
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 23,
+   "2024": 28,
    "2025": 41,
    "COMUNA": "OVALLE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Coquimbo"
  }
 }

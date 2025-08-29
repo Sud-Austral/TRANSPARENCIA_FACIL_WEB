@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7105,
-   "2024": 68,
-   "2025": 54,
-   "variacion": -21,
+   "2024": 70,
+   "2025": 56,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "MAULE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7105,
-   "2024": 95,
-   "2025": 91,
-   "variacion": -4,
+   "2024": 101,
+   "2025": 94,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "MAULE"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7105,
    "2024": 20,
-   "2025": 14,
-   "variacion": -30,
+   "2025": 15,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "MAULE"
   },
@@ -67,27 +67,27 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7105,
    "2024": 23,
-   "2025": 7,
-   "variacion": -70,
+   "2025": 8,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "MAULE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7105,
-   "2024": 63,
+   "2024": 67,
    "2025": 47,
-   "variacion": -25,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "MAULE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7105,
-   "2024": 58,
-   "2025": 58,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 60,
+   "2025": 61,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "MAULE"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "MAULE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "MAULE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "MAULE"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "MAULE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 7105,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "MAULE"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "HURTOS",
-   "2024": 68,
-   "2025": 54,
+   "2024": 70,
+   "2025": 56,
    "COMUNA": "MAULE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "LESIONES",
-   "2024": 95,
-   "2025": 91,
+   "2024": 101,
+   "2025": 94,
    "COMUNA": "MAULE"
   },
   {
@@ -2238,7 +2238,7 @@
    "CODCOM": 7105,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 20,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "MAULE"
   },
   {
@@ -2262,14 +2262,14 @@
    "CODCOM": 7105,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 23,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "MAULE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 63,
+   "2024": 67,
    "2025": 47,
    "COMUNA": "MAULE"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 58,
-   "2025": 58,
+   "2024": 60,
+   "2025": 61,
    "COMUNA": "MAULE"
   },
   {
@@ -2318,15 +2318,15 @@
    "CODCOM": 7105,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "MAULE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7105,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 25,
+   "2024": 27,
+   "2025": 27,
    "COMUNA": "MAULE"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "MAULE"
   },
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
    "COMUNA": "MAULE"
   },
@@ -2422,15 +2422,15 @@
    "CODCOM": 7105,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "MAULE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7105,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 43,
+   "2024": 47,
+   "2025": 46,
    "COMUNA": "MAULE"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
    "COMUNA": "MAULE"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
    "COMUNA": "MAULE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

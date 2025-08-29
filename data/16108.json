@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16108,
-   "2024": 22,
-   "2025": 16,
-   "variacion": -27,
+   "2024": 23,
+   "2025": 17,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN IGNACIO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16108,
-   "2024": 38,
-   "2025": 33,
-   "variacion": -13,
+   "2024": 40,
+   "2025": 34,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -48,10 +48,10 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16108,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16108,
    "2024": 19,
-   "2025": 27,
-   "variacion": 42,
+   "2025": 28,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16108,
    "2024": 25,
-   "2025": 18,
-   "variacion": -28,
+   "2025": 19,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -253,6 +253,14 @@
    "COMUNA": "SAN IGNACIO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN IGNACIO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16108,
    "anio": 2024,
@@ -405,6 +413,14 @@
    "COMUNA": "SAN IGNACIO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16108,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN IGNACIO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16108,
    "anio": 2024,
@@ -745,7 +761,7 @@
    "CODCOM": 16108,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -897,7 +913,7 @@
    "CODCOM": 16108,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -930,16 +946,16 @@
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "HURTOS",
-   "2024": 22,
-   "2025": 16,
+   "2024": 23,
+   "2025": 17,
    "COMUNA": "SAN IGNACIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 33,
+   "2024": 40,
+   "2025": 34,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -970,7 +986,7 @@
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "SAN IGNACIO"
   },
@@ -987,7 +1003,7 @@
    "CODCOM": 16108,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 19,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -995,7 +1011,7 @@
    "CODCOM": 16108,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 25,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -1011,7 +1027,7 @@
    "CODCOM": 16108,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -1043,7 +1059,7 @@
    "CODCOM": 16108,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 31,
+   "2025": 33,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -1072,7 +1088,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

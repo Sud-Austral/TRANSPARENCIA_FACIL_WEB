@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10302,
    "2024": 31,
-   "2025": 18,
-   "variacion": -42,
+   "2025": 19,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO OCTAY"
   },
@@ -76,9 +76,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 10302,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "PUERTO OCTAY"
   }
  ],
@@ -392,7 +392,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -634,6 +634,14 @@
    "mes": 6,
    "casos": 1,
    "COMUNA": "PUERTO OCTAY"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10302,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUERTO OCTAY"
   }
  ],
  "info": [
@@ -650,7 +658,7 @@
    "CODCOM": 10302,
    "delito": "LESIONES",
    "2024": 31,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -706,7 +714,7 @@
    "CODCOM": 10302,
    "delito": "VIOLACIONES",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -722,7 +730,7 @@
    "CODCOM": 10302,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -746,7 +754,7 @@
    "CODCOM": 10302,
    "delito": "LESIONES",
    "2024": 12,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -759,7 +767,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

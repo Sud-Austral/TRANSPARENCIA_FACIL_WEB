@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13302,
-   "2024": 124,
-   "2025": 134,
+   "2024": 128,
+   "2025": 138,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LAMPA"
@@ -21,35 +21,35 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13302,
-   "2024": 299,
-   "2025": 297,
-   "variacion": -1,
+   "2024": 313,
+   "2025": 302,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13302,
-   "2024": 16,
-   "2025": 26,
-   "variacion": 62,
+   "2024": 17,
+   "2025": 27,
+   "variacion": 59,
    "situación": "Aumento de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13302,
-   "2024": 148,
-   "2025": 174,
-   "variacion": 18,
+   "2024": 153,
+   "2025": 178,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13302,
-   "2024": 84,
-   "2025": 81,
+   "2024": 85,
+   "2025": 82,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13302,
-   "2024": 192,
-   "2025": 137,
+   "2024": 198,
+   "2025": 141,
    "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
@@ -66,45 +66,45 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13302,
-   "2024": 103,
-   "2025": 88,
-   "variacion": -15,
+   "2024": 106,
+   "2025": 91,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13302,
-   "2024": 157,
-   "2025": 183,
-   "variacion": 17,
+   "2024": 164,
+   "2025": 185,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13302,
-   "2024": 164,
-   "2025": 161,
-   "variacion": -2,
+   "2024": 171,
+   "2025": 166,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13302,
-   "2024": 36,
+   "2024": 37,
    "2025": 37,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LAMPA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13302,
-   "2024": 96,
+   "2024": 98,
    "2025": 77,
-   "variacion": -20,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "LAMPA"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 12,
+   "casos": 16,
    "COMUNA": "LAMPA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 22,
+   "casos": 27,
    "COMUNA": "LAMPA"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LAMPA"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 12,
    "COMUNA": "LAMPA"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LAMPA"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 13,
    "COMUNA": "LAMPA"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "LAMPA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 14,
+   "casos": 16,
    "COMUNA": "LAMPA"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 13302,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 16,
    "COMUNA": "LAMPA"
   },
   {
@@ -2213,79 +2213,79 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "HURTOS",
-   "2024": 124,
-   "2025": 134,
+   "2024": 128,
+   "2025": 138,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "LESIONES",
-   "2024": 299,
-   "2025": 297,
+   "2024": 313,
+   "2025": 302,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 16,
-   "2025": 26,
+   "2024": 17,
+   "2025": 27,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 148,
-   "2025": 174,
+   "2024": 153,
+   "2025": 178,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 84,
-   "2025": 81,
+   "2024": 85,
+   "2025": 82,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 192,
-   "2025": 137,
+   "2024": 198,
+   "2025": 141,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 103,
-   "2025": 88,
+   "2024": 106,
+   "2025": 91,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 157,
-   "2025": 183,
+   "2024": 164,
+   "2025": 185,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 164,
-   "2025": 161,
+   "2024": 171,
+   "2025": 166,
    "COMUNA": "LAMPA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO POR SORPRESA",
-   "2024": 36,
+   "2024": 37,
    "2025": 37,
    "COMUNA": "LAMPA"
   },
@@ -2293,7 +2293,7 @@
    "informacion": "Casos",
    "CODCOM": 13302,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 96,
+   "2024": 98,
    "2025": 77,
    "COMUNA": "LAMPA"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13302,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 59,
+   "2024": 42,
+   "2025": 60,
    "COMUNA": "LAMPA"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "LAMPA"
   },
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 7,
    "COMUNA": "LAMPA"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13302,
    "delito": "LESIONES",
-   "2024": 77,
-   "2025": 114,
+   "2024": 83,
+   "2025": 116,
    "COMUNA": "LAMPA"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
+   "2024": 13,
    "2025": 11,
    "COMUNA": "LAMPA"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 6,
    "2025": 9,
    "COMUNA": "LAMPA"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Metropolitana"
  }
 }

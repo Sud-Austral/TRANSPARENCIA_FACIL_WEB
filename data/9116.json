@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9116,
-   "2024": 22,
+   "2024": 23,
    "2025": 22,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAAVEDRA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9116,
-   "2024": 33,
+   "2024": 34,
    "2025": 28,
-   "variacion": -15,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "SAAVEDRA"
   },
@@ -67,9 +67,9 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9116,
    "2024": 18,
-   "2025": 18,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 19,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -717,6 +717,14 @@
    "COMUNA": "SAAVEDRA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9116,
    "anio": 2024,
@@ -754,7 +762,7 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "HURTOS",
-   "2024": 22,
+   "2024": 23,
    "2025": 22,
    "COMUNA": "SAAVEDRA"
   },
@@ -762,7 +770,7 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 33,
+   "2024": 34,
    "2025": 28,
    "COMUNA": "SAAVEDRA"
   },
@@ -803,7 +811,7 @@
    "CODCOM": 9116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 18,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -842,7 +850,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "SAAVEDRA"
   },
@@ -874,7 +882,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 15,
+   "2024": 17,
    "2025": 13,
    "COMUNA": "SAAVEDRA"
   },
@@ -888,7 +896,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

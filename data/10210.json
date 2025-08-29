@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 10210,
    "2024": 9,
-   "2025": 9,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 10,
+   "variacion": 11,
+   "situación": "Aumento de Casos",
    "COMUNA": "QUINCHAO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10210,
-   "2024": 22,
-   "2025": 15,
-   "variacion": -32,
+   "2024": 23,
+   "2025": 16,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINCHAO"
   },
@@ -195,6 +195,14 @@
    "COMUNA": "QUINCHAO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10210,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "QUINCHAO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10210,
    "anio": 2024,
@@ -335,7 +343,7 @@
    "CODCOM": 10210,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -449,15 +457,15 @@
    "CODCOM": 10210,
    "delito": "HURTOS",
    "2024": 9,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "QUINCHAO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10210,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 15,
+   "2024": 23,
+   "2025": 16,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -513,7 +521,7 @@
    "CODCOM": 10210,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -521,7 +529,7 @@
    "CODCOM": 10210,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -553,7 +561,7 @@
    "CODCOM": 10210,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -561,7 +569,7 @@
    "CODCOM": 10210,
    "delito": "LESIONES",
    "2024": 17,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -590,7 +598,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

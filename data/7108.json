@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7108,
-   "2024": 20,
-   "2025": 13,
-   "variacion": -35,
+   "2024": 23,
+   "2025": 14,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7108,
-   "2024": 21,
+   "2024": 23,
    "2025": 18,
-   "variacion": -14,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7108,
-   "2024": 22,
+   "2024": 24,
    "2025": 18,
-   "variacion": -18,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7108,
    "2024": 40,
-   "2025": 35,
-   "variacion": -12,
+   "2025": 36,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO CLARO"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 7108,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 7108,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -2213,15 +2213,15 @@
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "HURTOS",
-   "2024": 20,
-   "2025": 13,
+   "2024": 23,
+   "2025": 14,
    "COMUNA": "RÍO CLARO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "LESIONES",
-   "2024": 21,
+   "2024": 23,
    "2025": 18,
    "COMUNA": "RÍO CLARO"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 7108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
+   "2024": 24,
    "2025": 18,
    "COMUNA": "RÍO CLARO"
   },
@@ -2278,7 +2278,7 @@
    "CODCOM": 7108,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 40,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "RÍO CLARO"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7108,
    "delito": "HURTOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "RÍO CLARO"
   },
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7108,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "RÍO CLARO"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7108,
    "delito": "HURTOS",
-   "2024": 1,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "RÍO CLARO"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7108,
    "delito": "LESIONES",
-   "2024": 10,
+   "2024": 11,
    "2025": 7,
    "COMUNA": "RÍO CLARO"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

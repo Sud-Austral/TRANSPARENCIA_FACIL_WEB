@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 4203,
    "2024": 101,
-   "2025": 72,
-   "variacion": -29,
+   "2025": 74,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4203,
-   "2024": 82,
-   "2025": 103,
-   "variacion": 26,
+   "2024": 85,
+   "2025": 106,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4203,
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
-   "variacion": -22,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -58,35 +58,35 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4203,
    "2024": 26,
-   "2025": 28,
-   "variacion": 8,
+   "2025": 29,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4203,
-   "2024": 12,
-   "2025": 7,
-   "variacion": -42,
+   "2024": 13,
+   "2025": 8,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4203,
-   "2024": 55,
-   "2025": 95,
-   "variacion": 73,
+   "2024": 56,
+   "2025": 96,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4203,
-   "2024": 57,
-   "2025": 69,
-   "variacion": 21,
+   "2024": 59,
+   "2025": 72,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -284,7 +284,7 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -444,7 +444,7 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -928,6 +928,14 @@
    "COMUNA": "LOS VILOS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS VILOS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4203,
    "anio": 2024,
@@ -1020,7 +1028,7 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1180,7 +1188,7 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1340,7 +1348,7 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1478,15 +1486,15 @@
    "CODCOM": 4203,
    "delito": "HURTOS",
    "2024": 101,
-   "2025": 72,
+   "2025": 74,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 82,
-   "2025": 103,
+   "2024": 85,
+   "2025": 106,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1501,7 +1509,7 @@
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
    "COMUNA": "LOS VILOS"
   },
@@ -1518,31 +1526,31 @@
    "CODCOM": 4203,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 26,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 12,
-   "2025": 7,
+   "2024": 13,
+   "2025": 8,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 55,
-   "2025": 95,
+   "2024": 56,
+   "2025": 96,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 57,
-   "2025": 69,
+   "2024": 59,
+   "2025": 72,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1589,15 +1597,15 @@
    "informacion": "Detenciones",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 26,
+   "2024": 31,
+   "2025": 27,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 1,
    "COMUNA": "LOS VILOS"
   },
@@ -1621,7 +1629,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "LOS VILOS"
   },
@@ -1630,7 +1638,7 @@
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1653,15 +1661,15 @@
    "informacion": "Detenidos",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 57,
-   "2025": 50,
+   "2024": 58,
+   "2025": 52,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
+   "2024": 7,
    "2025": 1,
    "COMUNA": "LOS VILOS"
   },
@@ -1685,7 +1693,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "LOS VILOS"
   },
@@ -1694,12 +1702,12 @@
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS VILOS"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Coquimbo"
  }
 }

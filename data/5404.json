@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5404,
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -11,
+   "situación": "Disminución de Casos",
    "COMUNA": "PETORCA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5404,
-   "2024": 24,
-   "2025": 30,
-   "variacion": 25,
+   "2024": 25,
+   "2025": 31,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "PETORCA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5404,
    "2024": 14,
-   "2025": 12,
-   "variacion": -14,
+   "2025": 13,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "PETORCA"
   },
@@ -336,6 +336,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 6,
+   "COMUNA": "PETORCA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PETORCA"
   },
   {
@@ -643,6 +651,14 @@
    "COMUNA": "PETORCA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PETORCA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5404,
    "anio": 2024,
@@ -656,7 +672,7 @@
    "informacion": "Casos",
    "CODCOM": 5404,
    "delito": "HURTOS",
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "PETORCA"
   },
@@ -664,8 +680,8 @@
    "informacion": "Casos",
    "CODCOM": 5404,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 30,
+   "2024": 25,
+   "2025": 31,
    "COMUNA": "PETORCA"
   },
   {
@@ -705,7 +721,7 @@
    "CODCOM": 5404,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "PETORCA"
   },
   {
@@ -721,7 +737,7 @@
    "CODCOM": 5404,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PETORCA"
   },
   {
@@ -753,7 +769,7 @@
    "CODCOM": 5404,
    "delito": "LESIONES",
    "2024": 20,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "PETORCA"
   },
   {
@@ -782,7 +798,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

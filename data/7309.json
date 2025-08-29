@@ -30,18 +30,18 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7309,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VICHUQUÉN"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7309,
    "2024": 8,
-   "2025": 5,
-   "variacion": -38,
+   "2025": 6,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "VICHUQUÉN"
   },
@@ -402,6 +402,14 @@
    "COMUNA": "VICHUQUÉN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7309,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "VICHUQUÉN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7309,
    "anio": 2024,
@@ -519,7 +527,7 @@
    "informacion": "Casos",
    "CODCOM": 7309,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "VICHUQUÉN"
   },
@@ -528,7 +536,7 @@
    "CODCOM": 7309,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "VICHUQUÉN"
   },
   {
@@ -597,7 +605,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

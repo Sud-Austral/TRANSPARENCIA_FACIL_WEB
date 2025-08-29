@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 7202,
-   "2024": 13,
+   "2024": 15,
    "2025": 16,
-   "variacion": 23,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "CHANCO"
   },
@@ -58,17 +58,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7202,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "CHANCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7202,
-   "2024": 10,
+   "2024": 11,
    "2025": 4,
-   "variacion": -60,
+   "variacion": -64,
    "situación": "Disminución de Casos",
    "COMUNA": "CHANCO"
   },
@@ -380,6 +380,14 @@
    "COMUNA": "CHANCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "CHANCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7202,
    "anio": 2024,
@@ -497,7 +505,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "LESIONES",
-   "2024": 13,
+   "2024": 15,
    "2025": 16,
    "COMUNA": "CHANCO"
   },
@@ -538,14 +546,14 @@
    "CODCOM": 7202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "CHANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 4,
    "COMUNA": "CHANCO"
   },
@@ -569,7 +577,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7202,
    "delito": "LESIONES",
-   "2024": 10,
+   "2024": 11,
    "2025": 8,
    "COMUNA": "CHANCO"
   },
@@ -593,7 +601,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7202,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 19,
    "2025": 14,
    "COMUNA": "CHANCO"
   },
@@ -607,7 +615,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7103,
-   "2024": 4,
-   "2025": 9,
-   "variacion": 125,
+   "2024": 5,
+   "2025": 10,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "CUREPTO"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7103,
    "2024": 6,
-   "2025": 9,
-   "variacion": 50,
+   "2025": 10,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "CUREPTO"
   },
@@ -158,7 +158,7 @@
    "CODCOM": 7103,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CUREPTO"
   },
   {
@@ -263,6 +263,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "CUREPTO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "CUREPTO"
   },
   {
@@ -431,8 +439,8 @@
    "informacion": "Casos",
    "CODCOM": 7103,
    "delito": "HURTOS",
-   "2024": 4,
-   "2025": 9,
+   "2024": 5,
+   "2025": 10,
    "COMUNA": "CUREPTO"
   },
   {
@@ -440,7 +448,7 @@
    "CODCOM": 7103,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "CUREPTO"
   },
   {
@@ -517,7 +525,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

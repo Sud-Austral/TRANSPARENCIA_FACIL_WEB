@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 14105,
    "2024": 20,
-   "2025": 13,
-   "variacion": -35,
+   "2025": 14,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "MÁFIL"
   },
@@ -40,9 +40,9 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 14105,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "MÁFIL"
   },
   {
@@ -240,7 +240,7 @@
    "CODCOM": 14105,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "MÁFIL"
   },
   {
@@ -480,6 +480,14 @@
    "CODCOM": 14105,
    "anio": 2025,
    "mes": 7,
+   "casos": 2,
+   "COMUNA": "MÁFIL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14105,
+   "anio": 2025,
+   "mes": 8,
    "casos": 2,
    "COMUNA": "MÁFIL"
   },
@@ -746,7 +754,7 @@
    "CODCOM": 14105,
    "delito": "HURTOS",
    "2024": 20,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "MÁFIL"
   },
   {
@@ -770,7 +778,7 @@
    "CODCOM": 14105,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 3,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "MÁFIL"
   },
   {
@@ -879,7 +887,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Ríos"
  }
 }

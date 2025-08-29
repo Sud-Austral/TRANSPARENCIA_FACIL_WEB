@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9107,
-   "2024": 33,
-   "2025": 23,
-   "variacion": -30,
+   "2024": 34,
+   "2025": 24,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "GORBEA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9107,
-   "2024": 44,
-   "2025": 13,
-   "variacion": -70,
+   "2024": 46,
+   "2025": 15,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "GORBEA"
   },
@@ -252,6 +252,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "GORBEA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "GORBEA"
   },
   {
@@ -887,6 +895,14 @@
    "COMUNA": "GORBEA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9107,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "GORBEA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9107,
    "anio": 2024,
@@ -964,8 +980,8 @@
    "informacion": "Casos",
    "CODCOM": 9107,
    "delito": "HURTOS",
-   "2024": 33,
-   "2025": 23,
+   "2024": 34,
+   "2025": 24,
    "COMUNA": "GORBEA"
   },
   {
@@ -1028,8 +1044,8 @@
    "informacion": "Casos",
    "CODCOM": 9107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 44,
-   "2025": 13,
+   "2024": 46,
+   "2025": 15,
    "COMUNA": "GORBEA"
   },
   {
@@ -1061,7 +1077,7 @@
    "CODCOM": 9107,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "GORBEA"
   },
   {
@@ -1109,7 +1125,7 @@
    "CODCOM": 9107,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 2,
+   "2025": 7,
    "COMUNA": "GORBEA"
   },
   {
@@ -1154,7 +1170,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

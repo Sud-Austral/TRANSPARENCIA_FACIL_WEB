@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 10205,
    "2024": 40,
-   "2025": 37,
-   "variacion": -8,
+   "2025": 39,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "DALCAHUE"
   },
@@ -22,9 +22,9 @@
    "delito": "LESIONES",
    "CODCOM": 10205,
    "2024": 45,
-   "2025": 42,
-   "variacion": -7,
-   "situación": "Disminución de Casos",
+   "2025": 47,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10205,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10205,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "DALCAHUE"
   },
@@ -248,7 +248,7 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -408,7 +408,7 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 11,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -568,6 +568,14 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "DALCAHUE"
   },
@@ -762,7 +770,7 @@
    "CODCOM": 10205,
    "delito": "HURTOS",
    "2024": 40,
-   "2025": 37,
+   "2025": 39,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -770,7 +778,7 @@
    "CODCOM": 10205,
    "delito": "LESIONES",
    "2024": 45,
-   "2025": 42,
+   "2025": 47,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -785,7 +793,7 @@
    "informacion": "Casos",
    "CODCOM": 10205,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "DALCAHUE"
   },
@@ -794,7 +802,7 @@
    "CODCOM": 10205,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -834,7 +842,7 @@
    "CODCOM": 10205,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -874,7 +882,7 @@
    "CODCOM": 10205,
    "delito": "LESIONES",
    "2024": 35,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -903,7 +911,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

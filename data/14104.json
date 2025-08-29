@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14104,
-   "2024": 54,
-   "2025": 72,
-   "variacion": 33,
+   "2024": 56,
+   "2025": 74,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS LAGOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14104,
-   "2024": 47,
-   "2025": 46,
-   "variacion": -2,
+   "2024": 50,
+   "2025": 47,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS LAGOS"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14104,
-   "2024": 12,
+   "2024": 14,
    "2025": 5,
-   "variacion": -58,
+   "variacion": -64,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS LAGOS"
   },
@@ -57,36 +57,36 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 14104,
-   "2024": 18,
-   "2025": 9,
-   "variacion": -50,
+   "2024": 19,
+   "2025": 10,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS LAGOS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 14104,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS LAGOS"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14104,
-   "2024": 18,
-   "2025": 36,
-   "variacion": 100,
+   "2024": 19,
+   "2025": 37,
+   "variacion": 95,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS LAGOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14104,
-   "2024": 58,
-   "2025": 46,
-   "variacion": -21,
+   "2024": 62,
+   "2025": 47,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS LAGOS"
   },
@@ -291,7 +291,7 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -451,7 +451,7 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -771,6 +771,14 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LOS LAGOS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "LOS LAGOS"
   },
@@ -963,7 +971,7 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -1123,7 +1131,7 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -1196,16 +1204,16 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "HURTOS",
-   "2024": 54,
-   "2025": 72,
+   "2024": 56,
+   "2025": 74,
    "COMUNA": "LOS LAGOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "LESIONES",
-   "2024": 47,
-   "2025": 46,
+   "2024": 50,
+   "2025": 47,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -1220,7 +1228,7 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 12,
+   "2024": 14,
    "2025": 5,
    "COMUNA": "LOS LAGOS"
   },
@@ -1236,15 +1244,15 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 18,
-   "2025": 9,
+   "2024": 19,
+   "2025": 10,
    "COMUNA": "LOS LAGOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "LOS LAGOS"
   },
@@ -1252,16 +1260,16 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 18,
-   "2025": 36,
+   "2024": 19,
+   "2025": 37,
    "COMUNA": "LOS LAGOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 58,
-   "2025": 46,
+   "2024": 62,
+   "2025": 47,
    "COMUNA": "LOS LAGOS"
   },
   {
@@ -1284,7 +1292,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14104,
    "delito": "HURTOS",
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "LOS LAGOS"
   },
@@ -1292,7 +1300,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14104,
    "delito": "LESIONES",
-   "2024": 12,
+   "2024": 13,
    "2025": 17,
    "COMUNA": "LOS LAGOS"
   },
@@ -1340,7 +1348,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14104,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "LOS LAGOS"
   },
@@ -1348,7 +1356,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14104,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 43,
    "COMUNA": "LOS LAGOS"
   },
@@ -1394,7 +1402,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Ríos"
  }
 }

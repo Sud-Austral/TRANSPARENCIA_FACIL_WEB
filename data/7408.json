@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7408,
    "2024": 27,
-   "2025": 38,
-   "variacion": 41,
+   "2025": 40,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
@@ -31,9 +31,9 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7408,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7408,
-   "2024": 16,
+   "2024": 17,
    "2025": 7,
-   "variacion": -56,
+   "variacion": -59,
    "situación": "Disminución de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
@@ -369,7 +369,7 @@
    "CODCOM": 7408,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -417,6 +417,14 @@
    "CODCOM": 7408,
    "anio": 2025,
    "mes": 2,
+   "casos": 1,
+   "COMUNA": "YERBAS BUENAS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7408,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "YERBAS BUENAS"
   },
@@ -819,7 +827,7 @@
    "CODCOM": 7408,
    "delito": "LESIONES",
    "2024": 27,
-   "2025": 38,
+   "2025": 40,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -835,7 +843,7 @@
    "CODCOM": 7408,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -866,7 +874,7 @@
    "informacion": "Casos",
    "CODCOM": 7408,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
+   "2024": 17,
    "2025": 7,
    "COMUNA": "YERBAS BUENAS"
   },
@@ -891,7 +899,7 @@
    "CODCOM": 7408,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -907,7 +915,7 @@
    "CODCOM": 7408,
    "delito": "LESIONES",
    "2024": 17,
-   "2025": 40,
+   "2025": 41,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -920,7 +928,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

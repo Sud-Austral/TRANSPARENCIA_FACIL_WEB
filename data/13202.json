@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13202,
-   "2024": 38,
-   "2025": 43,
-   "variacion": 13,
+   "2024": 39,
+   "2025": 45,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "PIRQUE"
   },
@@ -22,17 +22,17 @@
    "delito": "LESIONES",
    "CODCOM": 13202,
    "2024": 42,
-   "2025": 42,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 44,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "PIRQUE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13202,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "PIRQUE"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13202,
-   "2024": 39,
-   "2025": 19,
+   "2024": 41,
+   "2025": 20,
    "variacion": -51,
    "situación": "Disminución de Casos",
    "COMUNA": "PIRQUE"
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13202,
    "2024": 18,
-   "2025": 14,
-   "variacion": -22,
+   "2025": 15,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "PIRQUE"
   },
@@ -94,9 +94,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13202,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PIRQUE"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "PIRQUE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "PIRQUE"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PIRQUE"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PIRQUE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "PIRQUE"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2213,8 +2213,8 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "HURTOS",
-   "2024": 38,
-   "2025": 43,
+   "2024": 39,
+   "2025": 45,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2222,7 +2222,7 @@
    "CODCOM": 13202,
    "delito": "LESIONES",
    "2024": 42,
-   "2025": 42,
+   "2025": 44,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2230,7 +2230,7 @@
    "CODCOM": 13202,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2253,8 +2253,8 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 39,
-   "2025": 19,
+   "2024": 41,
+   "2025": 20,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2278,7 +2278,7 @@
    "CODCOM": 13202,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 18,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2286,7 +2286,7 @@
    "CODCOM": 13202,
    "delito": "ROBO POR SORPRESA",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PIRQUE"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13202,
    "delito": "HURTOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
    "COMUNA": "PIRQUE"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13202,
    "delito": "HURTOS",
-   "2024": 6,
+   "2024": 10,
    "2025": 4,
    "COMUNA": "PIRQUE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Metropolitana"
  }
 }

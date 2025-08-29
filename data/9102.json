@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9102,
-   "2024": 51,
+   "2024": 52,
    "2025": 65,
-   "variacion": 27,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "CARAHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9102,
-   "2024": 51,
-   "2025": 64,
-   "variacion": 25,
+   "2024": 53,
+   "2025": 65,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "CARAHUE"
   },
@@ -31,9 +31,9 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9102,
    "2024": 4,
-   "2025": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CARAHUE"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9102,
    "2024": 18,
-   "2025": 9,
-   "variacion": -50,
+   "2025": 10,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "CARAHUE"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9102,
    "2024": 21,
-   "2025": 12,
-   "variacion": -43,
+   "2025": 13,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CARAHUE"
   },
@@ -418,7 +418,7 @@
    "CODCOM": 9102,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CARAHUE"
   },
   {
@@ -498,7 +498,7 @@
    "CODCOM": 9102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CARAHUE"
   },
   {
@@ -830,6 +830,14 @@
    "COMUNA": "CARAHUE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CARAHUE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9102,
    "anio": 2024,
@@ -974,6 +982,14 @@
    "COMUNA": "CARAHUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CARAHUE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9102,
    "anio": 2025,
@@ -1035,7 +1051,7 @@
    "informacion": "Casos",
    "CODCOM": 9102,
    "delito": "HURTOS",
-   "2024": 51,
+   "2024": 52,
    "2025": 65,
    "COMUNA": "CARAHUE"
   },
@@ -1043,8 +1059,8 @@
    "informacion": "Casos",
    "CODCOM": 9102,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 64,
+   "2024": 53,
+   "2025": 65,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1060,7 +1076,7 @@
    "CODCOM": 9102,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1092,7 +1108,7 @@
    "CODCOM": 9102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 18,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1100,7 +1116,7 @@
    "CODCOM": 9102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 21,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1131,8 +1147,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9102,
    "delito": "LESIONES",
-   "2024": 18,
-   "2025": 30,
+   "2024": 19,
+   "2025": 31,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1203,8 +1219,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9102,
    "delito": "LESIONES",
-   "2024": 29,
-   "2025": 46,
+   "2024": 30,
+   "2025": 47,
    "COMUNA": "CARAHUE"
   },
   {
@@ -1265,7 +1281,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7402,
-   "2024": 44,
+   "2024": 45,
    "2025": 36,
-   "variacion": -18,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "COLBÚN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7402,
-   "2024": 64,
-   "2025": 33,
-   "variacion": -48,
+   "2024": 66,
+   "2025": 37,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "COLBÚN"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7402,
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
-   "variacion": 300,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "COLBÚN"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7402,
-   "2024": 26,
+   "2024": 27,
    "2025": 24,
-   "variacion": -8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "COLBÚN"
   },
@@ -76,9 +76,9 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7402,
    "2024": 38,
-   "2025": 37,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 39,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "COLBÚN"
   },
   {
@@ -427,7 +427,7 @@
    "CODCOM": 7402,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1003,7 +1003,7 @@
    "CODCOM": 7402,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1084,7 +1084,7 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "HURTOS",
-   "2024": 44,
+   "2024": 45,
    "2025": 36,
    "COMUNA": "COLBÚN"
   },
@@ -1092,8 +1092,8 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "LESIONES",
-   "2024": 64,
-   "2025": 33,
+   "2024": 66,
+   "2025": 37,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1124,7 +1124,7 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
    "COMUNA": "COLBÚN"
   },
@@ -1140,7 +1140,7 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 26,
+   "2024": 27,
    "2025": 24,
    "COMUNA": "COLBÚN"
   },
@@ -1149,7 +1149,7 @@
    "CODCOM": 7402,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 38,
-   "2025": 37,
+   "2025": 39,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1188,8 +1188,8 @@
    "informacion": "Detenciones",
    "CODCOM": 7402,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 11,
+   "2024": 26,
+   "2025": 12,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1244,8 +1244,8 @@
    "informacion": "Detenidos",
    "CODCOM": 7402,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 23,
+   "2024": 45,
+   "2025": 24,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1290,7 +1290,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

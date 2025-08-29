@@ -12,8 +12,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9207,
-   "2024": 34,
-   "2025": 32,
+   "2024": 35,
+   "2025": 33,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LUMACO"
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9207,
-   "2024": 6,
+   "2024": 8,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "LUMACO"
   },
@@ -281,6 +281,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "LUMACO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "LUMACO"
   },
   {
@@ -513,8 +521,8 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 32,
+   "2024": 35,
+   "2025": 33,
    "COMUNA": "LUMACO"
   },
   {
@@ -561,7 +569,7 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 8,
    "2025": 4,
    "COMUNA": "LUMACO"
   },
@@ -585,8 +593,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9207,
    "delito": "LESIONES",
-   "2024": 14,
-   "2025": 8,
+   "2024": 15,
+   "2025": 9,
    "COMUNA": "LUMACO"
   },
   {
@@ -625,8 +633,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9207,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 13,
+   "2024": 24,
+   "2025": 15,
    "COMUNA": "LUMACO"
   },
   {
@@ -655,7 +663,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 7107,
    "2024": 10,
-   "2025": 8,
-   "variacion": -20,
+   "2025": 9,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7107,
-   "2024": 11,
+   "2024": 12,
    "2025": 6,
-   "variacion": -45,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7107,
-   "2024": 19,
-   "2025": 16,
-   "variacion": -16,
+   "2024": 20,
+   "2025": 17,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -185,6 +185,14 @@
    "CODCOM": 7107,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PENCAHUE"
   },
@@ -601,7 +609,7 @@
    "CODCOM": 7107,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -619,7 +627,7 @@
    "CODCOM": 7107,
    "delito": "HURTOS",
    "2024": 10,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -674,7 +682,7 @@
    "informacion": "Casos",
    "CODCOM": 7107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 6,
    "COMUNA": "PENCAHUE"
   },
@@ -682,8 +690,8 @@
    "informacion": "Casos",
    "CODCOM": 7107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
-   "2025": 16,
+   "2024": 20,
+   "2025": 17,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -760,7 +768,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Maule"
  }
 }

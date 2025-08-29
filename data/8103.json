@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8103,
-   "2024": 135,
-   "2025": 166,
-   "variacion": 23,
+   "2024": 143,
+   "2025": 173,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8103,
-   "2024": 136,
-   "2025": 111,
-   "variacion": -18,
+   "2024": 142,
+   "2025": 119,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8103,
-   "2024": 43,
-   "2025": 36,
-   "variacion": -16,
+   "2024": 50,
+   "2025": 38,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8103,
    "2024": 20,
-   "2025": 21,
-   "variacion": 5,
+   "2025": 22,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8103,
-   "2024": 33,
-   "2025": 58,
-   "variacion": 76,
+   "2024": 35,
+   "2025": 62,
+   "variacion": 77,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8103,
    "2024": 40,
-   "2025": 70,
-   "variacion": 75,
+   "2025": 71,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
@@ -76,35 +76,35 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8103,
    "2024": 85,
-   "2025": 62,
-   "variacion": -27,
+   "2025": 63,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8103,
-   "2024": 65,
-   "2025": 44,
-   "variacion": -32,
+   "2024": 70,
+   "2025": 48,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8103,
-   "2024": 21,
+   "2024": 23,
    "2025": 14,
-   "variacion": -33,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8103,
-   "2024": 6,
+   "2024": 7,
    "2025": 8,
-   "variacion": 33,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "CHIGUAYANTE"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 12,
+   "casos": 19,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 18,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 12,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 8103,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "HURTOS",
-   "2024": 135,
-   "2025": 166,
+   "2024": 143,
+   "2025": 173,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "LESIONES",
-   "2024": 136,
-   "2025": 111,
+   "2024": 142,
+   "2025": 119,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2237,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 43,
-   "2025": 36,
+   "2024": 50,
+   "2025": 38,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2246,15 +2246,15 @@
    "CODCOM": 8103,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 20,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 33,
-   "2025": 58,
+   "2024": 35,
+   "2025": 62,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2262,7 +2262,7 @@
    "CODCOM": 8103,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 40,
-   "2025": 70,
+   "2025": 71,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2270,22 +2270,22 @@
    "CODCOM": 8103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 85,
-   "2025": 62,
+   "2025": 63,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 65,
-   "2025": 44,
+   "2024": 70,
+   "2025": 48,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "ROBO POR SORPRESA",
-   "2024": 21,
+   "2024": 23,
    "2025": 14,
    "COMUNA": "CHIGUAYANTE"
   },
@@ -2293,7 +2293,7 @@
    "informacion": "Casos",
    "CODCOM": 8103,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 8,
    "COMUNA": "CHIGUAYANTE"
   },
@@ -2317,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8103,
    "delito": "HURTOS",
-   "2024": 66,
-   "2025": 98,
+   "2024": 70,
+   "2025": 102,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8103,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 30,
+   "2024": 26,
+   "2025": 31,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2341,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "CHIGUAYANTE"
   },
@@ -2421,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8103,
    "delito": "HURTOS",
-   "2024": 72,
-   "2025": 100,
+   "2024": 77,
+   "2025": 104,
    "COMUNA": "CHIGUAYANTE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8103,
    "delito": "LESIONES",
-   "2024": 47,
-   "2025": 59,
+   "2024": 48,
+   "2025": 61,
    "COMUNA": "CHIGUAYANTE"
   },
   {
@@ -2445,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "CHIGUAYANTE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Biobío"
  }
 }

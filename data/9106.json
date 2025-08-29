@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 9106,
    "2024": 12,
-   "2025": 21,
-   "variacion": 75,
+   "2025": 22,
+   "variacion": 83,
    "situación": "Aumento de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 9106,
    "2024": 25,
-   "2025": 11,
-   "variacion": -56,
+   "2025": 12,
+   "variacion": -52,
    "situación": "Disminución de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -219,6 +219,14 @@
    "COMUNA": "GALVARINO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 9106,
    "anio": 2024,
@@ -351,7 +359,7 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "GALVARINO"
   },
   {
@@ -641,7 +649,7 @@
    "CODCOM": 9106,
    "delito": "HURTOS",
    "2024": 12,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "GALVARINO"
   },
   {
@@ -649,7 +657,7 @@
    "CODCOM": 9106,
    "delito": "LESIONES",
    "2024": 25,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "GALVARINO"
   },
   {
@@ -766,7 +774,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

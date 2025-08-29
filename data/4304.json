@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4304,
-   "2024": 10,
+   "2024": 11,
    "2025": 15,
-   "variacion": 50,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNITAQUI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4304,
-   "2024": 27,
+   "2024": 28,
    "2025": 20,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4304,
-   "2024": 25,
-   "2025": 18,
-   "variacion": -28,
+   "2024": 26,
+   "2025": 19,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -608,7 +608,7 @@
    "CODCOM": 4304,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -737,7 +737,7 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 15,
    "COMUNA": "PUNITAQUI"
   },
@@ -745,7 +745,7 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "LESIONES",
-   "2024": 27,
+   "2024": 28,
    "2025": 20,
    "COMUNA": "PUNITAQUI"
   },
@@ -793,8 +793,8 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 25,
-   "2025": 18,
+   "2024": 26,
+   "2025": 19,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -817,7 +817,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4304,
    "delito": "LESIONES",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "PUNITAQUI"
   },
@@ -849,7 +849,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4304,
    "delito": "LESIONES",
-   "2024": 4,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "PUNITAQUI"
   },
@@ -871,7 +871,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Coquimbo"
  }
 }

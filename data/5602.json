@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5602,
-   "2024": 68,
+   "2024": 69,
    "2025": 59,
-   "variacion": -13,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 5602,
    "2024": 52,
-   "2025": 63,
-   "variacion": 21,
+   "2025": 64,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "ALGARROBO"
   },
@@ -40,53 +40,53 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5602,
    "2024": 17,
-   "2025": 14,
-   "variacion": -18,
+   "2025": 15,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5602,
-   "2024": 13,
+   "2024": 14,
    "2025": 9,
-   "variacion": -31,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5602,
-   "2024": 29,
-   "2025": 68,
-   "variacion": 134,
+   "2024": 30,
+   "2025": 71,
+   "variacion": 137,
    "situación": "Aumento de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5602,
-   "2024": 27,
+   "2024": 28,
    "2025": 17,
-   "variacion": -37,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5602,
-   "2024": 118,
-   "2025": 117,
-   "variacion": -1,
+   "2024": 123,
+   "2025": 120,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5602,
-   "2024": 42,
-   "2025": 31,
-   "variacion": -26,
+   "2024": 44,
+   "2025": 32,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "ALGARROBO"
   },
@@ -103,9 +103,9 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5602,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "ALGARROBO"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 5602,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -572,6 +572,14 @@
    "CODCOM": 5602,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "ALGARROBO"
   },
@@ -820,7 +828,7 @@
    "CODCOM": 5602,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1100,7 +1108,7 @@
    "CODCOM": 5602,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1252,7 +1260,7 @@
    "CODCOM": 5602,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1336,6 +1344,14 @@
    "COMUNA": "ALGARROBO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5602,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ALGARROBO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5602,
    "anio": 2024,
@@ -1365,7 +1381,7 @@
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "HURTOS",
-   "2024": 68,
+   "2024": 69,
    "2025": 59,
    "COMUNA": "ALGARROBO"
   },
@@ -1374,7 +1390,7 @@
    "CODCOM": 5602,
    "delito": "LESIONES",
    "2024": 52,
-   "2025": 63,
+   "2025": 64,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1390,14 +1406,14 @@
    "CODCOM": 5602,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 17,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "ALGARROBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 13,
+   "2024": 14,
    "2025": 9,
    "COMUNA": "ALGARROBO"
   },
@@ -1405,15 +1421,15 @@
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 29,
-   "2025": 68,
+   "2024": 30,
+   "2025": 71,
    "COMUNA": "ALGARROBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 27,
+   "2024": 28,
    "2025": 17,
    "COMUNA": "ALGARROBO"
   },
@@ -1421,16 +1437,16 @@
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 118,
-   "2025": 117,
+   "2024": 123,
+   "2025": 120,
    "COMUNA": "ALGARROBO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5602,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 42,
-   "2025": 31,
+   "2024": 44,
+   "2025": 32,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1446,7 +1462,7 @@
    "CODCOM": 5602,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "ALGARROBO"
   },
   {
@@ -1493,7 +1509,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5602,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "ALGARROBO"
   },
@@ -1509,7 +1525,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5602,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
    "COMUNA": "ALGARROBO"
   },
@@ -1565,7 +1581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5602,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "ALGARROBO"
   },
@@ -1581,7 +1597,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5602,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 10,
    "2025": 11,
    "COMUNA": "ALGARROBO"
   },
@@ -1603,7 +1619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

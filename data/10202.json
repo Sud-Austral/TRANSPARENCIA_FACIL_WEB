@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10202,
-   "2024": 87,
-   "2025": 83,
-   "variacion": -5,
+   "2024": 95,
+   "2025": 87,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10202,
-   "2024": 107,
-   "2025": 104,
-   "variacion": -3,
+   "2024": 112,
+   "2025": 106,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "ANCUD"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "ANCUD"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 87,
-   "2025": 83,
+   "2024": 95,
+   "2025": 87,
    "COMUNA": "ANCUD"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "LESIONES",
-   "2024": 107,
-   "2025": 104,
+   "2024": 112,
+   "2025": 106,
    "COMUNA": "ANCUD"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 18,
    "2025": 17,
    "COMUNA": "ANCUD"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10202,
    "delito": "LESIONES",
-   "2024": 44,
-   "2025": 48,
+   "2024": 47,
+   "2025": 50,
    "COMUNA": "ANCUD"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 23,
+   "2024": 25,
    "2025": 22,
    "COMUNA": "ANCUD"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10202,
    "delito": "LESIONES",
-   "2024": 72,
-   "2025": 89,
+   "2024": 79,
+   "2025": 92,
    "COMUNA": "ANCUD"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Los Lagos"
  }
 }

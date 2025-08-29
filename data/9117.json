@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9117,
-   "2024": 28,
+   "2024": 30,
    "2025": 25,
-   "variacion": -11,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9117,
    "2024": 1,
-   "2025": 4,
-   "variacion": 300,
+   "2025": 5,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9117,
-   "2024": 23,
+   "2024": 24,
    "2025": 8,
-   "variacion": -65,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -481,7 +481,7 @@
    "CODCOM": 9117,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -746,7 +746,7 @@
    "informacion": "Casos",
    "CODCOM": 9117,
    "delito": "LESIONES",
-   "2024": 28,
+   "2024": 30,
    "2025": 25,
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -763,7 +763,7 @@
    "CODCOM": 9117,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -794,7 +794,7 @@
    "informacion": "Casos",
    "CODCOM": 9117,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 23,
+   "2024": 24,
    "2025": 8,
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -843,7 +843,7 @@
    "CODCOM": 9117,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 9117,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -936,7 +936,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

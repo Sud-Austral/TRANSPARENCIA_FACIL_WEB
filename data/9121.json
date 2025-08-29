@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9121,
-   "2024": 21,
-   "2025": 17,
-   "variacion": -19,
+   "2024": 22,
+   "2025": 18,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9121,
-   "2024": 39,
-   "2025": 26,
-   "variacion": -33,
+   "2024": 40,
+   "2025": 30,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9121,
-   "2024": 19,
+   "2024": 20,
    "2025": 11,
-   "variacion": -42,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -262,6 +262,14 @@
    "COMUNA": "CHOLCHOL"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9121,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHOLCHOL"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 9121,
    "anio": 2024,
@@ -418,7 +426,7 @@
    "CODCOM": 9121,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -907,16 +915,16 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "HURTOS",
-   "2024": 21,
-   "2025": 17,
+   "2024": 22,
+   "2025": 18,
    "COMUNA": "CHOLCHOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "LESIONES",
-   "2024": 39,
-   "2025": 26,
+   "2024": 40,
+   "2025": 30,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -963,7 +971,7 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
+   "2024": 20,
    "2025": 11,
    "COMUNA": "CHOLCHOL"
   },
@@ -1097,7 +1105,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

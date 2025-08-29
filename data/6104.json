@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6104,
-   "2024": 31,
-   "2025": 53,
-   "variacion": 71,
+   "2024": 32,
+   "2025": 54,
+   "variacion": 69,
    "situación": "Aumento de Casos",
    "COMUNA": "COLTAUCO"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6104,
    "2024": 5,
-   "2025": 3,
-   "variacion": -40,
+   "2025": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "COLTAUCO"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6104,
-   "2024": 40,
-   "2025": 18,
-   "variacion": -55,
+   "2024": 41,
+   "2025": 19,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "COLTAUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6104,
-   "2024": 19,
+   "2024": 20,
    "2025": 32,
-   "variacion": 68,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "COLTAUCO"
   }
@@ -392,7 +392,7 @@
    "CODCOM": 6104,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -480,6 +480,14 @@
    "CODCOM": 6104,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "COLTAUCO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "COLTAUCO"
   },
@@ -724,6 +732,14 @@
    "COMUNA": "COLTAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COLTAUCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6104,
    "anio": 2024,
@@ -897,8 +913,8 @@
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 53,
+   "2024": 32,
+   "2025": 54,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -906,7 +922,7 @@
    "CODCOM": 6104,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 5,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -937,15 +953,15 @@
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 40,
-   "2025": 18,
+   "2024": 41,
+   "2025": 19,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
+   "2024": 20,
    "2025": 32,
    "COMUNA": "COLTAUCO"
   },
@@ -962,7 +978,7 @@
    "CODCOM": 6104,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -1010,7 +1026,7 @@
    "CODCOM": 6104,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -1047,7 +1063,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "O'Higgins"
  }
 }

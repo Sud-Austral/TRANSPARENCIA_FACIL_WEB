@@ -21,9 +21,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6204,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "MARCHIHUE"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6204,
    "2024": 7,
-   "2025": 10,
-   "variacion": 43,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "MARCHIHUE"
   },
@@ -503,7 +503,7 @@
    "CODCOM": 6204,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "MARCHIHUE"
   },
   {
@@ -648,7 +648,7 @@
    "informacion": "Casos",
    "CODCOM": 6204,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "MARCHIHUE"
   },
@@ -681,7 +681,7 @@
    "CODCOM": 6204,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "MARCHIHUE"
   },
   {
@@ -758,7 +758,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "O'Higgins"
  }
 }

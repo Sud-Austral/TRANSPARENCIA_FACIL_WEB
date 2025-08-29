@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13404,
-   "2024": 98,
-   "2025": 123,
-   "variacion": 26,
+   "2024": 102,
+   "2025": 126,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13404,
-   "2024": 166,
-   "2025": 191,
-   "variacion": 15,
+   "2024": 170,
+   "2025": 198,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
@@ -39,54 +39,54 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13404,
-   "2024": 105,
-   "2025": 86,
-   "variacion": -18,
+   "2024": 109,
+   "2025": 87,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13404,
-   "2024": 55,
+   "2024": 56,
    "2025": 43,
-   "variacion": -22,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13404,
-   "2024": 62,
+   "2024": 65,
    "2025": 83,
-   "variacion": 34,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13404,
-   "2024": 46,
+   "2024": 47,
    "2025": 75,
-   "variacion": 63,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13404,
-   "2024": 88,
-   "2025": 108,
-   "variacion": 23,
+   "2024": 91,
+   "2025": 110,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13404,
-   "2024": 81,
-   "2025": 90,
-   "variacion": 11,
+   "2024": 87,
+   "2025": 94,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13404,
    "2024": 22,
-   "2025": 24,
-   "variacion": 9,
+   "2025": 25,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "PAINE"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 14,
    "COMUNA": "PAINE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 15,
+   "casos": 22,
    "COMUNA": "PAINE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "PAINE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "PAINE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 10,
    "COMUNA": "PAINE"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 13404,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "PAINE"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "HURTOS",
-   "2024": 98,
-   "2025": 123,
+   "2024": 102,
+   "2025": 126,
    "COMUNA": "PAINE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "LESIONES",
-   "2024": 166,
-   "2025": 191,
+   "2024": 170,
+   "2025": 198,
    "COMUNA": "PAINE"
   },
   {
@@ -2237,15 +2237,15 @@
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 105,
-   "2025": 86,
+   "2024": 109,
+   "2025": 87,
    "COMUNA": "PAINE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 55,
+   "2024": 56,
    "2025": 43,
    "COMUNA": "PAINE"
   },
@@ -2253,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 62,
+   "2024": 65,
    "2025": 83,
    "COMUNA": "PAINE"
   },
@@ -2261,7 +2261,7 @@
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 46,
+   "2024": 47,
    "2025": 75,
    "COMUNA": "PAINE"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 88,
-   "2025": 108,
+   "2024": 91,
+   "2025": 110,
    "COMUNA": "PAINE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 81,
-   "2025": 90,
+   "2024": 87,
+   "2025": 94,
    "COMUNA": "PAINE"
   },
   {
@@ -2286,7 +2286,7 @@
    "CODCOM": 13404,
    "delito": "ROBO POR SORPRESA",
    "2024": 22,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "PAINE"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13404,
    "delito": "HURTOS",
-   "2024": 10,
-   "2025": 24,
+   "2024": 11,
+   "2025": 27,
    "COMUNA": "PAINE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13404,
    "delito": "LESIONES",
-   "2024": 36,
-   "2025": 62,
+   "2024": 37,
+   "2025": 65,
    "COMUNA": "PAINE"
   },
   {
@@ -2341,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13404,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
+   "2024": 7,
    "2025": 9,
    "COMUNA": "PAINE"
   },
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "PAINE"
   },
@@ -2382,7 +2382,7 @@
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PAINE"
   },
   {
@@ -2421,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13404,
    "delito": "HURTOS",
-   "2024": 11,
-   "2025": 29,
+   "2024": 12,
+   "2025": 32,
    "COMUNA": "PAINE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13404,
    "delito": "LESIONES",
-   "2024": 59,
-   "2025": 102,
+   "2024": 61,
+   "2025": 106,
    "COMUNA": "PAINE"
   },
   {
@@ -2445,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13404,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 9,
+   "2024": 10,
    "2025": 12,
    "COMUNA": "PAINE"
   },
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "PAINE"
   },
@@ -2486,7 +2486,7 @@
    "CODCOM": 13404,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 10,
+   "2025": 13,
    "COMUNA": "PAINE"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Metropolitana"
  }
 }

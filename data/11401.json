@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11401,
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHILE CHICO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11401,
-   "2024": 17,
+   "2024": 18,
    "2025": 12,
-   "variacion": -29,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILE CHICO"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11401,
-   "2024": 6,
-   "2025": 14,
-   "variacion": 133,
+   "2024": 7,
+   "2025": 15,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "CHILE CHICO"
   }
@@ -533,7 +533,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CHILE CHICO"
   }
  ],
@@ -550,7 +550,7 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "CHILE CHICO"
   },
@@ -558,7 +558,7 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 18,
    "2025": 12,
    "COMUNA": "CHILE CHICO"
   },
@@ -582,8 +582,8 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
-   "2025": 14,
+   "2024": 7,
+   "2025": 15,
    "COMUNA": "CHILE CHICO"
   },
   {
@@ -636,7 +636,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Aysén"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9201,
-   "2024": 116,
-   "2025": 144,
-   "variacion": 24,
+   "2024": 124,
+   "2025": 150,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9201,
-   "2024": 163,
-   "2025": 145,
-   "variacion": -11,
+   "2024": 167,
+   "2025": 147,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9201,
-   "2024": 15,
+   "2024": 17,
    "2025": 13,
-   "variacion": -13,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9201,
    "2024": 19,
-   "2025": 18,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 20,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9201,
-   "2024": 20,
-   "2025": 34,
-   "variacion": 70,
+   "2024": 21,
+   "2025": 38,
+   "variacion": 81,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9201,
-   "2024": 78,
-   "2025": 65,
-   "variacion": -17,
+   "2024": 82,
+   "2025": 67,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9201,
-   "2024": 74,
-   "2025": 75,
+   "2024": 78,
+   "2025": 79,
    "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9201,
-   "2024": 1,
+   "2024": 2,
    "2025": 5,
-   "variacion": 400,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 17,
    "COMUNA": "ANGOL"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "ANGOL"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "ANGOL"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "ANGOL"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "ANGOL"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 9201,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "ANGOL"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 116,
-   "2025": 144,
+   "2024": 124,
+   "2025": 150,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 163,
-   "2025": 145,
+   "2024": 167,
+   "2025": 147,
    "COMUNA": "ANGOL"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 15,
+   "2024": 17,
    "2025": 13,
    "COMUNA": "ANGOL"
   },
@@ -2246,15 +2246,15 @@
    "CODCOM": 9201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 19,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 20,
-   "2025": 34,
+   "2024": 21,
+   "2025": 38,
    "COMUNA": "ANGOL"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 78,
-   "2025": 65,
+   "2024": 82,
+   "2025": 67,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 74,
-   "2025": 75,
+   "2024": 78,
+   "2025": 79,
    "COMUNA": "ANGOL"
   },
   {
@@ -2293,7 +2293,7 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 5,
    "COMUNA": "ANGOL"
   },
@@ -2317,15 +2317,15 @@
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 48,
-   "2025": 33,
+   "2024": 50,
+   "2025": 34,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 49,
+   "2024": 50,
    "2025": 48,
    "COMUNA": "ANGOL"
   },
@@ -2341,7 +2341,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "ANGOL"
   },
@@ -2350,7 +2350,7 @@
    "CODCOM": 9201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "ANGOL"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "ANGOL"
   },
   {
@@ -2421,15 +2421,15 @@
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 54,
-   "2025": 41,
+   "2024": 56,
+   "2025": 43,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 84,
+   "2024": 86,
    "2025": 84,
    "COMUNA": "ANGOL"
   },
@@ -2445,7 +2445,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "ANGOL"
   },
@@ -2454,7 +2454,7 @@
    "CODCOM": 9201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 9,
+   "2025": 12,
    "COMUNA": "ANGOL"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "ANGOL"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "La Araucanía"
  }
 }

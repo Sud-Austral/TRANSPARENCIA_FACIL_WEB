@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8313,
-   "2024": 87,
-   "2025": 48,
-   "variacion": -45,
+   "2024": 93,
+   "2025": 50,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "YUMBEL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8313,
-   "2024": 79,
-   "2025": 72,
-   "variacion": -9,
+   "2024": 82,
+   "2025": 73,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "YUMBEL"
   },
@@ -67,16 +67,16 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8313,
    "2024": 12,
-   "2025": 17,
-   "variacion": 42,
+   "2025": 18,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "YUMBEL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8313,
-   "2024": 113,
-   "2025": 69,
+   "2024": 116,
+   "2025": 71,
    "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "YUMBEL"
@@ -436,7 +436,7 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "YUMBEL"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "YUMBEL"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "YUMBEL"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "YUMBEL"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "HURTOS",
-   "2024": 87,
-   "2025": 48,
+   "2024": 93,
+   "2025": 50,
    "COMUNA": "YUMBEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "LESIONES",
-   "2024": 79,
-   "2025": 72,
+   "2024": 82,
+   "2025": 73,
    "COMUNA": "YUMBEL"
   },
   {
@@ -2262,15 +2262,15 @@
    "CODCOM": 8313,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 12,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "YUMBEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 113,
-   "2025": 69,
+   "2024": 116,
+   "2025": 71,
    "COMUNA": "YUMBEL"
   },
   {
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8313,
    "delito": "LESIONES",
-   "2024": 29,
+   "2024": 30,
    "2025": 27,
    "COMUNA": "YUMBEL"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8313,
    "delito": "LESIONES",
-   "2024": 49,
+   "2024": 52,
    "2025": 39,
    "COMUNA": "YUMBEL"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Biobío"
  }
 }

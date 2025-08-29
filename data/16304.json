@@ -13,9 +13,9 @@
    "delito": "LESIONES",
    "CODCOM": 16304,
    "2024": 7,
-   "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 8,
+   "variacion": 14,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN FABIÁN"
   },
   {
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16304,
-   "2024": 10,
+   "2024": 11,
    "2025": 4,
-   "variacion": -60,
+   "variacion": -64,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FABIÁN"
   },
@@ -266,6 +266,14 @@
    "COMUNA": "SAN FABIÁN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "SAN FABIÁN"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16304,
    "anio": 2025,
@@ -480,7 +488,7 @@
    "CODCOM": 16304,
    "delito": "LESIONES",
    "2024": 7,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "SAN FABIÁN"
   },
   {
@@ -503,7 +511,7 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 4,
    "COMUNA": "SAN FABIÁN"
   },
@@ -621,7 +629,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Ñuble"
  }
 }

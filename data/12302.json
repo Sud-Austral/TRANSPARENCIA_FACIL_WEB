@@ -4,9 +4,9 @@
    "delito": "HURTOS",
    "CODCOM": 12302,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "PRIMAVERA"
   },
   {
@@ -51,6 +51,14 @@
    "CODCOM": 12302,
    "anio": 2025,
    "mes": 3,
+   "casos": 1,
+   "COMUNA": "PRIMAVERA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12302,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PRIMAVERA"
   },
@@ -133,7 +141,7 @@
    "CODCOM": 12302,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PRIMAVERA"
   },
   {
@@ -194,7 +202,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Magallanes"
  }
 }

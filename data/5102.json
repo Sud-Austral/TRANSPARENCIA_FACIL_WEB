@@ -12,36 +12,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5102,
-   "2024": 81,
-   "2025": 64,
-   "variacion": -21,
+   "2024": 86,
+   "2025": 66,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5102,
-   "2024": 99,
-   "2025": 81,
-   "variacion": -18,
+   "2024": 103,
+   "2025": 85,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5102,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5102,
    "2024": 15,
-   "2025": 19,
-   "variacion": 27,
+   "2025": 21,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "CASABLANCA"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5102,
    "2024": 11,
-   "2025": 16,
-   "variacion": 45,
+   "2025": 17,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5102,
-   "2024": 40,
-   "2025": 28,
-   "variacion": -30,
+   "2024": 43,
+   "2025": 32,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
@@ -75,28 +75,28 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5102,
-   "2024": 111,
-   "2025": 74,
-   "variacion": -33,
+   "2024": 112,
+   "2025": 76,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5102,
-   "2024": 88,
-   "2025": 63,
-   "variacion": -28,
+   "2024": 89,
+   "2025": 65,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5102,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CASABLANCA"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 5102,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "HURTOS",
-   "2024": 81,
-   "2025": 64,
+   "2024": 86,
+   "2025": 66,
    "COMUNA": "CASABLANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "LESIONES",
-   "2024": 99,
-   "2025": 81,
+   "2024": 103,
+   "2025": 85,
    "COMUNA": "CASABLANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "CASABLANCA"
   },
@@ -2238,7 +2238,7 @@
    "CODCOM": 5102,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 15,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -2246,15 +2246,15 @@
    "CODCOM": 5102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 11,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "CASABLANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 40,
-   "2025": 28,
+   "2024": 43,
+   "2025": 32,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -2269,23 +2269,23 @@
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 111,
-   "2025": 74,
+   "2024": 112,
+   "2025": 76,
    "COMUNA": "CASABLANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 88,
-   "2025": 63,
+   "2024": 89,
+   "2025": 65,
    "COMUNA": "CASABLANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "CASABLANCA"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5102,
    "delito": "LESIONES",
-   "2024": 27,
-   "2025": 23,
+   "2024": 29,
+   "2025": 25,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5102,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 40,
+   "2024": 54,
+   "2025": 45,
    "COMUNA": "CASABLANCA"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Valparaíso"
  }
 }

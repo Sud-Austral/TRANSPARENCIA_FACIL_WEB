@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8206,
-   "2024": 46,
-   "2025": 36,
-   "variacion": -22,
+   "2024": 47,
+   "2025": 37,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8206,
-   "2024": 70,
-   "2025": 72,
-   "variacion": 3,
+   "2024": 71,
+   "2025": 75,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS ALAMOS"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8206,
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
-   "variacion": 67,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS ALAMOS"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8206,
-   "2024": 30,
+   "2024": 31,
    "2025": 24,
-   "variacion": -20,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ALAMOS"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 8206,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 8206,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "HURTOS",
-   "2024": 46,
-   "2025": 36,
+   "2024": 47,
+   "2025": 37,
    "COMUNA": "LOS ALAMOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "LESIONES",
-   "2024": 70,
-   "2025": 72,
+   "2024": 71,
+   "2025": 75,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "LOS ALAMOS"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 8206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 30,
+   "2024": 31,
    "2025": 24,
    "COMUNA": "LOS ALAMOS"
   },
@@ -2326,7 +2326,7 @@
    "CODCOM": 8206,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 8206,
    "delito": "LESIONES",
    "2024": 40,
-   "2025": 48,
+   "2025": 50,
    "COMUNA": "LOS ALAMOS"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 33/2025 (del 11/08/2025 al 17/08/2025)",
+  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
   "region": "Biobío"
  }
 }

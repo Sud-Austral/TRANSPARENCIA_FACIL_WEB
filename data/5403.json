@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 5403,
    "2024": 24,
-   "2025": 19,
-   "variacion": -21,
+   "2025": 22,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5403,
    "2024": 4,
-   "2025": 16,
-   "variacion": 300,
+   "2025": 17,
+   "variacion": 325,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5403,
-   "2024": 22,
+   "2024": 23,
    "2025": 12,
-   "variacion": -45,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5403,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -360,7 +360,7 @@
    "CODCOM": 5403,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "PAPUDO"
   },
   {
@@ -488,7 +488,7 @@
    "CODCOM": 5403,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "PAPUDO"
   },
   {
@@ -716,6 +716,14 @@
    "COMUNA": "PAPUDO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5403,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PAPUDO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5403,
    "anio": 2024,
@@ -738,7 +746,7 @@
    "CODCOM": 5403,
    "delito": "LESIONES",
    "2024": 24,
-   "2025": 19,
+   "2025": 22,
    "COMUNA": "PAPUDO"
   },
   {
@@ -762,7 +770,7 @@
    "CODCOM": 5403,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 4,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "PAPUDO"
   },
   {
@@ -777,7 +785,7 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
+   "2024": 23,
    "2025": 12,
    "COMUNA": "PAPUDO"
   },
@@ -786,7 +794,7 @@
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PAPUDO"
   },
   {
@@ -810,7 +818,7 @@
    "CODCOM": 5403,
    "delito": "LESIONES",
    "2024": 12,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PAPUDO"
   },
   {
@@ -842,7 +850,7 @@
    "CODCOM": 5403,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "PAPUDO"
   },
   {
@@ -863,7 +871,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

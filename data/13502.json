@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13502,
-   "2024": 13,
-   "2025": 23,
-   "variacion": 77,
+   "2024": 14,
+   "2025": 24,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "ALHUE"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13502,
-   "2024": 12,
+   "2024": 13,
    "2025": 11,
-   "variacion": -8,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "ALHUE"
   },
@@ -580,7 +580,7 @@
    "CODCOM": 13502,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "ALHUE"
   },
   {
@@ -2149,8 +2149,8 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "LESIONES",
-   "2024": 13,
-   "2025": 23,
+   "2024": 14,
+   "2025": 24,
    "COMUNA": "ALHUE"
   },
   {
@@ -2205,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 12,
+   "2024": 13,
    "2025": 11,
    "COMUNA": "ALHUE"
   },
@@ -2443,7 +2443,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7403,
-   "2024": 55,
-   "2025": 63,
-   "variacion": 15,
+   "2024": 56,
+   "2025": 67,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "LONGAVI"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 7403,
    "2024": 65,
-   "2025": 71,
-   "variacion": 9,
+   "2025": 73,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "LONGAVI"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7403,
-   "2024": 3,
+   "2024": 5,
    "2025": 5,
-   "variacion": 67,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LONGAVI"
   },
   {
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7403,
-   "2024": 34,
-   "2025": 32,
+   "2024": 36,
+   "2025": 34,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LONGAVI"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7403,
-   "2024": 32,
-   "2025": 48,
-   "variacion": 50,
+   "2024": 35,
+   "2025": 49,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "LONGAVI"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 7403,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "LONGAVI"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 7403,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "LONGAVI"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 7403,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "LONGAVI"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 7403,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2213,8 +2213,8 @@
    "informacion": "Casos",
    "CODCOM": 7403,
    "delito": "HURTOS",
-   "2024": 55,
-   "2025": 63,
+   "2024": 56,
+   "2025": 67,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2222,7 +2222,7 @@
    "CODCOM": 7403,
    "delito": "LESIONES",
    "2024": 65,
-   "2025": 71,
+   "2025": 73,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2253,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 7403,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 3,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "LONGAVI"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 7403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 34,
-   "2025": 32,
+   "2024": 36,
+   "2025": 34,
    "COMUNA": "LONGAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7403,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 32,
-   "2025": 48,
+   "2024": 35,
+   "2025": 49,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2318,7 +2318,7 @@
    "CODCOM": 7403,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "LONGAVI"
   },
@@ -2422,7 +2422,7 @@
    "CODCOM": 7403,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LONGAVI"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 2,
    "COMUNA": "LONGAVI"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

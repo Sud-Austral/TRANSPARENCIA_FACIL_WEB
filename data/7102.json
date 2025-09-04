@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7102,
-   "2024": 99,
-   "2025": 68,
-   "variacion": -31,
+   "2024": 104,
+   "2025": 70,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "CONSTITUCION"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7102,
-   "2024": 152,
-   "2025": 135,
-   "variacion": -11,
+   "2024": 156,
+   "2025": 141,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "CONSTITUCION"
   },
@@ -49,9 +49,9 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7102,
    "2024": 16,
-   "2025": 16,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 17,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7102,
-   "2024": 54,
-   "2025": 55,
+   "2024": 55,
+   "2025": 56,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "CONSTITUCION"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7102,
-   "2024": 75,
-   "2025": 36,
+   "2024": 77,
+   "2025": 37,
    "variacion": -52,
    "situación": "Disminución de Casos",
    "COMUNA": "CONSTITUCION"
@@ -436,7 +436,7 @@
    "CODCOM": 7102,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 7102,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 19,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 7102,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 7102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 7102,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 7102,
    "delito": "HURTOS",
-   "2024": 99,
-   "2025": 68,
+   "2024": 104,
+   "2025": 70,
    "COMUNA": "CONSTITUCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7102,
    "delito": "LESIONES",
-   "2024": 152,
-   "2025": 135,
+   "2024": 156,
+   "2025": 141,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2246,7 +2246,7 @@
    "CODCOM": 7102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 16,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 7102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 54,
-   "2025": 55,
+   "2024": 55,
+   "2025": 56,
    "COMUNA": "CONSTITUCION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 75,
-   "2025": 36,
+   "2024": 77,
+   "2025": 37,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7102,
    "delito": "HURTOS",
-   "2024": 11,
+   "2024": 12,
    "2025": 6,
    "COMUNA": "CONSTITUCION"
   },
@@ -2326,7 +2326,7 @@
    "CODCOM": 7102,
    "delito": "LESIONES",
    "2024": 41,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7102,
    "delito": "HURTOS",
-   "2024": 15,
+   "2024": 16,
    "2025": 7,
    "COMUNA": "CONSTITUCION"
   },
@@ -2430,7 +2430,7 @@
    "CODCOM": 7102,
    "delito": "LESIONES",
    "2024": 71,
-   "2025": 42,
+   "2025": 45,
    "COMUNA": "CONSTITUCION"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

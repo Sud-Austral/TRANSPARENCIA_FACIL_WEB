@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5606,
-   "2024": 16,
+   "2024": 18,
    "2025": 13,
-   "variacion": -19,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTO DOMINGO"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 5606,
    "2024": 14,
-   "2025": 26,
-   "variacion": 86,
+   "2025": 27,
+   "variacion": 93,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTO DOMINGO"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5606,
-   "2024": 45,
-   "2025": 23,
-   "variacion": -49,
+   "2024": 46,
+   "2025": 26,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTO DOMINGO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5606,
-   "2024": 34,
+   "2024": 35,
    "2025": 22,
-   "variacion": -35,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTO DOMINGO"
   },
@@ -369,7 +369,7 @@
    "CODCOM": 5606,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -737,7 +737,7 @@
    "CODCOM": 5606,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -930,7 +930,7 @@
    "informacion": "Casos",
    "CODCOM": 5606,
    "delito": "HURTOS",
-   "2024": 16,
+   "2024": 18,
    "2025": 13,
    "COMUNA": "SANTO DOMINGO"
   },
@@ -939,7 +939,7 @@
    "CODCOM": 5606,
    "delito": "LESIONES",
    "2024": 14,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -978,15 +978,15 @@
    "informacion": "Casos",
    "CODCOM": 5606,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 45,
-   "2025": 23,
+   "2024": 46,
+   "2025": 26,
    "COMUNA": "SANTO DOMINGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5606,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 34,
+   "2024": 35,
    "2025": 22,
    "COMUNA": "SANTO DOMINGO"
   },
@@ -1019,7 +1019,7 @@
    "CODCOM": 5606,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -1051,7 +1051,7 @@
    "CODCOM": 5606,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -1075,7 +1075,7 @@
    "CODCOM": 5606,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -1107,7 +1107,7 @@
    "CODCOM": 5606,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 4,
-   "2025": 2,
+   "2025": 5,
    "COMUNA": "SANTO DOMINGO"
   },
   {
@@ -1120,7 +1120,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

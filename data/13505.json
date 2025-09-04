@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 13505,
    "2024": 17,
-   "2025": 14,
-   "variacion": -18,
+   "2025": 15,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13505,
-   "2024": 29,
-   "2025": 29,
+   "2024": 30,
+   "2025": 30,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "SAN PEDRO"
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13505,
-   "2024": 8,
-   "2025": 19,
-   "variacion": 138,
+   "2024": 9,
+   "2025": 20,
+   "variacion": 122,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13505,
-   "2024": 38,
+   "2024": 41,
    "2025": 32,
-   "variacion": -16,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO"
   },
@@ -428,7 +428,7 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -588,7 +588,7 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -1516,7 +1516,7 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2150,15 +2150,15 @@
    "CODCOM": 13505,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "SAN PEDRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "LESIONES",
-   "2024": 29,
-   "2025": 29,
+   "2024": 30,
+   "2025": 30,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2205,15 +2205,15 @@
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
-   "2025": 19,
+   "2024": 9,
+   "2025": 20,
    "COMUNA": "SAN PEDRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13505,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 38,
+   "2024": 41,
    "2025": 32,
    "COMUNA": "SAN PEDRO"
   },
@@ -2262,7 +2262,7 @@
    "CODCOM": 13505,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13505,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN PEDRO"
   },
@@ -2366,7 +2366,7 @@
    "CODCOM": 13505,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13505,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 5,
    "2025": 0,
    "COMUNA": "SAN PEDRO"
   },
@@ -2451,7 +2451,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Metropolitana"
  }
 }

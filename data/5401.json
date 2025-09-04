@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5401,
-   "2024": 99,
-   "2025": 99,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 101,
+   "2025": 103,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "LA LIGUA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5401,
-   "2024": 93,
-   "2025": 94,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 98,
+   "2025": 98,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LA LIGUA"
   },
   {
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5401,
-   "2024": 12,
+   "2024": 13,
    "2025": 6,
-   "variacion": -50,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "LA LIGUA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5401,
-   "2024": 17,
+   "2024": 18,
    "2025": 19,
-   "variacion": 12,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "LA LIGUA"
   },
@@ -66,27 +66,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5401,
-   "2024": 17,
+   "2024": 18,
    "2025": 16,
-   "variacion": -6,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LA LIGUA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5401,
-   "2024": 87,
-   "2025": 93,
-   "variacion": 7,
+   "2024": 91,
+   "2025": 95,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "LA LIGUA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5401,
-   "2024": 88,
-   "2025": 73,
-   "variacion": -17,
+   "2024": 89,
+   "2025": 75,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "LA LIGUA"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 12,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 12,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 5401,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "HURTOS",
-   "2024": 99,
-   "2025": 99,
+   "2024": 101,
+   "2025": 103,
    "COMUNA": "LA LIGUA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "LESIONES",
-   "2024": 93,
-   "2025": 94,
+   "2024": 98,
+   "2025": 98,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 12,
+   "2024": 13,
    "2025": 6,
    "COMUNA": "LA LIGUA"
   },
@@ -2245,7 +2245,7 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 17,
+   "2024": 18,
    "2025": 19,
    "COMUNA": "LA LIGUA"
   },
@@ -2261,7 +2261,7 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 17,
+   "2024": 18,
    "2025": 16,
    "COMUNA": "LA LIGUA"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 87,
-   "2025": 93,
+   "2024": 91,
+   "2025": 95,
    "COMUNA": "LA LIGUA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 88,
-   "2025": 73,
+   "2024": 89,
+   "2025": 75,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5401,
    "delito": "HURTOS",
-   "2024": 22,
+   "2024": 23,
    "2025": 28,
    "COMUNA": "LA LIGUA"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5401,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 36,
+   "2024": 31,
+   "2025": 40,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 6,
    "COMUNA": "LA LIGUA"
   },
@@ -2382,7 +2382,7 @@
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5401,
    "delito": "HURTOS",
-   "2024": 28,
+   "2024": 29,
    "2025": 29,
    "COMUNA": "LA LIGUA"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5401,
    "delito": "LESIONES",
-   "2024": 48,
-   "2025": 69,
+   "2024": 50,
+   "2025": 79,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "LA LIGUA"
   },
@@ -2486,7 +2486,7 @@
    "CODCOM": 5401,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 21,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "LA LIGUA"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

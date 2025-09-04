@@ -3,18 +3,18 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 9121,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHOLCHOL"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 9121,
-   "2024": 22,
-   "2025": 18,
-   "variacion": -18,
+   "2024": 23,
+   "2025": 19,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 9121,
    "2024": 40,
-   "2025": 30,
-   "variacion": -25,
+   "2025": 32,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "CHOLCHOL"
   },
@@ -266,7 +266,7 @@
    "CODCOM": 9121,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -426,7 +426,7 @@
    "CODCOM": 9121,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -907,7 +907,7 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "CHOLCHOL"
   },
@@ -915,8 +915,8 @@
    "informacion": "Casos",
    "CODCOM": 9121,
    "delito": "HURTOS",
-   "2024": 22,
-   "2025": 18,
+   "2024": 23,
+   "2025": 19,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -924,7 +924,7 @@
    "CODCOM": 9121,
    "delito": "LESIONES",
    "2024": 40,
-   "2025": 30,
+   "2025": 32,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -1004,7 +1004,7 @@
    "CODCOM": 9121,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -1060,7 +1060,7 @@
    "CODCOM": 9121,
    "delito": "LESIONES",
    "2024": 24,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "CHOLCHOL"
   },
   {
@@ -1105,7 +1105,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

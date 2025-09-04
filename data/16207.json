@@ -12,8 +12,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16207,
-   "2024": 18,
-   "2025": 18,
+   "2024": 19,
+   "2025": 19,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "TREGUACO"
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16207,
-   "2024": 11,
-   "2025": 8,
-   "variacion": -27,
+   "2024": 12,
+   "2025": 10,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "TREGUACO"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16207,
    "2024": 10,
-   "2025": 6,
-   "variacion": -40,
+   "2025": 7,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TREGUACO"
   },
@@ -323,6 +323,14 @@
    "COMUNA": "TREGUACO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "TREGUACO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16207,
    "anio": 2025,
@@ -463,7 +471,7 @@
    "CODCOM": 16207,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "TREGUACO"
   },
   {
@@ -575,7 +583,7 @@
    "CODCOM": 16207,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "TREGUACO"
   },
   {
@@ -616,8 +624,8 @@
    "informacion": "Casos",
    "CODCOM": 16207,
    "delito": "LESIONES",
-   "2024": 18,
-   "2025": 18,
+   "2024": 19,
+   "2025": 19,
    "COMUNA": "TREGUACO"
   },
   {
@@ -640,8 +648,8 @@
    "informacion": "Casos",
    "CODCOM": 16207,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 11,
-   "2025": 8,
+   "2024": 12,
+   "2025": 10,
    "COMUNA": "TREGUACO"
   },
   {
@@ -649,7 +657,7 @@
    "CODCOM": 16207,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "TREGUACO"
   },
   {
@@ -681,7 +689,7 @@
    "CODCOM": 16207,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "TREGUACO"
   },
   {
@@ -713,7 +721,7 @@
    "CODCOM": 16207,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "TREGUACO"
   },
   {
@@ -734,7 +742,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

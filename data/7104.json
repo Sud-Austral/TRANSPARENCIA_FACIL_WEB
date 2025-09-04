@@ -4,9 +4,9 @@
    "delito": "HURTOS",
    "CODCOM": 7104,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "EMPEDRADO"
   },
   {
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7104,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "EMPEDRADO"
   },
@@ -109,6 +109,14 @@
    "CODCOM": 7104,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "EMPEDRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7104,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "EMPEDRADO"
   },
@@ -343,7 +351,7 @@
    "CODCOM": 7104,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "EMPEDRADO"
   },
   {
@@ -374,7 +382,7 @@
    "informacion": "Casos",
    "CODCOM": 7104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "EMPEDRADO"
   },
@@ -404,7 +412,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

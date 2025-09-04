@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5103,
-   "2024": 181,
-   "2025": 177,
-   "variacion": -2,
+   "2024": 185,
+   "2025": 183,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCON"
   },
@@ -22,27 +22,27 @@
    "delito": "LESIONES",
    "CODCOM": 5103,
    "2024": 100,
-   "2025": 102,
-   "variacion": 2,
+   "2025": 109,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCON"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5103,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "CONCON"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5103,
-   "2024": 36,
-   "2025": 36,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 38,
+   "2025": 37,
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "CONCON"
   },
   {
@@ -57,36 +57,36 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5103,
-   "2024": 184,
-   "2025": 190,
-   "variacion": 3,
+   "2024": 185,
+   "2025": 192,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCON"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5103,
-   "2024": 145,
-   "2025": 159,
-   "variacion": 10,
+   "2024": 147,
+   "2025": 164,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCON"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5103,
-   "2024": 57,
-   "2025": 61,
-   "variacion": 7,
+   "2024": 61,
+   "2025": 62,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "CONCON"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5103,
-   "2024": 59,
+   "2024": 65,
    "2025": 57,
-   "variacion": -3,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "CONCON"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 16,
    "COMUNA": "CONCON"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 13,
    "COMUNA": "CONCON"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CONCON"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 19,
+   "casos": 21,
    "COMUNA": "CONCON"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 14,
+   "casos": 19,
    "COMUNA": "CONCON"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 5103,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CONCON"
   },
   {
@@ -2213,8 +2213,8 @@
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "HURTOS",
-   "2024": 181,
-   "2025": 177,
+   "2024": 185,
+   "2025": 183,
    "COMUNA": "CONCON"
   },
   {
@@ -2222,14 +2222,14 @@
    "CODCOM": 5103,
    "delito": "LESIONES",
    "2024": 100,
-   "2025": 102,
+   "2025": 109,
    "COMUNA": "CONCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "CONCON"
   },
@@ -2237,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 36,
-   "2025": 36,
+   "2024": 38,
+   "2025": 37,
    "COMUNA": "CONCON"
   },
   {
@@ -2253,31 +2253,31 @@
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 184,
-   "2025": 190,
+   "2024": 185,
+   "2025": 192,
    "COMUNA": "CONCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 145,
-   "2025": 159,
+   "2024": 147,
+   "2025": 164,
    "COMUNA": "CONCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 57,
-   "2025": 61,
+   "2024": 61,
+   "2025": 62,
    "COMUNA": "CONCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 59,
+   "2024": 65,
    "2025": 57,
    "COMUNA": "CONCON"
   },
@@ -2317,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5103,
    "delito": "HURTOS",
-   "2024": 125,
-   "2025": 81,
+   "2024": 127,
+   "2025": 86,
    "COMUNA": "CONCON"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 5103,
    "delito": "LESIONES",
    "2024": 27,
-   "2025": 37,
+   "2025": 40,
    "COMUNA": "CONCON"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 5103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CONCON"
   },
   {
@@ -2421,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5103,
    "delito": "HURTOS",
-   "2024": 134,
-   "2025": 86,
+   "2024": 136,
+   "2025": 91,
    "COMUNA": "CONCON"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 5103,
    "delito": "LESIONES",
    "2024": 45,
-   "2025": 60,
+   "2025": 63,
    "COMUNA": "CONCON"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 5103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CONCON"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12301,
-   "2024": 16,
+   "2024": 17,
    "2025": 13,
-   "variacion": -19,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "PORVENIR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 12301,
-   "2024": 31,
-   "2025": 34,
-   "variacion": 10,
+   "2024": 33,
+   "2025": 35,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "PORVENIR"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 12301,
-   "2024": 10,
-   "2025": 11,
-   "variacion": 10,
+   "2024": 11,
+   "2025": 12,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "PORVENIR"
   },
@@ -360,7 +360,7 @@
    "CODCOM": 12301,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "PORVENIR"
   },
   {
@@ -604,6 +604,14 @@
    "COMUNA": "PORVENIR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12301,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PORVENIR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 12301,
    "anio": 2024,
@@ -657,7 +665,7 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "HURTOS",
-   "2024": 16,
+   "2024": 17,
    "2025": 13,
    "COMUNA": "PORVENIR"
   },
@@ -665,8 +673,8 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 34,
+   "2024": 33,
+   "2025": 35,
    "COMUNA": "PORVENIR"
   },
   {
@@ -697,8 +705,8 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
-   "2025": 11,
+   "2024": 11,
+   "2025": 12,
    "COMUNA": "PORVENIR"
   },
   {
@@ -737,7 +745,7 @@
    "informacion": "Detenciones",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 15,
    "COMUNA": "PORVENIR"
   },
@@ -785,7 +793,7 @@
    "informacion": "Detenidos",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 15,
+   "2024": 16,
    "2025": 22,
    "COMUNA": "PORVENIR"
   },
@@ -815,7 +823,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Magallanes"
  }
 }

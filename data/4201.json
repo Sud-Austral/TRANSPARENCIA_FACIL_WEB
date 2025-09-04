@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4201,
-   "2024": 56,
+   "2024": 59,
    "2025": 58,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "ILLAPEL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4201,
-   "2024": 83,
+   "2024": 87,
    "2025": 73,
-   "variacion": -12,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "ILLAPEL"
   },
@@ -48,19 +48,19 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4201,
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
-   "variacion": 83,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "ILLAPEL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4201,
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "ILLAPEL"
   },
   {
@@ -2213,7 +2213,7 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "HURTOS",
-   "2024": 56,
+   "2024": 59,
    "2025": 58,
    "COMUNA": "ILLAPEL"
   },
@@ -2221,7 +2221,7 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 83,
+   "2024": 87,
    "2025": 73,
    "COMUNA": "ILLAPEL"
   },
@@ -2245,7 +2245,7 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
    "COMUNA": "ILLAPEL"
   },
@@ -2253,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 15,
+   "2024": 16,
    "2025": 15,
    "COMUNA": "ILLAPEL"
   },
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 29,
+   "2024": 31,
    "2025": 18,
    "COMUNA": "ILLAPEL"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 41,
+   "2024": 45,
    "2025": 27,
    "COMUNA": "ILLAPEL"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

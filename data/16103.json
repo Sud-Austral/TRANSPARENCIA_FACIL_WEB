@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 16103,
    "2024": 68,
-   "2025": 79,
-   "variacion": 16,
+   "2025": 81,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "CHILLAN VIEJO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16103,
-   "2024": 41,
-   "2025": 48,
-   "variacion": 17,
+   "2024": 44,
+   "2025": 49,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "CHILLAN VIEJO"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16103,
-   "2024": 19,
+   "2024": 20,
    "2025": 9,
-   "variacion": -53,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLAN VIEJO"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16103,
    "2024": 65,
-   "2025": 41,
-   "variacion": -37,
+   "2025": 43,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLAN VIEJO"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16103,
-   "2024": 69,
-   "2025": 59,
+   "2024": 71,
+   "2025": 61,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLAN VIEJO"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16103,
-   "2024": 87,
-   "2025": 56,
-   "variacion": -36,
+   "2024": 89,
+   "2025": 59,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLAN VIEJO"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2214,15 +2214,15 @@
    "CODCOM": 16103,
    "delito": "HURTOS",
    "2024": 68,
-   "2025": 79,
+   "2025": 81,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "LESIONES",
-   "2024": 41,
-   "2025": 48,
+   "2024": 44,
+   "2025": 49,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 19,
+   "2024": 20,
    "2025": 9,
    "COMUNA": "CHILLAN VIEJO"
   },
@@ -2254,7 +2254,7 @@
    "CODCOM": 16103,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 65,
-   "2025": 41,
+   "2025": 43,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 69,
-   "2025": 59,
+   "2024": 71,
+   "2025": 61,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 87,
-   "2025": 56,
+   "2024": 89,
+   "2025": 59,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 16103,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 23,
+   "2024": 20,
+   "2025": 24,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 16103,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 40,
+   "2024": 44,
+   "2025": 41,
    "COMUNA": "CHILLAN VIEJO"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

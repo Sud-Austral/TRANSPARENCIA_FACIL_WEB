@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8202,
-   "2024": 93,
-   "2025": 92,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 95,
+   "2025": 97,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8202,
-   "2024": 119,
-   "2025": 96,
-   "variacion": -19,
+   "2024": 132,
+   "2025": 99,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "ARAUCO"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8202,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "ARAUCO"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8202,
-   "2024": 58,
-   "2025": 69,
-   "variacion": 19,
+   "2024": 61,
+   "2025": 70,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8202,
-   "2024": 54,
+   "2024": 55,
    "2025": 58,
-   "variacion": 7,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "ARAUCO"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 13,
    "COMUNA": "ARAUCO"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 16,
    "COMUNA": "ARAUCO"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ARAUCO"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 8202,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 93,
-   "2025": 92,
+   "2024": 95,
+   "2025": 97,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 119,
-   "2025": 96,
+   "2024": 132,
+   "2025": 99,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2246,7 +2246,7 @@
    "CODCOM": 8202,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2269,15 +2269,15 @@
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 58,
-   "2025": 69,
+   "2024": 61,
+   "2025": 70,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 54,
+   "2024": 55,
    "2025": 58,
    "COMUNA": "ARAUCO"
   },
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 19,
+   "2024": 20,
    "2025": 14,
    "COMUNA": "ARAUCO"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 38,
+   "2024": 47,
+   "2025": 41,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2374,14 +2374,14 @@
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 7,
    "COMUNA": "ARAUCO"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "HURTOS",
-   "2024": 25,
+   "2024": 26,
    "2025": 20,
    "COMUNA": "ARAUCO"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "LESIONES",
-   "2024": 85,
-   "2025": 70,
+   "2024": 92,
+   "2025": 74,
    "COMUNA": "ARAUCO"
   },
   {
@@ -2478,14 +2478,14 @@
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "ARAUCO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "ARAUCO"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Biobío"
  }
 }

@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7202,
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
-   "variacion": 75,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "CHANCO"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7202,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
-   "variacion": 100,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "CHANCO"
   },
@@ -497,7 +497,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "CHANCO"
   },
@@ -545,7 +545,7 @@
    "informacion": "Casos",
    "CODCOM": 7202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "CHANCO"
   },
@@ -615,7 +615,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

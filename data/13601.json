@@ -12,71 +12,71 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13601,
-   "2024": 222,
-   "2025": 228,
-   "variacion": 3,
+   "2024": 227,
+   "2025": 238,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13601,
-   "2024": 170,
-   "2025": 169,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 174,
+   "2025": 180,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13601,
-   "2024": 13,
+   "2024": 14,
    "2025": 17,
-   "variacion": 31,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13601,
-   "2024": 59,
-   "2025": 58,
-   "variacion": -2,
+   "2024": 62,
+   "2025": 59,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13601,
-   "2024": 25,
-   "2025": 35,
-   "variacion": 40,
+   "2024": 28,
+   "2025": 38,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13601,
-   "2024": 137,
-   "2025": 135,
-   "variacion": -1,
+   "2024": 143,
+   "2025": 137,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13601,
-   "2024": 53,
-   "2025": 57,
-   "variacion": 8,
+   "2024": 54,
+   "2025": 59,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13601,
-   "2024": 96,
-   "2025": 96,
+   "2024": 100,
+   "2025": 100,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "TALAGANTE"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13601,
-   "2024": 103,
-   "2025": 107,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "2024": 108,
+   "2025": 108,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TALAGANTE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13601,
-   "2024": 35,
+   "2024": 36,
    "2025": 33,
-   "variacion": -6,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "TALAGANTE"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 21,
+   "casos": 31,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 22,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 14,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 13601,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "HURTOS",
-   "2024": 222,
-   "2025": 228,
+   "2024": 227,
+   "2025": 238,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "LESIONES",
-   "2024": 170,
-   "2025": 169,
+   "2024": 174,
+   "2025": 180,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 13,
+   "2024": 14,
    "2025": 17,
    "COMUNA": "TALAGANTE"
   },
@@ -2237,55 +2237,55 @@
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 59,
-   "2025": 58,
+   "2024": 62,
+   "2025": 59,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 25,
-   "2025": 35,
+   "2024": 28,
+   "2025": 38,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 137,
-   "2025": 135,
+   "2024": 143,
+   "2025": 137,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 53,
-   "2025": 57,
+   "2024": 54,
+   "2025": 59,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 96,
-   "2025": 96,
+   "2024": 100,
+   "2025": 100,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 103,
-   "2025": 107,
+   "2024": 108,
+   "2025": 108,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13601,
    "delito": "ROBO POR SORPRESA",
-   "2024": 35,
+   "2024": 36,
    "2025": 33,
    "COMUNA": "TALAGANTE"
   },
@@ -2318,22 +2318,22 @@
    "CODCOM": 13601,
    "delito": "HURTOS",
    "2024": 89,
-   "2025": 88,
+   "2025": 92,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13601,
    "delito": "LESIONES",
-   "2024": 54,
-   "2025": 42,
+   "2024": 56,
+   "2025": 44,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13601,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "TALAGANTE"
   },
@@ -2374,7 +2374,7 @@
    "CODCOM": 13601,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -2422,22 +2422,22 @@
    "CODCOM": 13601,
    "delito": "HURTOS",
    "2024": 98,
-   "2025": 92,
+   "2025": 96,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13601,
    "delito": "LESIONES",
-   "2024": 86,
-   "2025": 62,
+   "2024": 88,
+   "2025": 64,
    "COMUNA": "TALAGANTE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13601,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "TALAGANTE"
   },
@@ -2478,7 +2478,7 @@
    "CODCOM": 13601,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "TALAGANTE"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Metropolitana"
  }
 }

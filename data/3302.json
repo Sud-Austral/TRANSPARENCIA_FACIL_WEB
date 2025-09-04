@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3302,
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
-   "variacion": 100,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "ALTO DEL CARMEN"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3302,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "ALTO DEL CARMEN"
   },
@@ -370,6 +370,14 @@
    "COMUNA": "ALTO DEL CARMEN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3302,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ALTO DEL CARMEN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3302,
    "anio": 2024,
@@ -431,7 +439,7 @@
    "informacion": "Casos",
    "CODCOM": 3302,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
    "COMUNA": "ALTO DEL CARMEN"
   },
@@ -472,7 +480,7 @@
    "CODCOM": 3302,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "ALTO DEL CARMEN"
   },
   {
@@ -549,7 +557,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Atacama"
  }
 }

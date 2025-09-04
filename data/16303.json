@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16303,
-   "2024": 14,
+   "2024": 15,
    "2025": 8,
-   "variacion": -43,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "ÑIQUÉN"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16303,
    "2024": 1,
-   "2025": 5,
-   "variacion": 400,
+   "2025": 6,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "ÑIQUÉN"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16303,
    "2024": 26,
-   "2025": 15,
-   "variacion": -42,
+   "2025": 16,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "ÑIQUÉN"
   },
@@ -388,7 +388,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ÑIQUÉN"
   },
   {
@@ -848,6 +848,14 @@
    "COMUNA": "ÑIQUÉN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ÑIQUÉN"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16303,
    "anio": 2024,
@@ -909,7 +917,7 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 8,
    "COMUNA": "ÑIQUÉN"
   },
@@ -918,7 +926,7 @@
    "CODCOM": 16303,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "ÑIQUÉN"
   },
   {
@@ -966,7 +974,7 @@
    "CODCOM": 16303,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 26,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "ÑIQUÉN"
   },
   {
@@ -1123,7 +1131,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

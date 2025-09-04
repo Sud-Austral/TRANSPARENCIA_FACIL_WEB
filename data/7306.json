@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7306,
-   "2024": 71,
+   "2024": 72,
    "2025": 45,
-   "variacion": -37,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "ROMERAL"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7306,
    "2024": 32,
-   "2025": 40,
-   "variacion": 25,
+   "2025": 43,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "ROMERAL"
   },
@@ -48,27 +48,27 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7306,
-   "2024": 13,
+   "2024": 14,
    "2025": 20,
-   "variacion": 54,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "ROMERAL"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7306,
-   "2024": 3,
-   "2025": 8,
-   "variacion": 167,
+   "2024": 4,
+   "2025": 9,
+   "variacion": 125,
    "situación": "Aumento de Casos",
    "COMUNA": "ROMERAL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7306,
-   "2024": 27,
+   "2024": 30,
    "2025": 12,
-   "variacion": -56,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "ROMERAL"
   },
@@ -419,7 +419,7 @@
    "CODCOM": 7306,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "ROMERAL"
   },
   {
@@ -803,7 +803,7 @@
    "CODCOM": 7306,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ROMERAL"
   },
   {
@@ -1228,7 +1228,7 @@
    "informacion": "Casos",
    "CODCOM": 7306,
    "delito": "HURTOS",
-   "2024": 71,
+   "2024": 72,
    "2025": 45,
    "COMUNA": "ROMERAL"
   },
@@ -1237,7 +1237,7 @@
    "CODCOM": 7306,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 40,
+   "2025": 43,
    "COMUNA": "ROMERAL"
   },
   {
@@ -1268,7 +1268,7 @@
    "informacion": "Casos",
    "CODCOM": 7306,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 13,
+   "2024": 14,
    "2025": 20,
    "COMUNA": "ROMERAL"
   },
@@ -1276,15 +1276,15 @@
    "informacion": "Casos",
    "CODCOM": 7306,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 3,
-   "2025": 8,
+   "2024": 4,
+   "2025": 9,
    "COMUNA": "ROMERAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7306,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 27,
+   "2024": 30,
    "2025": 12,
    "COMUNA": "ROMERAL"
   },
@@ -1333,7 +1333,7 @@
    "CODCOM": 7306,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "ROMERAL"
   },
   {
@@ -1405,7 +1405,7 @@
    "CODCOM": 7306,
    "delito": "LESIONES",
    "2024": 21,
-   "2025": 31,
+   "2025": 34,
    "COMUNA": "ROMERAL"
   },
   {
@@ -1466,7 +1466,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

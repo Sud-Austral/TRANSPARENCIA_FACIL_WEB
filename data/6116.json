@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 6116,
    "2024": 54,
-   "2025": 58,
-   "variacion": 7,
+   "2025": 59,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "REQUINOA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6116,
-   "2024": 71,
-   "2025": 60,
-   "variacion": -15,
+   "2024": 77,
+   "2025": 62,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "REQUINOA"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6116,
    "2024": 6,
-   "2025": 9,
-   "variacion": 50,
+   "2025": 10,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "REQUINOA"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6116,
-   "2024": 60,
-   "2025": 41,
+   "2024": 62,
+   "2025": 42,
    "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "REQUINOA"
@@ -66,28 +66,28 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6116,
-   "2024": 9,
+   "2024": 11,
    "2025": 12,
-   "variacion": 33,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "REQUINOA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6116,
-   "2024": 38,
-   "2025": 37,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 40,
+   "2025": 40,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "REQUINOA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6116,
    "2024": 84,
-   "2025": 81,
-   "variacion": -4,
-   "situación": "Disminución de Casos",
+   "2025": 84,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "REQUINOA"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "REQUINOA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "REQUINOA"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "REQUINOA"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "REQUINOA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "REQUINOA"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 6116,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 12,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2214,15 +2214,15 @@
    "CODCOM": 6116,
    "delito": "HURTOS",
    "2024": 54,
-   "2025": 58,
+   "2025": 59,
    "COMUNA": "REQUINOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6116,
    "delito": "LESIONES",
-   "2024": 71,
-   "2025": 60,
+   "2024": 77,
+   "2025": 62,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2230,7 +2230,7 @@
    "CODCOM": 6116,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 6,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2253,15 +2253,15 @@
    "informacion": "Casos",
    "CODCOM": 6116,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 60,
-   "2025": 41,
+   "2024": 62,
+   "2025": 42,
    "COMUNA": "REQUINOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6116,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 9,
+   "2024": 11,
    "2025": 12,
    "COMUNA": "REQUINOA"
   },
@@ -2269,8 +2269,8 @@
    "informacion": "Casos",
    "CODCOM": 6116,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 38,
-   "2025": 37,
+   "2024": 40,
+   "2025": 40,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2278,7 +2278,7 @@
    "CODCOM": 6116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 84,
-   "2025": 81,
+   "2025": 84,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 6116,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 15,
+   "2024": 28,
+   "2025": 16,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2334,7 +2334,7 @@
    "CODCOM": 6116,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2382,7 +2382,7 @@
    "CODCOM": 6116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 6116,
    "delito": "LESIONES",
-   "2024": 39,
-   "2025": 22,
+   "2024": 41,
+   "2025": 23,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2438,7 +2438,7 @@
    "CODCOM": 6116,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 3,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2486,7 +2486,7 @@
    "CODCOM": 6116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 18,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "REQUINOA"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

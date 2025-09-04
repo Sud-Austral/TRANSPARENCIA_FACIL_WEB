@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16106,
-   "2024": 16,
+   "2024": 17,
    "2025": 20,
-   "variacion": 25,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "PINTO"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 16106,
    "2024": 27,
-   "2025": 28,
-   "variacion": 4,
+   "2025": 29,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "PINTO"
   },
@@ -394,7 +394,7 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PINTO"
   },
   {
@@ -875,7 +875,7 @@
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "HURTOS",
-   "2024": 16,
+   "2024": 17,
    "2025": 20,
    "COMUNA": "PINTO"
   },
@@ -884,7 +884,7 @@
    "CODCOM": 16106,
    "delito": "LESIONES",
    "2024": 27,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "PINTO"
   },
   {
@@ -1017,7 +1017,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

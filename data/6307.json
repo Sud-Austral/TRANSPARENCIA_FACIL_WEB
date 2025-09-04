@@ -12,8 +12,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6307,
-   "2024": 38,
-   "2025": 31,
+   "2024": 39,
+   "2025": 32,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "PERALILLO"
@@ -31,8 +31,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6307,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "PERALILLO"
   },
@@ -409,7 +409,7 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "PERALILLO"
   },
   {
@@ -465,6 +465,14 @@
    "CODCOM": 6307,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "PERALILLO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6307,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PERALILLO"
   },
@@ -866,8 +874,8 @@
    "informacion": "Casos",
    "CODCOM": 6307,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 31,
+   "2024": 39,
+   "2025": 32,
    "COMUNA": "PERALILLO"
   },
   {
@@ -883,7 +891,7 @@
    "CODCOM": 6307,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PERALILLO"
   },
   {
@@ -1016,7 +1024,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

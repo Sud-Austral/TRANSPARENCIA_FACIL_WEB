@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9103,
-   "2024": 35,
+   "2024": 37,
    "2025": 41,
-   "variacion": 17,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "CUNCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9103,
-   "2024": 33,
+   "2024": 35,
    "2025": 40,
-   "variacion": 21,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "CUNCO"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9103,
-   "2024": 28,
+   "2024": 30,
    "2025": 18,
-   "variacion": -36,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "CUNCO"
   },
@@ -1012,7 +1012,7 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "HURTOS",
-   "2024": 35,
+   "2024": 37,
    "2025": 41,
    "COMUNA": "CUNCO"
   },
@@ -1020,7 +1020,7 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "LESIONES",
-   "2024": 33,
+   "2024": 35,
    "2025": 40,
    "COMUNA": "CUNCO"
   },
@@ -1068,7 +1068,7 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 28,
+   "2024": 30,
    "2025": 18,
    "COMUNA": "CUNCO"
   },
@@ -1250,7 +1250,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

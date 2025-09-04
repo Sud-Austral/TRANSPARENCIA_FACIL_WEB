@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10102,
-   "2024": 98,
-   "2025": 92,
-   "variacion": -6,
+   "2024": 102,
+   "2025": 99,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10102,
-   "2024": 112,
-   "2025": 101,
-   "variacion": -10,
+   "2024": 119,
+   "2025": 104,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10102,
-   "2024": 21,
+   "2024": 22,
    "2025": 29,
-   "variacion": 38,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "CALBUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10102,
-   "2024": 72,
-   "2025": 34,
+   "2024": 75,
+   "2025": 35,
    "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "CALBUCO"
@@ -436,7 +436,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 17,
    "COMUNA": "CALBUCO"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "CALBUCO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 10102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "HURTOS",
-   "2024": 98,
-   "2025": 92,
+   "2024": 102,
+   "2025": 99,
    "COMUNA": "CALBUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "LESIONES",
-   "2024": 112,
-   "2025": 101,
+   "2024": 119,
+   "2025": 104,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 21,
+   "2024": 22,
    "2025": 29,
    "COMUNA": "CALBUCO"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 72,
-   "2025": 34,
+   "2024": 75,
+   "2025": 35,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2318,7 +2318,7 @@
    "CODCOM": 10102,
    "delito": "HURTOS",
    "2024": 12,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 10102,
    "delito": "LESIONES",
    "2024": 39,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "CALBUCO"
   },
@@ -2422,7 +2422,7 @@
    "CODCOM": 10102,
    "delito": "HURTOS",
    "2024": 18,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 10102,
    "delito": "LESIONES",
    "2024": 54,
-   "2025": 69,
+   "2025": 71,
    "COMUNA": "CALBUCO"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "CALBUCO"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

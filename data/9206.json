@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9206,
-   "2024": 6,
+   "2024": 7,
    "2025": 15,
-   "variacion": 150,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9206,
-   "2024": 22,
-   "2025": 18,
-   "variacion": -18,
+   "2024": 25,
+   "2025": 20,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9206,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9206,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9206,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9206,
    "2024": 8,
-   "2025": 11,
-   "variacion": 38,
+   "2025": 13,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -379,7 +379,7 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -479,6 +479,14 @@
    "COMUNA": "LOS SAUCES"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9206,
    "anio": 2024,
@@ -511,6 +519,14 @@
    "COMUNA": "LOS SAUCES"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9206,
    "anio": 2024,
@@ -522,6 +538,14 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9206,
    "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9206,
+   "anio": 2025,
    "mes": 8,
    "casos": 1,
    "COMUNA": "LOS SAUCES"
@@ -747,7 +771,7 @@
    "CODCOM": 9206,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -812,7 +836,7 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "HURTOS",
-   "2024": 6,
+   "2024": 7,
    "2025": 15,
    "COMUNA": "LOS SAUCES"
   },
@@ -820,8 +844,8 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 18,
+   "2024": 25,
+   "2025": 20,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -837,7 +861,7 @@
    "CODCOM": 9206,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -845,7 +869,7 @@
    "CODCOM": 9206,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -853,7 +877,7 @@
    "CODCOM": 9206,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -877,7 +901,7 @@
    "CODCOM": 9206,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -986,7 +1010,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

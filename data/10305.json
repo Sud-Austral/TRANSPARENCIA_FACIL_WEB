@@ -3,17 +3,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10305,
-   "2024": 49,
-   "2025": 43,
-   "variacion": -12,
+   "2024": 50,
+   "2025": 45,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO NEGRO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10305,
-   "2024": 49,
-   "2025": 61,
+   "2024": 51,
+   "2025": 63,
    "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "RÍO NEGRO"
@@ -40,8 +40,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10305,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "RÍO NEGRO"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10305,
-   "2024": 28,
-   "2025": 23,
-   "variacion": -18,
+   "2024": 29,
+   "2025": 24,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO NEGRO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10305,
-   "2024": 28,
-   "2025": 32,
-   "variacion": 14,
+   "2024": 30,
+   "2025": 34,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "RÍO NEGRO"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 10305,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "RÍO NEGRO"
   }
  ],
@@ -249,7 +249,7 @@
    "CODCOM": 10305,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -409,7 +409,7 @@
    "CODCOM": 10305,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -589,6 +589,14 @@
    "COMUNA": "RÍO NEGRO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "RÍO NEGRO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10305,
    "anio": 2024,
@@ -769,7 +777,7 @@
    "CODCOM": 10305,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -929,7 +937,7 @@
    "CODCOM": 10305,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1010,16 +1018,16 @@
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "HURTOS",
-   "2024": 49,
-   "2025": 43,
+   "2024": 50,
+   "2025": 45,
    "COMUNA": "RÍO NEGRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 49,
-   "2025": 61,
+   "2024": 51,
+   "2025": 63,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1043,7 +1051,7 @@
    "CODCOM": 10305,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1058,16 +1066,16 @@
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 28,
-   "2025": 23,
+   "2024": 29,
+   "2025": 24,
    "COMUNA": "RÍO NEGRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 28,
-   "2025": 32,
+   "2024": 30,
+   "2025": 34,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1082,7 +1090,7 @@
    "informacion": "Casos",
    "CODCOM": 10305,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1098,7 +1106,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 18,
    "2025": 18,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1131,7 +1139,7 @@
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1139,7 +1147,7 @@
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1170,7 +1178,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10305,
    "delito": "LESIONES",
-   "2024": 26,
+   "2024": 31,
    "2025": 30,
    "COMUNA": "RÍO NEGRO"
   },
@@ -1203,7 +1211,7 @@
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1211,7 +1219,7 @@
    "CODCOM": 10305,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 3,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "RÍO NEGRO"
   },
   {
@@ -1232,7 +1240,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

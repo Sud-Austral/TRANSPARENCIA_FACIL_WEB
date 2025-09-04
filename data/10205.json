@@ -13,18 +13,18 @@
    "delito": "HURTOS",
    "CODCOM": 10205,
    "2024": 40,
-   "2025": 39,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2025": 40,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10205,
-   "2024": 45,
-   "2025": 47,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "2024": 48,
+   "2025": 48,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10205,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "DALCAHUE"
   },
@@ -248,7 +248,7 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -408,7 +408,7 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 12,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -576,7 +576,7 @@
    "CODCOM": 10205,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -770,15 +770,15 @@
    "CODCOM": 10205,
    "delito": "HURTOS",
    "2024": 40,
-   "2025": 39,
+   "2025": 40,
    "COMUNA": "DALCAHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10205,
    "delito": "LESIONES",
-   "2024": 45,
-   "2025": 47,
+   "2024": 48,
+   "2025": 48,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -802,7 +802,7 @@
    "CODCOM": 10205,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -842,7 +842,7 @@
    "CODCOM": 10205,
    "delito": "LESIONES",
    "2024": 22,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -882,7 +882,7 @@
    "CODCOM": 10205,
    "delito": "LESIONES",
    "2024": 35,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -911,7 +911,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

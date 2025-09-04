@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 14202,
-   "2024": 39,
-   "2025": 42,
-   "variacion": 8,
+   "2024": 41,
+   "2025": 43,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "FUTRONO"
   },
@@ -22,9 +22,9 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14202,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "FUTRONO"
   },
   {
@@ -66,9 +66,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14202,
-   "2024": 26,
+   "2024": 28,
    "2025": 16,
-   "variacion": -38,
+   "variacion": -43,
+   "situación": "Disminución de Casos",
+   "COMUNA": "FUTRONO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 14202,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "FUTRONO"
   },
@@ -392,7 +401,7 @@
    "CODCOM": 14202,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 10,
    "COMUNA": "FUTRONO"
   },
   {
@@ -416,6 +425,14 @@
    "CODCOM": 14202,
    "anio": 2024,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "FUTRONO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 14202,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "FUTRONO"
   },
@@ -857,8 +874,8 @@
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "LESIONES",
-   "2024": 39,
-   "2025": 42,
+   "2024": 41,
+   "2025": 43,
    "COMUNA": "FUTRONO"
   },
   {
@@ -866,7 +883,7 @@
    "CODCOM": 14202,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "FUTRONO"
   },
   {
@@ -905,8 +922,16 @@
    "informacion": "Casos",
    "CODCOM": 14202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 26,
+   "2024": 28,
    "2025": 16,
+   "COMUNA": "FUTRONO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 14202,
+   "delito": "ROBO POR SORPRESA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "FUTRONO"
   },
   {
@@ -999,7 +1024,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10304,
-   "2024": 29,
+   "2024": 30,
    "2025": 36,
-   "variacion": 24,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "PUYEHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10304,
-   "2024": 25,
-   "2025": 20,
-   "variacion": -20,
+   "2024": 28,
+   "2025": 21,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "PUYEHUE"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10304,
    "2024": 10,
-   "2025": 19,
-   "variacion": 90,
+   "2025": 20,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PUYEHUE"
   },
@@ -85,8 +85,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 10304,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "PUYEHUE"
   }
@@ -409,7 +409,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUYEHUE"
   },
   {
@@ -609,7 +609,7 @@
    "CODCOM": 10304,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "PUYEHUE"
   },
   {
@@ -771,6 +771,14 @@
    "mes": 4,
    "casos": 1,
    "COMUNA": "PUYEHUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PUYEHUE"
   }
  ],
  "info": [
@@ -786,7 +794,7 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "HURTOS",
-   "2024": 29,
+   "2024": 30,
    "2025": 36,
    "COMUNA": "PUYEHUE"
   },
@@ -794,8 +802,8 @@
    "informacion": "Casos",
    "CODCOM": 10304,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 20,
+   "2024": 28,
+   "2025": 21,
    "COMUNA": "PUYEHUE"
   },
   {
@@ -835,7 +843,7 @@
    "CODCOM": 10304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "PUYEHUE"
   },
   {
@@ -851,7 +859,7 @@
    "CODCOM": 10304,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PUYEHUE"
   },
   {
@@ -874,7 +882,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10304,
    "delito": "LESIONES",
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "PUYEHUE"
   },
@@ -922,7 +930,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10304,
    "delito": "LESIONES",
-   "2024": 10,
+   "2024": 12,
    "2025": 7,
    "COMUNA": "PUYEHUE"
   },
@@ -952,7 +960,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

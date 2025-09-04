@@ -3,27 +3,27 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 14108,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PANGUIPULLI"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 14108,
-   "2024": 149,
-   "2025": 123,
-   "variacion": -17,
+   "2024": 156,
+   "2025": 128,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "PANGUIPULLI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14108,
-   "2024": 134,
-   "2025": 124,
-   "variacion": -7,
+   "2024": 138,
+   "2025": 127,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "PANGUIPULLI"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 14108,
    "2024": 3,
-   "2025": 8,
-   "variacion": 167,
+   "2025": 9,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "PANGUIPULLI"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14108,
-   "2024": 86,
-   "2025": 37,
-   "variacion": -57,
+   "2024": 95,
+   "2025": 38,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "PANGUIPULLI"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14108,
-   "2024": 76,
-   "2025": 43,
-   "variacion": -43,
+   "2024": 79,
+   "2025": 46,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "PANGUIPULLI"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 14108,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 14,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 14108,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 16,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 14108,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 14108,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 14108,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2205,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 14108,
    "delito": "HOMICIDIOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "PANGUIPULLI"
   },
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 14108,
    "delito": "HURTOS",
-   "2024": 149,
-   "2025": 123,
+   "2024": 156,
+   "2025": 128,
    "COMUNA": "PANGUIPULLI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14108,
    "delito": "LESIONES",
-   "2024": 134,
-   "2025": 124,
+   "2024": 138,
+   "2025": 127,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2246,7 +2246,7 @@
    "CODCOM": 14108,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 14108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 86,
-   "2025": 37,
+   "2024": 95,
+   "2025": 38,
    "COMUNA": "PANGUIPULLI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 76,
-   "2025": 43,
+   "2024": 79,
+   "2025": 46,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2318,15 +2318,15 @@
    "CODCOM": 14108,
    "delito": "HURTOS",
    "2024": 28,
-   "2025": 17,
+   "2025": 19,
    "COMUNA": "PANGUIPULLI"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 14108,
    "delito": "LESIONES",
-   "2024": 46,
-   "2025": 47,
+   "2024": 47,
+   "2025": 49,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
    "COMUNA": "PANGUIPULLI"
   },
@@ -2422,15 +2422,15 @@
    "CODCOM": 14108,
    "delito": "HURTOS",
    "2024": 33,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "PANGUIPULLI"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 14108,
    "delito": "LESIONES",
-   "2024": 77,
-   "2025": 89,
+   "2024": 78,
+   "2025": 92,
    "COMUNA": "PANGUIPULLI"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
    "COMUNA": "PANGUIPULLI"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

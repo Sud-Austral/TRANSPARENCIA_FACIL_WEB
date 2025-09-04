@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11101,
-   "2024": 196,
-   "2025": 171,
-   "variacion": -13,
+   "2024": 199,
+   "2025": 178,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11101,
-   "2024": 165,
-   "2025": 131,
-   "variacion": -21,
+   "2024": 168,
+   "2025": 135,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 11101,
    "2024": 14,
-   "2025": 12,
-   "variacion": -14,
-   "situación": "Disminución de Casos",
+   "2025": 14,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 11101,
-   "2024": 16,
+   "2024": 17,
    "2025": 13,
-   "variacion": -19,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 11101,
-   "2024": 36,
-   "2025": 39,
-   "variacion": 8,
-   "situación": "Aumento de Casos",
+   "2024": 41,
+   "2025": 40,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 11101,
-   "2024": 65,
-   "2025": 33,
-   "variacion": -49,
+   "2024": 67,
+   "2025": 35,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "COYHAIQUE"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 8,
-   "casos": 16,
+   "casos": 23,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 11,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 196,
-   "2025": 171,
+   "2024": 199,
+   "2025": 178,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LESIONES",
-   "2024": 165,
-   "2025": 131,
+   "2024": 168,
+   "2025": 135,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2238,14 +2238,14 @@
    "CODCOM": 11101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 14,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 16,
+   "2024": 17,
    "2025": 13,
    "COMUNA": "COYHAIQUE"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
-   "2025": 39,
+   "2024": 41,
+   "2025": 40,
    "COMUNA": "COYHAIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 65,
-   "2025": 33,
+   "2024": 67,
+   "2025": 35,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2317,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 78,
-   "2025": 66,
+   "2024": 79,
+   "2025": 70,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 11101,
    "delito": "LESIONES",
    "2024": 64,
-   "2025": 53,
+   "2025": 55,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
    "COMUNA": "COYHAIQUE"
   },
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "COYHAIQUE"
   },
@@ -2421,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2024": 87,
-   "2025": 72,
+   "2024": 88,
+   "2025": 76,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 11101,
    "delito": "LESIONES",
    "2024": 107,
-   "2025": 93,
+   "2025": 95,
    "COMUNA": "COYHAIQUE"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 10,
    "2025": 3,
    "COMUNA": "COYHAIQUE"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 11101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 9,
+   "2024": 13,
    "2025": 11,
    "COMUNA": "COYHAIQUE"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Aysén"
  }
 }

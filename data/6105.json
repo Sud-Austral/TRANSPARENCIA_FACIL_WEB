@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 6105,
    "2024": 44,
-   "2025": 46,
-   "variacion": 5,
+   "2025": 49,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "DOÑIHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6105,
-   "2024": 84,
-   "2025": 70,
-   "variacion": -17,
+   "2024": 87,
+   "2025": 77,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "DOÑIHUE"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6105,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "DOÑIHUE"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6105,
    "2024": 34,
-   "2025": 28,
-   "variacion": -18,
+   "2025": 29,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "DOÑIHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6105,
-   "2024": 39,
+   "2024": 42,
    "2025": 24,
-   "variacion": -38,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "DOÑIHUE"
   },
@@ -275,7 +275,7 @@
    "CODCOM": 6105,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 6105,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 16,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -475,7 +475,7 @@
    "CODCOM": 6105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -987,7 +987,7 @@
    "CODCOM": 6105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -1237,15 +1237,15 @@
    "CODCOM": 6105,
    "delito": "HURTOS",
    "2024": 44,
-   "2025": 46,
+   "2025": 49,
    "COMUNA": "DOÑIHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6105,
    "delito": "LESIONES",
-   "2024": 84,
-   "2025": 70,
+   "2024": 87,
+   "2025": 77,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -1253,7 +1253,7 @@
    "CODCOM": 6105,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -1293,14 +1293,14 @@
    "CODCOM": 6105,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 34,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "DOÑIHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 39,
+   "2024": 42,
    "2025": 24,
    "COMUNA": "DOÑIHUE"
   },
@@ -1332,8 +1332,8 @@
    "informacion": "Detenciones",
    "CODCOM": 6105,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 25,
+   "2024": 28,
+   "2025": 28,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -1388,8 +1388,8 @@
    "informacion": "Detenidos",
    "CODCOM": 6105,
    "delito": "LESIONES",
-   "2024": 45,
-   "2025": 37,
+   "2024": 49,
+   "2025": 42,
    "COMUNA": "DOÑIHUE"
   },
   {
@@ -1434,7 +1434,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

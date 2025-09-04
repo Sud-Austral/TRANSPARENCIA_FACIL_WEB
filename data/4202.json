@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4202,
-   "2024": 11,
-   "2025": 13,
-   "variacion": 18,
+   "2024": 12,
+   "2025": 15,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "CANELA"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 4202,
    "2024": 13,
-   "2025": 19,
-   "variacion": 46,
+   "2025": 20,
+   "variacion": 54,
    "situación": "Aumento de Casos",
    "COMUNA": "CANELA"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4202,
    "2024": 18,
-   "2025": 31,
-   "variacion": 72,
+   "2025": 32,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "CANELA"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4202,
    "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "CANELA"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4202,
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
-   "variacion": -29,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CANELA"
   },
@@ -226,7 +226,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "CANELA"
   },
   {
@@ -370,7 +370,7 @@
    "CODCOM": 4202,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "CANELA"
   },
   {
@@ -510,6 +510,14 @@
    "COMUNA": "CANELA"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4202,
    "anio": 2024,
@@ -530,6 +538,14 @@
    "CODCOM": 4202,
    "anio": 2024,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "CANELA"
   },
@@ -907,8 +923,8 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "HURTOS",
-   "2024": 11,
-   "2025": 13,
+   "2024": 12,
+   "2025": 15,
    "COMUNA": "CANELA"
   },
   {
@@ -916,7 +932,7 @@
    "CODCOM": 4202,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "CANELA"
   },
   {
@@ -924,7 +940,7 @@
    "CODCOM": 4202,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 18,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "CANELA"
   },
   {
@@ -932,7 +948,7 @@
    "CODCOM": 4202,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "CANELA"
   },
   {
@@ -947,7 +963,7 @@
    "informacion": "Casos",
    "CODCOM": 4202,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "CANELA"
   },
@@ -1017,7 +1033,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

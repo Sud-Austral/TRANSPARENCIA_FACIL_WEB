@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16107,
-   "2024": 39,
-   "2025": 77,
-   "variacion": 97,
+   "2024": 40,
+   "2025": 79,
+   "variacion": 98,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLÓN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16107,
-   "2024": 43,
-   "2025": 51,
-   "variacion": 19,
+   "2024": 44,
+   "2025": 53,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLÓN"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16107,
    "2024": 4,
-   "2025": 7,
-   "variacion": 75,
+   "2025": 8,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLÓN"
   },
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16107,
    "2024": 79,
-   "2025": 59,
-   "variacion": -25,
+   "2025": 60,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLÓN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16107,
-   "2024": 28,
+   "2024": 29,
    "2025": 25,
-   "variacion": -11,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLÓN"
   },
@@ -266,7 +266,7 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -426,7 +426,7 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -682,6 +682,14 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "QUILLÓN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "QUILLÓN"
   },
@@ -1026,7 +1034,7 @@
    "CODCOM": 16107,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -1283,16 +1291,16 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "HURTOS",
-   "2024": 39,
-   "2025": 77,
+   "2024": 40,
+   "2025": 79,
    "COMUNA": "QUILLÓN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 51,
+   "2024": 44,
+   "2025": 53,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -1316,7 +1324,7 @@
    "CODCOM": 16107,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -1340,14 +1348,14 @@
    "CODCOM": 16107,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 79,
-   "2025": 59,
+   "2025": 60,
    "COMUNA": "QUILLÓN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 28,
+   "2024": 29,
    "2025": 25,
    "COMUNA": "QUILLÓN"
   },
@@ -1497,7 +1505,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

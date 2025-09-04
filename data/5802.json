@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5802,
-   "2024": 138,
-   "2025": 201,
-   "variacion": 46,
+   "2024": 142,
+   "2025": 206,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "LIMACHE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5802,
-   "2024": 107,
-   "2025": 144,
-   "variacion": 35,
+   "2024": 111,
+   "2025": 151,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "LIMACHE"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5802,
-   "2024": 40,
-   "2025": 23,
-   "variacion": -42,
+   "2024": 42,
+   "2025": 26,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "LIMACHE"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5802,
-   "2024": 23,
-   "2025": 31,
-   "variacion": 35,
+   "2024": 24,
+   "2025": 32,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "LIMACHE"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5802,
-   "2024": 129,
-   "2025": 83,
-   "variacion": -36,
+   "2024": 132,
+   "2025": 89,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "LIMACHE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5802,
-   "2024": 100,
-   "2025": 125,
+   "2024": 101,
+   "2025": 126,
    "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "LIMACHE"
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 5802,
    "2024": 4,
-   "2025": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LIMACHE"
   }
  ],
@@ -436,7 +436,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 16,
+   "casos": 21,
    "COMUNA": "LIMACHE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 14,
+   "casos": 21,
    "COMUNA": "LIMACHE"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "LIMACHE"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "LIMACHE"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 13,
    "COMUNA": "LIMACHE"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 5802,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LIMACHE"
   }
  ],
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "HURTOS",
-   "2024": 138,
-   "2025": 201,
+   "2024": 142,
+   "2025": 206,
    "COMUNA": "LIMACHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "LESIONES",
-   "2024": 107,
-   "2025": 144,
+   "2024": 111,
+   "2025": 151,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2237,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 40,
-   "2025": 23,
+   "2024": 42,
+   "2025": 26,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2253,8 +2253,8 @@
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 23,
-   "2025": 31,
+   "2024": 24,
+   "2025": 32,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 129,
-   "2025": 83,
+   "2024": 132,
+   "2025": 89,
    "COMUNA": "LIMACHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5802,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 100,
-   "2025": 125,
+   "2024": 101,
+   "2025": 126,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2302,7 +2302,7 @@
    "CODCOM": 5802,
    "delito": "VIOLACIONES",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2317,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5802,
    "delito": "HURTOS",
-   "2024": 60,
-   "2025": 82,
+   "2024": 62,
+   "2025": 85,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 5802,
    "delito": "LESIONES",
    "2024": 39,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 5802,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 11,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2406,7 +2406,7 @@
    "CODCOM": 5802,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2421,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5802,
    "delito": "HURTOS",
-   "2024": 60,
-   "2025": 88,
+   "2024": 62,
+   "2025": 91,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 5802,
    "delito": "LESIONES",
    "2024": 61,
-   "2025": 65,
+   "2025": 67,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 5802,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 14,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "LIMACHE"
   },
   {
@@ -2510,12 +2510,12 @@
    "CODCOM": 5802,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LIMACHE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

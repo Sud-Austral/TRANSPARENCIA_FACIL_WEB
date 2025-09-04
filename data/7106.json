@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 7106,
    "2024": 18,
-   "2025": 14,
-   "variacion": -22,
+   "2025": 16,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PELARCO"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7106,
    "2024": 6,
-   "2025": 17,
-   "variacion": 183,
+   "2025": 18,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "PELARCO"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7106,
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
-   "variacion": -80,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "PELARCO"
   },
@@ -237,6 +237,14 @@
    "COMUNA": "PELARCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 7106,
    "anio": 2024,
@@ -361,7 +369,7 @@
    "CODCOM": 7106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PELARCO"
   },
   {
@@ -707,7 +715,7 @@
    "CODCOM": 7106,
    "delito": "HURTOS",
    "2024": 18,
-   "2025": 14,
+   "2025": 16,
    "COMUNA": "PELARCO"
   },
   {
@@ -715,7 +723,7 @@
    "CODCOM": 7106,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "PELARCO"
   },
   {
@@ -738,7 +746,7 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
    "COMUNA": "PELARCO"
   },
@@ -787,7 +795,7 @@
    "CODCOM": 7106,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PELARCO"
   },
   {
@@ -811,7 +819,7 @@
    "CODCOM": 7106,
    "delito": "HURTOS",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PELARCO"
   },
   {
@@ -832,7 +840,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

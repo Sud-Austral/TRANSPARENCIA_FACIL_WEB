@@ -12,8 +12,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5705,
-   "2024": 30,
-   "2025": 34,
+   "2024": 31,
+   "2025": 35,
    "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "PUTAENDO"
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5705,
    "2024": 12,
-   "2025": 24,
-   "variacion": 100,
+   "2025": 25,
+   "variacion": 108,
    "situación": "Aumento de Casos",
    "COMUNA": "PUTAENDO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5705,
-   "2024": 8,
-   "2025": 22,
-   "variacion": 175,
+   "2024": 10,
+   "2025": 24,
+   "variacion": 140,
    "situación": "Aumento de Casos",
    "COMUNA": "PUTAENDO"
   },
@@ -419,7 +419,7 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -787,7 +787,7 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -907,7 +907,7 @@
    "CODCOM": 5705,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -996,8 +996,8 @@
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 34,
+   "2024": 31,
+   "2025": 35,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1045,15 +1045,15 @@
    "CODCOM": 5705,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "PUTAENDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5705,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
-   "2025": 22,
+   "2024": 10,
+   "2025": 24,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1092,8 +1092,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 17,
-   "2025": 16,
+   "2024": 18,
+   "2025": 17,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1164,8 +1164,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5705,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 22,
+   "2024": 28,
+   "2025": 24,
    "COMUNA": "PUTAENDO"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

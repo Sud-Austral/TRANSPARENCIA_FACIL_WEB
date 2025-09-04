@@ -3,8 +3,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5605,
-   "2024": 40,
-   "2025": 45,
+   "2024": 41,
+   "2025": 46,
    "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "EL TABO"
@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5605,
-   "2024": 105,
-   "2025": 108,
-   "variacion": 3,
+   "2024": 106,
+   "2025": 110,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "EL TABO"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5605,
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
-   "variacion": -18,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "EL TABO"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5605,
    "2024": 29,
-   "2025": 25,
-   "variacion": -14,
+   "2025": 26,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "EL TABO"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5605,
-   "2024": 112,
-   "2025": 103,
-   "variacion": -8,
+   "2024": 118,
+   "2025": 106,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "EL TABO"
   },
@@ -267,7 +267,7 @@
    "CODCOM": 5605,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "EL TABO"
   },
   {
@@ -427,7 +427,7 @@
    "CODCOM": 5605,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 13,
    "COMUNA": "EL TABO"
   },
   {
@@ -899,7 +899,7 @@
    "CODCOM": 5605,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "EL TABO"
   },
   {
@@ -1203,7 +1203,7 @@
    "CODCOM": 5605,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "EL TABO"
   },
   {
@@ -1524,16 +1524,16 @@
    "informacion": "Casos",
    "CODCOM": 5605,
    "delito": "HURTOS",
-   "2024": 40,
-   "2025": 45,
+   "2024": 41,
+   "2025": 46,
    "COMUNA": "EL TABO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5605,
    "delito": "LESIONES",
-   "2024": 105,
-   "2025": 108,
+   "2024": 106,
+   "2025": 110,
    "COMUNA": "EL TABO"
   },
   {
@@ -1548,7 +1548,7 @@
    "informacion": "Casos",
    "CODCOM": 5605,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
    "COMUNA": "EL TABO"
   },
@@ -1565,7 +1565,7 @@
    "CODCOM": 5605,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 29,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "EL TABO"
   },
   {
@@ -1580,8 +1580,8 @@
    "informacion": "Casos",
    "CODCOM": 5605,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 112,
-   "2025": 103,
+   "2024": 118,
+   "2025": 106,
    "COMUNA": "EL TABO"
   },
   {
@@ -1628,8 +1628,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5605,
    "delito": "LESIONES",
-   "2024": 46,
-   "2025": 40,
+   "2024": 47,
+   "2025": 41,
    "COMUNA": "EL TABO"
   },
   {
@@ -1708,8 +1708,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5605,
    "delito": "LESIONES",
-   "2024": 79,
-   "2025": 69,
+   "2024": 81,
+   "2025": 72,
    "COMUNA": "EL TABO"
   },
   {
@@ -1778,7 +1778,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

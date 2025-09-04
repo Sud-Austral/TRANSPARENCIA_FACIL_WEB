@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10104,
-   "2024": 23,
-   "2025": 22,
-   "variacion": -4,
+   "2024": 25,
+   "2025": 23,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "FRESIA"
   },
@@ -22,8 +22,17 @@
    "delito": "LESIONES",
    "CODCOM": 10104,
    "2024": 42,
-   "2025": 41,
-   "variacion": -2,
+   "2025": 42,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
+   "COMUNA": "FRESIA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10104,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "FRESIA"
   },
@@ -58,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10104,
    "2024": 11,
-   "2025": 15,
-   "variacion": 36,
+   "2025": 16,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "FRESIA"
   },
@@ -85,9 +94,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 10104,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "FRESIA"
   }
  ],
@@ -265,7 +274,7 @@
    "CODCOM": 10104,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "FRESIA"
   },
   {
@@ -425,7 +434,7 @@
    "CODCOM": 10104,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "FRESIA"
   },
   {
@@ -601,7 +610,7 @@
    "CODCOM": 10104,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "FRESIA"
   },
   {
@@ -769,7 +778,7 @@
    "CODCOM": 10104,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "FRESIA"
   }
  ],
@@ -786,8 +795,8 @@
    "informacion": "Casos",
    "CODCOM": 10104,
    "delito": "HURTOS",
-   "2024": 23,
-   "2025": 22,
+   "2024": 25,
+   "2025": 23,
    "COMUNA": "FRESIA"
   },
   {
@@ -795,7 +804,15 @@
    "CODCOM": 10104,
    "delito": "LESIONES",
    "2024": 42,
-   "2025": 41,
+   "2025": 42,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10104,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "FRESIA"
   },
   {
@@ -827,7 +844,7 @@
    "CODCOM": 10104,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 11,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "FRESIA"
   },
   {
@@ -851,7 +868,7 @@
    "CODCOM": 10104,
    "delito": "VIOLACIONES",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "FRESIA"
   },
   {
@@ -876,6 +893,14 @@
    "delito": "LESIONES",
    "2024": 16,
    "2025": 11,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10104,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "FRESIA"
   },
   {
@@ -913,6 +938,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 10104,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "FRESIA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10104,
    "delito": "VIOLACIONES",
    "2024": 0,
    "2025": 1,
@@ -920,7 +953,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

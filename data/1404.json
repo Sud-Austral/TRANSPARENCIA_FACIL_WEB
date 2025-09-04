@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1404,
-   "2024": 23,
+   "2024": 24,
    "2025": 9,
-   "variacion": -61,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "HUARA"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 1404,
    "2024": 28,
-   "2025": 11,
-   "variacion": -61,
+   "2025": 12,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "HUARA"
   },
@@ -51,6 +51,15 @@
    "2024": 2,
    "2025": 1,
    "variacion": -50,
+   "situación": "Disminución de Casos",
+   "COMUNA": "HUARA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "HUARA"
   },
@@ -321,7 +330,7 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "HUARA"
   },
   {
@@ -602,7 +611,7 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "HURTOS",
-   "2024": 23,
+   "2024": 24,
    "2025": 9,
    "COMUNA": "HUARA"
   },
@@ -611,7 +620,7 @@
    "CODCOM": 1404,
    "delito": "LESIONES",
    "2024": 28,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "HUARA"
   },
   {
@@ -644,6 +653,14 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 2,
    "2025": 1,
+   "COMUNA": "HUARA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1404,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "HUARA"
   },
   {
@@ -691,7 +708,7 @@
    "CODCOM": 1404,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "HUARA"
   },
   {
@@ -723,7 +740,7 @@
    "CODCOM": 1404,
    "delito": "LESIONES",
    "2024": 23,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "HUARA"
   },
   {
@@ -744,7 +761,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Tarapacá"
  }
 }

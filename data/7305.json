@@ -3,19 +3,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7305,
-   "2024": 18,
+   "2024": 19,
    "2025": 14,
-   "variacion": -22,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "RAUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7305,
-   "2024": 14,
+   "2024": 15,
    "2025": 15,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "RAUCO"
   },
   {
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7305,
    "2024": 19,
-   "2025": 11,
-   "variacion": -42,
+   "2025": 13,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "RAUCO"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7305,
    "2024": 21,
-   "2025": 23,
-   "variacion": 10,
+   "2025": 24,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "RAUCO"
   },
@@ -668,6 +668,14 @@
    "COMUNA": "RAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7305,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "RAUCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7305,
    "anio": 2024,
@@ -800,7 +808,7 @@
    "CODCOM": 7305,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "RAUCO"
   },
   {
@@ -825,7 +833,7 @@
    "informacion": "Casos",
    "CODCOM": 7305,
    "delito": "HURTOS",
-   "2024": 18,
+   "2024": 19,
    "2025": 14,
    "COMUNA": "RAUCO"
   },
@@ -833,7 +841,7 @@
    "informacion": "Casos",
    "CODCOM": 7305,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 15,
    "COMUNA": "RAUCO"
   },
@@ -874,7 +882,7 @@
    "CODCOM": 7305,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 19,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "RAUCO"
   },
   {
@@ -882,7 +890,7 @@
    "CODCOM": 7305,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 21,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "RAUCO"
   },
   {
@@ -975,7 +983,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

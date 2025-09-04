@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5302,
-   "2024": 32,
-   "2025": 17,
+   "2024": 34,
+   "2025": 18,
    "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "CALLE LARGA"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5302,
-   "2024": 31,
-   "2025": 28,
-   "variacion": -10,
+   "2024": 32,
+   "2025": 29,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5302,
    "2024": 4,
-   "2025": 7,
-   "variacion": 75,
+   "2025": 8,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5302,
-   "2024": 16,
+   "2024": 18,
    "2025": 22,
-   "variacion": 38,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5302,
    "2024": 0,
-   "2025": 2,
-   "variacion": 200,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -268,7 +268,7 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -428,7 +428,7 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -628,7 +628,7 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1148,6 +1148,14 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 5,
+   "casos": 1,
+   "COMUNA": "CALLE LARGA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5302,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "CALLE LARGA"
   },
@@ -1205,16 +1213,16 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 32,
-   "2025": 17,
+   "2024": 34,
+   "2025": 18,
    "COMUNA": "CALLE LARGA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 28,
+   "2024": 32,
+   "2025": 29,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1238,7 +1246,7 @@
    "CODCOM": 5302,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1269,7 +1277,7 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 16,
+   "2024": 18,
    "2025": 22,
    "COMUNA": "CALLE LARGA"
   },
@@ -1278,7 +1286,7 @@
    "CODCOM": 5302,
    "delito": "ROBO POR SORPRESA",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1301,7 +1309,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "CALLE LARGA"
   },
@@ -1310,7 +1318,7 @@
    "CODCOM": 5302,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1357,7 +1365,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "CALLE LARGA"
   },
@@ -1366,7 +1374,7 @@
    "CODCOM": 5302,
    "delito": "LESIONES",
    "2024": 19,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1411,7 +1419,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

@@ -4,26 +4,26 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 8106,
    "2024": 5,
-   "2025": 3,
-   "variacion": -40,
+   "2025": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8106,
-   "2024": 51,
-   "2025": 53,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "2024": 55,
+   "2025": 54,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8106,
-   "2024": 155,
-   "2025": 151,
-   "variacion": -3,
+   "2024": 163,
+   "2025": 160,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
@@ -31,35 +31,35 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8106,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8106,
-   "2024": 43,
-   "2025": 20,
-   "variacion": -53,
+   "2024": 44,
+   "2025": 22,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8106,
-   "2024": 27,
+   "2024": 28,
    "2025": 28,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8106,
    "2024": 21,
-   "2025": 13,
-   "variacion": -38,
+   "2025": 14,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8106,
-   "2024": 76,
-   "2025": 32,
-   "variacion": -58,
+   "2024": 77,
+   "2025": 33,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8106,
-   "2024": 152,
-   "2025": 81,
-   "variacion": -47,
+   "2024": 153,
+   "2025": 84,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "LOTA"
   },
@@ -94,9 +94,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8106,
    "2024": 10,
-   "2025": 7,
-   "variacion": -30,
-   "situación": "Disminución de Casos",
+   "2025": 10,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LOTA"
   },
   {
@@ -276,7 +276,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LOTA"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LOTA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 16,
+   "casos": 25,
    "COMUNA": "LOTA"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LOTA"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "LOTA"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LOTA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LOTA"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "LOTA"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 8106,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 3,
    "COMUNA": "LOTA"
   },
   {
@@ -2206,23 +2206,23 @@
    "CODCOM": 8106,
    "delito": "HOMICIDIOS",
    "2024": 5,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "LOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "HURTOS",
-   "2024": 51,
-   "2025": 53,
+   "2024": 55,
+   "2025": 54,
    "COMUNA": "LOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "LESIONES",
-   "2024": 155,
-   "2025": 151,
+   "2024": 163,
+   "2025": 160,
    "COMUNA": "LOTA"
   },
   {
@@ -2230,22 +2230,22 @@
    "CODCOM": 8106,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 43,
-   "2025": 20,
+   "2024": 44,
+   "2025": 22,
    "COMUNA": "LOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 27,
+   "2024": 28,
    "2025": 28,
    "COMUNA": "LOTA"
   },
@@ -2254,7 +2254,7 @@
    "CODCOM": 8106,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 21,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "LOTA"
   },
   {
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 76,
-   "2025": 32,
+   "2024": 77,
+   "2025": 33,
    "COMUNA": "LOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 152,
-   "2025": 81,
+   "2024": 153,
+   "2025": 84,
    "COMUNA": "LOTA"
   },
   {
@@ -2286,7 +2286,7 @@
    "CODCOM": 8106,
    "delito": "ROBO POR SORPRESA",
    "2024": 10,
-   "2025": 7,
+   "2025": 10,
    "COMUNA": "LOTA"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8106,
    "delito": "HURTOS",
-   "2024": 6,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "LOTA"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8106,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 45,
+   "2024": 36,
+   "2025": 46,
    "COMUNA": "LOTA"
   },
   {
@@ -2349,7 +2349,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "LOTA"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8106,
    "delito": "HURTOS",
-   "2024": 9,
+   "2024": 11,
    "2025": 10,
    "COMUNA": "LOTA"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8106,
    "delito": "LESIONES",
-   "2024": 69,
-   "2025": 81,
+   "2024": 72,
+   "2025": 83,
    "COMUNA": "LOTA"
   },
   {
@@ -2453,7 +2453,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "LOTA"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Biobío"
  }
 }

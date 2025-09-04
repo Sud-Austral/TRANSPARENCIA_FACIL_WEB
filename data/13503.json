@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13503,
-   "2024": 58,
-   "2025": 86,
-   "variacion": 48,
+   "2024": 64,
+   "2025": 88,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13503,
-   "2024": 145,
-   "2025": 117,
+   "2024": 150,
+   "2025": 121,
    "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACAVI"
@@ -30,10 +30,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13503,
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
-   "variacion": 20,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CURACAVI"
   },
   {
@@ -48,45 +48,45 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13503,
-   "2024": 17,
-   "2025": 22,
-   "variacion": 29,
+   "2024": 18,
+   "2025": 24,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13503,
-   "2024": 26,
-   "2025": 31,
-   "variacion": 19,
+   "2024": 28,
+   "2025": 33,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13503,
-   "2024": 17,
-   "2025": 19,
-   "variacion": 12,
+   "2024": 19,
+   "2025": 20,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13503,
-   "2024": 68,
-   "2025": 93,
-   "variacion": 37,
+   "2024": 70,
+   "2025": 94,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13503,
-   "2024": 72,
-   "2025": 53,
-   "variacion": -26,
+   "2024": 76,
+   "2025": 54,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACAVI"
   },
@@ -94,17 +94,17 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13503,
    "2024": 8,
-   "2025": 7,
-   "variacion": -12,
-   "situación": "Disminución de Casos",
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13503,
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
-   "variacion": 100,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "CURACAVI"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 12,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1396,7 +1396,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 11,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "HURTOS",
-   "2024": 58,
-   "2025": 86,
+   "2024": 64,
+   "2025": 88,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "LESIONES",
-   "2024": 145,
-   "2025": 117,
+   "2024": 150,
+   "2025": 121,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "CURACAVI"
   },
@@ -2245,40 +2245,40 @@
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 17,
-   "2025": 22,
+   "2024": 18,
+   "2025": 24,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 26,
-   "2025": 31,
+   "2024": 28,
+   "2025": 33,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 17,
-   "2025": 19,
+   "2024": 19,
+   "2025": 20,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 68,
-   "2025": 93,
+   "2024": 70,
+   "2025": 94,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 72,
-   "2025": 53,
+   "2024": 76,
+   "2025": 54,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2286,14 +2286,14 @@
    "CODCOM": 13503,
    "delito": "ROBO POR SORPRESA",
    "2024": 8,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
    "COMUNA": "CURACAVI"
   },
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13503,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "CURACAVI"
   },
@@ -2326,7 +2326,7 @@
    "CODCOM": 13503,
    "delito": "LESIONES",
    "2024": 36,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13503,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 13,
    "COMUNA": "CURACAVI"
   },
@@ -2430,7 +2430,7 @@
    "CODCOM": 13503,
    "delito": "LESIONES",
    "2024": 66,
-   "2025": 55,
+   "2025": 56,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Metropolitana"
  }
 }

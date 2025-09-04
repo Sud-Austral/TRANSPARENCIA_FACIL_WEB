@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 6114,
    "2024": 24,
-   "2025": 29,
-   "variacion": 21,
+   "2025": 30,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTA DE TILCOCO"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6114,
-   "2024": 5,
-   "2025": 12,
-   "variacion": 140,
+   "2024": 6,
+   "2025": 13,
+   "variacion": 117,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6114,
-   "2024": 13,
+   "2024": 14,
    "2025": 13,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7,
+   "situación": "Disminución de Casos",
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
@@ -409,7 +409,7 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 8,
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
@@ -753,7 +753,7 @@
    "CODCOM": 6114,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
@@ -931,7 +931,7 @@
    "CODCOM": 6114,
    "delito": "LESIONES",
    "2024": 24,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
@@ -970,15 +970,15 @@
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
-   "2025": 12,
+   "2024": 6,
+   "2025": 13,
    "COMUNA": "QUINTA DE TILCOCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6114,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 13,
+   "2024": 14,
    "2025": 13,
    "COMUNA": "QUINTA DE TILCOCO"
   },
@@ -1080,7 +1080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

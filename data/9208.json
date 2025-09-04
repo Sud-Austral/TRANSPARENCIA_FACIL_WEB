@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9208,
-   "2024": 24,
-   "2025": 20,
-   "variacion": -17,
+   "2024": 26,
+   "2025": 21,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "PURÉN"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 9208,
    "2024": 32,
-   "2025": 46,
-   "variacion": 44,
+   "2025": 48,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "PURÉN"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9208,
    "2024": 1,
-   "2025": 4,
-   "variacion": 300,
+   "2025": 5,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "PURÉN"
   },
@@ -75,10 +75,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9208,
-   "2024": 10,
+   "2024": 11,
    "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9,
+   "situación": "Disminución de Casos",
    "COMUNA": "PURÉN"
   },
   {
@@ -103,8 +103,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 9208,
    "2024": 4,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "PURÉN"
   }
@@ -243,7 +243,7 @@
    "CODCOM": 9208,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "PURÉN"
   },
   {
@@ -403,7 +403,7 @@
    "CODCOM": 9208,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "PURÉN"
   },
   {
@@ -531,7 +531,7 @@
    "CODCOM": 9208,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PURÉN"
   },
   {
@@ -909,6 +909,14 @@
    "mes": 12,
    "casos": 1,
    "COMUNA": "PURÉN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9208,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "PURÉN"
   }
  ],
  "info": [
@@ -916,8 +924,8 @@
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "HURTOS",
-   "2024": 24,
-   "2025": 20,
+   "2024": 26,
+   "2025": 21,
    "COMUNA": "PURÉN"
   },
   {
@@ -925,7 +933,7 @@
    "CODCOM": 9208,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 46,
+   "2025": 48,
    "COMUNA": "PURÉN"
   },
   {
@@ -949,7 +957,7 @@
    "CODCOM": 9208,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PURÉN"
   },
   {
@@ -980,7 +988,7 @@
    "informacion": "Casos",
    "CODCOM": 9208,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 10,
    "COMUNA": "PURÉN"
   },
@@ -1005,7 +1013,7 @@
    "CODCOM": 9208,
    "delito": "VIOLACIONES",
    "2024": 4,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "PURÉN"
   },
   {
@@ -1090,7 +1098,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

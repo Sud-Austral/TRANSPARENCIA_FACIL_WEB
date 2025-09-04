@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4304,
-   "2024": 11,
-   "2025": 15,
-   "variacion": 36,
+   "2024": 12,
+   "2025": 17,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 4304,
    "2024": 28,
-   "2025": 20,
-   "variacion": -29,
+   "2025": 24,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4304,
    "2024": 26,
-   "2025": 19,
-   "variacion": -27,
+   "2025": 22,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -193,6 +193,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "PUNITAQUI"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -348,6 +356,14 @@
    "COMUNA": "PUNITAQUI"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 4,
+   "COMUNA": "PUNITAQUI"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4304,
    "anio": 2025,
@@ -608,7 +624,7 @@
    "CODCOM": 4304,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -737,8 +753,8 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "HURTOS",
-   "2024": 11,
-   "2025": 15,
+   "2024": 12,
+   "2025": 17,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -746,7 +762,7 @@
    "CODCOM": 4304,
    "delito": "LESIONES",
    "2024": 28,
-   "2025": 20,
+   "2025": 24,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -794,7 +810,7 @@
    "CODCOM": 4304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 26,
-   "2025": 19,
+   "2025": 22,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -810,7 +826,7 @@
    "CODCOM": 4304,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -818,7 +834,7 @@
    "CODCOM": 4304,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -842,7 +858,7 @@
    "CODCOM": 4304,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -850,7 +866,7 @@
    "CODCOM": 4304,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -871,7 +887,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

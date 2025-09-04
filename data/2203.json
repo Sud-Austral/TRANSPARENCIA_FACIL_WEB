@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2203,
-   "2024": 81,
-   "2025": 69,
-   "variacion": -15,
+   "2024": 84,
+   "2025": 70,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 2203,
-   "2024": 42,
+   "2024": 44,
    "2025": 62,
-   "variacion": 48,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 2203,
-   "2024": 27,
+   "2024": 28,
    "2025": 21,
-   "variacion": -22,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
@@ -267,7 +267,7 @@
    "CODCOM": 2203,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
   {
@@ -1180,15 +1180,15 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "HURTOS",
-   "2024": 81,
-   "2025": 69,
+   "2024": 84,
+   "2025": 70,
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "LESIONES",
-   "2024": 42,
+   "2024": 44,
    "2025": 62,
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
@@ -1244,7 +1244,7 @@
    "informacion": "Casos",
    "CODCOM": 2203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 27,
+   "2024": 28,
    "2025": 21,
    "COMUNA": "SAN PEDRO DE ATACAMA"
   },
@@ -1402,7 +1402,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Antofagasta"
  }
 }

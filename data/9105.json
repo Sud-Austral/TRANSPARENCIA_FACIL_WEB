@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9105,
-   "2024": 81,
-   "2025": 57,
+   "2024": 86,
+   "2025": 60,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRE"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9105,
-   "2024": 55,
+   "2024": 60,
    "2025": 54,
-   "variacion": -2,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRE"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9105,
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
-   "variacion": -40,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRE"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9105,
-   "2024": 7,
+   "2024": 9,
    "2025": 10,
-   "variacion": 43,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "FREIRE"
   },
@@ -76,18 +76,18 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9105,
    "2024": 29,
-   "2025": 41,
-   "variacion": 41,
+   "2025": 42,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "FREIRE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9105,
-   "2024": 32,
-   "2025": 34,
-   "variacion": 6,
-   "situación": "Aumento de Casos",
+   "2024": 35,
+   "2025": 35,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "FREIRE"
   },
   {
@@ -300,7 +300,7 @@
    "CODCOM": 9105,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "FREIRE"
   },
   {
@@ -1028,7 +1028,7 @@
    "CODCOM": 9105,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "FREIRE"
   },
   {
@@ -1180,7 +1180,7 @@
    "CODCOM": 9105,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "FREIRE"
   },
   {
@@ -1277,15 +1277,15 @@
    "informacion": "Casos",
    "CODCOM": 9105,
    "delito": "HURTOS",
-   "2024": 81,
-   "2025": 57,
+   "2024": 86,
+   "2025": 60,
    "COMUNA": "FREIRE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9105,
    "delito": "LESIONES",
-   "2024": 55,
+   "2024": 60,
    "2025": 54,
    "COMUNA": "FREIRE"
   },
@@ -1301,7 +1301,7 @@
    "informacion": "Casos",
    "CODCOM": 9105,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "FREIRE"
   },
@@ -1317,7 +1317,7 @@
    "informacion": "Casos",
    "CODCOM": 9105,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "FREIRE"
   },
@@ -1334,15 +1334,15 @@
    "CODCOM": 9105,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 29,
-   "2025": 41,
+   "2025": 42,
    "COMUNA": "FREIRE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 32,
-   "2025": 34,
+   "2024": 35,
+   "2025": 35,
    "COMUNA": "FREIRE"
   },
   {
@@ -1381,7 +1381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9105,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 19,
    "2025": 14,
    "COMUNA": "FREIRE"
   },
@@ -1414,7 +1414,7 @@
    "CODCOM": 9105,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "FREIRE"
   },
   {
@@ -1437,7 +1437,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9105,
    "delito": "LESIONES",
-   "2024": 26,
+   "2024": 29,
    "2025": 23,
    "COMUNA": "FREIRE"
   },
@@ -1470,7 +1470,7 @@
    "CODCOM": 9105,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "FREIRE"
   },
   {
@@ -1483,7 +1483,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

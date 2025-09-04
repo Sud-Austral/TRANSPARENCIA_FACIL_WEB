@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6203,
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
-   "variacion": -13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "LITUECHE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6203,
-   "2024": 18,
-   "2025": 24,
-   "variacion": 33,
+   "2024": 19,
+   "2025": 25,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "LITUECHE"
   }
@@ -703,7 +703,7 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LITUECHE"
   },
   {
@@ -776,7 +776,7 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
    "COMUNA": "LITUECHE"
   },
@@ -784,8 +784,8 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
-   "2025": 24,
+   "2024": 19,
+   "2025": 25,
    "COMUNA": "LITUECHE"
   },
   {
@@ -886,7 +886,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

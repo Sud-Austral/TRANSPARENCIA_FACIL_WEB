@@ -12,18 +12,18 @@
   {
    "delito": "LESIONES",
    "CODCOM": 4104,
-   "2024": 16,
+   "2024": 17,
    "2025": 16,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "LA HIGUERA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4104,
    "2024": 15,
-   "2025": 21,
-   "variacion": 40,
+   "2025": 24,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "LA HIGUERA"
   },
@@ -467,7 +467,7 @@
    "CODCOM": 4104,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -980,7 +980,7 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "LESIONES",
-   "2024": 16,
+   "2024": 17,
    "2025": 16,
    "COMUNA": "LA HIGUERA"
   },
@@ -989,7 +989,7 @@
    "CODCOM": 4104,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 15,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "LA HIGUERA"
   },
   {
@@ -1130,7 +1130,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

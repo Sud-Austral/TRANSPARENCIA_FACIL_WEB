@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16101,
-   "2024": 1073,
-   "2025": 932,
+   "2024": 1109,
+   "2025": 967,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLÁN"
@@ -21,26 +21,26 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16101,
-   "2024": 376,
-   "2025": 389,
-   "variacion": 3,
+   "2024": 391,
+   "2025": 408,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "CHILLÁN"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16101,
-   "2024": 55,
+   "2024": 59,
    "2025": 59,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHILLÁN"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16101,
-   "2024": 136,
-   "2025": 100,
+   "2024": 139,
+   "2025": 103,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLÁN"
@@ -48,25 +48,25 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16101,
-   "2024": 74,
-   "2025": 72,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 75,
+   "2025": 75,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHILLÁN"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16101,
-   "2024": 297,
-   "2025": 269,
-   "variacion": -9,
+   "2024": 313,
+   "2025": 279,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLÁN"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 16101,
-   "2024": 158,
+   "2024": 160,
    "2025": 54,
    "variacion": -66,
    "situación": "Disminución de Casos",
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16101,
-   "2024": 463,
-   "2025": 448,
+   "2024": 476,
+   "2025": 464,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLÁN"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16101,
-   "2024": 318,
-   "2025": 395,
-   "variacion": 24,
+   "2024": 325,
+   "2025": 409,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "CHILLÁN"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16101,
-   "2024": 97,
-   "2025": 94,
-   "variacion": -3,
+   "2024": 102,
+   "2025": 101,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "CHILLÁN"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 87,
+   "casos": 122,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 34,
+   "casos": 53,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 12,
+   "casos": 15,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 36,
+   "casos": 46,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 53,
+   "casos": 69,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 41,
+   "casos": 55,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 16101,
    "anio": 2025,
    "mes": 8,
-   "casos": 12,
+   "casos": 19,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "HURTOS",
-   "2024": 1073,
-   "2025": 932,
+   "2024": 1109,
+   "2025": 967,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "LESIONES",
-   "2024": 376,
-   "2025": 389,
+   "2024": 391,
+   "2025": 408,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 55,
+   "2024": 59,
    "2025": 59,
    "COMUNA": "CHILLÁN"
   },
@@ -2237,31 +2237,31 @@
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 136,
-   "2025": 100,
+   "2024": 139,
+   "2025": 103,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 74,
-   "2025": 72,
+   "2024": 75,
+   "2025": 75,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 297,
-   "2025": 269,
+   "2024": 313,
+   "2025": 279,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 158,
+   "2024": 160,
    "2025": 54,
    "COMUNA": "CHILLÁN"
   },
@@ -2269,24 +2269,24 @@
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 463,
-   "2025": 448,
+   "2024": 476,
+   "2025": 464,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 318,
-   "2025": 395,
+   "2024": 325,
+   "2025": 409,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 97,
-   "2025": 94,
+   "2024": 102,
+   "2025": 101,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 16101,
    "delito": "HURTOS",
-   "2024": 404,
-   "2025": 363,
+   "2024": 417,
+   "2025": 381,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 16101,
    "delito": "LESIONES",
-   "2024": 90,
-   "2025": 125,
+   "2024": 97,
+   "2025": 129,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2342,7 +2342,7 @@
    "CODCOM": 16101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 11,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2382,7 +2382,7 @@
    "CODCOM": 16101,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 31,
-   "2025": 46,
+   "2025": 50,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2390,7 +2390,7 @@
    "CODCOM": 16101,
    "delito": "ROBO POR SORPRESA",
    "2024": 7,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2421,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 16101,
    "delito": "HURTOS",
-   "2024": 440,
-   "2025": 386,
+   "2024": 453,
+   "2025": 404,
    "COMUNA": "CHILLÁN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 16101,
    "delito": "LESIONES",
-   "2024": 154,
-   "2025": 204,
+   "2024": 165,
+   "2025": 212,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2446,7 +2446,7 @@
    "CODCOM": 16101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 16,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2486,7 +2486,7 @@
    "CODCOM": 16101,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 39,
-   "2025": 62,
+   "2025": 67,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2494,7 +2494,7 @@
    "CODCOM": 16101,
    "delito": "ROBO POR SORPRESA",
    "2024": 9,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CHILLÁN"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

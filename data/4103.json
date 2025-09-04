@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 4103,
    "2024": 17,
-   "2025": 20,
-   "variacion": 18,
+   "2025": 21,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4103,
-   "2024": 50,
-   "2025": 32,
-   "variacion": -36,
+   "2024": 51,
+   "2025": 34,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "ANDACOLLO"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4103,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -58,27 +58,27 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4103,
    "2024": 0,
-   "2025": 2,
-   "variacion": 200,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4103,
-   "2024": 35,
+   "2024": 36,
    "2025": 19,
-   "variacion": -46,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4103,
-   "2024": 8,
+   "2024": 10,
    "2025": 9,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": -10,
+   "situación": "Disminución de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -250,7 +250,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -410,7 +410,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -578,7 +578,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -900,15 +900,15 @@
    "CODCOM": 4103,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "ANDACOLLO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "LESIONES",
-   "2024": 50,
-   "2025": 32,
+   "2024": 51,
+   "2025": 34,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -923,7 +923,7 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "ANDACOLLO"
   },
@@ -948,14 +948,14 @@
    "CODCOM": 4103,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "ANDACOLLO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 35,
+   "2024": 36,
    "2025": 19,
    "COMUNA": "ANDACOLLO"
   },
@@ -963,7 +963,7 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
+   "2024": 10,
    "2025": 9,
    "COMUNA": "ANDACOLLO"
   },
@@ -1010,6 +1010,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 4103,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "ANDACOLLO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
    "2025": 3,
@@ -1050,6 +1058,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 4103,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 4,
+   "COMUNA": "ANDACOLLO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 0,
    "2025": 5,
@@ -1065,7 +1081,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

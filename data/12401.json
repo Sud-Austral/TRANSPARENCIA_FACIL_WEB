@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 12401,
    "2024": 38,
-   "2025": 33,
-   "variacion": -13,
+   "2025": 35,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 12401,
-   "2024": 82,
-   "2025": 57,
+   "2024": 84,
+   "2025": 59,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
@@ -31,9 +31,9 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 12401,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "NATALES"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "NATALES"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "NATALES"
   },
   {
@@ -756,7 +756,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "NATALES"
   },
   {
@@ -2214,15 +2214,15 @@
    "CODCOM": 12401,
    "delito": "HURTOS",
    "2024": 38,
-   "2025": 33,
+   "2025": 35,
    "COMUNA": "NATALES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 82,
-   "2025": 57,
+   "2024": 84,
+   "2025": 59,
    "COMUNA": "NATALES"
   },
   {
@@ -2230,7 +2230,7 @@
    "CODCOM": 12401,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "NATALES"
   },
   {
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 25,
+   "2024": 43,
+   "2025": 26,
    "COMUNA": "NATALES"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 65,
-   "2025": 45,
+   "2024": 67,
+   "2025": 46,
    "COMUNA": "NATALES"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Magallanes"
  }
 }

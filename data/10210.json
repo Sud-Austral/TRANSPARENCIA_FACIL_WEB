@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10210,
-   "2024": 9,
-   "2025": 10,
-   "variacion": 11,
+   "2024": 10,
+   "2025": 12,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINCHAO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10210,
-   "2024": 23,
-   "2025": 16,
-   "variacion": -30,
+   "2024": 24,
+   "2025": 17,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "QUINCHAO"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10210,
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
-   "variacion": 200,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "QUINCHAO"
   },
@@ -199,7 +199,7 @@
    "CODCOM": 10210,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -343,7 +343,7 @@
    "CODCOM": 10210,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -456,16 +456,16 @@
    "informacion": "Casos",
    "CODCOM": 10210,
    "delito": "HURTOS",
-   "2024": 9,
-   "2025": 10,
+   "2024": 10,
+   "2025": 12,
    "COMUNA": "QUINCHAO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10210,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 16,
+   "2024": 24,
+   "2025": 17,
    "COMUNA": "QUINCHAO"
   },
   {
@@ -496,7 +496,7 @@
    "informacion": "Casos",
    "CODCOM": 10210,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
    "COMUNA": "QUINCHAO"
   },
@@ -528,7 +528,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10210,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 7,
    "COMUNA": "QUINCHAO"
   },
@@ -568,7 +568,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10210,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 19,
    "2025": 11,
    "COMUNA": "QUINCHAO"
   },
@@ -598,7 +598,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

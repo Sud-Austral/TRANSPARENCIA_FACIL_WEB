@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9203,
-   "2024": 47,
-   "2025": 51,
-   "variacion": 9,
+   "2024": 48,
+   "2025": 55,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAUTÍN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9203,
-   "2024": 56,
-   "2025": 49,
-   "variacion": -12,
+   "2024": 58,
+   "2025": 52,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACAUTÍN"
   },
@@ -66,19 +66,19 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9203,
-   "2024": 19,
-   "2025": 52,
-   "variacion": 174,
+   "2024": 21,
+   "2025": 53,
+   "variacion": 152,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAUTÍN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9203,
-   "2024": 29,
-   "2025": 30,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 31,
+   "2025": 31,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -258,7 +258,7 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -418,7 +418,7 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -798,6 +798,14 @@
    "COMUNA": "CURACAUTÍN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CURACAUTÍN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9203,
    "anio": 2024,
@@ -922,7 +930,7 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -987,16 +995,16 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "HURTOS",
-   "2024": 47,
-   "2025": 51,
+   "2024": 48,
+   "2025": 55,
    "COMUNA": "CURACAUTÍN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "LESIONES",
-   "2024": 56,
-   "2025": 49,
+   "2024": 58,
+   "2025": 52,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -1043,16 +1051,16 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 19,
-   "2025": 52,
+   "2024": 21,
+   "2025": 53,
    "COMUNA": "CURACAUTÍN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 29,
-   "2025": 30,
+   "2024": 31,
+   "2025": 31,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -1076,15 +1084,15 @@
    "CODCOM": 9203,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "CURACAUTÍN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9203,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 21,
+   "2024": 25,
+   "2025": 22,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -1124,15 +1132,15 @@
    "CODCOM": 9203,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "CURACAUTÍN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9203,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 29,
+   "2024": 40,
+   "2025": 31,
    "COMUNA": "CURACAUTÍN"
   },
   {
@@ -1169,7 +1177,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

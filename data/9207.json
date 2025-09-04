@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 9207,
    "2024": 3,
-   "2025": 8,
-   "variacion": 167,
+   "2025": 10,
+   "variacion": 233,
    "situación": "Aumento de Casos",
    "COMUNA": "LUMACO"
   },
@@ -137,6 +137,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "LUMACO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9207,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
    "COMUNA": "LUMACO"
   },
   {
@@ -514,7 +522,7 @@
    "CODCOM": 9207,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 8,
+   "2025": 10,
    "COMUNA": "LUMACO"
   },
   {
@@ -663,7 +671,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

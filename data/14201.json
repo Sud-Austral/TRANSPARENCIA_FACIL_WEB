@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14201,
-   "2024": 113,
-   "2025": 100,
-   "variacion": -12,
+   "2024": 115,
+   "2025": 107,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "LA UNION"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14201,
-   "2024": 104,
-   "2025": 102,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 106,
+   "2025": 108,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "LA UNION"
   },
   {
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14201,
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
-   "variacion": -50,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "LA UNION"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 14201,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "LA UNION"
   },
   {
@@ -75,19 +75,19 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14201,
-   "2024": 81,
+   "2024": 85,
    "2025": 60,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "LA UNION"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14201,
-   "2024": 80,
-   "2025": 80,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 82,
+   "2025": 81,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "LA UNION"
   },
   {
@@ -436,7 +436,7 @@
    "CODCOM": 14201,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 10,
    "COMUNA": "LA UNION"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 14201,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 19,
    "COMUNA": "LA UNION"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 14201,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LA UNION"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "HURTOS",
-   "2024": 113,
-   "2025": 100,
+   "2024": 115,
+   "2025": 107,
    "COMUNA": "LA UNION"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "LESIONES",
-   "2024": 104,
-   "2025": 102,
+   "2024": 106,
+   "2025": 108,
    "COMUNA": "LA UNION"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 8,
+   "2024": 9,
    "2025": 4,
    "COMUNA": "LA UNION"
   },
@@ -2253,7 +2253,7 @@
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
    "COMUNA": "LA UNION"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 81,
+   "2024": 85,
    "2025": 60,
    "COMUNA": "LA UNION"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 14201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 80,
-   "2025": 80,
+   "2024": 82,
+   "2025": 81,
    "COMUNA": "LA UNION"
   },
   {
@@ -2318,7 +2318,7 @@
    "CODCOM": 14201,
    "delito": "HURTOS",
    "2024": 19,
-   "2025": 15,
+   "2025": 19,
    "COMUNA": "LA UNION"
   },
   {
@@ -2326,7 +2326,7 @@
    "CODCOM": 14201,
    "delito": "LESIONES",
    "2024": 29,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "LA UNION"
   },
   {
@@ -2422,7 +2422,7 @@
    "CODCOM": 14201,
    "delito": "HURTOS",
    "2024": 22,
-   "2025": 18,
+   "2025": 22,
    "COMUNA": "LA UNION"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 14201,
    "delito": "LESIONES",
    "2024": 48,
-   "2025": 63,
+   "2025": 64,
    "COMUNA": "LA UNION"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

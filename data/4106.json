@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4106,
-   "2024": 96,
-   "2025": 76,
-   "variacion": -21,
+   "2024": 99,
+   "2025": 80,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4106,
-   "2024": 82,
-   "2025": 88,
-   "variacion": 7,
+   "2024": 83,
+   "2025": 90,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4106,
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
-   "variacion": -50,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4106,
    "2024": 8,
-   "2025": 11,
-   "variacion": 38,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4106,
    "2024": 45,
-   "2025": 36,
-   "variacion": -20,
+   "2025": 40,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 4106,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   }
@@ -436,7 +436,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "VICUNA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "VICUNA"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "VICUNA"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "VICUNA"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "VICUNA"
   }
  ],
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "HURTOS",
-   "2024": 96,
-   "2025": 76,
+   "2024": 99,
+   "2025": 80,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "LESIONES",
-   "2024": 82,
-   "2025": 88,
+   "2024": 83,
+   "2025": 90,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
    "COMUNA": "VICUNA"
   },
@@ -2246,7 +2246,7 @@
    "CODCOM": 4106,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 8,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "VICUNA"
   },
   {
@@ -2270,7 +2270,7 @@
    "CODCOM": 4106,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 45,
-   "2025": 36,
+   "2025": 40,
    "COMUNA": "VICUNA"
   },
   {
@@ -2302,7 +2302,7 @@
    "CODCOM": 4106,
    "delito": "VIOLACIONES",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "VICUNA"
   },
   {
@@ -2318,22 +2318,22 @@
    "CODCOM": 4106,
    "delito": "HURTOS",
    "2024": 21,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4106,
    "delito": "LESIONES",
-   "2024": 15,
-   "2025": 37,
+   "2024": 16,
+   "2025": 38,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4106,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "VICUNA"
   },
@@ -2422,22 +2422,22 @@
    "CODCOM": 4106,
    "delito": "HURTOS",
    "2024": 26,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4106,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 67,
+   "2024": 34,
+   "2025": 69,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4106,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "VICUNA"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

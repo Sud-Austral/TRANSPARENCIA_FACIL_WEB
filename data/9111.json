@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9111,
-   "2024": 145,
-   "2025": 161,
+   "2024": 150,
+   "2025": 167,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "NUEVA IMPERIAL"
@@ -21,36 +21,36 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9111,
-   "2024": 101,
-   "2025": 86,
-   "variacion": -15,
+   "2024": 105,
+   "2025": 91,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9111,
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
-   "variacion": 300,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9111,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
-   "variacion": 14,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9111,
-   "2024": 12,
-   "2025": 10,
-   "variacion": -17,
+   "2024": 13,
+   "2025": 11,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9111,
    "2024": 9,
-   "2025": 10,
-   "variacion": 11,
+   "2025": 11,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9111,
-   "2024": 42,
-   "2025": 81,
+   "2024": 43,
+   "2025": 83,
    "variacion": 93,
    "situación": "Aumento de Casos",
    "COMUNA": "NUEVA IMPERIAL"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9111,
-   "2024": 40,
+   "2024": 41,
    "2025": 61,
-   "variacion": 52,
+   "variacion": 49,
    "situación": "Aumento de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 9111,
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
-   "variacion": -60,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "NUEVA IMPERIAL"
   }
@@ -436,7 +436,7 @@
    "CODCOM": 9111,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 17,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 9111,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 11,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 9111,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 9111,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 9111,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2213,23 +2213,23 @@
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "HURTOS",
-   "2024": 145,
-   "2025": 161,
+   "2024": 150,
+   "2025": 167,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "LESIONES",
-   "2024": 101,
-   "2025": 86,
+   "2024": 105,
+   "2025": 91,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 4,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2245,8 +2245,8 @@
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 12,
-   "2025": 10,
+   "2024": 13,
+   "2025": 11,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2254,7 +2254,7 @@
    "CODCOM": 9111,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2269,15 +2269,15 @@
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 42,
-   "2025": 81,
+   "2024": 43,
+   "2025": 83,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
+   "2024": 41,
    "2025": 61,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2301,7 +2301,7 @@
    "informacion": "Casos",
    "CODCOM": 9111,
    "delito": "VIOLACIONES",
-   "2024": 5,
+   "2024": 6,
    "2025": 2,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2318,22 +2318,22 @@
    "CODCOM": 9111,
    "delito": "HURTOS",
    "2024": 19,
-   "2025": 38,
+   "2025": 40,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9111,
    "delito": "LESIONES",
-   "2024": 40,
-   "2025": 25,
+   "2024": 42,
+   "2025": 29,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9111,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2350,7 +2350,7 @@
    "CODCOM": 9111,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 9111,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 4,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2422,22 +2422,22 @@
    "CODCOM": 9111,
    "delito": "HURTOS",
    "2024": 20,
-   "2025": 45,
+   "2025": 48,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9111,
    "delito": "LESIONES",
-   "2024": 65,
-   "2025": 38,
+   "2024": 67,
+   "2025": 42,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9111,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "NUEVA IMPERIAL"
   },
@@ -2454,7 +2454,7 @@
    "CODCOM": 9111,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 9111,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "NUEVA IMPERIAL"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

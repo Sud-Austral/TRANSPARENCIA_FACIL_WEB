@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6201,
-   "2024": 106,
-   "2025": 82,
-   "variacion": -23,
+   "2024": 108,
+   "2025": 84,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6201,
-   "2024": 71,
-   "2025": 76,
-   "variacion": 7,
+   "2024": 73,
+   "2025": 77,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6201,
    "2024": 13,
-   "2025": 7,
-   "variacion": -46,
+   "2025": 8,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -58,25 +58,25 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6201,
    "2024": 8,
-   "2025": 9,
-   "variacion": 12,
+   "2025": 10,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6201,
-   "2024": 15,
+   "2024": 17,
    "2025": 18,
-   "variacion": 20,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6201,
-   "2024": 76,
-   "2025": 45,
+   "2024": 81,
+   "2025": 48,
    "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6201,
-   "2024": 21,
+   "2024": 23,
    "2025": 29,
-   "variacion": 38,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -292,7 +292,7 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -668,6 +668,14 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 5,
+   "casos": 1,
+   "COMUNA": "PICHILEMU"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "PICHILEMU"
   },
@@ -781,6 +789,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 2,
+   "COMUNA": "PICHILEMU"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1060,7 +1076,7 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1309,16 +1325,16 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "HURTOS",
-   "2024": 106,
-   "2025": 82,
+   "2024": 108,
+   "2025": 84,
    "COMUNA": "PICHILEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "LESIONES",
-   "2024": 71,
-   "2025": 76,
+   "2024": 73,
+   "2025": 77,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1342,7 +1358,7 @@
    "CODCOM": 6201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 13,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1350,14 +1366,14 @@
    "CODCOM": 6201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "PICHILEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 15,
+   "2024": 17,
    "2025": 18,
    "COMUNA": "PICHILEMU"
   },
@@ -1365,15 +1381,15 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 76,
-   "2025": 45,
+   "2024": 81,
+   "2025": 48,
    "COMUNA": "PICHILEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 21,
+   "2024": 23,
    "2025": 29,
    "COMUNA": "PICHILEMU"
   },
@@ -1446,7 +1462,7 @@
    "CODCOM": 6201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1470,7 +1486,7 @@
    "CODCOM": 6201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 5,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1542,7 +1558,7 @@
    "CODCOM": 6201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1566,7 +1582,7 @@
    "CODCOM": 6201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1595,7 +1611,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

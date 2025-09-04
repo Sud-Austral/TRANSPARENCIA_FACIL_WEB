@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16305,
-   "2024": 25,
-   "2025": 29,
-   "variacion": 16,
+   "2024": 26,
+   "2025": 31,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16305,
-   "2024": 3,
+   "2024": 6,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16305,
-   "2024": 29,
-   "2025": 26,
-   "variacion": -10,
+   "2024": 31,
+   "2025": 27,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 16305,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -411,7 +411,7 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -819,7 +819,7 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -1020,8 +1020,8 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "LESIONES",
-   "2024": 25,
-   "2025": 29,
+   "2024": 26,
+   "2025": 31,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -1052,7 +1052,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 3,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1068,8 +1068,8 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 29,
-   "2025": 26,
+   "2024": 31,
+   "2025": 27,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -1084,7 +1084,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1108,7 +1108,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16305,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1156,7 +1156,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16305,
    "delito": "LESIONES",
-   "2024": 21,
+   "2024": 23,
    "2025": 18,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1194,7 +1194,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

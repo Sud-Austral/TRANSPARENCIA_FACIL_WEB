@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8109,
-   "2024": 54,
-   "2025": 24,
-   "variacion": -56,
+   "2024": 55,
+   "2025": 26,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 8109,
    "2024": 33,
-   "2025": 42,
-   "variacion": 27,
+   "2025": 44,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8109,
-   "2024": 34,
-   "2025": 39,
-   "variacion": 15,
+   "2024": 36,
+   "2025": 40,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8109,
-   "2024": 30,
+   "2024": 31,
    "2025": 11,
-   "variacion": -63,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -275,7 +275,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -835,7 +835,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1036,8 +1036,8 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "HURTOS",
-   "2024": 54,
-   "2025": 24,
+   "2024": 55,
+   "2025": 26,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1045,7 +1045,7 @@
    "CODCOM": 8109,
    "delito": "LESIONES",
    "2024": 33,
-   "2025": 42,
+   "2025": 44,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1092,15 +1092,15 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 34,
-   "2025": 39,
+   "2024": 36,
+   "2025": 40,
    "COMUNA": "SANTA JUANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 30,
+   "2024": 31,
    "2025": 11,
    "COMUNA": "SANTA JUANA"
   },
@@ -1202,7 +1202,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Biobío"
  }
 }

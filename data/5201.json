@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5201,
-   "2024": 18,
+   "2024": 19,
    "2025": 19,
-   "variacion": 6,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "ISLA DE PASCUA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5201,
-   "2024": 46,
+   "2024": 50,
    "2025": 63,
-   "variacion": 37,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "ISLA DE PASCUA"
   },
@@ -617,7 +617,7 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "HURTOS",
-   "2024": 18,
+   "2024": 19,
    "2025": 19,
    "COMUNA": "ISLA DE PASCUA"
   },
@@ -625,7 +625,7 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "LESIONES",
-   "2024": 46,
+   "2024": 50,
    "2025": 63,
    "COMUNA": "ISLA DE PASCUA"
   },
@@ -697,7 +697,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5201,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 15,
    "COMUNA": "ISLA DE PASCUA"
   },
@@ -713,13 +713,13 @@
    "informacion": "Detenidos",
    "CODCOM": 5201,
    "delito": "LESIONES",
-   "2024": 16,
+   "2024": 19,
    "2025": 22,
    "COMUNA": "ISLA DE PASCUA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 10106,
    "2024": 30,
-   "2025": 18,
-   "variacion": -40,
+   "2025": 20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS MUERMOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10106,
-   "2024": 23,
-   "2025": 36,
-   "variacion": 57,
+   "2024": 25,
+   "2025": 40,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS MUERMOS"
   },
@@ -232,7 +232,7 @@
    "CODCOM": 10106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -392,7 +392,7 @@
    "CODCOM": 10106,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 10,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -642,15 +642,15 @@
    "CODCOM": 10106,
    "delito": "HURTOS",
    "2024": 30,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "LOS MUERMOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10106,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 36,
+   "2024": 25,
+   "2025": 40,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -714,7 +714,7 @@
    "CODCOM": 10106,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -754,7 +754,7 @@
    "CODCOM": 10106,
    "delito": "HURTOS",
    "2024": 9,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -791,7 +791,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

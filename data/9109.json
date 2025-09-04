@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9109,
-   "2024": 88,
-   "2025": 78,
-   "variacion": -11,
+   "2024": 91,
+   "2025": 79,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9109,
-   "2024": 67,
-   "2025": 70,
-   "variacion": 4,
+   "2024": 70,
+   "2025": 77,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "LONCOCHE"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9109,
-   "2024": 29,
+   "2024": 30,
    "2025": 28,
-   "variacion": -3,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 11,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 14,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 88,
-   "2025": 78,
+   "2024": 91,
+   "2025": 79,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 67,
-   "2025": 70,
+   "2024": 70,
+   "2025": 77,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2277,7 +2277,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 29,
+   "2024": 30,
    "2025": 28,
    "COMUNA": "LONCOCHE"
   },
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 15,
+   "2024": 16,
    "2025": 19,
    "COMUNA": "LONCOCHE"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 17,
+   "2024": 35,
+   "2025": 19,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 22,
+   "2024": 23,
    "2025": 21,
    "COMUNA": "LONCOCHE"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 58,
-   "2025": 29,
+   "2024": 60,
+   "2025": 31,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

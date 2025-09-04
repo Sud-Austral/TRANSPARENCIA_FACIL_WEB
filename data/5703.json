@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5703,
-   "2024": 46,
-   "2025": 52,
-   "variacion": 13,
+   "2024": 48,
+   "2025": 53,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "LLAYLLAY"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 5703,
    "2024": 69,
-   "2025": 74,
-   "variacion": 7,
+   "2025": 80,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "LLAYLLAY"
   },
@@ -39,27 +39,27 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5703,
-   "2024": 14,
+   "2024": 16,
    "2025": 9,
-   "variacion": -36,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "LLAYLLAY"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5703,
-   "2024": 11,
-   "2025": 12,
-   "variacion": 9,
+   "2024": 12,
+   "2025": 13,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LLAYLLAY"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5703,
-   "2024": 43,
+   "2024": 46,
    "2025": 42,
-   "variacion": -2,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "LLAYLLAY"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5703,
-   "2024": 34,
+   "2024": 36,
    "2025": 29,
-   "variacion": -15,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "LLAYLLAY"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 13,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 5703,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -2213,8 +2213,8 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "HURTOS",
-   "2024": 46,
-   "2025": 52,
+   "2024": 48,
+   "2025": 53,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -2222,7 +2222,7 @@
    "CODCOM": 5703,
    "delito": "LESIONES",
    "2024": 69,
-   "2025": 74,
+   "2025": 80,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 14,
+   "2024": 16,
    "2025": 9,
    "COMUNA": "LLAYLLAY"
   },
@@ -2245,15 +2245,15 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 11,
-   "2025": 12,
+   "2024": 12,
+   "2025": 13,
    "COMUNA": "LLAYLLAY"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 43,
+   "2024": 46,
    "2025": 42,
    "COMUNA": "LLAYLLAY"
   },
@@ -2277,7 +2277,7 @@
    "informacion": "Casos",
    "CODCOM": 5703,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 34,
+   "2024": 36,
    "2025": 29,
    "COMUNA": "LLAYLLAY"
   },
@@ -2326,7 +2326,7 @@
    "CODCOM": 5703,
    "delito": "LESIONES",
    "2024": 24,
-   "2025": 23,
+   "2025": 25,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 5703,
    "delito": "LESIONES",
    "2024": 46,
-   "2025": 46,
+   "2025": 48,
    "COMUNA": "LLAYLLAY"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

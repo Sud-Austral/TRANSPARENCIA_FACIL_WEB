@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 10402,
    "2024": 5,
-   "2025": 7,
-   "variacion": 40,
+   "2025": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "FUTALEUFÚ"
   },
@@ -257,6 +257,14 @@
    "COMUNA": "FUTALEUFÚ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10402,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "FUTALEUFÚ"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10402,
    "anio": 2024,
@@ -343,7 +351,7 @@
    "CODCOM": 10402,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "FUTALEUFÚ"
   },
   {
@@ -436,7 +444,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

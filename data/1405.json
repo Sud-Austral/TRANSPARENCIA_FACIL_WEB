@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 1405,
    "2024": 26,
-   "2025": 17,
-   "variacion": -35,
+   "2025": 18,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "PICA"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1405,
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PICA"
   },
   {
@@ -83,6 +83,15 @@
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1405,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "PICA"
+  },
+  {
+   "delito": "VIOLACIONES",
    "CODCOM": 1405,
    "2024": 0,
    "2025": 1,
@@ -241,7 +250,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "PICA"
   },
   {
@@ -779,6 +788,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "PICA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 1405,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "PICA"
   }
  ],
  "info": [
@@ -787,7 +804,7 @@
    "CODCOM": 1405,
    "delito": "HURTOS",
    "2024": 26,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "PICA"
   },
   {
@@ -834,7 +851,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "PICA"
   },
@@ -858,6 +875,14 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PICA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 1405,
+   "delito": "VIOLACIONES",
    "2024": 0,
    "2025": 1,
    "COMUNA": "PICA"
@@ -896,7 +921,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Tarapacá"
  }
 }

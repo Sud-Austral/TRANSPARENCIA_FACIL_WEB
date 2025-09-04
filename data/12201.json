@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 12201,
    "2024": 1,
-   "2025": 9,
-   "variacion": 800,
+   "2025": 10,
+   "variacion": 900,
    "situación": "Aumento de Casos",
    "COMUNA": "CABO DE HORNOS"
   }
@@ -161,7 +161,7 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CABO DE HORNOS"
   }
  ],
@@ -179,44 +179,44 @@
    "CODCOM": 12201,
    "delito": "LESIONES",
    "2024": 1,
-   "2025": 9,
-   "COMUNA": "CABO DE HORNOS"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 12201,
-   "delito": "HURTOS",
-   "2024": 1,
-   "2025": 1,
-   "COMUNA": "CABO DE HORNOS"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 12201,
-   "delito": "LESIONES",
-   "2024": 1,
-   "2025": 6,
-   "COMUNA": "CABO DE HORNOS"
-  },
-  {
-   "informacion": "Detenidos",
-   "CODCOM": 12201,
-   "delito": "HURTOS",
-   "2024": 1,
-   "2025": 1,
-   "COMUNA": "CABO DE HORNOS"
-  },
-  {
-   "informacion": "Detenidos",
-   "CODCOM": 12201,
-   "delito": "LESIONES",
-   "2024": 1,
    "2025": 10,
+   "COMUNA": "CABO DE HORNOS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12201,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "CABO DE HORNOS"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 12201,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 7,
+   "COMUNA": "CABO DE HORNOS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12201,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "CABO DE HORNOS"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 12201,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 11,
    "COMUNA": "CABO DE HORNOS"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Magallanes"
  }
 }

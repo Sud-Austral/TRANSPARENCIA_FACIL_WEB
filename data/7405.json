@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 7405,
-   "2024": 23,
-   "2025": 33,
-   "variacion": 43,
+   "2024": 26,
+   "2025": 34,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7405,
-   "2024": 6,
-   "2025": 10,
-   "variacion": 67,
+   "2024": 7,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7405,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7405,
-   "2024": 25,
+   "2024": 26,
    "2025": 17,
-   "variacion": -32,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "RETIRO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7405,
-   "2024": 45,
-   "2025": 54,
-   "variacion": 20,
+   "2024": 49,
+   "2025": 56,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
@@ -401,7 +401,7 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "RETIRO"
   },
   {
@@ -545,7 +545,7 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "RETIRO"
   },
   {
@@ -593,7 +593,7 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "RETIRO"
   },
   {
@@ -1113,7 +1113,7 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "RETIRO"
   },
   {
@@ -1162,8 +1162,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 33,
+   "2024": 26,
+   "2025": 34,
    "COMUNA": "RETIRO"
   },
   {
@@ -1178,8 +1178,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
-   "2025": 10,
+   "2024": 7,
+   "2025": 11,
    "COMUNA": "RETIRO"
   },
   {
@@ -1187,14 +1187,14 @@
    "CODCOM": 7405,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "RETIRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 25,
+   "2024": 26,
    "2025": 17,
    "COMUNA": "RETIRO"
   },
@@ -1218,8 +1218,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
-   "2025": 54,
+   "2024": 49,
+   "2025": 56,
    "COMUNA": "RETIRO"
   },
   {
@@ -1344,7 +1344,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

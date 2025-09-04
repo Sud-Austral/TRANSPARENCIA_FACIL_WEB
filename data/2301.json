@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2301,
-   "2024": 68,
-   "2025": 96,
-   "variacion": 41,
+   "2024": 71,
+   "2025": 98,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "TOCOPILLA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 2301,
-   "2024": 152,
-   "2025": 133,
-   "variacion": -12,
+   "2024": 153,
+   "2025": 137,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "TOCOPILLA"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 2301,
-   "2024": 11,
+   "2024": 12,
    "2025": 20,
-   "variacion": 82,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "TOCOPILLA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 2301,
    "2024": 17,
-   "2025": 26,
-   "variacion": 53,
+   "2025": 28,
+   "variacion": 65,
    "situación": "Aumento de Casos",
    "COMUNA": "TOCOPILLA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 2301,
-   "2024": 37,
+   "2024": 39,
    "2025": 26,
-   "variacion": -30,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "TOCOPILLA"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 2301,
    "anio": 2025,
    "mes": 8,
-   "casos": 15,
+   "casos": 17,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 2301,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 15,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 2301,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 2301,
    "delito": "HURTOS",
-   "2024": 68,
-   "2025": 96,
+   "2024": 71,
+   "2025": 98,
    "COMUNA": "TOCOPILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2301,
    "delito": "LESIONES",
-   "2024": 152,
-   "2025": 133,
+   "2024": 153,
+   "2025": 137,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -2245,7 +2245,7 @@
    "informacion": "Casos",
    "CODCOM": 2301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 11,
+   "2024": 12,
    "2025": 20,
    "COMUNA": "TOCOPILLA"
   },
@@ -2254,7 +2254,7 @@
    "CODCOM": 2301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 17,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 2301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 37,
+   "2024": 39,
    "2025": 26,
    "COMUNA": "TOCOPILLA"
   },
@@ -2317,16 +2317,16 @@
    "informacion": "Detenciones",
    "CODCOM": 2301,
    "delito": "HURTOS",
-   "2024": 19,
-   "2025": 19,
+   "2024": 20,
+   "2025": 21,
    "COMUNA": "TOCOPILLA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 2301,
    "delito": "LESIONES",
-   "2024": 47,
-   "2025": 54,
+   "2024": 48,
+   "2025": 55,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -2421,16 +2421,16 @@
    "informacion": "Detenidos",
    "CODCOM": 2301,
    "delito": "HURTOS",
-   "2024": 20,
-   "2025": 24,
+   "2024": 22,
+   "2025": 26,
    "COMUNA": "TOCOPILLA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 2301,
    "delito": "LESIONES",
-   "2024": 82,
-   "2025": 89,
+   "2024": 85,
+   "2025": 90,
    "COMUNA": "TOCOPILLA"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Antofagasta"
  }
 }

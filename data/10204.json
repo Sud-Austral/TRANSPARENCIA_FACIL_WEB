@@ -12,9 +12,18 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10204,
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
-   "variacion": -18,
+   "variacion": -25,
+   "situación": "Disminución de Casos",
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10204,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACO DE VÉLEZ"
   },
@@ -219,8 +228,16 @@
    "informacion": "Casos",
    "CODCOM": 10204,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
+   "COMUNA": "CURACO DE VÉLEZ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 10204,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "CURACO DE VÉLEZ"
   },
   {
@@ -249,7 +266,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

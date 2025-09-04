@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7107,
    "2024": 10,
-   "2025": 15,
-   "variacion": 50,
+   "2025": 17,
+   "variacion": 70,
    "situación": "Aumento de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7107,
-   "2024": 20,
-   "2025": 17,
-   "variacion": -15,
+   "2024": 22,
+   "2025": 18,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -313,7 +313,7 @@
    "CODCOM": 7107,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -609,7 +609,7 @@
    "CODCOM": 7107,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -635,7 +635,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -690,8 +690,8 @@
    "informacion": "Casos",
    "CODCOM": 7107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
-   "2025": 17,
+   "2024": 22,
+   "2025": 18,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -707,7 +707,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 2,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -729,6 +729,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7107,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -739,7 +747,7 @@
    "CODCOM": 7107,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 14,
+   "2025": 18,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -761,6 +769,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 7107,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 3,
+   "COMUNA": "PENCAHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7107,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -768,7 +784,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

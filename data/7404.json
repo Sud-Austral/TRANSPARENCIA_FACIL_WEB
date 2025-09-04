@@ -13,26 +13,26 @@
    "delito": "HURTOS",
    "CODCOM": 7404,
    "2024": 65,
-   "2025": 61,
-   "variacion": -6,
+   "2025": 64,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "PARRAL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7404,
-   "2024": 81,
-   "2025": 80,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 82,
+   "2025": 82,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PARRAL"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7404,
-   "2024": 2,
+   "2024": 3,
    "2025": 6,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PARRAL"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7404,
    "2024": 1,
-   "2025": 9,
-   "variacion": 800,
+   "2025": 12,
+   "variacion": 1100,
    "situación": "Aumento de Casos",
    "COMUNA": "PARRAL"
   },
@@ -66,27 +66,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7404,
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
-   "variacion": -17,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "PARRAL"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7404,
-   "2024": 36,
-   "2025": 48,
-   "variacion": 33,
+   "2024": 37,
+   "2025": 50,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "PARRAL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7404,
-   "2024": 64,
+   "2024": 66,
    "2025": 53,
-   "variacion": -17,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PARRAL"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7404,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "PARRAL"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 7404,
    "anio": 2025,
    "mes": 8,
-   "casos": 11,
+   "casos": 14,
    "COMUNA": "PARRAL"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 7404,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 9,
    "COMUNA": "PARRAL"
   },
   {
@@ -1076,7 +1076,7 @@
    "CODCOM": 7404,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 3,
    "COMUNA": "PARRAL"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 7404,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "PARRAL"
   },
   {
@@ -1876,7 +1876,7 @@
    "CODCOM": 7404,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PARRAL"
   },
   {
@@ -2214,22 +2214,22 @@
    "CODCOM": 7404,
    "delito": "HURTOS",
    "2024": 65,
-   "2025": 61,
+   "2025": 64,
    "COMUNA": "PARRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7404,
    "delito": "LESIONES",
-   "2024": 81,
-   "2025": 80,
+   "2024": 82,
+   "2025": 82,
    "COMUNA": "PARRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7404,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 6,
    "COMUNA": "PARRAL"
   },
@@ -2246,7 +2246,7 @@
    "CODCOM": 7404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 9,
+   "2025": 12,
    "COMUNA": "PARRAL"
   },
   {
@@ -2261,7 +2261,7 @@
    "informacion": "Casos",
    "CODCOM": 7404,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "PARRAL"
   },
@@ -2269,15 +2269,15 @@
    "informacion": "Casos",
    "CODCOM": 7404,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
-   "2025": 48,
+   "2024": 37,
+   "2025": 50,
    "COMUNA": "PARRAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7404,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 64,
+   "2024": 66,
    "2025": 53,
    "COMUNA": "PARRAL"
   },
@@ -2286,7 +2286,7 @@
    "CODCOM": 7404,
    "delito": "ROBO POR SORPRESA",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PARRAL"
   },
   {
@@ -2318,15 +2318,15 @@
    "CODCOM": 7404,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PARRAL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7404,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 27,
+   "2024": 23,
+   "2025": 29,
    "COMUNA": "PARRAL"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 7404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "PARRAL"
   },
   {
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7404,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "PARRAL"
   },
@@ -2422,15 +2422,15 @@
    "CODCOM": 7404,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "PARRAL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7404,
    "delito": "LESIONES",
-   "2024": 37,
-   "2025": 47,
+   "2024": 38,
+   "2025": 50,
    "COMUNA": "PARRAL"
   },
   {
@@ -2454,7 +2454,7 @@
    "CODCOM": 7404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 0,
+   "2025": 4,
    "COMUNA": "PARRAL"
   },
   {
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7404,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "PARRAL"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

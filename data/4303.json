@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 4303,
    "2024": 34,
-   "2025": 28,
-   "variacion": -18,
+   "2025": 30,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "MONTE PATRIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4303,
-   "2024": 83,
-   "2025": 74,
-   "variacion": -11,
+   "2024": 89,
+   "2025": 77,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "MONTE PATRIA"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4303,
-   "2024": 37,
-   "2025": 25,
-   "variacion": -32,
+   "2024": 38,
+   "2025": 30,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "MONTE PATRIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4303,
-   "2024": 37,
-   "2025": 52,
-   "variacion": 41,
+   "2024": 42,
+   "2025": 53,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "MONTE PATRIA"
   },
@@ -85,9 +85,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4303,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -258,7 +258,7 @@
    "CODCOM": 4303,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -418,7 +418,7 @@
    "CODCOM": 4303,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -874,7 +874,7 @@
    "CODCOM": 4303,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 10,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1034,7 +1034,7 @@
    "CODCOM": 4303,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1094,6 +1094,14 @@
    "COMUNA": "MONTE PATRIA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MONTE PATRIA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 4303,
    "anio": 2024,
@@ -1124,15 +1132,15 @@
    "CODCOM": 4303,
    "delito": "HURTOS",
    "2024": 34,
-   "2025": 28,
+   "2025": 30,
    "COMUNA": "MONTE PATRIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4303,
    "delito": "LESIONES",
-   "2024": 83,
-   "2025": 74,
+   "2024": 89,
+   "2025": 77,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1179,16 +1187,16 @@
    "informacion": "Casos",
    "CODCOM": 4303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 37,
-   "2025": 25,
+   "2024": 38,
+   "2025": 30,
    "COMUNA": "MONTE PATRIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 37,
-   "2025": 52,
+   "2024": 42,
+   "2025": 53,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1196,7 +1204,7 @@
    "CODCOM": 4303,
    "delito": "ROBO POR SORPRESA",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1219,8 +1227,8 @@
    "informacion": "Detenciones",
    "CODCOM": 4303,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 20,
+   "2024": 20,
+   "2025": 22,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1251,7 +1259,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "MONTE PATRIA"
   },
@@ -1283,8 +1291,8 @@
    "informacion": "Detenidos",
    "CODCOM": 4303,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 37,
+   "2024": 41,
+   "2025": 42,
    "COMUNA": "MONTE PATRIA"
   },
   {
@@ -1315,7 +1323,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 4,
    "2025": 0,
    "COMUNA": "MONTE PATRIA"
   },
@@ -1337,7 +1345,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

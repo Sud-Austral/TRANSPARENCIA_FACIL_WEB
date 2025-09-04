@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11301,
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
-   "variacion": 12,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COCHRANE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 11301,
-   "2024": 8,
+   "2024": 9,
    "2025": 14,
-   "variacion": 75,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "COCHRANE"
   },
@@ -397,7 +397,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "HURTOS",
-   "2024": 8,
+   "2024": 9,
    "2025": 9,
    "COMUNA": "COCHRANE"
   },
@@ -405,7 +405,7 @@
    "informacion": "Casos",
    "CODCOM": 11301,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 9,
    "2025": 14,
    "COMUNA": "COCHRANE"
   },
@@ -483,7 +483,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Aysén"
  }
 }

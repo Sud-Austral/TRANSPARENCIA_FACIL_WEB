@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 8314,
    "2024": 14,
-   "2025": 12,
-   "variacion": -14,
+   "2025": 13,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "ALTO BIOBÍO"
   },
@@ -333,6 +333,14 @@
    "COMUNA": "ALTO BIOBÍO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "ALTO BIOBÍO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8314,
    "anio": 2024,
@@ -539,7 +547,7 @@
    "CODCOM": 8314,
    "delito": "LESIONES",
    "2024": 14,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "ALTO BIOBÍO"
   },
   {
@@ -619,7 +627,7 @@
    "CODCOM": 8314,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "ALTO BIOBÍO"
   },
   {
@@ -659,7 +667,7 @@
    "CODCOM": 8314,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 3,
+   "2025": 6,
    "COMUNA": "ALTO BIOBÍO"
   },
   {
@@ -680,7 +688,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Biobío"
  }
 }

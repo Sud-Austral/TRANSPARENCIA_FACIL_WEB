@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10203,
-   "2024": 40,
+   "2024": 41,
    "2025": 35,
-   "variacion": -12,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "CHONCHI"
   },
@@ -85,9 +85,9 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10203,
    "2024": 12,
-   "2025": 11,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHONCHI"
   },
   {
@@ -767,6 +767,14 @@
    "COMUNA": "CHONCHI"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "CHONCHI"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10203,
    "anio": 2025,
@@ -836,7 +844,7 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "LESIONES",
-   "2024": 40,
+   "2024": 41,
    "2025": 35,
    "COMUNA": "CHONCHI"
   },
@@ -893,7 +901,7 @@
    "CODCOM": 10203,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "CHONCHI"
   },
   {
@@ -1026,7 +1034,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

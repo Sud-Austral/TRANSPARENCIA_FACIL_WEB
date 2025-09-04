@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 5803,
    "2024": 37,
-   "2025": 41,
-   "variacion": 11,
+   "2025": 42,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5803,
-   "2024": 10,
+   "2024": 11,
    "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9,
+   "situación": "Disminución de Casos",
    "COMUNA": "OLMUÉ"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5803,
-   "2024": 47,
-   "2025": 50,
-   "variacion": 6,
+   "2024": 49,
+   "2025": 51,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -94,9 +94,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5803,
    "2024": 4,
-   "2025": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "OLMUÉ"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 5803,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -955,7 +955,7 @@
    "CODCOM": 5803,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1159,6 +1159,14 @@
    "COMUNA": "OLMUÉ"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "OLMUÉ"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1197,7 +1205,7 @@
    "CODCOM": 5803,
    "delito": "LESIONES",
    "2024": 37,
-   "2025": 41,
+   "2025": 42,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1212,7 +1220,7 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 10,
+   "2024": 11,
    "2025": 10,
    "COMUNA": "OLMUÉ"
   },
@@ -1244,8 +1252,8 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 47,
-   "2025": 50,
+   "2024": 49,
+   "2025": 51,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1261,7 +1269,7 @@
    "CODCOM": 5803,
    "delito": "ROBO POR SORPRESA",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1434,7 +1442,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

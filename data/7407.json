@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 7407,
    "2024": 25,
-   "2025": 25,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 26,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7407,
-   "2024": 48,
+   "2024": 49,
    "2025": 31,
-   "variacion": -35,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -22,8 +22,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7407,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 5,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7407,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7407,
    "2024": 9,
-   "2025": 7,
-   "variacion": -22,
+   "2025": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7407,
-   "2024": 32,
+   "2024": 33,
    "2025": 26,
-   "variacion": -19,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7407,
-   "2024": 39,
-   "2025": 41,
-   "variacion": 5,
+   "2024": 40,
+   "2025": 43,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -250,7 +250,7 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -450,7 +450,7 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -522,6 +522,14 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 5,
+   "casos": 1,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7407,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -682,7 +690,7 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1050,7 +1058,7 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1092,14 +1100,14 @@
    "CODCOM": 7407,
    "delito": "HURTOS",
    "2024": 25,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "LESIONES",
-   "2024": 48,
+   "2024": 49,
    "2025": 31,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -1108,7 +1116,7 @@
    "CODCOM": 7407,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1116,7 +1124,7 @@
    "CODCOM": 7407,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1132,7 +1140,7 @@
    "CODCOM": 7407,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1147,7 +1155,7 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 32,
+   "2024": 33,
    "2025": 26,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -1155,8 +1163,8 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 39,
-   "2025": 41,
+   "2024": 40,
+   "2025": 43,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1180,7 +1188,7 @@
    "CODCOM": 7407,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1212,7 +1220,7 @@
    "CODCOM": 7407,
    "delito": "HURTOS",
    "2024": 5,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1241,7 +1249,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10202,
-   "2024": 95,
-   "2025": 87,
-   "variacion": -8,
+   "2024": 99,
+   "2025": 88,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10202,
-   "2024": 112,
-   "2025": 106,
-   "variacion": -5,
+   "2024": 114,
+   "2025": 110,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10202,
    "2024": 5,
-   "2025": 1,
-   "variacion": -80,
+   "2025": 2,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10202,
    "2024": 30,
-   "2025": 31,
-   "variacion": 3,
+   "2025": 32,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10202,
-   "2024": 27,
-   "2025": 43,
-   "variacion": 59,
+   "2024": 28,
+   "2025": 44,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "ANCUD"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 17,
    "COMUNA": "ANCUD"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ANCUD"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ANCUD"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "ANCUD"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 95,
-   "2025": 87,
+   "2024": 99,
+   "2025": 88,
    "COMUNA": "ANCUD"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "LESIONES",
-   "2024": 112,
-   "2025": 106,
+   "2024": 114,
+   "2025": 110,
    "COMUNA": "ANCUD"
   },
   {
@@ -2238,7 +2238,7 @@
    "CODCOM": 10202,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 5,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "ANCUD"
   },
   {
@@ -2270,15 +2270,15 @@
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 30,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "ANCUD"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 27,
-   "2025": 43,
+   "2024": 28,
+   "2025": 44,
    "COMUNA": "ANCUD"
   },
   {
@@ -2317,8 +2317,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 18,
-   "2025": 17,
+   "2024": 19,
+   "2025": 18,
    "COMUNA": "ANCUD"
   },
   {
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "ANCUD"
   },
@@ -2421,8 +2421,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 25,
-   "2025": 22,
+   "2024": 26,
+   "2025": 23,
    "COMUNA": "ANCUD"
   },
   {
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "ANCUD"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

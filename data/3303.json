@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 3303,
    "2024": 21,
-   "2025": 11,
-   "variacion": -48,
+   "2025": 12,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRINA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3303,
-   "2024": 24,
-   "2025": 19,
-   "variacion": -21,
+   "2024": 26,
+   "2025": 20,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRINA"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3303,
-   "2024": 3,
+   "2024": 5,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "FREIRINA"
   },
   {
@@ -222,6 +222,14 @@
    "COMUNA": "FREIRINA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 3303,
    "anio": 2024,
@@ -370,7 +378,7 @@
    "CODCOM": 3303,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "FREIRINA"
   },
   {
@@ -708,15 +716,15 @@
    "CODCOM": 3303,
    "delito": "HURTOS",
    "2024": 21,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "FREIRINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 19,
+   "2024": 26,
+   "2025": 20,
    "COMUNA": "FREIRINA"
   },
   {
@@ -739,7 +747,7 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 3,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "FREIRINA"
   },
@@ -795,7 +803,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 10,
    "2025": 12,
    "COMUNA": "FREIRINA"
   },
@@ -835,7 +843,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 15,
+   "2024": 19,
    "2025": 17,
    "COMUNA": "FREIRINA"
   },
@@ -873,7 +881,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Atacama"
  }
 }

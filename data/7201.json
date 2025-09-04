@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7201,
-   "2024": 69,
-   "2025": 66,
-   "variacion": -4,
+   "2024": 73,
+   "2025": 67,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "CAUQUENES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7201,
-   "2024": 114,
-   "2025": 98,
-   "variacion": -14,
+   "2024": 117,
+   "2025": 100,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "CAUQUENES"
   },
@@ -58,35 +58,35 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7201,
    "2024": 8,
-   "2025": 12,
-   "variacion": 50,
+   "2025": 13,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "CAUQUENES"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7201,
-   "2024": 13,
+   "2024": 14,
    "2025": 1,
-   "variacion": -92,
+   "variacion": -93,
    "situación": "Disminución de Casos",
    "COMUNA": "CAUQUENES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7201,
-   "2024": 38,
+   "2024": 40,
    "2025": 42,
-   "variacion": 11,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "CAUQUENES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7201,
-   "2024": 66,
-   "2025": 29,
-   "variacion": -56,
+   "2024": 67,
+   "2025": 30,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "CAUQUENES"
   },
@@ -436,7 +436,7 @@
    "CODCOM": 7201,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 11,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 7201,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 10,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 7201,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 7201,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 7201,
    "delito": "HURTOS",
-   "2024": 69,
-   "2025": 66,
+   "2024": 73,
+   "2025": 67,
    "COMUNA": "CAUQUENES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7201,
    "delito": "LESIONES",
-   "2024": 114,
-   "2025": 98,
+   "2024": 117,
+   "2025": 100,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2254,14 +2254,14 @@
    "CODCOM": 7201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 8,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "CAUQUENES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 13,
+   "2024": 14,
    "2025": 1,
    "COMUNA": "CAUQUENES"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 38,
+   "2024": 40,
    "2025": 42,
    "COMUNA": "CAUQUENES"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 66,
-   "2025": 29,
+   "2024": 67,
+   "2025": 30,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 7201,
    "delito": "LESIONES",
-   "2024": 32,
-   "2025": 36,
+   "2024": 33,
+   "2025": 37,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "CAUQUENES"
   },
@@ -2382,7 +2382,7 @@
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 7201,
    "delito": "LESIONES",
-   "2024": 58,
-   "2025": 56,
+   "2024": 60,
+   "2025": 57,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "CAUQUENES"
   },
@@ -2486,7 +2486,7 @@
    "CODCOM": 7201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "CAUQUENES"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Maule"
  }
 }

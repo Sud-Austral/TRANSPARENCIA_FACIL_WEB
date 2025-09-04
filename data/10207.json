@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10207,
-   "2024": 5,
+   "2024": 7,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "QUEILÉN"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10207,
    "2024": 8,
-   "2025": 11,
-   "variacion": 38,
+   "2025": 12,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "QUEILÉN"
   },
@@ -253,7 +253,7 @@
    "CODCOM": 10207,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -374,7 +374,7 @@
    "informacion": "Casos",
    "CODCOM": 10207,
    "delito": "HURTOS",
-   "2024": 5,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "QUEILÉN"
   },
@@ -383,7 +383,7 @@
    "CODCOM": 10207,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -422,7 +422,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10207,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "QUEILÉN"
   },
@@ -431,7 +431,7 @@
    "CODCOM": 10207,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -446,7 +446,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10207,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "QUEILÉN"
   },
@@ -455,7 +455,7 @@
    "CODCOM": 10207,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "QUEILÉN"
   },
   {
@@ -468,7 +468,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

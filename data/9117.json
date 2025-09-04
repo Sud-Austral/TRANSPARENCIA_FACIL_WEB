@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 9117,
    "2024": 32,
-   "2025": 13,
-   "variacion": -59,
+   "2025": 14,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 9117,
    "2024": 30,
-   "2025": 25,
-   "variacion": -17,
+   "2025": 26,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9117,
    "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -249,7 +249,7 @@
    "CODCOM": 9117,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -409,7 +409,7 @@
    "CODCOM": 9117,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -521,6 +521,14 @@
    "CODCOM": 9117,
    "anio": 2024,
    "mes": 4,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -739,7 +747,7 @@
    "CODCOM": 9117,
    "delito": "HURTOS",
    "2024": 32,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -747,7 +755,7 @@
    "CODCOM": 9117,
    "delito": "LESIONES",
    "2024": 30,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -779,7 +787,7 @@
    "CODCOM": 9117,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -819,7 +827,7 @@
    "CODCOM": 9117,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -827,7 +835,7 @@
    "CODCOM": 9117,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -883,7 +891,7 @@
    "CODCOM": 9117,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -891,7 +899,7 @@
    "CODCOM": 9117,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -936,7 +944,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "La Araucanía"
  }
 }

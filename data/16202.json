@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16202,
-   "2024": 3,
+   "2024": 4,
    "2025": 13,
-   "variacion": 333,
+   "variacion": 225,
    "situación": "Aumento de Casos",
    "COMUNA": "COBQUECURA"
   },
@@ -22,9 +22,9 @@
    "delito": "LESIONES",
    "CODCOM": 16202,
    "2024": 18,
-   "2025": 16,
-   "variacion": -11,
-   "situación": "Disminución de Casos",
+   "2025": 18,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COBQUECURA"
   },
   {
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16202,
    "2024": 3,
-   "2025": 1,
-   "variacion": -67,
+   "2025": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "COBQUECURA"
   },
@@ -333,6 +333,14 @@
    "COMUNA": "COBQUECURA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 2,
+   "COMUNA": "COBQUECURA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16202,
    "anio": 2025,
@@ -429,6 +437,14 @@
    "COMUNA": "COBQUECURA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "COBQUECURA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16202,
    "anio": 2024,
@@ -490,7 +506,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "HURTOS",
-   "2024": 3,
+   "2024": 4,
    "2025": 13,
    "COMUNA": "COBQUECURA"
   },
@@ -499,7 +515,7 @@
    "CODCOM": 16202,
    "delito": "LESIONES",
    "2024": 18,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -539,7 +555,7 @@
    "CODCOM": 16202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -579,7 +595,7 @@
    "CODCOM": 16202,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -619,7 +635,7 @@
    "CODCOM": 16202,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "COBQUECURA"
   },
   {
@@ -640,7 +656,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

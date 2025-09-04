@@ -3,8 +3,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5504,
-   "2024": 36,
-   "2025": 44,
+   "2024": 37,
+   "2025": 45,
    "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CRUZ"
@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5504,
-   "2024": 24,
+   "2024": 26,
    "2025": 21,
-   "variacion": -12,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5504,
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
-   "variacion": 25,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5504,
-   "2024": 17,
+   "2024": 18,
    "2025": 4,
-   "variacion": -76,
+   "variacion": -78,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5504,
    "2024": 29,
-   "2025": 39,
-   "variacion": 34,
+   "2025": 40,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5504,
    "2024": 33,
-   "2025": 42,
-   "variacion": 27,
+   "2025": 45,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -267,7 +267,7 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -995,7 +995,7 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1155,7 +1155,7 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1260,15 +1260,15 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "HURTOS",
-   "2024": 36,
-   "2025": 44,
+   "2024": 37,
+   "2025": 45,
    "COMUNA": "LA CRUZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "LESIONES",
-   "2024": 24,
+   "2024": 26,
    "2025": 21,
    "COMUNA": "LA CRUZ"
   },
@@ -1292,7 +1292,7 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "LA CRUZ"
   },
@@ -1308,7 +1308,7 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 17,
+   "2024": 18,
    "2025": 4,
    "COMUNA": "LA CRUZ"
   },
@@ -1317,7 +1317,7 @@
    "CODCOM": 5504,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 29,
-   "2025": 39,
+   "2025": 40,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1325,7 +1325,7 @@
    "CODCOM": 5504,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 33,
-   "2025": 42,
+   "2025": 45,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1364,7 +1364,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5504,
    "delito": "LESIONES",
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "LA CRUZ"
   },
@@ -1405,7 +1405,7 @@
    "CODCOM": 5504,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1428,7 +1428,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5504,
    "delito": "LESIONES",
-   "2024": 13,
+   "2024": 15,
    "2025": 13,
    "COMUNA": "LA CRUZ"
   },
@@ -1469,7 +1469,7 @@
    "CODCOM": 5504,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 13,
-   "2025": 15,
+   "2025": 18,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1482,7 +1482,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Valparaíso"
  }
 }

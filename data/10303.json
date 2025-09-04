@@ -3,8 +3,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10303,
-   "2024": 58,
-   "2025": 79,
+   "2024": 59,
+   "2025": 80,
    "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "PURRANQUE"
@@ -12,18 +12,18 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10303,
-   "2024": 44,
-   "2025": 49,
-   "variacion": 11,
+   "2024": 50,
+   "2025": 56,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PURRANQUE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10303,
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
-   "variacion": -80,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "PURRANQUE"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10303,
    "2024": 0,
-   "2025": 4,
-   "variacion": 400,
+   "2025": 5,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "PURRANQUE"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10303,
-   "2024": 23,
+   "2024": 24,
    "2025": 21,
-   "variacion": -9,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PURRANQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10303,
-   "2024": 34,
-   "2025": 28,
-   "variacion": -18,
+   "2024": 35,
+   "2025": 32,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "PURRANQUE"
   },
@@ -258,7 +258,7 @@
    "CODCOM": 10303,
    "anio": 2025,
    "mes": 8,
-   "casos": 8,
+   "casos": 9,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -418,7 +418,7 @@
    "CODCOM": 10303,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 13,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -514,7 +514,7 @@
    "CODCOM": 10303,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1050,7 +1050,7 @@
    "CODCOM": 10303,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1107,23 +1107,23 @@
    "informacion": "Casos",
    "CODCOM": 10303,
    "delito": "HURTOS",
-   "2024": 58,
-   "2025": 79,
+   "2024": 59,
+   "2025": 80,
    "COMUNA": "PURRANQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10303,
    "delito": "LESIONES",
-   "2024": 44,
-   "2025": 49,
+   "2024": 50,
+   "2025": 56,
    "COMUNA": "PURRANQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10303,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
    "COMUNA": "PURRANQUE"
   },
@@ -1132,7 +1132,7 @@
    "CODCOM": 10303,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1163,7 +1163,7 @@
    "informacion": "Casos",
    "CODCOM": 10303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 23,
+   "2024": 24,
    "2025": 21,
    "COMUNA": "PURRANQUE"
   },
@@ -1171,8 +1171,8 @@
    "informacion": "Casos",
    "CODCOM": 10303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 34,
-   "2025": 28,
+   "2024": 35,
+   "2025": 32,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1203,8 +1203,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10303,
    "delito": "LESIONES",
-   "2024": 16,
-   "2025": 21,
+   "2024": 18,
+   "2025": 23,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1244,7 +1244,7 @@
    "CODCOM": 10303,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1259,8 +1259,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10303,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 36,
+   "2024": 31,
+   "2025": 39,
    "COMUNA": "PURRANQUE"
   },
   {
@@ -1300,12 +1300,12 @@
    "CODCOM": 10303,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "PURRANQUE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Lagos"
  }
 }

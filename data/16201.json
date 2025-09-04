@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16201,
-   "2024": 27,
+   "2024": 28,
    "2025": 20,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "QUIRIHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16201,
-   "2024": 37,
-   "2025": 39,
-   "variacion": 5,
+   "2024": 39,
+   "2025": 42,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "QUIRIHUE"
   },
@@ -40,15 +40,15 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16201,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "QUIRIHUE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16201,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16201,
-   "2024": 16,
+   "2024": 17,
    "2025": 3,
-   "variacion": -81,
+   "variacion": -82,
    "situación": "Disminución de Casos",
    "COMUNA": "QUIRIHUE"
   },
@@ -401,7 +401,7 @@
    "CODCOM": 16201,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -441,6 +441,14 @@
    "CODCOM": 16201,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "QUIRIHUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 8,
    "casos": 1,
    "COMUNA": "QUIRIHUE"
   },
@@ -682,7 +690,7 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "HURTOS",
-   "2024": 27,
+   "2024": 28,
    "2025": 20,
    "COMUNA": "QUIRIHUE"
   },
@@ -690,8 +698,8 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "LESIONES",
-   "2024": 37,
-   "2025": 39,
+   "2024": 39,
+   "2025": 42,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -707,14 +715,14 @@
    "CODCOM": 16201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "QUIRIHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "QUIRIHUE"
   },
@@ -738,7 +746,7 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 16,
+   "2024": 17,
    "2025": 3,
    "COMUNA": "QUIRIHUE"
   },
@@ -770,15 +778,23 @@
    "informacion": "Detenciones",
    "CODCOM": 16201,
    "delito": "LESIONES",
-   "2024": 10,
-   "2025": 17,
+   "2024": 11,
+   "2025": 19,
+   "COMUNA": "QUIRIHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "QUIRIHUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 16201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "QUIRIHUE"
   },
@@ -802,21 +818,29 @@
    "informacion": "Detenidos",
    "CODCOM": 16201,
    "delito": "LESIONES",
-   "2024": 16,
-   "2025": 33,
+   "2024": 18,
+   "2025": 35,
+   "COMUNA": "QUIRIHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16201,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 2,
    "COMUNA": "QUIRIHUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 16201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "QUIRIHUE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 14203,
    "2024": 17,
-   "2025": 9,
-   "variacion": -47,
+   "2025": 10,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14203,
-   "2024": 30,
-   "2025": 37,
-   "variacion": 23,
+   "2024": 32,
+   "2025": 38,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "LAGO RANCO"
   },
@@ -225,7 +225,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -385,7 +385,7 @@
    "CODCOM": 14203,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -659,15 +659,15 @@
    "CODCOM": 14203,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "LAGO RANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 37,
+   "2024": 32,
+   "2025": 38,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -746,7 +746,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 16,
+   "2024": 18,
    "2025": 18,
    "COMUNA": "LAGO RANCO"
   },
@@ -794,7 +794,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 31,
+   "2024": 37,
    "2025": 38,
    "COMUNA": "LAGO RANCO"
   },
@@ -824,7 +824,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 2102,
-   "2024": 47,
-   "2025": 46,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 48,
+   "2025": 51,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "MEJILLONES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 2102,
-   "2024": 88,
-   "2025": 75,
+   "2024": 91,
+   "2025": 77,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "MEJILLONES"
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 2102,
-   "2024": 7,
+   "2024": 8,
    "2025": 11,
-   "variacion": 57,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "MEJILLONES"
   },
@@ -58,9 +58,9 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 2102,
    "2024": 22,
-   "2025": 22,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 23,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "MEJILLONES"
   },
   {
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 2102,
-   "2024": 18,
+   "2024": 21,
    "2025": 14,
-   "variacion": -22,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MEJILLONES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 2102,
-   "2024": 67,
-   "2025": 41,
-   "variacion": -39,
+   "2024": 68,
+   "2025": 43,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "MEJILLONES"
   },
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 2102,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "MEJILLONES"
   },
@@ -275,7 +275,7 @@
    "CODCOM": 2102,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 2102,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -843,7 +843,7 @@
    "CODCOM": 2102,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1275,7 +1275,7 @@
    "CODCOM": 2102,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1343,6 +1343,14 @@
    "COMUNA": "MEJILLONES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 2102,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "MEJILLONES"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 2102,
    "anio": 2024,
@@ -1396,16 +1404,16 @@
    "informacion": "Casos",
    "CODCOM": 2102,
    "delito": "HURTOS",
-   "2024": 47,
-   "2025": 46,
+   "2024": 48,
+   "2025": 51,
    "COMUNA": "MEJILLONES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2102,
    "delito": "LESIONES",
-   "2024": 88,
-   "2025": 75,
+   "2024": 91,
+   "2025": 77,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1428,7 +1436,7 @@
    "informacion": "Casos",
    "CODCOM": 2102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 7,
+   "2024": 8,
    "2025": 11,
    "COMUNA": "MEJILLONES"
   },
@@ -1437,7 +1445,7 @@
    "CODCOM": 2102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 22,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1452,7 +1460,7 @@
    "informacion": "Casos",
    "CODCOM": 2102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 18,
+   "2024": 21,
    "2025": 14,
    "COMUNA": "MEJILLONES"
   },
@@ -1460,8 +1468,8 @@
    "informacion": "Casos",
    "CODCOM": 2102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 67,
-   "2025": 41,
+   "2024": 68,
+   "2025": 43,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1469,7 +1477,7 @@
    "CODCOM": 2102,
    "delito": "ROBO POR SORPRESA",
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1485,15 +1493,15 @@
    "CODCOM": 2102,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "MEJILLONES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 2102,
    "delito": "LESIONES",
-   "2024": 21,
-   "2025": 18,
+   "2024": 23,
+   "2025": 19,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1565,15 +1573,15 @@
    "CODCOM": 2102,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "MEJILLONES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 2102,
    "delito": "LESIONES",
-   "2024": 38,
-   "2025": 32,
+   "2024": 43,
+   "2025": 34,
    "COMUNA": "MEJILLONES"
   },
   {
@@ -1642,7 +1650,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Antofagasta"
  }
 }

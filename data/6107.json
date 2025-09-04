@@ -4,26 +4,26 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 6107,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "LAS CABRAS"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 6107,
-   "2024": 69,
+   "2024": 70,
    "2025": 55,
-   "variacion": -20,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6107,
-   "2024": 103,
-   "2025": 108,
-   "variacion": 5,
+   "2024": 105,
+   "2025": 111,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "LAS CABRAS"
   },
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6107,
-   "2024": 10,
+   "2024": 11,
    "2025": 9,
-   "variacion": -10,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6107,
-   "2024": 13,
+   "2024": 14,
    "2025": 12,
-   "variacion": -8,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LAS CABRAS"
   },
@@ -276,7 +276,7 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 6107,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 13,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2206,14 +2206,14 @@
    "CODCOM": 6107,
    "delito": "HOMICIDIOS",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LAS CABRAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "HURTOS",
-   "2024": 69,
+   "2024": 70,
    "2025": 55,
    "COMUNA": "LAS CABRAS"
   },
@@ -2221,8 +2221,8 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "LESIONES",
-   "2024": 103,
-   "2025": 108,
+   "2024": 105,
+   "2025": 111,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2237,7 +2237,7 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 10,
+   "2024": 11,
    "2025": 9,
    "COMUNA": "LAS CABRAS"
   },
@@ -2245,7 +2245,7 @@
    "informacion": "Casos",
    "CODCOM": 6107,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 13,
+   "2024": 14,
    "2025": 12,
    "COMUNA": "LAS CABRAS"
   },
@@ -2326,7 +2326,7 @@
    "CODCOM": 6107,
    "delito": "LESIONES",
    "2024": 35,
-   "2025": 36,
+   "2025": 37,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 6107,
    "delito": "LESIONES",
    "2024": 63,
-   "2025": 51,
+   "2025": 52,
    "COMUNA": "LAS CABRAS"
   },
   {
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "O'Higgins"
  }
 }

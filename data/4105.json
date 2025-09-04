@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4105,
-   "2024": 12,
+   "2024": 13,
    "2025": 7,
-   "variacion": -42,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "PAIGUANO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4105,
-   "2024": 24,
-   "2025": 19,
-   "variacion": -21,
+   "2024": 26,
+   "2025": 22,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "PAIGUANO"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4105,
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "PAIGUANO"
   },
   {
@@ -309,7 +309,7 @@
    "CODCOM": 4105,
    "anio": 2025,
    "mes": 8,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -486,7 +486,7 @@
    "informacion": "Casos",
    "CODCOM": 4105,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 13,
    "2025": 7,
    "COMUNA": "PAIGUANO"
   },
@@ -494,8 +494,8 @@
    "informacion": "Casos",
    "CODCOM": 4105,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 19,
+   "2024": 26,
+   "2025": 22,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -518,7 +518,7 @@
    "informacion": "Casos",
    "CODCOM": 4105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "PAIGUANO"
   },
@@ -534,7 +534,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4105,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "PAIGUANO"
   },
@@ -543,7 +543,7 @@
    "CODCOM": 4105,
    "delito": "LESIONES",
    "2024": 14,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -566,7 +566,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4105,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "PAIGUANO"
   },
@@ -575,7 +575,7 @@
    "CODCOM": 4105,
    "delito": "LESIONES",
    "2024": 23,
-   "2025": 12,
+   "2025": 19,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -596,7 +596,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Coquimbo"
  }
 }

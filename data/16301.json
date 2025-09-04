@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16301,
-   "2024": 147,
-   "2025": 147,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 150,
+   "2025": 152,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN CARLOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16301,
-   "2024": 108,
-   "2025": 98,
-   "variacion": -9,
+   "2024": 111,
+   "2025": 102,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16301,
-   "2024": 56,
-   "2025": 24,
-   "variacion": -57,
+   "2024": 57,
+   "2025": 27,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
   },
@@ -57,35 +57,35 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16301,
-   "2024": 60,
-   "2025": 40,
-   "variacion": -33,
+   "2024": 63,
+   "2025": 41,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 16301,
-   "2024": 43,
+   "2024": 45,
    "2025": 18,
-   "variacion": -58,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16301,
-   "2024": 135,
-   "2025": 81,
-   "variacion": -40,
+   "2024": 140,
+   "2025": 83,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16301,
-   "2024": 130,
-   "2025": 85,
+   "2024": 133,
+   "2025": 86,
    "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CARLOS"
@@ -111,10 +111,10 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 16301,
-   "2024": 0,
+   "2024": 2,
    "2025": 2,
-   "variacion": 200,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN CARLOS"
   }
  ],
@@ -436,7 +436,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 18,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 14,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -916,7 +916,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -1236,7 +1236,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -1556,7 +1556,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 9,
+   "casos": 11,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 16301,
    "anio": 2025,
    "mes": 8,
-   "casos": 6,
+   "casos": 7,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "HURTOS",
-   "2024": 147,
-   "2025": 147,
+   "2024": 150,
+   "2025": 152,
    "COMUNA": "SAN CARLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "LESIONES",
-   "2024": 108,
-   "2025": 98,
+   "2024": 111,
+   "2025": 102,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2237,8 +2237,8 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 56,
-   "2025": 24,
+   "2024": 57,
+   "2025": 27,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2253,15 +2253,15 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 60,
-   "2025": 40,
+   "2024": 63,
+   "2025": 41,
    "COMUNA": "SAN CARLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 43,
+   "2024": 45,
    "2025": 18,
    "COMUNA": "SAN CARLOS"
   },
@@ -2269,16 +2269,16 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 135,
-   "2025": 81,
+   "2024": 140,
+   "2025": 83,
    "COMUNA": "SAN CARLOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 130,
-   "2025": 85,
+   "2024": 133,
+   "2025": 86,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2301,7 +2301,7 @@
    "informacion": "Casos",
    "CODCOM": 16301,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "SAN CARLOS"
   },
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16301,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 13,
    "2025": 10,
    "COMUNA": "SAN CARLOS"
   },
@@ -2325,8 +2325,8 @@
    "informacion": "Detenciones",
    "CODCOM": 16301,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 26,
+   "2024": 32,
+   "2025": 27,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 10,
    "2025": 9,
    "COMUNA": "SAN CARLOS"
   },
@@ -2381,7 +2381,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 14,
    "2025": 10,
    "COMUNA": "SAN CARLOS"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16301,
    "delito": "HURTOS",
-   "2024": 16,
+   "2024": 20,
    "2025": 12,
    "COMUNA": "SAN CARLOS"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenidos",
    "CODCOM": 16301,
    "delito": "LESIONES",
-   "2024": 54,
-   "2025": 45,
+   "2024": 55,
+   "2025": 47,
    "COMUNA": "SAN CARLOS"
   },
   {
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
+   "2024": 13,
    "2025": 9,
    "COMUNA": "SAN CARLOS"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
+   "2024": 23,
    "2025": 15,
    "COMUNA": "SAN CARLOS"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Ñuble"
  }
 }

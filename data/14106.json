@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14106,
-   "2024": 67,
-   "2025": 67,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 68,
+   "2025": 69,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14106,
-   "2024": 69,
-   "2025": 55,
-   "variacion": -20,
+   "2024": 71,
+   "2025": 59,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "MARIQUINA"
   },
@@ -39,18 +39,18 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14106,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 14106,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "MARIQUINA"
   },
@@ -58,9 +58,9 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 14106,
    "2024": 17,
-   "2025": 14,
-   "variacion": -18,
-   "situación": "Disminución de Casos",
+   "2025": 17,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
@@ -75,28 +75,28 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14106,
-   "2024": 35,
+   "2024": 36,
    "2025": 31,
-   "variacion": -11,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14106,
-   "2024": 72,
-   "2025": 49,
-   "variacion": -32,
+   "2024": 73,
+   "2025": 52,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 14106,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MARIQUINA"
   },
   {
@@ -275,7 +275,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -435,7 +435,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 8,
-   "casos": 5,
+   "casos": 9,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -731,7 +731,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 8,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -1075,7 +1075,7 @@
    "CODCOM": 14106,
    "anio": 2025,
    "mes": 8,
-   "casos": 10,
+   "casos": 13,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -1188,16 +1188,16 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "HURTOS",
-   "2024": 67,
-   "2025": 67,
+   "2024": 68,
+   "2025": 69,
    "COMUNA": "MARIQUINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "LESIONES",
-   "2024": 69,
-   "2025": 55,
+   "2024": 71,
+   "2025": 59,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -1212,7 +1212,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "MARIQUINA"
   },
@@ -1220,7 +1220,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "MARIQUINA"
   },
@@ -1229,7 +1229,7 @@
    "CODCOM": 14106,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 17,
-   "2025": 14,
+   "2025": 17,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -1244,7 +1244,7 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 35,
+   "2024": 36,
    "2025": 31,
    "COMUNA": "MARIQUINA"
   },
@@ -1252,15 +1252,15 @@
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 72,
-   "2025": 49,
+   "2024": 73,
+   "2025": 52,
    "COMUNA": "MARIQUINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "MARIQUINA"
   },
@@ -1285,14 +1285,14 @@
    "CODCOM": 14106,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "MARIQUINA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 14106,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "MARIQUINA"
   },
@@ -1341,7 +1341,7 @@
    "CODCOM": 14106,
    "delito": "LESIONES",
    "2024": 20,
-   "2025": 20,
+   "2025": 22,
    "COMUNA": "MARIQUINA"
   },
   {
@@ -1378,7 +1378,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

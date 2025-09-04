@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14204,
-   "2024": 79,
-   "2025": 92,
-   "variacion": 16,
+   "2024": 84,
+   "2025": 95,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "RIO BUENO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14204,
-   "2024": 68,
-   "2025": 65,
-   "variacion": -4,
+   "2024": 71,
+   "2025": 69,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "RIO BUENO"
   },
@@ -66,7 +66,7 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 14204,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14204,
-   "2024": 35,
+   "2024": 39,
    "2025": 48,
-   "variacion": 37,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "RIO BUENO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14204,
-   "2024": 19,
-   "2025": 34,
-   "variacion": 79,
+   "2024": 21,
+   "2025": 35,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "RIO BUENO"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 14204,
    "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
+   "2025": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "RIO BUENO"
   }
  ],
@@ -436,7 +436,7 @@
    "CODCOM": 14204,
    "anio": 2025,
    "mes": 8,
-   "casos": 13,
+   "casos": 16,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -596,7 +596,7 @@
    "CODCOM": 14204,
    "anio": 2025,
    "mes": 8,
-   "casos": 7,
+   "casos": 11,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -1716,7 +1716,7 @@
    "CODCOM": 14204,
    "anio": 2025,
    "mes": 8,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -2196,7 +2196,7 @@
    "CODCOM": 14204,
    "anio": 2025,
    "mes": 8,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "RIO BUENO"
   }
  ],
@@ -2213,16 +2213,16 @@
    "informacion": "Casos",
    "CODCOM": 14204,
    "delito": "HURTOS",
-   "2024": 79,
-   "2025": 92,
+   "2024": 84,
+   "2025": 95,
    "COMUNA": "RIO BUENO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14204,
    "delito": "LESIONES",
-   "2024": 68,
-   "2025": 65,
+   "2024": 71,
+   "2025": 69,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -2261,7 +2261,7 @@
    "informacion": "Casos",
    "CODCOM": 14204,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "RIO BUENO"
   },
@@ -2269,7 +2269,7 @@
    "informacion": "Casos",
    "CODCOM": 14204,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 35,
+   "2024": 39,
    "2025": 48,
    "COMUNA": "RIO BUENO"
   },
@@ -2277,8 +2277,8 @@
    "informacion": "Casos",
    "CODCOM": 14204,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
-   "2025": 34,
+   "2024": 21,
+   "2025": 35,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -2302,7 +2302,7 @@
    "CODCOM": 14204,
    "delito": "VIOLACIONES",
    "2024": 5,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "RIO BUENO"
   },
   {
@@ -2317,7 +2317,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14204,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 19,
    "COMUNA": "RIO BUENO"
   },
@@ -2325,7 +2325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14204,
    "delito": "LESIONES",
-   "2024": 32,
+   "2024": 33,
    "2025": 23,
    "COMUNA": "RIO BUENO"
   },
@@ -2373,7 +2373,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14204,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 5,
    "COMUNA": "RIO BUENO"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14204,
    "delito": "HURTOS",
-   "2024": 11,
+   "2024": 13,
    "2025": 24,
    "COMUNA": "RIO BUENO"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14204,
    "delito": "LESIONES",
-   "2024": 64,
+   "2024": 65,
    "2025": 39,
    "COMUNA": "RIO BUENO"
   },
@@ -2477,7 +2477,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14204,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 6,
    "COMUNA": "RIO BUENO"
   },
@@ -2515,7 +2515,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 34/2025 (del 18/08/2025 al 24/08/2025)",
+  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
   "region": "Los Ríos"
  }
 }

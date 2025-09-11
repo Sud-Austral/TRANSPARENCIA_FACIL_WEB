@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5604,
-   "2024": 42,
-   "2025": 58,
-   "variacion": 38,
+   "2024": 44,
+   "2025": 59,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5604,
-   "2024": 82,
+   "2024": 85,
    "2025": 113,
-   "variacion": 38,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
@@ -31,9 +31,9 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5604,
    "2024": 23,
-   "2025": 23,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 24,
+   "variacion": 4,
+   "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
@@ -48,27 +48,27 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5604,
-   "2024": 33,
-   "2025": 60,
-   "variacion": 82,
+   "2024": 35,
+   "2025": 61,
+   "variacion": 74,
    "situación": "Aumento de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5604,
-   "2024": 19,
+   "2024": 20,
    "2025": 15,
-   "variacion": -21,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "EL QUISCO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5604,
-   "2024": 202,
-   "2025": 166,
-   "variacion": -18,
+   "2024": 208,
+   "2025": 174,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "EL QUISCO"
   },
@@ -260,6 +260,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "EL QUISCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -591,6 +599,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5604,
    "anio": 2024,
@@ -892,6 +908,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "EL QUISCO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1207,6 +1231,14 @@
    "COMUNA": "EL QUISCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5604,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "EL QUISCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5604,
    "anio": 2024,
@@ -1500,15 +1532,15 @@
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "HURTOS",
-   "2024": 42,
-   "2025": 58,
+   "2024": 44,
+   "2025": 59,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 82,
+   "2024": 85,
    "2025": 113,
    "COMUNA": "EL QUISCO"
   },
@@ -1525,7 +1557,7 @@
    "CODCOM": 5604,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 23,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1540,15 +1572,15 @@
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 33,
-   "2025": 60,
+   "2024": 35,
+   "2025": 61,
    "COMUNA": "EL QUISCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 19,
+   "2024": 20,
    "2025": 15,
    "COMUNA": "EL QUISCO"
   },
@@ -1556,8 +1588,8 @@
    "informacion": "Casos",
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 202,
-   "2025": 166,
+   "2024": 208,
+   "2025": 174,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1604,7 +1636,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 24,
+   "2024": 25,
    "2025": 24,
    "COMUNA": "EL QUISCO"
   },
@@ -1621,7 +1653,7 @@
    "CODCOM": 5604,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1652,7 +1684,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "EL QUISCO"
   },
@@ -1684,7 +1716,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5604,
    "delito": "LESIONES",
-   "2024": 38,
+   "2024": 42,
    "2025": 47,
    "COMUNA": "EL QUISCO"
   },
@@ -1701,7 +1733,7 @@
    "CODCOM": 5604,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 9,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "EL QUISCO"
   },
   {
@@ -1732,7 +1764,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5604,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 11,
    "2025": 10,
    "COMUNA": "EL QUISCO"
   },
@@ -1754,7 +1786,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

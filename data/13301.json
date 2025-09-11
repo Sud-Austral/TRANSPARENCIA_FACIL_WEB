@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13301,
-   "2024": 305,
-   "2025": 288,
-   "variacion": -6,
+   "2024": 317,
+   "2025": 300,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13301,
-   "2024": 358,
-   "2025": 342,
+   "2024": 367,
+   "2025": 351,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
@@ -30,17 +30,17 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13301,
-   "2024": 39,
+   "2024": 43,
    "2025": 29,
-   "variacion": -26,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13301,
-   "2024": 245,
-   "2025": 172,
+   "2024": 256,
+   "2025": 180,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
@@ -48,45 +48,45 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13301,
-   "2024": 94,
-   "2025": 102,
-   "variacion": 9,
+   "2024": 98,
+   "2025": 109,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13301,
-   "2024": 383,
-   "2025": 336,
-   "variacion": -12,
+   "2024": 405,
+   "2025": 344,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13301,
-   "2024": 142,
-   "2025": 78,
-   "variacion": -45,
+   "2024": 144,
+   "2025": 80,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13301,
-   "2024": 135,
-   "2025": 158,
-   "variacion": 17,
+   "2024": 140,
+   "2025": 161,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "COLINA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13301,
-   "2024": 189,
-   "2025": 169,
-   "variacion": -11,
+   "2024": 190,
+   "2025": 175,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13301,
    "2024": 15,
-   "2025": 9,
-   "variacion": -40,
+   "2025": 11,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "COLINA"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13301,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 33,
+   "COMUNA": "COLINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 12,
    "COMUNA": "COLINA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13301,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "COLINA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "COLINA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13301,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "COLINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "COLINA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13301,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 14,
+   "COMUNA": "COLINA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "COLINA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13301,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13301,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "COLINA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "COLINA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "COLINA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLINA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13301,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "COLINA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COLINA"
   }
  ],
  "info": [
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "HURTOS",
-   "2024": 305,
-   "2025": 288,
+   "2024": 317,
+   "2025": 300,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "LESIONES",
-   "2024": 358,
-   "2025": 342,
+   "2024": 367,
+   "2025": 351,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 39,
+   "2024": 43,
    "2025": 29,
    "COMUNA": "COLINA"
   },
@@ -2237,48 +2341,48 @@
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 245,
-   "2025": 172,
+   "2024": 256,
+   "2025": 180,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 94,
-   "2025": 102,
+   "2024": 98,
+   "2025": 109,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 383,
-   "2025": 336,
+   "2024": 405,
+   "2025": 344,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 142,
-   "2025": 78,
+   "2024": 144,
+   "2025": 80,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 135,
-   "2025": 158,
+   "2024": 140,
+   "2025": 161,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 189,
-   "2025": 169,
+   "2024": 190,
+   "2025": 175,
    "COMUNA": "COLINA"
   },
   {
@@ -2302,7 +2406,7 @@
    "CODCOM": 13301,
    "delito": "VIOLACIONES",
    "2024": 15,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "COLINA"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13301,
    "delito": "HURTOS",
-   "2024": 62,
-   "2025": 52,
+   "2024": 64,
+   "2025": 56,
    "COMUNA": "COLINA"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 13301,
    "delito": "LESIONES",
    "2024": 88,
-   "2025": 75,
+   "2025": 76,
    "COMUNA": "COLINA"
   },
   {
@@ -2342,14 +2446,14 @@
    "CODCOM": 13301,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 12,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 2,
    "2025": 8,
    "COMUNA": "COLINA"
   },
@@ -2374,7 +2478,7 @@
    "CODCOM": 13301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "COLINA"
   },
   {
@@ -2421,8 +2525,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13301,
    "delito": "HURTOS",
-   "2024": 85,
-   "2025": 58,
+   "2024": 87,
+   "2025": 63,
    "COMUNA": "COLINA"
   },
   {
@@ -2430,7 +2534,7 @@
    "CODCOM": 13301,
    "delito": "LESIONES",
    "2024": 152,
-   "2025": 115,
+   "2025": 118,
    "COMUNA": "COLINA"
   },
   {
@@ -2446,14 +2550,14 @@
    "CODCOM": 13301,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 18,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "COLINA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 6,
    "2025": 14,
    "COMUNA": "COLINA"
   },
@@ -2478,7 +2582,7 @@
    "CODCOM": 13301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 11,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "COLINA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

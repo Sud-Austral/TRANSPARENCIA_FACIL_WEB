@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8301,
-   "2024": 1037,
-   "2025": 919,
+   "2024": 1069,
+   "2025": 948,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
@@ -21,10 +21,10 @@
   {
    "delito": "LESIONES",
    "CODCOM": 8301,
-   "2024": 459,
-   "2025": 462,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 475,
+   "2025": 476,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -39,44 +39,44 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8301,
-   "2024": 258,
-   "2025": 173,
-   "variacion": -33,
+   "2024": 265,
+   "2025": 179,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8301,
-   "2024": 143,
+   "2024": 146,
    "2025": 102,
-   "variacion": -29,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8301,
-   "2024": 596,
-   "2025": 502,
-   "variacion": -16,
+   "2024": 619,
+   "2025": 516,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8301,
-   "2024": 164,
-   "2025": 136,
-   "variacion": -17,
+   "2024": 169,
+   "2025": 143,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8301,
-   "2024": 563,
-   "2025": 516,
+   "2024": 575,
+   "2025": 530,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8301,
-   "2024": 566,
-   "2025": 529,
-   "variacion": -7,
+   "2024": 583,
+   "2025": 539,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8301,
-   "2024": 169,
-   "2025": 124,
-   "variacion": -27,
+   "2024": 175,
+   "2025": 130,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8301,
    "2024": 33,
-   "2025": 24,
-   "variacion": -27,
+   "2025": 25,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 8301,
    "2024": 14,
-   "2025": 10,
-   "variacion": -29,
+   "2025": 11,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS ÁNGELES"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8301,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 111,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 29,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8301,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8301,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8301,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 16,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8301,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 56,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8301,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "LOS ÁNGELES"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8301,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 3,
    "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8301,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LOS ÁNGELES"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "HURTOS",
-   "2024": 1037,
-   "2025": 919,
+   "2024": 1069,
+   "2025": 948,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "LESIONES",
-   "2024": 459,
-   "2025": 462,
+   "2024": 475,
+   "2025": 476,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2237,15 +2341,15 @@
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 258,
-   "2025": 173,
+   "2024": 265,
+   "2025": 179,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 143,
+   "2024": 146,
    "2025": 102,
    "COMUNA": "LOS ÁNGELES"
   },
@@ -2253,40 +2357,40 @@
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 596,
-   "2025": 502,
-   "COMUNA": "LOS ÁNGELES"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 8301,
-   "delito": "ROBO DE VEHÍCULO",
-   "2024": 164,
-   "2025": 136,
-   "COMUNA": "LOS ÁNGELES"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 8301,
-   "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 563,
+   "2024": 619,
    "2025": 516,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8301,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 169,
+   "2025": 143,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8301,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 575,
+   "2025": 530,
+   "COMUNA": "LOS ÁNGELES"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 8301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 566,
-   "2025": 529,
+   "2024": 583,
+   "2025": 539,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 169,
-   "2025": 124,
+   "2024": 175,
+   "2025": 130,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2294,7 +2398,7 @@
    "CODCOM": 8301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 33,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2302,7 +2406,7 @@
    "CODCOM": 8301,
    "delito": "VIOLACIONES",
    "2024": 14,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8301,
    "delito": "HURTOS",
-   "2024": 259,
-   "2025": 273,
+   "2024": 269,
+   "2025": 282,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8301,
    "delito": "LESIONES",
-   "2024": 152,
-   "2025": 160,
+   "2024": 157,
+   "2025": 165,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2341,8 +2445,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 17,
-   "2025": 18,
+   "2024": 18,
+   "2025": 19,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2366,23 +2470,23 @@
    "CODCOM": 8301,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 33,
-   "2025": 50,
+   "2024": 36,
+   "2025": 52,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 63,
-   "2025": 81,
+   "2024": 66,
+   "2025": 83,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 8301,
    "delito": "ROBO POR SORPRESA",
    "2024": 9,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2398,7 +2502,7 @@
    "CODCOM": 8301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8301,
    "delito": "HURTOS",
-   "2024": 279,
-   "2025": 302,
+   "2024": 289,
+   "2025": 312,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8301,
    "delito": "LESIONES",
-   "2024": 280,
-   "2025": 291,
+   "2024": 287,
+   "2025": 299,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2445,8 +2549,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 31,
-   "2025": 24,
+   "2024": 32,
+   "2025": 26,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2470,23 +2574,23 @@
    "CODCOM": 8301,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 0,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 42,
-   "2025": 71,
+   "2024": 48,
+   "2025": 73,
    "COMUNA": "LOS ÁNGELES"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 92,
-   "2025": 113,
+   "2024": 97,
+   "2025": 116,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2494,7 +2598,7 @@
    "CODCOM": 8301,
    "delito": "ROBO POR SORPRESA",
    "2024": 12,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2502,7 +2606,7 @@
    "CODCOM": 8301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 6,
-   "2025": 3,
+   "2025": 8,
    "COMUNA": "LOS ÁNGELES"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

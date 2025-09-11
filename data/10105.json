@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10105,
-   "2024": 63,
-   "2025": 69,
-   "variacion": 10,
+   "2024": 67,
+   "2025": 71,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "FRUTILLAR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10105,
-   "2024": 50,
-   "2025": 88,
-   "variacion": 76,
+   "2024": 51,
+   "2025": 91,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "FRUTILLAR"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10105,
-   "2024": 16,
+   "2024": 17,
    "2025": 21,
-   "variacion": 31,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "FRUTILLAR"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10105,
    "2024": 17,
-   "2025": 24,
-   "variacion": 41,
+   "2025": 25,
+   "variacion": 47,
    "situación": "Aumento de Casos",
    "COMUNA": "FRUTILLAR"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10105,
    "2024": 49,
-   "2025": 62,
-   "variacion": 27,
+   "2025": 63,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "FRUTILLAR"
   },
@@ -287,6 +287,14 @@
    "COMUNA": "FRUTILLAR"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "FRUTILLAR"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10105,
    "anio": 2024,
@@ -447,6 +455,14 @@
    "COMUNA": "FRUTILLAR"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "FRUTILLAR"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10105,
    "anio": 2024,
@@ -948,6 +964,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "FRUTILLAR"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1111,6 +1135,14 @@
    "COMUNA": "FRUTILLAR"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "FRUTILLAR"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10105,
    "anio": 2024,
@@ -1188,16 +1220,16 @@
    "informacion": "Casos",
    "CODCOM": 10105,
    "delito": "HURTOS",
-   "2024": 63,
-   "2025": 69,
+   "2024": 67,
+   "2025": 71,
    "COMUNA": "FRUTILLAR"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10105,
    "delito": "LESIONES",
-   "2024": 50,
-   "2025": 88,
+   "2024": 51,
+   "2025": 91,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1228,7 +1260,7 @@
    "informacion": "Casos",
    "CODCOM": 10105,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 16,
+   "2024": 17,
    "2025": 21,
    "COMUNA": "FRUTILLAR"
   },
@@ -1245,7 +1277,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 17,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1253,7 +1285,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 49,
-   "2025": 62,
+   "2025": 63,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1284,16 +1316,16 @@
    "informacion": "Detenciones",
    "CODCOM": 10105,
    "delito": "HURTOS",
-   "2024": 8,
-   "2025": 7,
+   "2024": 9,
+   "2025": 9,
    "COMUNA": "FRUTILLAR"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10105,
    "delito": "LESIONES",
-   "2024": 18,
-   "2025": 36,
+   "2024": 19,
+   "2025": 38,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1317,7 +1349,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1325,7 +1357,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1348,16 +1380,16 @@
    "informacion": "Detenidos",
    "CODCOM": 10105,
    "delito": "HURTOS",
-   "2024": 10,
-   "2025": 7,
+   "2024": 11,
+   "2025": 9,
    "COMUNA": "FRUTILLAR"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10105,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 68,
+   "2024": 36,
+   "2025": 72,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1381,7 +1413,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 3,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1389,7 +1421,7 @@
    "CODCOM": 10105,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "FRUTILLAR"
   },
   {
@@ -1402,7 +1434,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

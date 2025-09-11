@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 9119,
    "2024": 59,
-   "2025": 56,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 59,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VILCÚN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9119,
-   "2024": 70,
-   "2025": 77,
-   "variacion": 10,
+   "2024": 73,
+   "2025": 79,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "VILCÚN"
   },
@@ -31,9 +31,9 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9119,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "VILCÚN"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9119,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "VILCÚN"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "VILCÚN"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9119,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "VILCÚN"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 9119,
    "anio": 2024,
@@ -464,6 +472,14 @@
    "COMUNA": "VILCÚN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9119,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "VILCÚN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9119,
    "anio": 2024,
@@ -509,6 +525,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "VILCÚN"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9119,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "VILCÚN"
   },
   {
@@ -1190,15 +1214,15 @@
    "CODCOM": 9119,
    "delito": "HURTOS",
    "2024": 59,
-   "2025": 56,
+   "2025": 59,
    "COMUNA": "VILCÚN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9119,
    "delito": "LESIONES",
-   "2024": 70,
-   "2025": 77,
+   "2024": 73,
+   "2025": 79,
    "COMUNA": "VILCÚN"
   },
   {
@@ -1206,7 +1230,7 @@
    "CODCOM": 9119,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "VILCÚN"
   },
   {
@@ -1237,7 +1261,7 @@
    "informacion": "Casos",
    "CODCOM": 9119,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "VILCÚN"
   },
@@ -1301,7 +1325,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9119,
    "delito": "LESIONES",
-   "2024": 27,
+   "2024": 28,
    "2025": 35,
    "COMUNA": "VILCÚN"
   },
@@ -1365,7 +1389,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9119,
    "delito": "LESIONES",
-   "2024": 42,
+   "2024": 43,
    "2025": 61,
    "COMUNA": "VILCÚN"
   },
@@ -1411,7 +1435,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

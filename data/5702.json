@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5702,
-   "2024": 85,
-   "2025": 67,
-   "variacion": -21,
+   "2024": 90,
+   "2025": 68,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CATEMU"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5702,
-   "2024": 81,
-   "2025": 80,
+   "2024": 83,
+   "2025": 82,
    "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "CATEMU"
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5702,
-   "2024": 44,
-   "2025": 37,
-   "variacion": -16,
+   "2024": 49,
+   "2025": 38,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "CATEMU"
   },
@@ -67,25 +67,25 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5702,
    "2024": 6,
-   "2025": 7,
-   "variacion": 17,
+   "2025": 8,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "CATEMU"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5702,
-   "2024": 29,
-   "2025": 43,
-   "variacion": 48,
+   "2024": 30,
+   "2025": 46,
+   "variacion": 53,
    "situación": "Aumento de Casos",
    "COMUNA": "CATEMU"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5702,
-   "2024": 54,
-   "2025": 79,
+   "2024": 56,
+   "2025": 82,
    "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "CATEMU"
@@ -296,6 +296,14 @@
    "COMUNA": "CATEMU"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CATEMU"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5702,
    "anio": 2024,
@@ -456,6 +464,14 @@
    "COMUNA": "CATEMU"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CATEMU"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5702,
    "anio": 2024,
@@ -840,6 +856,14 @@
    "COMUNA": "CATEMU"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CATEMU"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5702,
    "anio": 2024,
@@ -932,6 +956,14 @@
    "CODCOM": 5702,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "CATEMU"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "CATEMU"
   },
@@ -1093,6 +1125,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "CATEMU"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "CATEMU"
   },
   {
@@ -1256,6 +1296,14 @@
    "COMUNA": "CATEMU"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "CATEMU"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5702,
    "anio": 2024,
@@ -1413,16 +1461,16 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "HURTOS",
-   "2024": 85,
-   "2025": 67,
+   "2024": 90,
+   "2025": 68,
    "COMUNA": "CATEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "LESIONES",
-   "2024": 81,
-   "2025": 80,
+   "2024": 83,
+   "2025": 82,
    "COMUNA": "CATEMU"
   },
   {
@@ -1453,8 +1501,8 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 44,
-   "2025": 37,
+   "2024": 49,
+   "2025": 38,
    "COMUNA": "CATEMU"
   },
   {
@@ -1462,23 +1510,23 @@
    "CODCOM": 5702,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CATEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 29,
-   "2025": 43,
+   "2024": 30,
+   "2025": 46,
    "COMUNA": "CATEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 54,
-   "2025": 79,
+   "2024": 56,
+   "2025": 82,
    "COMUNA": "CATEMU"
   },
   {
@@ -1518,7 +1566,7 @@
    "CODCOM": 5702,
    "delito": "LESIONES",
    "2024": 28,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "CATEMU"
   },
   {
@@ -1582,7 +1630,7 @@
    "CODCOM": 5702,
    "delito": "LESIONES",
    "2024": 56,
-   "2025": 54,
+   "2025": 57,
    "COMUNA": "CATEMU"
   },
   {
@@ -1635,7 +1683,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

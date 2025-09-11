@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 5304,
    "2024": 15,
-   "2025": 28,
-   "variacion": 87,
+   "2025": 29,
+   "variacion": 93,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ESTEBAN"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 5304,
    "2024": 31,
-   "2025": 34,
-   "variacion": 10,
+   "2025": 36,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ESTEBAN"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5304,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN ESTEBAN"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5304,
-   "2024": 20,
+   "2024": 21,
    "2025": 28,
-   "variacion": 40,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ESTEBAN"
   },
@@ -263,6 +263,14 @@
    "COMUNA": "SAN ESTEBAN"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN ESTEBAN"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5304,
    "anio": 2024,
@@ -420,6 +428,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "SAN ESTEBAN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1157,7 +1173,7 @@
    "CODCOM": 5304,
    "delito": "HURTOS",
    "2024": 15,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1165,7 +1181,7 @@
    "CODCOM": 5304,
    "delito": "LESIONES",
    "2024": 31,
-   "2025": 34,
+   "2025": 36,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1204,7 +1220,7 @@
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "SAN ESTEBAN"
   },
@@ -1212,7 +1228,7 @@
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 20,
+   "2024": 21,
    "2025": 28,
    "COMUNA": "SAN ESTEBAN"
   },
@@ -1253,7 +1269,7 @@
    "CODCOM": 5304,
    "delito": "HURTOS",
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1261,7 +1277,7 @@
    "CODCOM": 5304,
    "delito": "LESIONES",
    "2024": 9,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1292,7 +1308,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN ESTEBAN"
   },
@@ -1317,7 +1333,7 @@
    "CODCOM": 5304,
    "delito": "HURTOS",
    "2024": 2,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1325,7 +1341,7 @@
    "CODCOM": 5304,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "SAN ESTEBAN"
   },
   {
@@ -1356,7 +1372,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5304,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN ESTEBAN"
   },
@@ -1378,7 +1394,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

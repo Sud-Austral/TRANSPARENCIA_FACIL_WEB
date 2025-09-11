@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7402,
-   "2024": 46,
+   "2024": 48,
    "2025": 38,
-   "variacion": -17,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "COLBÚN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7402,
-   "2024": 68,
-   "2025": 38,
-   "variacion": -44,
+   "2024": 69,
+   "2025": 39,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "COLBÚN"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7402,
-   "2024": 38,
+   "2024": 39,
    "2025": 40,
-   "variacion": 5,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "COLBÚN"
   },
@@ -428,6 +428,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "COLBÚN"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7402,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1084,7 +1092,7 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "HURTOS",
-   "2024": 46,
+   "2024": 48,
    "2025": 38,
    "COMUNA": "COLBÚN"
   },
@@ -1092,8 +1100,8 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "LESIONES",
-   "2024": 68,
-   "2025": 38,
+   "2024": 69,
+   "2025": 39,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1148,7 +1156,7 @@
    "informacion": "Casos",
    "CODCOM": 7402,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 38,
+   "2024": 39,
    "2025": 40,
    "COMUNA": "COLBÚN"
   },
@@ -1180,7 +1188,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7402,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 6,
    "2025": 7,
    "COMUNA": "COLBÚN"
   },
@@ -1189,7 +1197,7 @@
    "CODCOM": 7402,
    "delito": "LESIONES",
    "2024": 27,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1236,7 +1244,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7402,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 6,
    "2025": 9,
    "COMUNA": "COLBÚN"
   },
@@ -1245,7 +1253,7 @@
    "CODCOM": 7402,
    "delito": "LESIONES",
    "2024": 47,
-   "2025": 24,
+   "2025": 26,
    "COMUNA": "COLBÚN"
   },
   {
@@ -1290,7 +1298,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

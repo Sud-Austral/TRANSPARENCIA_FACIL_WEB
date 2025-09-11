@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10101,
-   "2024": 1308,
-   "2025": 1410,
+   "2024": 1337,
+   "2025": 1449,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO MONTT"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10101,
-   "2024": 741,
-   "2025": 713,
-   "variacion": -4,
+   "2024": 767,
+   "2025": 745,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO MONTT"
   },
@@ -39,62 +39,62 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 10101,
-   "2024": 184,
-   "2025": 133,
-   "variacion": -28,
+   "2024": 190,
+   "2025": 138,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10101,
-   "2024": 123,
-   "2025": 124,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 126,
+   "2025": 126,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10101,
-   "2024": 565,
-   "2025": 531,
-   "variacion": -6,
+   "2024": 579,
+   "2025": 549,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10101,
-   "2024": 51,
-   "2025": 59,
-   "variacion": 16,
+   "2024": 54,
+   "2025": 61,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10101,
-   "2024": 415,
-   "2025": 454,
-   "variacion": 9,
+   "2024": 429,
+   "2025": 471,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10101,
-   "2024": 429,
-   "2025": 554,
-   "variacion": 29,
+   "2024": 444,
+   "2025": 565,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO MONTT"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10101,
-   "2024": 125,
-   "2025": 128,
+   "2024": 126,
+   "2025": 129,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO MONTT"
@@ -111,9 +111,9 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 10101,
-   "2024": 36,
+   "2024": 38,
    "2025": 24,
-   "variacion": -33,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO MONTT"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 10101,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 152,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 39,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 32,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10101,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10101,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 17,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10101,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 17,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10101,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 65,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "PUERTO MONTT"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10101,
    "anio": 2024,
@@ -2037,6 +2125,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "PUERTO MONTT"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUERTO MONTT"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "HURTOS",
-   "2024": 1308,
-   "2025": 1410,
+   "2024": 1337,
+   "2025": 1449,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "LESIONES",
-   "2024": 741,
-   "2025": 713,
+   "2024": 767,
+   "2025": 745,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2237,56 +2341,56 @@
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 184,
-   "2025": 133,
+   "2024": 190,
+   "2025": 138,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 123,
-   "2025": 124,
+   "2024": 126,
+   "2025": 126,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 565,
-   "2025": 531,
+   "2024": 579,
+   "2025": 549,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 51,
-   "2025": 59,
+   "2024": 54,
+   "2025": 61,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 415,
-   "2025": 454,
+   "2024": 429,
+   "2025": 471,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 429,
-   "2025": 554,
+   "2024": 444,
+   "2025": 565,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 125,
-   "2025": 128,
+   "2024": 126,
+   "2025": 129,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2301,7 +2405,7 @@
    "informacion": "Casos",
    "CODCOM": 10101,
    "delito": "VIOLACIONES",
-   "2024": 36,
+   "2024": 38,
    "2025": 24,
    "COMUNA": "PUERTO MONTT"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 10101,
    "delito": "HURTOS",
-   "2024": 521,
-   "2025": 590,
+   "2024": 533,
+   "2025": 606,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 10101,
    "delito": "LESIONES",
-   "2024": 283,
-   "2025": 258,
+   "2024": 290,
+   "2025": 269,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 10101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 27,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2365,7 +2469,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "PUERTO MONTT"
   },
@@ -2382,7 +2486,7 @@
    "CODCOM": 10101,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 36,
-   "2025": 61,
+   "2025": 62,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2405,7 +2509,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10101,
    "delito": "VIOLACIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 5,
    "COMUNA": "PUERTO MONTT"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 10101,
    "delito": "HURTOS",
-   "2024": 561,
-   "2025": 625,
+   "2024": 573,
+   "2025": 641,
    "COMUNA": "PUERTO MONTT"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 10101,
    "delito": "LESIONES",
-   "2024": 472,
-   "2025": 443,
+   "2024": 485,
+   "2025": 459,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 10101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 41,
-   "2025": 30,
+   "2025": 32,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2469,7 +2573,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "PUERTO MONTT"
   },
@@ -2486,7 +2590,7 @@
    "CODCOM": 10101,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 48,
-   "2025": 88,
+   "2025": 89,
    "COMUNA": "PUERTO MONTT"
   },
   {
@@ -2509,13 +2613,13 @@
    "informacion": "Detenidos",
    "CODCOM": 10101,
    "delito": "VIOLACIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 5,
    "COMUNA": "PUERTO MONTT"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

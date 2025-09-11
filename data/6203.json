@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6203,
-   "2024": 13,
-   "2025": 14,
-   "variacion": 8,
+   "2024": 14,
+   "2025": 15,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "LITUECHE"
   },
@@ -22,8 +22,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6203,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 3,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "LITUECHE"
   },
@@ -66,10 +66,19 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6203,
-   "2024": 19,
+   "2024": 21,
    "2025": 25,
-   "variacion": 32,
+   "variacion": 19,
    "situación": "Aumento de Casos",
+   "COMUNA": "LITUECHE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6203,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "LITUECHE"
   }
  ],
@@ -331,6 +340,14 @@
    "COMUNA": "LITUECHE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LITUECHE"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6203,
    "anio": 2024,
@@ -351,6 +368,14 @@
    "CODCOM": 6203,
    "anio": 2025,
    "mes": 2,
+   "casos": 1,
+   "COMUNA": "LITUECHE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "LITUECHE"
   },
@@ -736,8 +761,8 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "LESIONES",
-   "2024": 13,
-   "2025": 14,
+   "2024": 14,
+   "2025": 15,
    "COMUNA": "LITUECHE"
   },
   {
@@ -745,7 +770,7 @@
    "CODCOM": 6203,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LITUECHE"
   },
   {
@@ -784,8 +809,16 @@
    "informacion": "Casos",
    "CODCOM": 6203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
+   "2024": 21,
    "2025": 25,
+   "COMUNA": "LITUECHE"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6203,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "LITUECHE"
   },
   {
@@ -801,7 +834,7 @@
    "CODCOM": 6203,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "LITUECHE"
   },
   {
@@ -849,7 +882,7 @@
    "CODCOM": 6203,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 9,
+   "2025": 12,
    "COMUNA": "LITUECHE"
   },
   {
@@ -886,7 +919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

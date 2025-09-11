@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 9205,
    "2024": 11,
-   "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 13,
+   "variacion": 18,
+   "situación": "Aumento de Casos",
    "COMUNA": "LONQUIMAY"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9205,
-   "2024": 33,
-   "2025": 39,
-   "variacion": 18,
+   "2024": 35,
+   "2025": 42,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "LONQUIMAY"
   },
@@ -195,6 +195,14 @@
    "COMUNA": "LONQUIMAY"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 9205,
    "anio": 2024,
@@ -352,6 +360,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "LONQUIMAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9205,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -665,15 +681,15 @@
    "CODCOM": 9205,
    "delito": "HURTOS",
    "2024": 11,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "LONQUIMAY"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 39,
+   "2024": 35,
+   "2025": 42,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -736,8 +752,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 12,
-   "2025": 23,
+   "2024": 13,
+   "2025": 24,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -776,8 +792,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9205,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 47,
+   "2024": 24,
+   "2025": 51,
    "COMUNA": "LONQUIMAY"
   },
   {
@@ -806,7 +822,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

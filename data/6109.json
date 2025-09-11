@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6109,
-   "2024": 33,
-   "2025": 30,
-   "variacion": -9,
+   "2024": 37,
+   "2025": 31,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "MALLOA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6109,
-   "2024": 43,
+   "2024": 44,
    "2025": 34,
-   "variacion": -21,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "MALLOA"
   },
@@ -22,18 +22,18 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6109,
    "2024": 0,
-   "2025": 2,
-   "variacion": 200,
+   "2025": 3,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "MALLOA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6109,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17,
+   "situación": "Disminución de Casos",
    "COMUNA": "MALLOA"
   },
   {
@@ -57,27 +57,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6109,
-   "2024": 10,
-   "2025": 9,
-   "variacion": -10,
+   "2024": 11,
+   "2025": 10,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "MALLOA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6109,
-   "2024": 23,
+   "2024": 24,
    "2025": 10,
-   "variacion": -57,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "MALLOA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6109,
-   "2024": 18,
+   "2024": 19,
    "2025": 22,
-   "variacion": 22,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "MALLOA"
   },
@@ -253,6 +253,14 @@
    "COMUNA": "MALLOA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "MALLOA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6109,
    "anio": 2024,
@@ -425,6 +433,14 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "MALLOA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "MALLOA"
   },
@@ -730,6 +746,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "MALLOA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "MALLOA"
   },
   {
@@ -1074,15 +1098,15 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "HURTOS",
-   "2024": 33,
-   "2025": 30,
+   "2024": 37,
+   "2025": 31,
    "COMUNA": "MALLOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "LESIONES",
-   "2024": 43,
+   "2024": 44,
    "2025": 34,
    "COMUNA": "MALLOA"
   },
@@ -1091,14 +1115,14 @@
    "CODCOM": 6109,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 0,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "MALLOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
    "COMUNA": "MALLOA"
   },
@@ -1122,15 +1146,15 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 10,
-   "2025": 9,
+   "2024": 11,
+   "2025": 10,
    "COMUNA": "MALLOA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 23,
+   "2024": 24,
    "2025": 10,
    "COMUNA": "MALLOA"
   },
@@ -1138,7 +1162,7 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 18,
+   "2024": 19,
    "2025": 22,
    "COMUNA": "MALLOA"
   },
@@ -1248,7 +1272,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16102,
-   "2024": 71,
-   "2025": 54,
-   "variacion": -24,
+   "2024": 74,
+   "2025": 57,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16102,
-   "2024": 42,
-   "2025": 78,
-   "variacion": 86,
+   "2024": 43,
+   "2025": 79,
+   "variacion": 84,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
@@ -48,18 +48,18 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16102,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16102,
-   "2024": 12,
-   "2025": 24,
-   "variacion": 100,
+   "2024": 14,
+   "2025": 25,
+   "variacion": 79,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16102,
-   "2024": 44,
-   "2025": 42,
-   "variacion": -5,
+   "2024": 45,
+   "2025": 43,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "BULNES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16102,
-   "2024": 45,
-   "2025": 47,
-   "variacion": 4,
+   "2024": 48,
+   "2025": 51,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "BULNES"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 16102,
    "anio": 2024,
@@ -440,6 +448,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16102,
    "anio": 2024,
@@ -600,6 +616,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16102,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16102,
    "anio": 2024,
@@ -916,6 +948,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "BULNES"
   },
@@ -1080,6 +1120,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1240,6 +1288,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1396,6 +1452,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "BULNES"
   },
@@ -1560,6 +1624,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16102,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 16102,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "BULNES"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 16102,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 16102,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "BULNES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 16102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "BULNES"
   }
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "HURTOS",
-   "2024": 71,
-   "2025": 54,
+   "2024": 74,
+   "2025": 57,
    "COMUNA": "BULNES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 78,
+   "2024": 43,
+   "2025": 79,
    "COMUNA": "BULNES"
   },
   {
@@ -2245,7 +2349,7 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "BULNES"
   },
@@ -2253,8 +2357,8 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 12,
-   "2025": 24,
+   "2024": 14,
+   "2025": 25,
    "COMUNA": "BULNES"
   },
   {
@@ -2269,16 +2373,16 @@
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 44,
-   "2025": 42,
+   "2024": 45,
+   "2025": 43,
    "COMUNA": "BULNES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
-   "2025": 47,
+   "2024": 48,
+   "2025": 51,
    "COMUNA": "BULNES"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "BULNES"
   },
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 16102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 4,
    "2025": 6,
    "COMUNA": "BULNES"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

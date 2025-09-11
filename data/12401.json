@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 12401,
    "2024": 38,
-   "2025": 35,
-   "variacion": -8,
+   "2025": 36,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 12401,
-   "2024": 84,
-   "2025": 59,
+   "2024": 87,
+   "2025": 61,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 12401,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "NATALES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 12401,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "NATALES"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 12401,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "NATALES"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 12401,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 12401,
    "anio": 2024,
@@ -916,6 +948,14 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "NATALES"
   },
@@ -1080,6 +1120,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 12401,
    "anio": 2024,
@@ -1240,6 +1288,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 12401,
    "anio": 2024,
@@ -1396,6 +1452,14 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "NATALES"
   },
@@ -1556,6 +1620,14 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "NATALES"
   },
@@ -1720,6 +1792,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 12401,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "NATALES"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 12401,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "NATALES"
   },
@@ -2196,6 +2292,14 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "NATALES"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 12401,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "NATALES"
   }
@@ -2214,15 +2318,15 @@
    "CODCOM": 12401,
    "delito": "HURTOS",
    "2024": 38,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "NATALES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 84,
-   "2025": 59,
+   "2024": 87,
+   "2025": 61,
    "COMUNA": "NATALES"
   },
   {
@@ -2261,7 +2365,7 @@
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "NATALES"
   },
@@ -2270,7 +2374,7 @@
    "CODCOM": 12401,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "NATALES"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Magallanes"
  }
 }

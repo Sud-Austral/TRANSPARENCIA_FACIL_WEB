@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13203,
-   "2024": 54,
+   "2024": 55,
    "2025": 35,
-   "variacion": -35,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13203,
-   "2024": 92,
+   "2024": 93,
    "2025": 66,
-   "variacion": -28,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13203,
-   "2024": 52,
+   "2024": 54,
    "2025": 19,
-   "variacion": -63,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13203,
-   "2024": 28,
-   "2025": 24,
+   "2024": 29,
+   "2025": 25,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13203,
-   "2024": 32,
-   "2025": 29,
-   "variacion": -9,
+   "2024": 34,
+   "2025": 30,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13203,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13203,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13203,
    "anio": 2024,
@@ -920,6 +952,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13203,
    "anio": 2024,
@@ -1076,6 +1116,14 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13203,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13203,
    "anio": 2024,
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13203,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13203,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13203,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2196,6 +2292,14 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN JOSÉ DE MAIPO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   }
@@ -2213,7 +2317,7 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "HURTOS",
-   "2024": 54,
+   "2024": 55,
    "2025": 35,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2221,7 +2325,7 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "LESIONES",
-   "2024": 92,
+   "2024": 93,
    "2025": 66,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2253,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 52,
+   "2024": 54,
    "2025": 19,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2261,16 +2365,16 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 28,
-   "2025": 24,
+   "2024": 29,
+   "2025": 25,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 32,
-   "2025": 29,
+   "2024": 34,
+   "2025": 30,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

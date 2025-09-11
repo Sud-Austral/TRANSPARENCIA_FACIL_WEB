@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4203,
-   "2024": 105,
-   "2025": 77,
-   "variacion": -27,
+   "2024": 110,
+   "2025": 81,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4203,
-   "2024": 90,
-   "2025": 108,
-   "variacion": 20,
+   "2024": 91,
+   "2025": 111,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4203,
-   "2024": 15,
-   "2025": 8,
-   "variacion": -47,
+   "2024": 16,
+   "2025": 9,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4203,
-   "2024": 26,
+   "2024": 28,
    "2025": 29,
-   "variacion": 12,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4203,
    "2024": 59,
-   "2025": 101,
-   "variacion": 71,
+   "2025": 105,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4203,
-   "2024": 61,
+   "2024": 65,
    "2025": 74,
-   "variacion": 21,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS VILOS"
   },
@@ -102,10 +102,10 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 4203,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LOS VILOS"
   },
   {
@@ -288,6 +288,14 @@
    "COMUNA": "LOS VILOS"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 4203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LOS VILOS"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 4203,
    "anio": 2024,
@@ -448,6 +456,14 @@
    "COMUNA": "LOS VILOS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LOS VILOS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4203,
    "anio": 2024,
@@ -564,6 +580,14 @@
    "CODCOM": 4203,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "LOS VILOS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "LOS VILOS"
   },
@@ -1189,6 +1213,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 11,
+   "COMUNA": "LOS VILOS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1485,24 +1517,24 @@
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "HURTOS",
-   "2024": 105,
-   "2025": 77,
+   "2024": 110,
+   "2025": 81,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 90,
-   "2025": 108,
+   "2024": 91,
+   "2025": 111,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 15,
-   "2025": 8,
+   "2024": 16,
+   "2025": 9,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1525,7 +1557,7 @@
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 26,
+   "2024": 28,
    "2025": 29,
    "COMUNA": "LOS VILOS"
   },
@@ -1542,14 +1574,14 @@
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 59,
-   "2025": 101,
+   "2025": 105,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 61,
+   "2024": 65,
    "2025": 74,
    "COMUNA": "LOS VILOS"
   },
@@ -1565,7 +1597,7 @@
    "informacion": "Casos",
    "CODCOM": 4203,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "LOS VILOS"
   },
@@ -1590,15 +1622,15 @@
    "CODCOM": 4203,
    "delito": "HURTOS",
    "2024": 16,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 27,
+   "2024": 35,
+   "2025": 28,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1654,15 +1686,15 @@
    "CODCOM": 4203,
    "delito": "HURTOS",
    "2024": 16,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "LOS VILOS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4203,
    "delito": "LESIONES",
-   "2024": 62,
-   "2025": 52,
+   "2024": 64,
+   "2025": 54,
    "COMUNA": "LOS VILOS"
   },
   {
@@ -1707,7 +1739,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

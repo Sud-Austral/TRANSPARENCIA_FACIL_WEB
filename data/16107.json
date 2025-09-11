@@ -3,8 +3,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16107,
-   "2024": 40,
-   "2025": 79,
+   "2024": 41,
+   "2025": 81,
    "variacion": 98,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLÓN"
@@ -67,27 +67,27 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16107,
    "2024": 79,
-   "2025": 60,
-   "variacion": -24,
+   "2025": 61,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLÓN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16107,
-   "2024": 29,
+   "2024": 30,
    "2025": 25,
-   "variacion": -14,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLÓN"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 16107,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "QUILLÓN"
   },
   {
@@ -267,6 +267,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "QUILLÓN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -1038,6 +1046,14 @@
    "COMUNA": "QUILLÓN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "QUILLÓN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16107,
    "anio": 2024,
@@ -1291,8 +1307,8 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "HURTOS",
-   "2024": 40,
-   "2025": 79,
+   "2024": 41,
+   "2025": 81,
    "COMUNA": "QUILLÓN"
   },
   {
@@ -1348,14 +1364,14 @@
    "CODCOM": 16107,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 79,
-   "2025": 60,
+   "2025": 61,
    "COMUNA": "QUILLÓN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 29,
+   "2024": 30,
    "2025": 25,
    "COMUNA": "QUILLÓN"
   },
@@ -1363,7 +1379,7 @@
    "informacion": "Casos",
    "CODCOM": 16107,
    "delito": "ROBO POR SORPRESA",
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "QUILLÓN"
   },
@@ -1505,7 +1521,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

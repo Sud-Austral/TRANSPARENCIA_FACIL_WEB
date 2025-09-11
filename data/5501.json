@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5501,
-   "2024": 267,
-   "2025": 346,
-   "variacion": 30,
+   "2024": 279,
+   "2025": 354,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5501,
-   "2024": 217,
-   "2025": 204,
-   "variacion": -6,
+   "2024": 226,
+   "2025": 208,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLOTA"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5501,
-   "2024": 84,
-   "2025": 73,
-   "variacion": -13,
+   "2024": 88,
+   "2025": 75,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLOTA"
   },
@@ -49,53 +49,53 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5501,
    "2024": 40,
-   "2025": 46,
-   "variacion": 15,
+   "2025": 48,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5501,
-   "2024": 103,
-   "2025": 156,
-   "variacion": 51,
+   "2024": 111,
+   "2025": 160,
+   "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5501,
-   "2024": 57,
-   "2025": 91,
-   "variacion": 60,
+   "2024": 58,
+   "2025": 92,
+   "variacion": 59,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5501,
-   "2024": 187,
-   "2025": 153,
-   "variacion": -18,
+   "2024": 189,
+   "2025": 157,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5501,
-   "2024": 257,
-   "2025": 202,
-   "variacion": -21,
+   "2024": 268,
+   "2025": 208,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLOTA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5501,
-   "2024": 32,
+   "2024": 34,
    "2025": 30,
-   "variacion": -6,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "QUILLOTA"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 5501,
    "2024": 4,
-   "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
    "COMUNA": "QUILLOTA"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5501,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 41,
+   "COMUNA": "QUILLOTA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5501,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "QUILLOTA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5501,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "QUILLOTA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5501,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5501,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 31,
+   "COMUNA": "QUILLOTA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5501,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5501,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "QUILLOTA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "QUILLOTA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5501,
    "anio": 2024,
@@ -2197,6 +2293,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 0,
+   "COMUNA": "QUILLOTA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5501,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "QUILLOTA"
   }
  ],
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "HURTOS",
-   "2024": 267,
-   "2025": 346,
+   "2024": 279,
+   "2025": 354,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "LESIONES",
-   "2024": 217,
-   "2025": 204,
+   "2024": 226,
+   "2025": 208,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2237,8 +2341,8 @@
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 84,
-   "2025": 73,
+   "2024": 88,
+   "2025": 75,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2246,46 +2350,46 @@
    "CODCOM": 5501,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 40,
-   "2025": 46,
+   "2025": 48,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 103,
-   "2025": 156,
+   "2024": 111,
+   "2025": 160,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 57,
-   "2025": 91,
+   "2024": 58,
+   "2025": 92,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 187,
-   "2025": 153,
+   "2024": 189,
+   "2025": 157,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 257,
-   "2025": 202,
+   "2024": 268,
+   "2025": 208,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5501,
    "delito": "ROBO POR SORPRESA",
-   "2024": 32,
+   "2024": 34,
    "2025": 30,
    "COMUNA": "QUILLOTA"
   },
@@ -2302,7 +2406,7 @@
    "CODCOM": 5501,
    "delito": "VIOLACIONES",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 5501,
    "delito": "HURTOS",
-   "2024": 90,
-   "2025": 159,
+   "2024": 94,
+   "2025": 164,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5501,
    "delito": "LESIONES",
-   "2024": 71,
-   "2025": 51,
+   "2024": 75,
+   "2025": 52,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 5501,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 5501,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2373,15 +2477,15 @@
    "informacion": "Detenciones",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 10,
-   "2025": 9,
+   "2024": 11,
+   "2025": 10,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 33,
+   "2024": 37,
    "2025": 28,
    "COMUNA": "QUILLOTA"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 5501,
    "delito": "HURTOS",
-   "2024": 100,
-   "2025": 176,
+   "2024": 104,
+   "2025": 182,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5501,
    "delito": "LESIONES",
-   "2024": 108,
-   "2025": 90,
+   "2024": 116,
+   "2025": 91,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 5501,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 9,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2454,7 +2558,7 @@
    "CODCOM": 5501,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 6,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "QUILLOTA"
   },
   {
@@ -2477,15 +2581,15 @@
    "informacion": "Detenidos",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
-   "2025": 9,
+   "2024": 17,
+   "2025": 10,
    "COMUNA": "QUILLOTA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5501,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 44,
+   "2024": 52,
    "2025": 34,
    "COMUNA": "QUILLOTA"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

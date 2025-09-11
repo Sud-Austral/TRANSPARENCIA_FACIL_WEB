@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6204,
-   "2024": 12,
+   "2024": 15,
    "2025": 10,
-   "variacion": -17,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MARCHIHUE"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 6204,
    "2024": 13,
-   "2025": 11,
-   "variacion": -15,
+   "2025": 12,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "MARCHIHUE"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6204,
    "2024": 15,
-   "2025": 19,
-   "variacion": 27,
+   "2025": 20,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "MARCHIHUE"
   }
@@ -336,6 +336,14 @@
    "CODCOM": 6204,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "MARCHIHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6204,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "MARCHIHUE"
   },
@@ -652,6 +660,14 @@
    "COMUNA": "MARCHIHUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6204,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "MARCHIHUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 6204,
    "anio": 2024,
@@ -665,7 +681,7 @@
    "informacion": "Casos",
    "CODCOM": 6204,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 15,
    "2025": 10,
    "COMUNA": "MARCHIHUE"
   },
@@ -674,7 +690,7 @@
    "CODCOM": 6204,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "MARCHIHUE"
   },
   {
@@ -730,7 +746,7 @@
    "CODCOM": 6204,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 15,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "MARCHIHUE"
   },
   {
@@ -799,7 +815,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

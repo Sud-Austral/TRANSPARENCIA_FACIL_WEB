@@ -3,27 +3,27 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 8102,
-   "2024": 9,
+   "2024": 10,
    "2025": 3,
-   "variacion": -67,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8102,
-   "2024": 274,
-   "2025": 262,
-   "variacion": -4,
+   "2024": 285,
+   "2025": 265,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8102,
-   "2024": 342,
-   "2025": 275,
-   "variacion": -20,
+   "2024": 346,
+   "2025": 286,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
@@ -31,17 +31,17 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8102,
    "2024": 9,
-   "2025": 22,
-   "variacion": 144,
+   "2025": 24,
+   "variacion": 167,
    "situación": "Aumento de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8102,
-   "2024": 124,
-   "2025": 76,
-   "variacion": -39,
+   "2024": 128,
+   "2025": 80,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
@@ -49,25 +49,25 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8102,
    "2024": 91,
-   "2025": 66,
-   "variacion": -27,
+   "2025": 70,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8102,
-   "2024": 114,
-   "2025": 53,
-   "variacion": -54,
+   "2024": 125,
+   "2025": 56,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8102,
-   "2024": 109,
-   "2025": 82,
+   "2024": 112,
+   "2025": 84,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
@@ -75,36 +75,36 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8102,
-   "2024": 198,
-   "2025": 101,
-   "variacion": -49,
+   "2024": 205,
+   "2025": 111,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8102,
-   "2024": 179,
-   "2025": 121,
-   "variacion": -32,
+   "2024": 182,
+   "2025": 128,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8102,
-   "2024": 41,
+   "2024": 44,
    "2025": 34,
-   "variacion": -17,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8102,
-   "2024": 15,
-   "2025": 14,
-   "variacion": -7,
+   "2024": 16,
+   "2025": 15,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "CORONEL"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8102,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 24,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "CORONEL"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8102,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "CORONEL"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8102,
    "anio": 2024,
@@ -1080,6 +1120,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8102,
    "anio": 2024,
@@ -1236,6 +1284,14 @@
    "CODCOM": 8102,
    "anio": 2025,
    "mes": 8,
+   "casos": 3,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 3,
    "COMUNA": "CORONEL"
   },
@@ -1400,6 +1456,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8102,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 16,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "CORONEL"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8102,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8102,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "CORONEL"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CORONEL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8102,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 8102,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "CORONEL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "CORONEL"
   }
@@ -2205,7 +2309,7 @@
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "HOMICIDIOS",
-   "2024": 9,
+   "2024": 10,
    "2025": 3,
    "COMUNA": "CORONEL"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "HURTOS",
-   "2024": 274,
-   "2025": 262,
+   "2024": 285,
+   "2025": 265,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "LESIONES",
-   "2024": 342,
-   "2025": 275,
+   "2024": 346,
+   "2025": 286,
    "COMUNA": "CORONEL"
   },
   {
@@ -2230,15 +2334,15 @@
    "CODCOM": 8102,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 9,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 124,
-   "2025": 76,
+   "2024": 128,
+   "2025": 80,
    "COMUNA": "CORONEL"
   },
   {
@@ -2246,46 +2350,46 @@
    "CODCOM": 8102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 91,
-   "2025": 66,
+   "2025": 70,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 114,
-   "2025": 53,
+   "2024": 125,
+   "2025": 56,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 109,
-   "2025": 82,
+   "2024": 112,
+   "2025": 84,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 198,
-   "2025": 101,
+   "2024": 205,
+   "2025": 111,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 179,
-   "2025": 121,
+   "2024": 182,
+   "2025": 128,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 41,
+   "2024": 44,
    "2025": 34,
    "COMUNA": "CORONEL"
   },
@@ -2293,8 +2397,8 @@
    "informacion": "Casos",
    "CODCOM": 8102,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 15,
-   "2025": 14,
+   "2024": 16,
+   "2025": 15,
    "COMUNA": "CORONEL"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8102,
    "delito": "HURTOS",
-   "2024": 112,
-   "2025": 147,
+   "2024": 116,
+   "2025": 149,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8102,
    "delito": "LESIONES",
-   "2024": 69,
-   "2025": 55,
+   "2024": 71,
+   "2025": 57,
    "COMUNA": "CORONEL"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 8102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 12,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "CORONEL"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "CORONEL"
   },
   {
@@ -2382,7 +2486,7 @@
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "CORONEL"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8102,
    "delito": "HURTOS",
-   "2024": 125,
-   "2025": 163,
+   "2024": 131,
+   "2025": 165,
    "COMUNA": "CORONEL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8102,
    "delito": "LESIONES",
-   "2024": 120,
-   "2025": 100,
+   "2024": 124,
+   "2025": 105,
    "COMUNA": "CORONEL"
   },
   {
@@ -2454,7 +2558,7 @@
    "CODCOM": 8102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 22,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "CORONEL"
   },
   {
@@ -2478,7 +2582,7 @@
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 11,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CORONEL"
   },
   {
@@ -2486,7 +2590,7 @@
    "CODCOM": 8102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 16,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "CORONEL"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

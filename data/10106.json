@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10106,
-   "2024": 30,
+   "2024": 31,
    "2025": 20,
-   "variacion": -33,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS MUERMOS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10106,
-   "2024": 25,
+   "2024": 28,
    "2025": 40,
-   "variacion": 60,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS MUERMOS"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10106,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10106,
    "2024": 10,
-   "2025": 5,
-   "variacion": -50,
+   "2025": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS MUERMOS"
   },
@@ -612,6 +612,14 @@
    "COMUNA": "LOS MUERMOS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LOS MUERMOS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10106,
    "anio": 2025,
@@ -641,7 +649,7 @@
    "informacion": "Casos",
    "CODCOM": 10106,
    "delito": "HURTOS",
-   "2024": 30,
+   "2024": 31,
    "2025": 20,
    "COMUNA": "LOS MUERMOS"
   },
@@ -649,7 +657,7 @@
    "informacion": "Casos",
    "CODCOM": 10106,
    "delito": "LESIONES",
-   "2024": 25,
+   "2024": 28,
    "2025": 40,
    "COMUNA": "LOS MUERMOS"
   },
@@ -673,7 +681,7 @@
    "informacion": "Casos",
    "CODCOM": 10106,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "LOS MUERMOS"
   },
@@ -690,7 +698,7 @@
    "CODCOM": 10106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -746,7 +754,7 @@
    "CODCOM": 10106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -786,12 +794,12 @@
    "CODCOM": 10106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "LOS MUERMOS"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

@@ -13,9 +13,9 @@
    "delito": "LESIONES",
    "CODCOM": 15201,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PUTRE"
   },
   {
@@ -152,6 +152,14 @@
    "COMUNA": "PUTRE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 15201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUTRE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 15201,
    "anio": 2024,
@@ -230,7 +238,7 @@
    "CODCOM": 15201,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PUTRE"
   },
   {
@@ -262,7 +270,7 @@
    "CODCOM": 15201,
    "delito": "LESIONES",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PUTRE"
   },
   {
@@ -278,6 +286,14 @@
    "CODCOM": 15201,
    "delito": "LESIONES",
    "2024": 3,
+   "2025": 2,
+   "COMUNA": "PUTRE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 15201,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
    "2025": 0,
    "COMUNA": "PUTRE"
   },
@@ -291,7 +307,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Arica y Parinacota"
  }
 }

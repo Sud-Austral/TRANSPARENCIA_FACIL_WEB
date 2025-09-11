@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13105,
-   "2024": 399,
-   "2025": 384,
-   "variacion": -4,
+   "2024": 410,
+   "2025": 399,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13105,
-   "2024": 286,
-   "2025": 322,
-   "variacion": 13,
+   "2024": 299,
+   "2025": 331,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "EL BOSQUE"
   },
@@ -31,16 +31,16 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13105,
    "2024": 16,
-   "2025": 34,
-   "variacion": 112,
+   "2025": 35,
+   "variacion": 119,
    "situación": "Aumento de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13105,
-   "2024": 364,
-   "2025": 271,
+   "2024": 374,
+   "2025": 278,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
@@ -48,53 +48,53 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13105,
-   "2024": 115,
+   "2024": 117,
    "2025": 99,
-   "variacion": -14,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13105,
-   "2024": 258,
-   "2025": 228,
-   "variacion": -12,
+   "2024": 262,
+   "2025": 234,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13105,
-   "2024": 195,
-   "2025": 202,
-   "variacion": 4,
+   "2024": 202,
+   "2025": 207,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13105,
-   "2024": 107,
-   "2025": 152,
-   "variacion": 42,
+   "2024": 111,
+   "2025": 156,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13105,
-   "2024": 72,
-   "2025": 89,
-   "variacion": 24,
+   "2024": 77,
+   "2025": 90,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "EL BOSQUE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13105,
-   "2024": 149,
-   "2025": 134,
+   "2024": 155,
+   "2025": 139,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13105,
-   "2024": 107,
-   "2025": 61,
-   "variacion": -43,
+   "2024": 113,
+   "2025": 62,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "EL BOSQUE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13105,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 59,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13105,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 24,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13105,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 17,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "EL BOSQUE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "EL BOSQUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13105,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 3,
    "COMUNA": "EL BOSQUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "EL BOSQUE"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "HURTOS",
-   "2024": 399,
-   "2025": 384,
+   "2024": 410,
+   "2025": 399,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "LESIONES",
-   "2024": 286,
-   "2025": 322,
+   "2024": 299,
+   "2025": 331,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2230,22 +2334,22 @@
    "CODCOM": 13105,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 16,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 364,
-   "2025": 271,
+   "2024": 374,
+   "2025": 278,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 115,
+   "2024": 117,
    "2025": 99,
    "COMUNA": "EL BOSQUE"
   },
@@ -2253,48 +2357,48 @@
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 258,
-   "2025": 228,
+   "2024": 262,
+   "2025": 234,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 195,
-   "2025": 202,
+   "2024": 202,
+   "2025": 207,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 107,
-   "2025": 152,
+   "2024": 111,
+   "2025": 156,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 72,
-   "2025": 89,
+   "2024": 77,
+   "2025": 90,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO POR SORPRESA",
-   "2024": 149,
-   "2025": 134,
+   "2024": 155,
+   "2025": 139,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13105,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 107,
-   "2025": 61,
+   "2024": 113,
+   "2025": 62,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13105,
    "delito": "HURTOS",
-   "2024": 237,
-   "2025": 209,
+   "2024": 247,
+   "2025": 218,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13105,
    "delito": "LESIONES",
-   "2024": 57,
-   "2025": 56,
+   "2024": 59,
+   "2025": 57,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 13105,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 7,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "EL BOSQUE"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13105,
    "delito": "HURTOS",
-   "2024": 248,
-   "2025": 221,
+   "2024": 259,
+   "2025": 230,
    "COMUNA": "EL BOSQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13105,
    "delito": "LESIONES",
-   "2024": 94,
-   "2025": 101,
+   "2024": 96,
+   "2025": 102,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 13105,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 10,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "EL BOSQUE"
   },
   {
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "EL BOSQUE"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

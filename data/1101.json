@@ -12,35 +12,35 @@
   {
    "delito": "HURTOS",
    "CODCOM": 1101,
-   "2024": 705,
-   "2025": 654,
-   "variacion": -7,
+   "2024": 720,
+   "2025": 676,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 1101,
-   "2024": 629,
-   "2025": 556,
-   "variacion": -12,
+   "2024": 645,
+   "2025": 571,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 1101,
-   "2024": 42,
-   "2025": 29,
-   "variacion": -31,
+   "2024": 44,
+   "2025": 30,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 1101,
-   "2024": 266,
-   "2025": 139,
+   "2024": 277,
+   "2025": 143,
    "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
@@ -48,63 +48,63 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 1101,
-   "2024": 184,
-   "2025": 135,
-   "variacion": -27,
+   "2024": 189,
+   "2025": 142,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 1101,
-   "2024": 685,
-   "2025": 393,
-   "variacion": -43,
+   "2024": 696,
+   "2025": 410,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 1101,
-   "2024": 284,
-   "2025": 289,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 296,
+   "2025": 297,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1101,
-   "2024": 148,
-   "2025": 90,
-   "variacion": -39,
+   "2024": 150,
+   "2025": 94,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1101,
-   "2024": 163,
-   "2025": 132,
-   "variacion": -19,
+   "2024": 168,
+   "2025": 134,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 1101,
-   "2024": 242,
-   "2025": 178,
-   "variacion": -26,
+   "2024": 249,
+   "2025": 186,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 1101,
-   "2024": 41,
-   "2025": 17,
-   "variacion": -59,
+   "2024": 43,
+   "2025": 20,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "IQUIQUE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 1101,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 83,
+   "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 22,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 1101,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 1101,
    "anio": 2024,
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 24,
+   "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -1080,6 +1120,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 1101,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 37,
+   "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 17,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1101,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 1101,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 30,
+   "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "IQUIQUE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "IQUIQUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 1101,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "IQUIQUE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 1101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "IQUIQUE"
   }
  ],
  "info": [
@@ -2213,88 +2317,88 @@
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "HURTOS",
-   "2024": 705,
-   "2025": 654,
+   "2024": 720,
+   "2025": 676,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "LESIONES",
-   "2024": 629,
-   "2025": 556,
+   "2024": 645,
+   "2025": 571,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 42,
-   "2025": 29,
+   "2024": 44,
+   "2025": 30,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 266,
-   "2025": 139,
+   "2024": 277,
+   "2025": 143,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 184,
-   "2025": 135,
+   "2024": 189,
+   "2025": 142,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 685,
-   "2025": 393,
+   "2024": 696,
+   "2025": 410,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 284,
-   "2025": 289,
+   "2024": 296,
+   "2025": 297,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 148,
-   "2025": 90,
+   "2024": 150,
+   "2025": 94,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 163,
-   "2025": 132,
+   "2024": 168,
+   "2025": 134,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 242,
-   "2025": 178,
+   "2024": 249,
+   "2025": 186,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 41,
-   "2025": 17,
+   "2024": 43,
+   "2025": 20,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -2317,48 +2421,48 @@
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "HURTOS",
-   "2024": 200,
-   "2025": 187,
+   "2024": 205,
+   "2025": 191,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "LESIONES",
-   "2024": 163,
-   "2025": 164,
+   "2024": 167,
+   "2025": 167,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 17,
-   "2025": 22,
+   "2024": 19,
+   "2025": 23,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 25,
-   "2025": 11,
+   "2024": 28,
+   "2025": 12,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 21,
-   "2025": 22,
+   "2024": 23,
+   "2025": 24,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 52,
-   "2025": 44,
+   "2024": 54,
+   "2025": 46,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -2374,14 +2478,14 @@
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 25,
+   "2024": 26,
    "2025": 22,
    "COMUNA": "IQUIQUE"
   },
@@ -2421,48 +2525,48 @@
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "HURTOS",
-   "2024": 220,
-   "2025": 216,
+   "2024": 226,
+   "2025": 220,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "LESIONES",
-   "2024": 280,
-   "2025": 289,
+   "2024": 287,
+   "2025": 292,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 25,
-   "2025": 33,
+   "2024": 27,
+   "2025": 35,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 35,
-   "2025": 15,
+   "2024": 38,
+   "2025": 16,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 38,
-   "2025": 38,
+   "2024": 45,
+   "2025": 41,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 64,
-   "2025": 51,
+   "2024": 66,
+   "2025": 54,
    "COMUNA": "IQUIQUE"
   },
   {
@@ -2478,14 +2582,14 @@
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "IQUIQUE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 1101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 39,
+   "2024": 41,
    "2025": 40,
    "COMUNA": "IQUIQUE"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Tarapacá"
  }
 }

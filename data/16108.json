@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16108,
-   "2024": 23,
-   "2025": 17,
-   "variacion": -26,
+   "2024": 27,
+   "2025": 19,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN IGNACIO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16108,
-   "2024": 41,
+   "2024": 42,
    "2025": 37,
-   "variacion": -10,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16108,
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
-   "variacion": 200,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16108,
-   "2024": 19,
+   "2024": 20,
    "2025": 28,
-   "variacion": 47,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN IGNACIO"
   },
@@ -258,6 +258,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN IGNACIO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "SAN IGNACIO"
   },
   {
@@ -946,15 +954,15 @@
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "HURTOS",
-   "2024": 23,
-   "2025": 17,
+   "2024": 27,
+   "2025": 19,
    "COMUNA": "SAN IGNACIO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "LESIONES",
-   "2024": 41,
+   "2024": 42,
    "2025": 37,
    "COMUNA": "SAN IGNACIO"
   },
@@ -970,7 +978,7 @@
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "SAN IGNACIO"
   },
@@ -1002,7 +1010,7 @@
    "informacion": "Casos",
    "CODCOM": 16108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 19,
+   "2024": 20,
    "2025": 28,
    "COMUNA": "SAN IGNACIO"
   },
@@ -1088,7 +1096,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

@@ -12,34 +12,34 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9109,
-   "2024": 91,
-   "2025": 79,
-   "variacion": -13,
+   "2024": 94,
+   "2025": 81,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9109,
-   "2024": 70,
-   "2025": 77,
-   "variacion": 10,
+   "2024": 72,
+   "2025": 78,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9109,
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
-   "variacion": -50,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9109,
-   "2024": 13,
+   "2024": 14,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -48,10 +48,10 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9109,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LONCOCHE"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9109,
-   "2024": 36,
-   "2025": 20,
-   "variacion": -44,
+   "2024": 37,
+   "2025": 21,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9109,
    "2024": 30,
-   "2025": 28,
-   "variacion": -7,
+   "2025": 29,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "LONCOCHE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 11,
+   "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9109,
    "anio": 2024,
@@ -756,6 +780,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "LONCOCHE"
   },
@@ -920,6 +952,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1080,6 +1120,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1240,6 +1288,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -1556,6 +1620,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "LONCOCHE"
   },
@@ -1720,6 +1792,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "LONCOCHE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9109,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "LONCOCHE"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "LONCOCHE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LONCOCHE"
   }
  ],
  "info": [
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 91,
-   "2025": 79,
+   "2024": 94,
+   "2025": 81,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "LESIONES",
-   "2024": 70,
-   "2025": 77,
+   "2024": 72,
+   "2025": 78,
    "COMUNA": "LONCOCHE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
    "COMUNA": "LONCOCHE"
   },
@@ -2237,7 +2341,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 13,
+   "2024": 14,
    "2025": 0,
    "COMUNA": "LONCOCHE"
   },
@@ -2245,7 +2349,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "LONCOCHE"
   },
@@ -2269,8 +2373,8 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
-   "2025": 20,
+   "2024": 37,
+   "2025": 21,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2278,7 +2382,7 @@
    "CODCOM": 9109,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 30,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2317,8 +2421,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 16,
-   "2025": 19,
+   "2024": 17,
+   "2025": 20,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2333,7 +2437,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "LONCOCHE"
   },
@@ -2421,8 +2525,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2024": 23,
-   "2025": 21,
+   "2024": 24,
+   "2025": 22,
    "COMUNA": "LONCOCHE"
   },
   {
@@ -2437,7 +2541,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 4,
    "2025": 0,
    "COMUNA": "LONCOCHE"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

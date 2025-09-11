@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7405,
-   "2024": 30,
-   "2025": 25,
-   "variacion": -17,
+   "2024": 31,
+   "2025": 26,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "RETIRO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7405,
-   "2024": 26,
-   "2025": 34,
-   "variacion": 31,
+   "2024": 27,
+   "2025": 36,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7405,
    "2024": 7,
-   "2025": 11,
-   "variacion": 57,
+   "2025": 12,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7405,
    "2024": 26,
-   "2025": 17,
-   "variacion": -35,
+   "2025": 18,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "RETIRO"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7405,
-   "2024": 49,
-   "2025": 56,
+   "2024": 50,
+   "2025": 57,
    "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "RETIRO"
@@ -253,6 +253,14 @@
    "COMUNA": "RETIRO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RETIRO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 7405,
    "anio": 2024,
@@ -405,6 +413,14 @@
    "COMUNA": "RETIRO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "RETIRO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7405,
    "anio": 2024,
@@ -546,6 +562,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "RETIRO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "RETIRO"
   },
   {
@@ -730,6 +754,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 4,
+   "COMUNA": "RETIRO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "RETIRO"
   },
   {
@@ -1117,6 +1149,14 @@
    "COMUNA": "RETIRO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RETIRO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7405,
    "anio": 2024,
@@ -1154,16 +1194,16 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "HURTOS",
-   "2024": 30,
-   "2025": 25,
+   "2024": 31,
+   "2025": 26,
    "COMUNA": "RETIRO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 34,
+   "2024": 27,
+   "2025": 36,
    "COMUNA": "RETIRO"
   },
   {
@@ -1179,7 +1219,7 @@
    "CODCOM": 7405,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 7,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "RETIRO"
   },
   {
@@ -1195,7 +1235,7 @@
    "CODCOM": 7405,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 26,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "RETIRO"
   },
   {
@@ -1218,8 +1258,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 49,
-   "2025": 56,
+   "2024": 50,
+   "2025": 57,
    "COMUNA": "RETIRO"
   },
   {
@@ -1235,7 +1275,7 @@
    "CODCOM": 7405,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "RETIRO"
   },
   {
@@ -1243,7 +1283,7 @@
    "CODCOM": 7405,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "RETIRO"
   },
   {
@@ -1291,7 +1331,7 @@
    "CODCOM": 7405,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "RETIRO"
   },
   {
@@ -1299,7 +1339,7 @@
    "CODCOM": 7405,
    "delito": "LESIONES",
    "2024": 26,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "RETIRO"
   },
   {
@@ -1344,7 +1384,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

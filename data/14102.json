@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 14102,
-   "2024": 13,
+   "2024": 14,
    "2025": 24,
-   "variacion": 85,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "CORRAL"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14102,
    "2024": 10,
-   "2025": 2,
-   "variacion": -80,
+   "2025": 3,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "CORRAL"
   }
@@ -490,6 +490,14 @@
    "COMUNA": "CORRAL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CORRAL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 14102,
    "anio": 2024,
@@ -511,7 +519,7 @@
    "informacion": "Casos",
    "CODCOM": 14102,
    "delito": "LESIONES",
-   "2024": 13,
+   "2024": 14,
    "2025": 24,
    "COMUNA": "CORRAL"
   },
@@ -552,7 +560,7 @@
    "CODCOM": 14102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 10,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CORRAL"
   },
   {
@@ -567,7 +575,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14102,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "CORRAL"
   },
@@ -599,7 +607,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14102,
    "delito": "LESIONES",
-   "2024": 13,
+   "2024": 15,
    "2025": 12,
    "COMUNA": "CORRAL"
   },
@@ -621,7 +629,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Ríos"
  }
 }

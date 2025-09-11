@@ -4,9 +4,9 @@
    "delito": "HURTOS",
    "CODCOM": 16207,
    "2024": 8,
-   "2025": 7,
-   "variacion": -12,
-   "situación": "Disminución de Casos",
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TREGUACO"
   },
   {
@@ -40,8 +40,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16207,
    "2024": 12,
-   "2025": 10,
-   "variacion": -17,
+   "2025": 11,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "TREGUACO"
   },
@@ -184,6 +184,14 @@
    "anio": 2025,
    "mes": 6,
    "casos": 3,
+   "COMUNA": "TREGUACO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16207,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "TREGUACO"
   },
   {
@@ -475,6 +483,14 @@
    "COMUNA": "TREGUACO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16207,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TREGUACO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16207,
    "anio": 2024,
@@ -617,7 +633,7 @@
    "CODCOM": 16207,
    "delito": "HURTOS",
    "2024": 8,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "TREGUACO"
   },
   {
@@ -649,7 +665,7 @@
    "CODCOM": 16207,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "TREGUACO"
   },
   {
@@ -681,7 +697,7 @@
    "CODCOM": 16207,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TREGUACO"
   },
   {
@@ -713,7 +729,7 @@
    "CODCOM": 16207,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "TREGUACO"
   },
   {
@@ -742,7 +758,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

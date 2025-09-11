@@ -3,10 +3,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14103,
-   "2024": 23,
+   "2024": 25,
    "2025": 23,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "LANCO"
   },
   {
@@ -21,7 +21,7 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 14103,
-   "2024": 3,
+   "2024": 4,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -824,7 +824,7 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "HURTOS",
-   "2024": 23,
+   "2024": 25,
    "2025": 23,
    "COMUNA": "LANCO"
   },
@@ -840,7 +840,7 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 0,
    "COMUNA": "LANCO"
   },
@@ -982,7 +982,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Ríos"
  }
 }

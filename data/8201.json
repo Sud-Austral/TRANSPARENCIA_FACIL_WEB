@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8201,
-   "2024": 52,
-   "2025": 45,
-   "variacion": -13,
+   "2024": 53,
+   "2025": 47,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LEBU"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8201,
-   "2024": 85,
-   "2025": 97,
-   "variacion": 14,
+   "2024": 88,
+   "2025": 99,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "LEBU"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8201,
    "2024": 8,
-   "2025": 2,
-   "variacion": -75,
+   "2025": 3,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "LEBU"
   },
@@ -76,18 +76,18 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8201,
    "2024": 37,
-   "2025": 36,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 37,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LEBU"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8201,
-   "2024": 39,
-   "2025": 39,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 42,
+   "2025": 40,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "LEBU"
   },
   {
@@ -280,6 +280,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8201,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "LEBU"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "LEBU"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8201,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8201,
    "anio": 2024,
@@ -920,6 +952,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8201,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "LEBU"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LEBU"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8201,
    "anio": 2024,
@@ -1396,6 +1452,14 @@
    "CODCOM": 8201,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "LEBU"
   },
@@ -1560,6 +1624,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8201,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8201,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "LEBU"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8201,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 8201,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "LEBU"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "LEBU"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "LEBU"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LEBU"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 8201,
    "delito": "HURTOS",
-   "2024": 52,
-   "2025": 45,
+   "2024": 53,
+   "2025": 47,
    "COMUNA": "LEBU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8201,
    "delito": "LESIONES",
-   "2024": 85,
-   "2025": 97,
+   "2024": 88,
+   "2025": 99,
    "COMUNA": "LEBU"
   },
   {
@@ -2238,7 +2342,7 @@
    "CODCOM": 8201,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 8,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LEBU"
   },
   {
@@ -2270,15 +2374,15 @@
    "CODCOM": 8201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 37,
-   "2025": 36,
+   "2025": 37,
    "COMUNA": "LEBU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 39,
-   "2025": 39,
+   "2024": 42,
+   "2025": 40,
    "COMUNA": "LEBU"
   },
   {
@@ -2318,7 +2422,7 @@
    "CODCOM": 8201,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "LEBU"
   },
   {
@@ -2326,7 +2430,7 @@
    "CODCOM": 8201,
    "delito": "LESIONES",
    "2024": 25,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "LEBU"
   },
   {
@@ -2422,7 +2526,7 @@
    "CODCOM": 8201,
    "delito": "HURTOS",
    "2024": 9,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "LEBU"
   },
   {
@@ -2430,7 +2534,7 @@
    "CODCOM": 8201,
    "delito": "LESIONES",
    "2024": 50,
-   "2025": 71,
+   "2025": 72,
    "COMUNA": "LEBU"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

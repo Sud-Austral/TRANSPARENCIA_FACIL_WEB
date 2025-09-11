@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9113,
    "2024": 4,
-   "2025": 1,
-   "variacion": -75,
+   "2025": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "PERQUENCO"
   },
@@ -57,7 +57,7 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9113,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9113,
-   "2024": 11,
+   "2024": 12,
    "2025": 3,
-   "variacion": -73,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "PERQUENCO"
   },
@@ -462,6 +462,14 @@
    "COMUNA": "PERQUENCO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PERQUENCO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9113,
    "anio": 2024,
@@ -756,7 +764,7 @@
    "CODCOM": 9113,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PERQUENCO"
   },
   {
@@ -779,7 +787,7 @@
    "informacion": "Casos",
    "CODCOM": 9113,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "PERQUENCO"
   },
@@ -795,7 +803,7 @@
    "informacion": "Casos",
    "CODCOM": 9113,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 3,
    "COMUNA": "PERQUENCO"
   },
@@ -881,7 +889,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

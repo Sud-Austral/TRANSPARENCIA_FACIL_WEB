@@ -31,17 +31,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6309,
    "2024": 6,
-   "2025": 6,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 7,
+   "variacion": 17,
+   "situación": "Aumento de Casos",
    "COMUNA": "PUMANQUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6309,
-   "2024": 9,
-   "2025": 8,
-   "variacion": -11,
+   "2024": 10,
+   "2025": 9,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "PUMANQUE"
   }
@@ -320,6 +320,14 @@
    "COMUNA": "PUMANQUE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6309,
    "anio": 2024,
@@ -446,6 +454,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "PUMANQUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6309,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUMANQUE"
   }
  ],
  "info": [
@@ -478,15 +494,15 @@
    "CODCOM": 6309,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 6,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "PUMANQUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6309,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 9,
-   "2025": 8,
+   "2024": 10,
+   "2025": 9,
    "COMUNA": "PUMANQUE"
   },
   {
@@ -555,7 +571,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

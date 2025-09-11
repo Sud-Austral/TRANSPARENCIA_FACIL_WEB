@@ -12,35 +12,35 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13201,
-   "2024": 1203,
-   "2025": 1331,
-   "variacion": 11,
+   "2024": 1237,
+   "2025": 1383,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13201,
-   "2024": 1055,
-   "2025": 1080,
-   "variacion": 2,
+   "2024": 1096,
+   "2025": 1109,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13201,
-   "2024": 101,
-   "2025": 148,
-   "variacion": 47,
+   "2024": 103,
+   "2025": 155,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13201,
-   "2024": 1073,
-   "2025": 882,
+   "2024": 1103,
+   "2025": 901,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "PUENTE ALTO"
@@ -48,17 +48,17 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13201,
-   "2024": 346,
-   "2025": 380,
-   "variacion": 10,
+   "2024": 357,
+   "2025": 388,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13201,
-   "2024": 719,
-   "2025": 637,
+   "2024": 741,
+   "2025": 660,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PUENTE ALTO"
@@ -66,17 +66,17 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13201,
-   "2024": 489,
-   "2025": 689,
-   "variacion": 41,
+   "2024": 503,
+   "2025": 713,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13201,
-   "2024": 398,
-   "2025": 515,
+   "2024": 407,
+   "2025": 523,
    "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
@@ -84,36 +84,36 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13201,
-   "2024": 292,
-   "2025": 301,
-   "variacion": 3,
+   "2024": 296,
+   "2025": 307,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13201,
-   "2024": 592,
-   "2025": 475,
-   "variacion": -20,
+   "2024": 619,
+   "2025": 486,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13201,
-   "2024": 480,
-   "2025": 292,
-   "variacion": -39,
+   "2024": 490,
+   "2025": 303,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "PUENTE ALTO"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13201,
-   "2024": 37,
-   "2025": 48,
-   "variacion": 30,
+   "2024": 38,
+   "2025": 51,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "PUENTE ALTO"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13201,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 145,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 52,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 29,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13201,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 21,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 19,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13201,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 38,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 23,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13201,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 92,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 24,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13201,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 31,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "PUENTE ALTO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13201,
    "anio": 2024,
@@ -2037,6 +2125,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 27,
+   "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "PUENTE ALTO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PUENTE ALTO"
   }
  ],
  "info": [
@@ -2213,96 +2317,96 @@
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "HURTOS",
-   "2024": 1203,
-   "2025": 1331,
+   "2024": 1237,
+   "2025": 1383,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "LESIONES",
-   "2024": 1055,
-   "2025": 1080,
+   "2024": 1096,
+   "2025": 1109,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 101,
-   "2025": 148,
+   "2024": 103,
+   "2025": 155,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1073,
-   "2025": 882,
+   "2024": 1103,
+   "2025": 901,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 346,
-   "2025": 380,
+   "2024": 357,
+   "2025": 388,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 719,
-   "2025": 637,
+   "2024": 741,
+   "2025": 660,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 489,
-   "2025": 689,
+   "2024": 503,
+   "2025": 713,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 398,
-   "2025": 515,
+   "2024": 407,
+   "2025": 523,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 292,
-   "2025": 301,
+   "2024": 296,
+   "2025": 307,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO POR SORPRESA",
-   "2024": 592,
-   "2025": 475,
+   "2024": 619,
+   "2025": 486,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 480,
-   "2025": 292,
+   "2024": 490,
+   "2025": 303,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13201,
    "delito": "VIOLACIONES",
-   "2024": 37,
-   "2025": 48,
+   "2024": 38,
+   "2025": 51,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13201,
    "delito": "HURTOS",
-   "2024": 538,
-   "2025": 624,
+   "2024": 552,
+   "2025": 646,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13201,
    "delito": "LESIONES",
-   "2024": 161,
-   "2025": 193,
+   "2024": 164,
+   "2025": 198,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 31,
+   "2024": 32,
    "2025": 24,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2349,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 23,
+   "2024": 24,
    "2025": 21,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2365,7 +2469,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2374,7 +2478,7 @@
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2382,7 +2486,7 @@
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 31,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13201,
    "delito": "HURTOS",
-   "2024": 568,
-   "2025": 663,
+   "2024": 584,
+   "2025": 687,
    "COMUNA": "PUENTE ALTO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13201,
    "delito": "LESIONES",
-   "2024": 260,
-   "2025": 363,
+   "2024": 264,
+   "2025": 373,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 41,
+   "2024": 42,
    "2025": 39,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2453,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 33,
+   "2024": 34,
    "2025": 29,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2469,7 +2573,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "PUENTE ALTO"
   },
@@ -2478,7 +2582,7 @@
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 16,
-   "2025": 29,
+   "2025": 31,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2486,7 +2590,7 @@
    "CODCOM": 13201,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 44,
-   "2025": 44,
+   "2025": 45,
    "COMUNA": "PUENTE ALTO"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

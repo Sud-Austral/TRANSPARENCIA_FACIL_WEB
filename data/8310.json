@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 8310,
    "2024": 16,
-   "2025": 28,
-   "variacion": 75,
+   "2025": 29,
+   "variacion": 81,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ROSENDO"
   },
@@ -22,8 +22,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8310,
    "2024": 0,
-   "2025": 3,
-   "variacion": 300,
+   "2025": 4,
+   "variacion": 400,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ROSENDO"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8310,
-   "2024": 9,
+   "2024": 11,
    "2025": 17,
-   "variacion": 89,
+   "variacion": 55,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN ROSENDO"
   },
@@ -365,6 +365,14 @@
    "COMUNA": "SAN ROSENDO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN ROSENDO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8310,
    "anio": 2024,
@@ -385,6 +393,14 @@
    "CODCOM": 8310,
    "anio": 2025,
    "mes": 2,
+   "casos": 1,
+   "COMUNA": "SAN ROSENDO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8310,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "SAN ROSENDO"
   },
@@ -771,7 +787,7 @@
    "CODCOM": 8310,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "SAN ROSENDO"
   },
   {
@@ -779,7 +795,7 @@
    "CODCOM": 8310,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "SAN ROSENDO"
   },
   {
@@ -818,7 +834,7 @@
    "informacion": "Casos",
    "CODCOM": 8310,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 9,
+   "2024": 11,
    "2025": 17,
    "COMUNA": "SAN ROSENDO"
   },
@@ -851,7 +867,7 @@
    "CODCOM": 8310,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "SAN ROSENDO"
   },
   {
@@ -899,7 +915,7 @@
    "CODCOM": 8310,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 14,
+   "2025": 17,
    "COMUNA": "SAN ROSENDO"
   },
   {
@@ -936,7 +952,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

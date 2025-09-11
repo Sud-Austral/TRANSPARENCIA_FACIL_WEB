@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13129,
-   "2024": 255,
-   "2025": 266,
+   "2024": 264,
+   "2025": 275,
    "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN JOAQUIN"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13129,
-   "2024": 180,
-   "2025": 169,
+   "2024": 185,
+   "2025": 174,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
@@ -31,25 +31,25 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13129,
    "2024": 13,
-   "2025": 26,
-   "variacion": 100,
+   "2025": 27,
+   "variacion": 108,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13129,
-   "2024": 283,
-   "2025": 265,
-   "variacion": -6,
+   "2024": 287,
+   "2025": 275,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13129,
-   "2024": 128,
-   "2025": 126,
+   "2024": 129,
+   "2025": 127,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
@@ -57,53 +57,53 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13129,
-   "2024": 305,
-   "2025": 301,
-   "variacion": -1,
+   "2024": 312,
+   "2025": 307,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13129,
-   "2024": 142,
-   "2025": 129,
-   "variacion": -9,
+   "2024": 145,
+   "2025": 130,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13129,
-   "2024": 101,
-   "2025": 69,
-   "variacion": -32,
+   "2024": 103,
+   "2025": 73,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13129,
-   "2024": 123,
-   "2025": 86,
-   "variacion": -30,
+   "2024": 125,
+   "2025": 89,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13129,
-   "2024": 261,
-   "2025": 258,
-   "variacion": -1,
+   "2024": 268,
+   "2025": 262,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13129,
-   "2024": 83,
-   "2025": 37,
+   "2024": 86,
+   "2025": 39,
    "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOAQUIN"
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13129,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN JOAQUIN"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13129,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 47,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13129,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13129,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13129,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13129,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13129,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "SAN JOAQUIN"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN JOAQUIN"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13129,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "SAN JOAQUIN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13129,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JOAQUIN"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "HURTOS",
-   "2024": 255,
-   "2025": 266,
+   "2024": 264,
+   "2025": 275,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "LESIONES",
-   "2024": 180,
-   "2025": 169,
+   "2024": 185,
+   "2025": 174,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2230,71 +2334,71 @@
    "CODCOM": 13129,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 13,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 283,
-   "2025": 265,
+   "2024": 287,
+   "2025": 275,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 128,
-   "2025": 126,
+   "2024": 129,
+   "2025": 127,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 305,
-   "2025": 301,
+   "2024": 312,
+   "2025": 307,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 142,
-   "2025": 129,
+   "2024": 145,
+   "2025": 130,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 101,
-   "2025": 69,
+   "2024": 103,
+   "2025": 73,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 123,
-   "2025": 86,
+   "2024": 125,
+   "2025": 89,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO POR SORPRESA",
-   "2024": 261,
-   "2025": 258,
+   "2024": 268,
+   "2025": 262,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13129,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 83,
-   "2025": 37,
+   "2024": 86,
+   "2025": 39,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2302,7 +2406,7 @@
    "CODCOM": 13129,
    "delito": "VIOLACIONES",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13129,
    "delito": "HURTOS",
-   "2024": 54,
-   "2025": 67,
+   "2024": 57,
+   "2025": 68,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13129,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 43,
+   "2024": 44,
+   "2025": 47,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2334,7 +2438,7 @@
    "CODCOM": 13129,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 13129,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 11,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2365,7 +2469,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13129,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN JOAQUIN"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13129,
    "delito": "HURTOS",
-   "2024": 63,
-   "2025": 75,
+   "2024": 66,
+   "2025": 76,
    "COMUNA": "SAN JOAQUIN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13129,
    "delito": "LESIONES",
-   "2024": 66,
-   "2025": 70,
+   "2024": 69,
+   "2025": 77,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2438,7 +2542,7 @@
    "CODCOM": 13129,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 13129,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 15,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "SAN JOAQUIN"
   },
   {
@@ -2469,7 +2573,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13129,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN JOAQUIN"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

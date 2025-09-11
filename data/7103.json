@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7103,
-   "2024": 5,
+   "2024": 6,
    "2025": 10,
-   "variacion": 100,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "CUREPTO"
   },
@@ -25,6 +25,15 @@
    "2025": 1,
    "variacion": 100,
    "situación": "Aumento de Casos",
+   "COMUNA": "CUREPTO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7103,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "CUREPTO"
   },
   {
@@ -439,7 +448,7 @@
    "informacion": "Casos",
    "CODCOM": 7103,
    "delito": "HURTOS",
-   "2024": 5,
+   "2024": 6,
    "2025": 10,
    "COMUNA": "CUREPTO"
   },
@@ -457,6 +466,14 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 0,
    "2025": 1,
+   "COMUNA": "CUREPTO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 7103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "CUREPTO"
   },
   {
@@ -502,6 +519,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 7103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CUREPTO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7103,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
@@ -518,6 +543,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 7103,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "CUREPTO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7103,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
@@ -525,7 +558,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

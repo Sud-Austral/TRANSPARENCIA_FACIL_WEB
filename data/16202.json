@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16202,
-   "2024": 4,
+   "2024": 5,
    "2025": 13,
-   "variacion": 225,
+   "variacion": 160,
    "situación": "Aumento de Casos",
    "COMUNA": "COBQUECURA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16202,
-   "2024": 18,
+   "2024": 19,
    "2025": 18,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "COBQUECURA"
   },
   {
@@ -506,7 +506,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 13,
    "COMUNA": "COBQUECURA"
   },
@@ -514,7 +514,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "COBQUECURA"
   },
@@ -656,7 +656,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

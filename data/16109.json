@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16109,
-   "2024": 44,
-   "2025": 44,
+   "2024": 47,
+   "2025": 47,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "YUNGAY"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16109,
-   "2024": 46,
-   "2025": 47,
-   "variacion": 2,
+   "2024": 47,
+   "2025": 51,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "YUNGAY"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16109,
-   "2024": 38,
+   "2024": 40,
    "2025": 21,
-   "variacion": -45,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "YUNGAY"
   },
@@ -295,6 +295,14 @@
    "COMUNA": "YUNGAY"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "YUNGAY"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16109,
    "anio": 2024,
@@ -452,6 +460,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "YUNGAY"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1092,16 +1108,16 @@
    "informacion": "Casos",
    "CODCOM": 16109,
    "delito": "HURTOS",
-   "2024": 44,
-   "2025": 44,
+   "2024": 47,
+   "2025": 47,
    "COMUNA": "YUNGAY"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16109,
    "delito": "LESIONES",
-   "2024": 46,
-   "2025": 47,
+   "2024": 47,
+   "2025": 51,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1156,7 +1172,7 @@
    "informacion": "Casos",
    "CODCOM": 16109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 38,
+   "2024": 40,
    "2025": 21,
    "COMUNA": "YUNGAY"
   },
@@ -1196,8 +1212,8 @@
    "informacion": "Detenciones",
    "CODCOM": 16109,
    "delito": "LESIONES",
-   "2024": 11,
-   "2025": 24,
+   "2024": 12,
+   "2025": 26,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1252,8 +1268,8 @@
    "informacion": "Detenidos",
    "CODCOM": 16109,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 39,
+   "2024": 20,
+   "2025": 41,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1290,7 +1306,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

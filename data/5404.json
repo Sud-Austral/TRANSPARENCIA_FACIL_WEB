@@ -28,11 +28,20 @@
    "COMUNA": "PETORCA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5404,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PETORCA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5404,
    "2024": 3,
-   "2025": 1,
-   "variacion": -67,
+   "2025": 2,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "PETORCA"
   },
@@ -420,6 +429,14 @@
    "COMUNA": "PETORCA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PETORCA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5404,
    "anio": 2024,
@@ -704,9 +721,17 @@
   {
    "informacion": "Casos",
    "CODCOM": 5404,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PETORCA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 5404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "PETORCA"
   },
   {
@@ -762,7 +787,7 @@
    "CODCOM": 5404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PETORCA"
   },
   {
@@ -794,7 +819,7 @@
    "CODCOM": 5404,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 0,
+   "2025": 3,
    "COMUNA": "PETORCA"
   },
   {
@@ -815,7 +840,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

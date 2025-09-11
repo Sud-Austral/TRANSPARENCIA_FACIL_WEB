@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 7302,
    "2024": 17,
-   "2025": 35,
-   "variacion": 106,
+   "2025": 36,
+   "variacion": 112,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 7302,
    "2024": 15,
-   "2025": 26,
-   "variacion": 73,
+   "2025": 28,
+   "variacion": 87,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7302,
    "2024": 17,
-   "2025": 22,
-   "variacion": 29,
+   "2025": 23,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAÑÉ"
   },
@@ -245,6 +245,14 @@
    "COMUNA": "HUALAÑÉ"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 7302,
    "anio": 2024,
@@ -386,6 +394,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -749,6 +765,14 @@
    "COMUNA": "HUALAÑÉ"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUALAÑÉ"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7302,
    "anio": 2025,
@@ -779,7 +803,7 @@
    "CODCOM": 7302,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -787,7 +811,7 @@
    "CODCOM": 7302,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 26,
+   "2025": 28,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -835,7 +859,7 @@
    "CODCOM": 7302,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 17,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "HUALAÑÉ"
   },
   {
@@ -952,7 +976,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

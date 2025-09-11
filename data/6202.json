@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6202,
    "2024": 13,
-   "2025": 2,
-   "variacion": -85,
+   "2025": 3,
+   "variacion": -77,
    "situación": "Disminución de Casos",
    "COMUNA": "LA ESTRELLA"
   },
@@ -339,6 +339,14 @@
    "COMUNA": "LA ESTRELLA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6202,
    "anio": 2024,
@@ -481,7 +489,7 @@
    "CODCOM": 6202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 13,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -550,7 +558,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

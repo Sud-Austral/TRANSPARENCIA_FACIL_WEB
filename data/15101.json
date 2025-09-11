@@ -3,26 +3,26 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 15101,
-   "2024": 6,
-   "2025": 7,
-   "variacion": 17,
+   "2024": 7,
+   "2025": 8,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 15101,
-   "2024": 896,
-   "2025": 776,
-   "variacion": -13,
+   "2024": 918,
+   "2025": 807,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 15101,
-   "2024": 672,
-   "2025": 478,
+   "2024": 693,
+   "2025": 494,
    "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
@@ -31,43 +31,43 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 15101,
    "2024": 38,
-   "2025": 58,
-   "variacion": 53,
+   "2025": 62,
+   "variacion": 63,
    "situación": "Aumento de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 15101,
-   "2024": 296,
-   "2025": 175,
-   "variacion": -41,
+   "2024": 304,
+   "2025": 182,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 15101,
-   "2024": 218,
-   "2025": 171,
-   "variacion": -22,
+   "2024": 228,
+   "2025": 173,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 15101,
-   "2024": 487,
-   "2025": 373,
-   "variacion": -23,
+   "2024": 490,
+   "2025": 384,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 15101,
-   "2024": 299,
-   "2025": 399,
+   "2024": 308,
+   "2025": 409,
    "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "ARICA"
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 15101,
-   "2024": 198,
-   "2025": 232,
+   "2024": 202,
+   "2025": 236,
    "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "ARICA"
@@ -84,27 +84,27 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 15101,
-   "2024": 254,
-   "2025": 205,
-   "variacion": -19,
+   "2024": 264,
+   "2025": 210,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 15101,
-   "2024": 210,
-   "2025": 137,
-   "variacion": -35,
+   "2024": 213,
+   "2025": 142,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 15101,
-   "2024": 81,
-   "2025": 58,
-   "variacion": -28,
+   "2024": 83,
+   "2025": 63,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "ARICA"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 15101,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 78,
+   "COMUNA": "ARICA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 31,
    "COMUNA": "ARICA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 16,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 15101,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 15101,
    "anio": 2024,
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 24,
+   "COMUNA": "ARICA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "ARICA"
   },
   {
@@ -1080,6 +1120,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 15101,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 47,
+   "COMUNA": "ARICA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
    "COMUNA": "ARICA"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 15101,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 20,
+   "COMUNA": "ARICA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "ARICA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 15101,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "ARICA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "ARICA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "ARICA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "ARICA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 15101,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "ARICA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 15101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ARICA"
   }
  ],
  "info": [
@@ -2205,24 +2309,24 @@
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "HOMICIDIOS",
-   "2024": 6,
-   "2025": 7,
+   "2024": 7,
+   "2025": 8,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "HURTOS",
-   "2024": 896,
-   "2025": 776,
+   "2024": 918,
+   "2025": 807,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "LESIONES",
-   "2024": 672,
-   "2025": 478,
+   "2024": 693,
+   "2025": 494,
    "COMUNA": "ARICA"
   },
   {
@@ -2230,71 +2334,71 @@
    "CODCOM": 15101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 38,
-   "2025": 58,
+   "2025": 62,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 296,
-   "2025": 175,
+   "2024": 304,
+   "2025": 182,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 218,
-   "2025": 171,
+   "2024": 228,
+   "2025": 173,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 487,
-   "2025": 373,
+   "2024": 490,
+   "2025": 384,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 299,
-   "2025": 399,
+   "2024": 308,
+   "2025": 409,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 198,
-   "2025": 232,
+   "2024": 202,
+   "2025": 236,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 254,
-   "2025": 205,
+   "2024": 264,
+   "2025": 210,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 210,
-   "2025": 137,
+   "2024": 213,
+   "2025": 142,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 15101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 81,
-   "2025": 58,
+   "2024": 83,
+   "2025": 63,
    "COMUNA": "ARICA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 15101,
    "delito": "HURTOS",
-   "2024": 252,
-   "2025": 208,
+   "2024": 255,
+   "2025": 216,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 15101,
    "delito": "LESIONES",
-   "2024": 177,
-   "2025": 135,
+   "2024": 184,
+   "2025": 140,
    "COMUNA": "ARICA"
   },
   {
@@ -2334,15 +2438,15 @@
    "CODCOM": 15101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 14,
-   "2025": 21,
+   "2025": 25,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 15101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 29,
-   "2025": 19,
+   "2024": 30,
+   "2025": 20,
    "COMUNA": "ARICA"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 15101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 49,
-   "2025": 31,
+   "2025": 33,
    "COMUNA": "ARICA"
   },
   {
@@ -2374,14 +2478,14 @@
    "CODCOM": 15101,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 13,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 15101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 31,
+   "2024": 32,
    "2025": 33,
    "COMUNA": "ARICA"
   },
@@ -2389,7 +2493,7 @@
    "informacion": "Detenciones",
    "CODCOM": 15101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 17,
+   "2024": 18,
    "2025": 19,
    "COMUNA": "ARICA"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 15101,
    "delito": "HURTOS",
-   "2024": 272,
-   "2025": 223,
+   "2024": 275,
+   "2025": 231,
    "COMUNA": "ARICA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 15101,
    "delito": "LESIONES",
-   "2024": 301,
-   "2025": 286,
+   "2024": 314,
+   "2025": 294,
    "COMUNA": "ARICA"
   },
   {
@@ -2438,7 +2542,7 @@
    "CODCOM": 15101,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 23,
-   "2025": 25,
+   "2025": 29,
    "COMUNA": "ARICA"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 15101,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 61,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "ARICA"
   },
   {
@@ -2462,7 +2566,7 @@
    "CODCOM": 15101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 61,
-   "2025": 36,
+   "2025": 39,
    "COMUNA": "ARICA"
   },
   {
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 15101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 48,
+   "2024": 49,
    "2025": 58,
    "COMUNA": "ARICA"
   },
@@ -2493,7 +2597,7 @@
    "informacion": "Detenidos",
    "CODCOM": 15101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 23,
+   "2024": 24,
    "2025": 23,
    "COMUNA": "ARICA"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Arica y Parinacota"
  }
 }

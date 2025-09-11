@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5701,
-   "2024": 265,
-   "2025": 248,
+   "2024": 274,
+   "2025": 257,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5701,
-   "2024": 236,
-   "2025": 211,
+   "2024": 244,
+   "2025": 218,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
@@ -30,18 +30,18 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5701,
-   "2024": 66,
-   "2025": 46,
-   "variacion": -30,
+   "2024": 70,
+   "2025": 47,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5701,
-   "2024": 80,
-   "2025": 68,
-   "variacion": -15,
+   "2024": 82,
+   "2025": 69,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
   },
@@ -49,53 +49,53 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5701,
    "2024": 58,
-   "2025": 49,
-   "variacion": -16,
+   "2025": 50,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5701,
-   "2024": 106,
-   "2025": 153,
-   "variacion": 44,
+   "2024": 107,
+   "2025": 156,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5701,
-   "2024": 69,
+   "2024": 71,
    "2025": 40,
-   "variacion": -42,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5701,
-   "2024": 108,
-   "2025": 154,
-   "variacion": 43,
+   "2024": 115,
+   "2025": 158,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5701,
-   "2024": 192,
-   "2025": 211,
-   "variacion": 10,
+   "2024": 196,
+   "2025": 218,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FELIPE"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5701,
-   "2024": 45,
-   "2025": 51,
-   "variacion": 13,
+   "2024": 46,
+   "2025": 53,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN FELIPE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5701,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 28,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5701,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5701,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5701,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5701,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 32,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5701,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "SAN FELIPE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5701,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 5701,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN FELIPE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5701,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN FELIPE"
   }
@@ -2213,32 +2317,32 @@
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "HURTOS",
-   "2024": 265,
-   "2025": 248,
+   "2024": 274,
+   "2025": 257,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "LESIONES",
-   "2024": 236,
-   "2025": 211,
+   "2024": 244,
+   "2025": 218,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 66,
-   "2025": 46,
+   "2024": 70,
+   "2025": 47,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 80,
-   "2025": 68,
+   "2024": 82,
+   "2025": 69,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2246,22 +2350,22 @@
    "CODCOM": 5701,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 58,
-   "2025": 49,
+   "2025": 50,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 106,
-   "2025": 153,
+   "2024": 107,
+   "2025": 156,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 69,
+   "2024": 71,
    "2025": 40,
    "COMUNA": "SAN FELIPE"
   },
@@ -2269,24 +2373,24 @@
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 108,
-   "2025": 154,
+   "2024": 115,
+   "2025": 158,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 192,
-   "2025": 211,
+   "2024": 196,
+   "2025": 218,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5701,
    "delito": "ROBO POR SORPRESA",
-   "2024": 45,
-   "2025": 51,
+   "2024": 46,
+   "2025": 53,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2317,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5701,
    "delito": "HURTOS",
-   "2024": 89,
+   "2024": 93,
    "2025": 54,
    "COMUNA": "SAN FELIPE"
   },
@@ -2325,8 +2429,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5701,
    "delito": "LESIONES",
-   "2024": 74,
-   "2025": 67,
+   "2024": 77,
+   "2025": 70,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2334,7 +2438,7 @@
    "CODCOM": 5701,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 7,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2373,24 +2477,24 @@
    "informacion": "Detenciones",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
-   "2025": 15,
+   "2024": 13,
+   "2025": 16,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 30,
-   "2025": 42,
+   "2024": 31,
+   "2025": 43,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5701,
    "delito": "ROBO POR SORPRESA",
-   "2024": 5,
-   "2025": 4,
+   "2024": 6,
+   "2025": 5,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2421,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5701,
    "delito": "HURTOS",
-   "2024": 95,
+   "2024": 99,
    "2025": 58,
    "COMUNA": "SAN FELIPE"
   },
@@ -2429,8 +2533,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5701,
    "delito": "LESIONES",
-   "2024": 147,
-   "2025": 117,
+   "2024": 151,
+   "2025": 122,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2438,7 +2542,7 @@
    "CODCOM": 5701,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 9,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2477,24 +2581,24 @@
    "informacion": "Detenidos",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 13,
-   "2025": 19,
+   "2024": 14,
+   "2025": 20,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5701,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 44,
-   "2025": 64,
+   "2024": 45,
+   "2025": 66,
    "COMUNA": "SAN FELIPE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5701,
    "delito": "ROBO POR SORPRESA",
-   "2024": 6,
-   "2025": 4,
+   "2024": 7,
+   "2025": 7,
    "COMUNA": "SAN FELIPE"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

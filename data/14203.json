@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 14203,
    "2024": 17,
-   "2025": 10,
-   "variacion": -41,
+   "2025": 11,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 14203,
-   "2024": 32,
+   "2024": 33,
    "2025": 38,
-   "variacion": 19,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "LAGO RANCO"
   },
@@ -67,9 +67,9 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14203,
    "2024": 4,
-   "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -226,6 +226,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -501,6 +509,14 @@
    "COMUNA": "LAGO RANCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LAGO RANCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14203,
    "anio": 2024,
@@ -659,14 +675,14 @@
    "CODCOM": 14203,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "LAGO RANCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 32,
+   "2024": 33,
    "2025": 38,
    "COMUNA": "LAGO RANCO"
   },
@@ -707,7 +723,7 @@
    "CODCOM": 14203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "LAGO RANCO"
   },
   {
@@ -746,7 +762,7 @@
    "informacion": "Detenciones",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "LAGO RANCO"
   },
@@ -794,7 +810,7 @@
    "informacion": "Detenidos",
    "CODCOM": 14203,
    "delito": "LESIONES",
-   "2024": 37,
+   "2024": 38,
    "2025": 38,
    "COMUNA": "LAGO RANCO"
   },
@@ -824,7 +840,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Ríos"
  }
 }

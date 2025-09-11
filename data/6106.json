@@ -12,27 +12,27 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6106,
-   "2024": 114,
-   "2025": 98,
-   "variacion": -14,
+   "2024": 119,
+   "2025": 100,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "GRANEROS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6106,
-   "2024": 133,
-   "2025": 123,
-   "variacion": -8,
+   "2024": 134,
+   "2025": 126,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "GRANEROS"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6106,
-   "2024": 10,
-   "2025": 19,
-   "variacion": 90,
+   "2024": 11,
+   "2025": 20,
+   "variacion": 82,
    "situación": "Aumento de Casos",
    "COMUNA": "GRANEROS"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6106,
-   "2024": 41,
-   "2025": 38,
-   "variacion": -7,
+   "2024": 45,
+   "2025": 39,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "GRANEROS"
   },
@@ -67,16 +67,16 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6106,
    "2024": 15,
-   "2025": 28,
-   "variacion": 87,
+   "2025": 29,
+   "variacion": 93,
    "situación": "Aumento de Casos",
    "COMUNA": "GRANEROS"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6106,
-   "2024": 117,
-   "2025": 110,
+   "2024": 120,
+   "2025": 113,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "GRANEROS"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6106,
-   "2024": 118,
-   "2025": 113,
-   "variacion": -4,
+   "2024": 124,
+   "2025": 116,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "GRANEROS"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6106,
-   "2024": 19,
-   "2025": 35,
-   "variacion": 84,
+   "2024": 21,
+   "2025": 36,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "GRANEROS"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6106,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 11,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "GRANEROS"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6106,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "GRANEROS"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6106,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "GRANEROS"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6106,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 0,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "GRANEROS"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6106,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6106,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "GRANEROS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "GRANEROS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6106,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 6106,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "GRANEROS"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "GRANEROS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "GRANEROS"
   }
  ],
  "info": [
@@ -2213,24 +2317,24 @@
    "informacion": "Casos",
    "CODCOM": 6106,
    "delito": "HURTOS",
-   "2024": 114,
-   "2025": 98,
+   "2024": 119,
+   "2025": 100,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6106,
    "delito": "LESIONES",
-   "2024": 133,
-   "2025": 123,
+   "2024": 134,
+   "2025": 126,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6106,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 10,
-   "2025": 19,
+   "2024": 11,
+   "2025": 20,
    "COMUNA": "GRANEROS"
   },
   {
@@ -2245,8 +2349,8 @@
    "informacion": "Casos",
    "CODCOM": 6106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 41,
-   "2025": 38,
+   "2024": 45,
+   "2025": 39,
    "COMUNA": "GRANEROS"
   },
   {
@@ -2262,31 +2366,31 @@
    "CODCOM": 6106,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 15,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 117,
-   "2025": 110,
-   "COMUNA": "GRANEROS"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 6106,
-   "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 118,
+   "2024": 120,
    "2025": 113,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6106,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 124,
+   "2025": 116,
+   "COMUNA": "GRANEROS"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 6106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 19,
-   "2025": 35,
+   "2024": 21,
+   "2025": 36,
    "COMUNA": "GRANEROS"
   },
   {
@@ -2317,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6106,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 13,
    "2025": 11,
    "COMUNA": "GRANEROS"
   },
@@ -2334,7 +2438,7 @@
    "CODCOM": 6106,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "GRANEROS"
   },
   {
@@ -2349,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 5,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "GRANEROS"
   },
@@ -2382,14 +2486,14 @@
    "CODCOM": 6106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "GRANEROS"
   },
@@ -2421,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6106,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 13,
    "2025": 15,
    "COMUNA": "GRANEROS"
   },
@@ -2438,7 +2542,7 @@
    "CODCOM": 6106,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "GRANEROS"
   },
   {
@@ -2453,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6106,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "GRANEROS"
   },
@@ -2486,14 +2590,14 @@
    "CODCOM": 6106,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 13,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "GRANEROS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6106,
    "delito": "ROBO POR SORPRESA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "GRANEROS"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

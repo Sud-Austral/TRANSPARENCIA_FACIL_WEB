@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9202,
-   "2024": 76,
-   "2025": 87,
-   "variacion": 14,
+   "2024": 80,
+   "2025": 88,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "COLLIPULLI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9202,
-   "2024": 86,
-   "2025": 93,
+   "2024": 89,
+   "2025": 96,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "COLLIPULLI"
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9202,
    "2024": 15,
-   "2025": 25,
-   "variacion": 67,
+   "2025": 28,
+   "variacion": 87,
    "situación": "Aumento de Casos",
    "COMUNA": "COLLIPULLI"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9202,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9202,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9202,
    "anio": 2024,
@@ -920,6 +952,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9202,
    "anio": 2024,
@@ -1076,6 +1116,14 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "COLLIPULLI"
   },
@@ -1240,6 +1288,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9202,
    "anio": 2024,
@@ -1396,6 +1452,14 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "COLLIPULLI"
   },
@@ -1560,6 +1624,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9202,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9202,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "COLLIPULLI"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9202,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "COLLIPULLI"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9202,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "COLLIPULLI"
   }
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 76,
-   "2025": 87,
+   "2024": 80,
+   "2025": 88,
    "COMUNA": "COLLIPULLI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 86,
-   "2025": 93,
+   "2024": 89,
+   "2025": 96,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2278,7 +2382,7 @@
    "CODCOM": 9202,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 15,
-   "2025": 25,
+   "2025": 28,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2317,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 13,
+   "2024": 14,
    "2025": 8,
    "COMUNA": "COLLIPULLI"
   },
@@ -2325,7 +2429,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 38,
+   "2024": 39,
    "2025": 45,
    "COMUNA": "COLLIPULLI"
   },
@@ -2421,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 16,
+   "2024": 17,
    "2025": 9,
    "COMUNA": "COLLIPULLI"
   },
@@ -2429,7 +2533,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 61,
+   "2024": 65,
    "2025": 73,
    "COMUNA": "COLLIPULLI"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

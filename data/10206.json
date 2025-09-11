@@ -53,6 +53,15 @@
    "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "PUQUELDÓN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 10206,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
+   "COMUNA": "PUQUELDÓN"
   }
  ],
  "mensual": [
@@ -331,6 +340,14 @@
    "COMUNA": "PUQUELDÓN"
   },
   {
+   "informacion": "Casos",
+   "CODCOM": 10206,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PUQUELDÓN"
+  },
+  {
    "informacion": "Detenciones",
    "CODCOM": 10206,
    "delito": "LESIONES",
@@ -348,7 +365,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

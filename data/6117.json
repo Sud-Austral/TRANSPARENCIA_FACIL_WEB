@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6117,
-   "2024": 156,
-   "2025": 164,
+   "2024": 159,
+   "2025": 167,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN VICENTE"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6117,
-   "2024": 168,
-   "2025": 147,
-   "variacion": -12,
+   "2024": 174,
+   "2025": 149,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN VICENTE"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6117,
    "2024": 18,
-   "2025": 12,
-   "variacion": -33,
+   "2025": 13,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN VICENTE"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6117,
    "2024": 75,
-   "2025": 80,
-   "variacion": 7,
+   "2025": 83,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN VICENTE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 6117,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6117,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6117,
    "anio": 2024,
@@ -920,6 +952,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6117,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN VICENTE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6117,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 6117,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN VICENTE"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "SAN VICENTE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 6117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN VICENTE"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "HURTOS",
-   "2024": 156,
-   "2025": 164,
+   "2024": 159,
+   "2025": 167,
    "COMUNA": "SAN VICENTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6117,
    "delito": "LESIONES",
-   "2024": 168,
-   "2025": 147,
+   "2024": 174,
+   "2025": 149,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2238,7 +2342,7 @@
    "CODCOM": 6117,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 18,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2278,7 +2382,7 @@
    "CODCOM": 6117,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 75,
-   "2025": 80,
+   "2025": 83,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2318,15 +2422,15 @@
    "CODCOM": 6117,
    "delito": "HURTOS",
    "2024": 40,
-   "2025": 44,
+   "2025": 45,
    "COMUNA": "SAN VICENTE"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6117,
    "delito": "LESIONES",
-   "2024": 54,
-   "2025": 49,
+   "2024": 56,
+   "2025": 51,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2382,7 +2486,7 @@
    "CODCOM": 6117,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2422,15 +2526,15 @@
    "CODCOM": 6117,
    "delito": "HURTOS",
    "2024": 44,
-   "2025": 52,
+   "2025": 53,
    "COMUNA": "SAN VICENTE"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6117,
    "delito": "LESIONES",
-   "2024": 98,
-   "2025": 82,
+   "2024": 104,
+   "2025": 84,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2486,7 +2590,7 @@
    "CODCOM": 6117,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "SAN VICENTE"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

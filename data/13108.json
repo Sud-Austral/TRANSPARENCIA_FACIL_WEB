@@ -3,27 +3,27 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13108,
-   "2024": 10,
+   "2024": 11,
    "2025": 5,
-   "variacion": -50,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13108,
-   "2024": 446,
-   "2025": 444,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 455,
+   "2025": 460,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13108,
-   "2024": 323,
-   "2025": 302,
-   "variacion": -7,
+   "2024": 332,
+   "2025": 312,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
@@ -31,43 +31,43 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13108,
    "2024": 30,
-   "2025": 37,
-   "variacion": 23,
+   "2025": 38,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13108,
-   "2024": 311,
-   "2025": 252,
-   "variacion": -19,
+   "2024": 319,
+   "2025": 261,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13108,
-   "2024": 130,
-   "2025": 137,
-   "variacion": 5,
+   "2024": 135,
+   "2025": 140,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13108,
-   "2024": 220,
-   "2025": 196,
-   "variacion": -11,
+   "2024": 225,
+   "2025": 204,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13108,
-   "2024": 185,
-   "2025": 161,
+   "2024": 191,
+   "2025": 167,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "INDEPENDENCIA"
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13108,
-   "2024": 55,
-   "2025": 71,
-   "variacion": 29,
+   "2024": 56,
+   "2025": 75,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13108,
-   "2024": 100,
-   "2025": 101,
+   "2024": 104,
+   "2025": 105,
    "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
@@ -93,9 +93,9 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13108,
-   "2024": 216,
-   "2025": 242,
-   "variacion": 12,
+   "2024": 223,
+   "2025": 252,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
@@ -103,8 +103,8 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13108,
    "2024": 40,
-   "2025": 42,
-   "variacion": 5,
+   "2025": 44,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "INDEPENDENCIA"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13108,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 51,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 16,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13108,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13108,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 19,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13108,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 18,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13108,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13108,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "INDEPENDENCIA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "INDEPENDENCIA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13108,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "INDEPENDENCIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "INDEPENDENCIA"
   }
  ],
  "info": [
@@ -2205,7 +2309,7 @@
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "HOMICIDIOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 5,
    "COMUNA": "INDEPENDENCIA"
   },
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "HURTOS",
-   "2024": 446,
-   "2025": 444,
+   "2024": 455,
+   "2025": 460,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "LESIONES",
-   "2024": 323,
-   "2025": 302,
+   "2024": 332,
+   "2025": 312,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2230,63 +2334,63 @@
    "CODCOM": 13108,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 30,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 311,
-   "2025": 252,
+   "2024": 319,
+   "2025": 261,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 130,
-   "2025": 137,
+   "2024": 135,
+   "2025": 140,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 220,
-   "2025": 196,
+   "2024": 225,
+   "2025": 204,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 185,
-   "2025": 161,
+   "2024": 191,
+   "2025": 167,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 55,
-   "2025": 71,
+   "2024": 56,
+   "2025": 75,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 100,
-   "2025": 101,
+   "2024": 104,
+   "2025": 105,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13108,
    "delito": "ROBO POR SORPRESA",
-   "2024": 216,
-   "2025": 242,
+   "2024": 223,
+   "2025": 252,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2294,7 +2398,7 @@
    "CODCOM": 13108,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 40,
-   "2025": 42,
+   "2025": 44,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 13108,
    "delito": "HURTOS",
-   "2024": 99,
-   "2025": 130,
+   "2024": 100,
+   "2025": 137,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13108,
    "delito": "LESIONES",
-   "2024": 79,
+   "2024": 80,
    "2025": 83,
    "COMUNA": "INDEPENDENCIA"
   },
@@ -2382,7 +2486,7 @@
    "CODCOM": 13108,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 13108,
    "delito": "ROBO POR SORPRESA",
    "2024": 10,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2421,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 13108,
    "delito": "HURTOS",
-   "2024": 111,
-   "2025": 140,
+   "2024": 112,
+   "2025": 147,
    "COMUNA": "INDEPENDENCIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13108,
    "delito": "LESIONES",
-   "2024": 131,
+   "2024": 132,
    "2025": 145,
    "COMUNA": "INDEPENDENCIA"
   },
@@ -2486,7 +2590,7 @@
    "CODCOM": 13108,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2494,7 +2598,7 @@
    "CODCOM": 13108,
    "delito": "ROBO POR SORPRESA",
    "2024": 10,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "INDEPENDENCIA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

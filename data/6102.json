@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 6102,
    "2024": 38,
-   "2025": 24,
-   "variacion": -37,
+   "2025": 26,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "CODEGUA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6102,
-   "2024": 39,
-   "2025": 33,
-   "variacion": -15,
+   "2024": 41,
+   "2025": 34,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CODEGUA"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6102,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "CODEGUA"
   },
@@ -58,17 +58,17 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6102,
    "2024": 3,
-   "2025": 6,
-   "variacion": 100,
+   "2025": 7,
+   "variacion": 133,
    "situación": "Aumento de Casos",
    "COMUNA": "CODEGUA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6102,
-   "2024": 38,
+   "2024": 39,
    "2025": 42,
-   "variacion": 11,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "CODEGUA"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6102,
    "2024": 50,
-   "2025": 73,
-   "variacion": 46,
+   "2025": 76,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "CODEGUA"
   },
@@ -271,6 +271,14 @@
    "COMUNA": "CODEGUA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CODEGUA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6102,
    "anio": 2024,
@@ -423,6 +431,14 @@
    "COMUNA": "CODEGUA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CODEGUA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6102,
    "anio": 2024,
@@ -727,6 +743,14 @@
    "COMUNA": "CODEGUA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CODEGUA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6102,
    "anio": 2024,
@@ -867,6 +891,14 @@
    "CODCOM": 6102,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "CODEGUA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "CODEGUA"
   },
@@ -1183,6 +1215,14 @@
    "COMUNA": "CODEGUA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "CODEGUA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6102,
    "anio": 2024,
@@ -1293,15 +1333,15 @@
    "CODCOM": 6102,
    "delito": "HURTOS",
    "2024": 38,
-   "2025": 24,
+   "2025": 26,
    "COMUNA": "CODEGUA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "LESIONES",
-   "2024": 39,
-   "2025": 33,
+   "2024": 41,
+   "2025": 34,
    "COMUNA": "CODEGUA"
   },
   {
@@ -1325,7 +1365,7 @@
    "CODCOM": 6102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CODEGUA"
   },
   {
@@ -1341,14 +1381,14 @@
    "CODCOM": 6102,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 3,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CODEGUA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 38,
+   "2024": 39,
    "2025": 42,
    "COMUNA": "CODEGUA"
   },
@@ -1357,7 +1397,7 @@
    "CODCOM": 6102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 50,
-   "2025": 73,
+   "2025": 76,
    "COMUNA": "CODEGUA"
   },
   {
@@ -1466,7 +1506,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

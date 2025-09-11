@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13128,
-   "2024": 232,
-   "2025": 223,
+   "2024": 235,
+   "2025": 225,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13128,
-   "2024": 401,
-   "2025": 373,
+   "2024": 413,
+   "2025": 383,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
@@ -30,62 +30,62 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13128,
-   "2024": 113,
-   "2025": 60,
-   "variacion": -47,
+   "2024": 117,
+   "2025": 63,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13128,
-   "2024": 392,
-   "2025": 327,
-   "variacion": -17,
+   "2024": 402,
+   "2025": 341,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13128,
-   "2024": 173,
-   "2025": 153,
-   "variacion": -12,
+   "2024": 178,
+   "2025": 160,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13128,
-   "2024": 66,
-   "2025": 138,
-   "variacion": 109,
+   "2024": 70,
+   "2025": 145,
+   "variacion": 107,
    "situación": "Aumento de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13128,
-   "2024": 175,
-   "2025": 153,
-   "variacion": -13,
+   "2024": 183,
+   "2025": 158,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13128,
-   "2024": 76,
-   "2025": 68,
-   "variacion": -11,
+   "2024": 78,
+   "2025": 69,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13128,
-   "2024": 114,
-   "2025": 148,
+   "2024": 115,
+   "2025": 150,
    "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "RENCA"
@@ -93,18 +93,18 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13128,
-   "2024": 158,
-   "2025": 205,
-   "variacion": 30,
+   "2024": 166,
+   "2025": 212,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "RENCA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13128,
-   "2024": 57,
-   "2025": 114,
-   "variacion": 100,
+   "2024": 59,
+   "2025": 115,
+   "variacion": 95,
    "situación": "Aumento de Casos",
    "COMUNA": "RENCA"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13128,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "RENCA"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13128,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "RENCA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "RENCA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13128,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "RENCA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "RENCA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13128,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 11,
+   "COMUNA": "RENCA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "RENCA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13128,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13128,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "RENCA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "RENCA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13128,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 15,
+   "COMUNA": "RENCA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "RENCA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "RENCA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RENCA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13128,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "RENCA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13128,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RENCA"
   }
  ],
  "info": [
@@ -2213,88 +2317,88 @@
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "HURTOS",
-   "2024": 232,
-   "2025": 223,
+   "2024": 235,
+   "2025": 225,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "LESIONES",
-   "2024": 401,
-   "2025": 373,
+   "2024": 413,
+   "2025": 383,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 113,
-   "2025": 60,
+   "2024": 117,
+   "2025": 63,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 392,
-   "2025": 327,
+   "2024": 402,
+   "2025": 341,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 173,
-   "2025": 153,
+   "2024": 178,
+   "2025": 160,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 66,
-   "2025": 138,
+   "2024": 70,
+   "2025": 145,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 175,
-   "2025": 153,
+   "2024": 183,
+   "2025": 158,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 76,
-   "2025": 68,
+   "2024": 78,
+   "2025": 69,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 114,
-   "2025": 148,
+   "2024": 115,
+   "2025": 150,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO POR SORPRESA",
-   "2024": 158,
-   "2025": 205,
+   "2024": 166,
+   "2025": 212,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13128,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 57,
-   "2025": 114,
+   "2024": 59,
+   "2025": 115,
    "COMUNA": "RENCA"
   },
   {
@@ -2302,7 +2406,7 @@
    "CODCOM": 13128,
    "delito": "VIOLACIONES",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "RENCA"
   },
   {
@@ -2317,31 +2421,31 @@
    "informacion": "Detenciones",
    "CODCOM": 13128,
    "delito": "HURTOS",
-   "2024": 38,
-   "2025": 26,
+   "2024": 40,
+   "2025": 28,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13128,
    "delito": "LESIONES",
-   "2024": 95,
-   "2025": 91,
+   "2024": 96,
+   "2025": 94,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13128,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 8,
-   "2025": 6,
+   "2024": 9,
+   "2025": 7,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13128,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 6,
    "COMUNA": "RENCA"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13128,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 7,
    "COMUNA": "RENCA"
   },
@@ -2390,7 +2494,7 @@
    "CODCOM": 13128,
    "delito": "ROBO POR SORPRESA",
    "2024": 7,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "RENCA"
   },
   {
@@ -2421,31 +2525,31 @@
    "informacion": "Detenidos",
    "CODCOM": 13128,
    "delito": "HURTOS",
-   "2024": 42,
-   "2025": 30,
+   "2024": 44,
+   "2025": 32,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13128,
    "delito": "LESIONES",
-   "2024": 175,
-   "2025": 176,
+   "2024": 177,
+   "2025": 189,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13128,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 10,
-   "2025": 8,
+   "2024": 11,
+   "2025": 9,
    "COMUNA": "RENCA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13128,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "RENCA"
   },
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13128,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 7,
    "COMUNA": "RENCA"
   },
@@ -2494,7 +2598,7 @@
    "CODCOM": 13128,
    "delito": "ROBO POR SORPRESA",
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "RENCA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

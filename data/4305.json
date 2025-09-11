@@ -62,6 +62,15 @@
    "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4305,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "RÍO HURTADO"
   }
  ],
  "mensual": [
@@ -368,6 +377,14 @@
    "mes": 6,
    "casos": 2,
    "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4305,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RÍO HURTADO"
   }
  ],
  "info": [
@@ -428,6 +445,14 @@
    "COMUNA": "RÍO HURTADO"
   },
   {
+   "informacion": "Casos",
+   "CODCOM": 4305,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
    "informacion": "Detenciones",
    "CODCOM": 4305,
    "delito": "HURTOS",
@@ -465,6 +490,14 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 1,
    "2025": 0,
+   "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 4305,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "RÍO HURTADO"
   },
   {
@@ -506,10 +539,18 @@
    "2024": 1,
    "2025": 0,
    "COMUNA": "RÍO HURTADO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 4305,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "RÍO HURTADO"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

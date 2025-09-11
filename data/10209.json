@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10209,
    "2024": 21,
-   "2025": 11,
-   "variacion": -48,
+   "2025": 12,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "QUEMCHI"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10209,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "QUEMCHI"
   }
  ],
@@ -272,6 +272,14 @@
    "COMUNA": "QUEMCHI"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10209,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "QUEMCHI"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10209,
    "anio": 2024,
@@ -398,7 +406,7 @@
    "CODCOM": 10209,
    "delito": "LESIONES",
    "2024": 21,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "QUEMCHI"
   },
   {
@@ -421,7 +429,7 @@
    "informacion": "Casos",
    "CODCOM": 10209,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "QUEMCHI"
   },
@@ -459,7 +467,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

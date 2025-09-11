@@ -12,54 +12,54 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7406,
-   "2024": 128,
-   "2025": 127,
-   "variacion": -1,
+   "2024": 134,
+   "2025": 130,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7406,
-   "2024": 121,
-   "2025": 118,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 123,
+   "2025": 125,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7406,
-   "2024": 3,
+   "2024": 4,
    "2025": 17,
-   "variacion": 467,
+   "variacion": 325,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7406,
-   "2024": 29,
+   "2024": 31,
    "2025": 25,
-   "variacion": -14,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7406,
-   "2024": 15,
+   "2024": 16,
    "2025": 16,
-   "variacion": 7,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7406,
-   "2024": 23,
-   "2025": 25,
-   "variacion": 9,
+   "2024": 25,
+   "2025": 27,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN JAVIER"
   },
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7406,
-   "2024": 74,
+   "2024": 78,
    "2025": 78,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN JAVIER"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7406,
-   "2024": 106,
-   "2025": 89,
+   "2024": 109,
+   "2025": 92,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JAVIER"
@@ -93,9 +93,9 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7406,
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
-   "variacion": -33,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JAVIER"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7406,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 15,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7406,
    "anio": 2024,
@@ -756,6 +780,14 @@
    "CODCOM": 7406,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN JAVIER"
   },
@@ -920,6 +952,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7406,
    "anio": 2024,
@@ -1080,6 +1120,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7406,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7406,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN JAVIER"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 7406,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 7406,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN JAVIER"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "SAN JAVIER"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7406,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN JAVIER"
   }
  ],
  "info": [
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "HURTOS",
-   "2024": 128,
-   "2025": 127,
+   "2024": 134,
+   "2025": 130,
    "COMUNA": "SAN JAVIER"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "LESIONES",
-   "2024": 121,
-   "2025": 118,
+   "2024": 123,
+   "2025": 125,
    "COMUNA": "SAN JAVIER"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 3,
+   "2024": 4,
    "2025": 17,
    "COMUNA": "SAN JAVIER"
   },
@@ -2237,7 +2341,7 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 29,
+   "2024": 31,
    "2025": 25,
    "COMUNA": "SAN JAVIER"
   },
@@ -2245,7 +2349,7 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 15,
+   "2024": 16,
    "2025": 16,
    "COMUNA": "SAN JAVIER"
   },
@@ -2253,8 +2357,8 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 23,
-   "2025": 25,
+   "2024": 25,
+   "2025": 27,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -2269,7 +2373,7 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 74,
+   "2024": 78,
    "2025": 78,
    "COMUNA": "SAN JAVIER"
   },
@@ -2277,15 +2381,15 @@
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 106,
-   "2025": 89,
+   "2024": 109,
+   "2025": 92,
    "COMUNA": "SAN JAVIER"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7406,
    "delito": "ROBO POR SORPRESA",
-   "2024": 6,
+   "2024": 7,
    "2025": 4,
    "COMUNA": "SAN JAVIER"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 7406,
    "delito": "HURTOS",
-   "2024": 14,
-   "2025": 13,
+   "2024": 15,
+   "2025": 15,
    "COMUNA": "SAN JAVIER"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7406,
    "delito": "LESIONES",
-   "2024": 48,
-   "2025": 36,
+   "2024": 49,
+   "2025": 39,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -2349,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7406,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
    "COMUNA": "SAN JAVIER"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7406,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "SAN JAVIER"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 7406,
    "delito": "HURTOS",
-   "2024": 20,
-   "2025": 13,
+   "2024": 21,
+   "2025": 15,
    "COMUNA": "SAN JAVIER"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7406,
    "delito": "LESIONES",
-   "2024": 86,
-   "2025": 63,
+   "2024": 93,
+   "2025": 71,
    "COMUNA": "SAN JAVIER"
   },
   {
@@ -2453,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7406,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 10,
+   "2024": 11,
    "2025": 3,
    "COMUNA": "SAN JAVIER"
   },
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7406,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "SAN JAVIER"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

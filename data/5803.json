@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5803,
-   "2024": 30,
-   "2025": 32,
-   "variacion": 7,
+   "2024": 31,
+   "2025": 33,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5803,
-   "2024": 37,
-   "2025": 42,
-   "variacion": 14,
+   "2024": 38,
+   "2025": 43,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5803,
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
-   "variacion": 40,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -58,26 +58,26 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5803,
    "2024": 9,
-   "2025": 10,
-   "variacion": 11,
+   "2025": 11,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5803,
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12,
+   "situación": "Disminución de Casos",
    "COMUNA": "OLMUÉ"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5803,
    "2024": 49,
-   "2025": 51,
-   "variacion": 4,
+   "2025": 52,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5803,
    "2024": 25,
-   "2025": 39,
-   "variacion": 56,
+   "2025": 40,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "OLMUÉ"
   },
@@ -279,6 +279,14 @@
    "COMUNA": "OLMUÉ"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "OLMUÉ"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5803,
    "anio": 2024,
@@ -436,6 +444,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "OLMUÉ"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -716,6 +732,14 @@
    "anio": 2025,
    "mes": 4,
    "casos": 4,
+   "COMUNA": "OLMUÉ"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -959,6 +983,14 @@
    "COMUNA": "OLMUÉ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "OLMUÉ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1103,6 +1135,14 @@
    "COMUNA": "OLMUÉ"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "OLMUÉ"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1196,16 +1236,16 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "HURTOS",
-   "2024": 30,
-   "2025": 32,
+   "2024": 31,
+   "2025": 33,
    "COMUNA": "OLMUÉ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "LESIONES",
-   "2024": 37,
-   "2025": 42,
+   "2024": 38,
+   "2025": 43,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1228,7 +1268,7 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
    "COMUNA": "OLMUÉ"
   },
@@ -1237,14 +1277,14 @@
    "CODCOM": 5803,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "OLMUÉ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "OLMUÉ"
   },
@@ -1253,7 +1293,7 @@
    "CODCOM": 5803,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 49,
-   "2025": 51,
+   "2025": 52,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1261,7 +1301,7 @@
    "CODCOM": 5803,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 25,
-   "2025": 39,
+   "2025": 40,
    "COMUNA": "OLMUÉ"
   },
   {
@@ -1292,7 +1332,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5803,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "OLMUÉ"
   },
@@ -1372,7 +1412,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5803,
    "delito": "HURTOS",
-   "2024": 9,
+   "2024": 11,
    "2025": 9,
    "COMUNA": "OLMUÉ"
   },
@@ -1442,7 +1482,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

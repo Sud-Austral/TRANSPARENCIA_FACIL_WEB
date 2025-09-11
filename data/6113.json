@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6113,
-   "2024": 42,
+   "2024": 44,
    "2025": 45,
-   "variacion": 7,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHIDEGUA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6113,
    "2024": 24,
-   "2025": 25,
-   "variacion": 4,
+   "2025": 26,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHIDEGUA"
   },
@@ -764,6 +764,14 @@
    "COMUNA": "PICHIDEGUA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PICHIDEGUA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6113,
    "anio": 2024,
@@ -817,7 +825,7 @@
    "informacion": "Casos",
    "CODCOM": 6113,
    "delito": "LESIONES",
-   "2024": 42,
+   "2024": 44,
    "2025": 45,
    "COMUNA": "PICHIDEGUA"
   },
@@ -858,7 +866,7 @@
    "CODCOM": 6113,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 24,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "PICHIDEGUA"
   },
   {
@@ -889,7 +897,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6113,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 18,
    "COMUNA": "PICHIDEGUA"
   },
@@ -945,7 +953,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6113,
    "delito": "LESIONES",
-   "2024": 30,
+   "2024": 32,
    "2025": 31,
    "COMUNA": "PICHIDEGUA"
   },
@@ -991,7 +999,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

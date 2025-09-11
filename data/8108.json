@@ -4,16 +4,16 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 8108,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 6,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8108,
-   "2024": 260,
-   "2025": 233,
+   "2024": 267,
+   "2025": 241,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
@@ -21,53 +21,53 @@
   {
    "delito": "LESIONES",
    "CODCOM": 8108,
-   "2024": 328,
-   "2025": 300,
-   "variacion": -9,
+   "2024": 335,
+   "2025": 312,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8108,
-   "2024": 14,
-   "2025": 36,
-   "variacion": 157,
+   "2024": 15,
+   "2025": 37,
+   "variacion": 147,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8108,
-   "2024": 139,
-   "2025": 89,
-   "variacion": -36,
+   "2024": 144,
+   "2025": 95,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8108,
-   "2024": 53,
+   "2024": 54,
    "2025": 56,
-   "variacion": 6,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8108,
-   "2024": 116,
-   "2025": 90,
-   "variacion": -22,
+   "2024": 121,
+   "2025": 92,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8108,
-   "2024": 118,
-   "2025": 87,
+   "2024": 121,
+   "2025": 90,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8108,
-   "2024": 176,
-   "2025": 162,
-   "variacion": -8,
+   "2024": 182,
+   "2025": 164,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8108,
-   "2024": 214,
-   "2025": 169,
+   "2024": 219,
+   "2025": 172,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
@@ -94,8 +94,8 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8108,
    "2024": 28,
-   "2025": 29,
-   "variacion": 4,
+   "2025": 30,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -111,10 +111,10 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 8108,
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -12,
+   "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO DE LA PAZ"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8108,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 30,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 12,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8108,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8108,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8108,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8108,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 15,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8108,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8108,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "SAN PEDRO DE LA PAZ"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8108,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN PEDRO DE LA PAZ"
   }
  ],
  "info": [
@@ -2206,46 +2310,46 @@
    "CODCOM": 8108,
    "delito": "HOMICIDIOS",
    "2024": 3,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "HURTOS",
-   "2024": 260,
-   "2025": 233,
+   "2024": 267,
+   "2025": 241,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "LESIONES",
-   "2024": 328,
-   "2025": 300,
+   "2024": 335,
+   "2025": 312,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 14,
-   "2025": 36,
+   "2024": 15,
+   "2025": 37,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 139,
-   "2025": 89,
+   "2024": 144,
+   "2025": 95,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 53,
+   "2024": 54,
    "2025": 56,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2253,32 +2357,32 @@
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 116,
-   "2025": 90,
+   "2024": 121,
+   "2025": 92,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 118,
-   "2025": 87,
+   "2024": 121,
+   "2025": 90,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 176,
-   "2025": 162,
+   "2024": 182,
+   "2025": 164,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 214,
-   "2025": 169,
+   "2024": 219,
+   "2025": 172,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2286,7 +2390,7 @@
    "CODCOM": 8108,
    "delito": "ROBO POR SORPRESA",
    "2024": 28,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2301,7 +2405,7 @@
    "informacion": "Casos",
    "CODCOM": 8108,
    "delito": "VIOLACIONES",
-   "2024": 7,
+   "2024": 8,
    "2025": 7,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2310,23 +2414,23 @@
    "CODCOM": 8108,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8108,
    "delito": "HURTOS",
-   "2024": 46,
-   "2025": 71,
+   "2024": 47,
+   "2025": 74,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8108,
    "delito": "LESIONES",
-   "2024": 59,
-   "2025": 53,
+   "2024": 60,
+   "2025": 55,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 8108,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2381,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
+   "2024": 21,
    "2025": 14,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2414,23 +2518,23 @@
    "CODCOM": 8108,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8108,
    "delito": "HURTOS",
-   "2024": 54,
-   "2025": 83,
+   "2024": 55,
+   "2025": 86,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8108,
    "delito": "LESIONES",
-   "2024": 96,
-   "2025": 85,
+   "2024": 97,
+   "2025": 90,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 8108,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 17,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
   {
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 7,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 26,
+   "2024": 27,
    "2025": 20,
    "COMUNA": "SAN PEDRO DE LA PAZ"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

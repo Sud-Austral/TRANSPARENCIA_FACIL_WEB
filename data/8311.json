@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8311,
-   "2024": 36,
-   "2025": 31,
-   "variacion": -14,
+   "2024": 37,
+   "2025": 33,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA BÁRBARA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8311,
-   "2024": 37,
-   "2025": 56,
-   "variacion": 51,
+   "2024": 39,
+   "2025": 58,
+   "variacion": 49,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA BÁRBARA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8311,
-   "2024": 24,
+   "2024": 25,
    "2025": 20,
-   "variacion": -17,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA BÁRBARA"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8311,
    "2024": 38,
-   "2025": 34,
-   "variacion": -11,
+   "2025": 36,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA BÁRBARA"
   },
@@ -263,6 +263,14 @@
    "COMUNA": "SANTA BÁRBARA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8311,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SANTA BÁRBARA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 8311,
    "anio": 2024,
@@ -423,6 +431,14 @@
    "COMUNA": "SANTA BÁRBARA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8311,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SANTA BÁRBARA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8311,
    "anio": 2025,
@@ -983,6 +999,14 @@
    "COMUNA": "SANTA BÁRBARA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8311,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SANTA BÁRBARA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8311,
    "anio": 2024,
@@ -1052,16 +1076,16 @@
    "informacion": "Casos",
    "CODCOM": 8311,
    "delito": "HURTOS",
-   "2024": 36,
-   "2025": 31,
+   "2024": 37,
+   "2025": 33,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8311,
    "delito": "LESIONES",
-   "2024": 37,
-   "2025": 56,
+   "2024": 39,
+   "2025": 58,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
@@ -1108,7 +1132,7 @@
    "informacion": "Casos",
    "CODCOM": 8311,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 24,
+   "2024": 25,
    "2025": 20,
    "COMUNA": "SANTA BÁRBARA"
   },
@@ -1117,7 +1141,7 @@
    "CODCOM": 8311,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 38,
-   "2025": 34,
+   "2025": 36,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
@@ -1148,16 +1172,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8311,
    "delito": "HURTOS",
-   "2024": 11,
-   "2025": 8,
+   "2024": 12,
+   "2025": 9,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8311,
    "delito": "LESIONES",
-   "2024": 17,
-   "2025": 35,
+   "2024": 18,
+   "2025": 36,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
@@ -1212,16 +1236,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8311,
    "delito": "HURTOS",
-   "2024": 13,
-   "2025": 8,
+   "2024": 14,
+   "2025": 9,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8311,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 49,
+   "2024": 30,
+   "2025": 50,
    "COMUNA": "SANTA BÁRBARA"
   },
   {
@@ -1266,7 +1290,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

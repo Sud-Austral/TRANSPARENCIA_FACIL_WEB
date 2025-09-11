@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13117,
-   "2024": 275,
-   "2025": 371,
-   "variacion": 35,
+   "2024": 292,
+   "2025": 383,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13117,
-   "2024": 252,
-   "2025": 237,
+   "2024": 259,
+   "2025": 244,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
@@ -30,17 +30,17 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13117,
-   "2024": 18,
+   "2024": 20,
    "2025": 26,
-   "variacion": 44,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13117,
-   "2024": 268,
-   "2025": 223,
+   "2024": 277,
+   "2025": 231,
    "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
@@ -48,8 +48,8 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13117,
-   "2024": 128,
-   "2025": 95,
+   "2024": 131,
+   "2025": 97,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13117,
-   "2024": 115,
+   "2024": 121,
    "2025": 116,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13117,
-   "2024": 120,
-   "2025": 101,
-   "variacion": -16,
+   "2024": 123,
+   "2025": 105,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
   },
@@ -76,35 +76,35 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13117,
    "2024": 67,
-   "2025": 78,
-   "variacion": 16,
+   "2025": 80,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13117,
-   "2024": 67,
+   "2024": 70,
    "2025": 30,
-   "variacion": -55,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13117,
-   "2024": 229,
-   "2025": 206,
-   "variacion": -10,
+   "2024": 231,
+   "2025": 216,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13117,
-   "2024": 147,
-   "2025": 82,
-   "variacion": -44,
+   "2024": 149,
+   "2025": 89,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "LO PRADO"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13117,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 46,
+   "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 12,
    "COMUNA": "LO PRADO"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13117,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LO PRADO"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13117,
    "anio": 2024,
@@ -1080,6 +1120,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13117,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 18,
+   "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LO PRADO"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13117,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "LO PRADO"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13117,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 25,
+   "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "LO PRADO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "LO PRADO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13117,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "LO PRADO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LO PRADO"
   }
  ],
  "info": [
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "HURTOS",
-   "2024": 275,
-   "2025": 371,
+   "2024": 292,
+   "2025": 383,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "LESIONES",
-   "2024": 252,
-   "2025": 237,
+   "2024": 259,
+   "2025": 244,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 18,
+   "2024": 20,
    "2025": 26,
    "COMUNA": "LO PRADO"
   },
@@ -2237,23 +2341,23 @@
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 268,
-   "2025": 223,
+   "2024": 277,
+   "2025": 231,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 128,
-   "2025": 95,
+   "2024": 131,
+   "2025": 97,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 115,
+   "2024": 121,
    "2025": 116,
    "COMUNA": "LO PRADO"
   },
@@ -2261,8 +2365,8 @@
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 120,
-   "2025": 101,
+   "2024": 123,
+   "2025": 105,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2270,14 +2374,14 @@
    "CODCOM": 13117,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 67,
-   "2025": 78,
+   "2025": 80,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 67,
+   "2024": 70,
    "2025": 30,
    "COMUNA": "LO PRADO"
   },
@@ -2285,16 +2389,16 @@
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO POR SORPRESA",
-   "2024": 229,
-   "2025": 206,
+   "2024": 231,
+   "2025": 216,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13117,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 147,
-   "2025": 82,
+   "2024": 149,
+   "2025": 89,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13117,
    "delito": "HURTOS",
-   "2024": 30,
-   "2025": 134,
+   "2024": 32,
+   "2025": 138,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13117,
    "delito": "LESIONES",
-   "2024": 67,
-   "2025": 66,
+   "2024": 71,
+   "2025": 67,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13117,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 12,
+   "2024": 13,
    "2025": 5,
    "COMUNA": "LO PRADO"
   },
@@ -2350,7 +2454,7 @@
    "CODCOM": 13117,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 8,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13117,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 7,
    "COMUNA": "LO PRADO"
   },
@@ -2398,7 +2502,7 @@
    "CODCOM": 13117,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 4,
-   "2025": 2,
+   "2025": 5,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13117,
    "delito": "HURTOS",
-   "2024": 38,
-   "2025": 150,
+   "2024": 40,
+   "2025": 154,
    "COMUNA": "LO PRADO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13117,
    "delito": "LESIONES",
-   "2024": 121,
-   "2025": 115,
+   "2024": 126,
+   "2025": 116,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13117,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 16,
+   "2024": 18,
    "2025": 7,
    "COMUNA": "LO PRADO"
   },
@@ -2454,7 +2558,7 @@
    "CODCOM": 13117,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 10,
-   "2025": 14,
+   "2025": 16,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13117,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 11,
    "COMUNA": "LO PRADO"
   },
@@ -2502,7 +2606,7 @@
    "CODCOM": 13117,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 9,
-   "2025": 5,
+   "2025": 10,
    "COMUNA": "LO PRADO"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

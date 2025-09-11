@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3103,
-   "2024": 37,
+   "2024": 38,
    "2025": 33,
-   "variacion": -11,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3103,
-   "2024": 52,
+   "2024": 56,
    "2025": 62,
-   "variacion": 19,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3103,
-   "2024": 10,
+   "2024": 11,
    "2025": 7,
-   "variacion": -30,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -57,27 +57,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3103,
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
-   "variacion": -22,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3103,
-   "2024": 30,
+   "2024": 31,
    "2025": 18,
-   "variacion": -40,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3103,
-   "2024": 91,
-   "2025": 58,
-   "variacion": -36,
+   "2024": 92,
+   "2025": 60,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1175,6 +1175,14 @@
    "COMUNA": "TIERRA AMARILLA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "TIERRA AMARILLA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3103,
    "anio": 2024,
@@ -1284,7 +1292,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "HURTOS",
-   "2024": 37,
+   "2024": 38,
    "2025": 33,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1292,7 +1300,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 52,
+   "2024": 56,
    "2025": 62,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1308,7 +1316,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 10,
+   "2024": 11,
    "2025": 7,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1332,7 +1340,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1340,7 +1348,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 30,
+   "2024": 31,
    "2025": 18,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1348,8 +1356,8 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 91,
-   "2025": 58,
+   "2024": 92,
+   "2025": 60,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1388,7 +1396,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 13,
+   "2024": 14,
    "2025": 23,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1412,7 +1420,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1444,7 +1452,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 21,
+   "2024": 23,
    "2025": 41,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1468,7 +1476,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1490,7 +1498,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Atacama"
  }
 }

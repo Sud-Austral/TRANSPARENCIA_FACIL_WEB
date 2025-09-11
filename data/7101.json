@@ -12,62 +12,62 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7101,
-   "2024": 970,
-   "2025": 909,
-   "variacion": -6,
+   "2024": 1000,
+   "2025": 933,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7101,
-   "2024": 670,
-   "2025": 565,
-   "variacion": -16,
+   "2024": 684,
+   "2025": 585,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7101,
-   "2024": 91,
+   "2024": 95,
    "2025": 93,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7101,
-   "2024": 235,
-   "2025": 162,
-   "variacion": -31,
+   "2024": 237,
+   "2025": 168,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7101,
-   "2024": 151,
-   "2025": 101,
-   "variacion": -33,
+   "2024": 152,
+   "2025": 106,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7101,
-   "2024": 457,
-   "2025": 478,
-   "variacion": 5,
+   "2024": 475,
+   "2025": 486,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7101,
-   "2024": 196,
-   "2025": 164,
+   "2024": 200,
+   "2025": 167,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
@@ -75,27 +75,27 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7101,
-   "2024": 508,
-   "2025": 380,
-   "variacion": -25,
+   "2024": 519,
+   "2025": 385,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7101,
-   "2024": 463,
-   "2025": 397,
-   "variacion": -14,
+   "2024": 469,
+   "2025": 414,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7101,
-   "2024": 134,
-   "2025": 123,
-   "variacion": -8,
+   "2024": 142,
+   "2025": 128,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCA"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7101,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 82,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 24,
    "COMUNA": "TALCA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 20,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7101,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 14,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "TALCA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7101,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "TALCA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7101,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "TALCA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7101,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 55,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 17,
    "COMUNA": "TALCA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 7101,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "TALCA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "TALCA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 7101,
    "anio": 2024,
@@ -2197,6 +2293,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "TALCA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "TALCA"
   }
  ],
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "HURTOS",
-   "2024": 970,
-   "2025": 909,
+   "2024": 1000,
+   "2025": 933,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "LESIONES",
-   "2024": 670,
-   "2025": 565,
+   "2024": 684,
+   "2025": 585,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 91,
+   "2024": 95,
    "2025": 93,
    "COMUNA": "TALCA"
   },
@@ -2237,56 +2341,56 @@
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 235,
-   "2025": 162,
+   "2024": 237,
+   "2025": 168,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 151,
-   "2025": 101,
+   "2024": 152,
+   "2025": 106,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 457,
-   "2025": 478,
+   "2024": 475,
+   "2025": 486,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 196,
-   "2025": 164,
+   "2024": 200,
+   "2025": 167,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 508,
-   "2025": 380,
+   "2024": 519,
+   "2025": 385,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 463,
-   "2025": 397,
+   "2024": 469,
+   "2025": 414,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 134,
-   "2025": 123,
+   "2024": 142,
+   "2025": 128,
    "COMUNA": "TALCA"
   },
   {
@@ -2317,23 +2421,23 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "HURTOS",
-   "2024": 232,
-   "2025": 268,
+   "2024": 236,
+   "2025": 276,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "LESIONES",
-   "2024": 133,
-   "2025": 142,
+   "2024": 134,
+   "2025": 147,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 13,
+   "2024": 15,
    "2025": 16,
    "COMUNA": "TALCA"
   },
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 13,
+   "2024": 14,
    "2025": 7,
    "COMUNA": "TALCA"
   },
@@ -2357,7 +2461,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 10,
+   "2024": 11,
    "2025": 17,
    "COMUNA": "TALCA"
   },
@@ -2365,7 +2469,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 5,
    "COMUNA": "TALCA"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
+   "2024": 23,
    "2025": 15,
    "COMUNA": "TALCA"
   },
@@ -2381,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
+   "2024": 41,
    "2025": 47,
    "COMUNA": "TALCA"
   },
@@ -2389,7 +2493,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 11,
+   "2024": 14,
    "2025": 11,
    "COMUNA": "TALCA"
   },
@@ -2421,23 +2525,23 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "HURTOS",
-   "2024": 251,
-   "2025": 289,
+   "2024": 255,
+   "2025": 297,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "LESIONES",
-   "2024": 242,
-   "2025": 241,
+   "2024": 245,
+   "2025": 250,
    "COMUNA": "TALCA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 20,
+   "2024": 22,
    "2025": 28,
    "COMUNA": "TALCA"
   },
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 21,
+   "2024": 22,
    "2025": 11,
    "COMUNA": "TALCA"
   },
@@ -2461,7 +2565,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 13,
+   "2024": 14,
    "2025": 27,
    "COMUNA": "TALCA"
   },
@@ -2469,7 +2573,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 3,
    "2025": 6,
    "COMUNA": "TALCA"
   },
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 24,
+   "2024": 26,
    "2025": 17,
    "COMUNA": "TALCA"
   },
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 54,
+   "2024": 58,
    "2025": 59,
    "COMUNA": "TALCA"
   },
@@ -2493,7 +2597,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 11,
+   "2024": 14,
    "2025": 13,
    "COMUNA": "TALCA"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

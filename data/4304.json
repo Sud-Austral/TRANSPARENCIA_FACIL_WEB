@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 4304,
-   "2024": 28,
-   "2025": 24,
-   "variacion": -14,
+   "2024": 30,
+   "2025": 25,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4304,
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
-   "variacion": -80,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4304,
    "2024": 26,
-   "2025": 22,
-   "variacion": -15,
+   "2025": 23,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4304,
    "2024": 8,
-   "2025": 15,
-   "variacion": 88,
+   "2025": 16,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNITAQUI"
   }
@@ -364,6 +364,14 @@
    "COMUNA": "PUNITAQUI"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUNITAQUI"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4304,
    "anio": 2025,
@@ -628,6 +636,14 @@
    "COMUNA": "PUNITAQUI"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUNITAQUI"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4304,
    "anio": 2024,
@@ -746,6 +762,14 @@
    "mes": 7,
    "casos": 1,
    "COMUNA": "PUNITAQUI"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUNITAQUI"
   }
  ],
  "info": [
@@ -761,8 +785,8 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "LESIONES",
-   "2024": 28,
-   "2025": 24,
+   "2024": 30,
+   "2025": 25,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -785,7 +809,7 @@
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 5,
+   "2024": 6,
    "2025": 1,
    "COMUNA": "PUNITAQUI"
   },
@@ -810,7 +834,7 @@
    "CODCOM": 4304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 26,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -818,7 +842,7 @@
    "CODCOM": 4304,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -887,7 +911,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

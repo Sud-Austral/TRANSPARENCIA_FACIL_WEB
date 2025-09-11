@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10205,
-   "2024": 40,
-   "2025": 40,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 43,
+   "2025": 41,
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10205,
-   "2024": 48,
-   "2025": 48,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 51,
+   "2025": 50,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "DALCAHUE"
   },
   {
@@ -252,6 +252,14 @@
    "COMUNA": "DALCAHUE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "DALCAHUE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10205,
    "anio": 2024,
@@ -409,6 +417,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 12,
+   "COMUNA": "DALCAHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10205,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -769,16 +785,16 @@
    "informacion": "Casos",
    "CODCOM": 10205,
    "delito": "HURTOS",
-   "2024": 40,
-   "2025": 40,
+   "2024": 43,
+   "2025": 41,
    "COMUNA": "DALCAHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10205,
    "delito": "LESIONES",
-   "2024": 48,
-   "2025": 48,
+   "2024": 51,
+   "2025": 50,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -841,8 +857,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10205,
    "delito": "LESIONES",
-   "2024": 22,
-   "2025": 12,
+   "2024": 24,
+   "2025": 13,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -881,8 +897,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10205,
    "delito": "LESIONES",
-   "2024": 35,
-   "2025": 17,
+   "2024": 38,
+   "2025": 21,
    "COMUNA": "DALCAHUE"
   },
   {
@@ -911,7 +927,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 8309,
    "2024": 14,
-   "2025": 15,
-   "variacion": 7,
+   "2025": 18,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "QUILLECO"
   },
@@ -323,6 +323,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "QUILLECO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "QUILLECO"
   },
   {
@@ -692,7 +700,7 @@
    "CODCOM": 8309,
    "delito": "LESIONES",
    "2024": 14,
-   "2025": 15,
+   "2025": 18,
    "COMUNA": "QUILLECO"
   },
   {
@@ -764,7 +772,7 @@
    "CODCOM": 8309,
    "delito": "LESIONES",
    "2024": 3,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "QUILLECO"
   },
   {
@@ -796,7 +804,7 @@
    "CODCOM": 8309,
    "delito": "LESIONES",
    "2024": 4,
-   "2025": 13,
+   "2025": 16,
    "COMUNA": "QUILLECO"
   },
   {
@@ -825,7 +833,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

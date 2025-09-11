@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 4105,
    "2024": 26,
-   "2025": 22,
-   "variacion": -15,
+   "2025": 23,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PAIGUANO"
   },
@@ -313,6 +313,14 @@
    "COMUNA": "PAIGUANO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PAIGUANO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4105,
    "anio": 2024,
@@ -495,7 +503,7 @@
    "CODCOM": 4105,
    "delito": "LESIONES",
    "2024": 26,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "PAIGUANO"
   },
   {
@@ -596,7 +604,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

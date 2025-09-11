@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 16205,
-   "2024": 6,
-   "2025": 2,
-   "variacion": -67,
+   "2024": 7,
+   "2025": 3,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "PORTEZUELO"
   },
@@ -250,6 +250,14 @@
    "COMUNA": "PORTEZUELO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16205,
    "anio": 2024,
@@ -455,8 +463,8 @@
    "informacion": "Casos",
    "CODCOM": 16205,
    "delito": "LESIONES",
-   "2024": 6,
-   "2025": 2,
+   "2024": 7,
+   "2025": 3,
    "COMUNA": "PORTEZUELO"
   },
   {
@@ -533,7 +541,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

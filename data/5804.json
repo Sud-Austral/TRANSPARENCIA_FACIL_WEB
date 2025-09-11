@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5804,
-   "2024": 259,
-   "2025": 333,
+   "2024": 268,
+   "2025": 346,
    "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5804,
-   "2024": 230,
-   "2025": 192,
+   "2024": 237,
+   "2025": 197,
    "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEMANA"
@@ -31,71 +31,71 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5804,
    "2024": 4,
-   "2025": 12,
-   "variacion": 200,
+   "2025": 13,
+   "variacion": 225,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5804,
-   "2024": 109,
-   "2025": 66,
-   "variacion": -39,
+   "2024": 110,
+   "2025": 69,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5804,
-   "2024": 50,
-   "2025": 32,
-   "variacion": -36,
+   "2024": 54,
+   "2025": 33,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5804,
-   "2024": 136,
-   "2025": 167,
-   "variacion": 23,
+   "2024": 143,
+   "2025": 171,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5804,
-   "2024": 72,
-   "2025": 108,
-   "variacion": 50,
+   "2024": 73,
+   "2025": 110,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5804,
-   "2024": 198,
-   "2025": 130,
-   "variacion": -34,
+   "2024": 202,
+   "2025": 131,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5804,
-   "2024": 126,
-   "2025": 138,
-   "variacion": 10,
+   "2024": 129,
+   "2025": 143,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5804,
-   "2024": 34,
-   "2025": 50,
-   "variacion": 47,
+   "2024": 35,
+   "2025": 52,
+   "variacion": 49,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEMANA"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 5804,
-   "2024": 10,
-   "2025": 8,
-   "variacion": -20,
+   "2024": 11,
+   "2025": 9,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEMANA"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5804,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 50,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 13,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5804,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5804,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 9,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5804,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 14,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5804,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5804,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5804,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "VILLA ALEMANA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "VILLA ALEMANA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 5804,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "VILLA ALEMANA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 5804,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "VILLA ALEMANA"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "HURTOS",
-   "2024": 259,
-   "2025": 333,
+   "2024": 268,
+   "2025": 346,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "LESIONES",
-   "2024": 230,
-   "2025": 192,
+   "2024": 237,
+   "2025": 197,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -2230,63 +2334,63 @@
    "CODCOM": 5804,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 4,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 109,
-   "2025": 66,
+   "2024": 110,
+   "2025": 69,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 50,
-   "2025": 32,
+   "2024": 54,
+   "2025": 33,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 136,
-   "2025": 167,
+   "2024": 143,
+   "2025": 171,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 72,
-   "2025": 108,
+   "2024": 73,
+   "2025": 110,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 198,
-   "2025": 130,
+   "2024": 202,
+   "2025": 131,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 126,
-   "2025": 138,
+   "2024": 129,
+   "2025": 143,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "ROBO POR SORPRESA",
-   "2024": 34,
-   "2025": 50,
+   "2024": 35,
+   "2025": 52,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -2301,8 +2405,8 @@
    "informacion": "Casos",
    "CODCOM": 5804,
    "delito": "VIOLACIONES",
-   "2024": 10,
-   "2025": 8,
+   "2024": 11,
+   "2025": 9,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 5804,
    "delito": "HURTOS",
-   "2024": 92,
-   "2025": 137,
+   "2024": 95,
+   "2025": 142,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5804,
    "delito": "LESIONES",
-   "2024": 82,
+   "2024": 84,
    "2025": 60,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2349,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5804,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2373,7 +2477,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 5,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2382,7 +2486,7 @@
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -2405,7 +2509,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5804,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2421,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 5804,
    "delito": "HURTOS",
-   "2024": 100,
-   "2025": 145,
+   "2024": 103,
+   "2025": 150,
    "COMUNA": "VILLA ALEMANA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5804,
    "delito": "LESIONES",
-   "2024": 145,
+   "2024": 147,
    "2025": 107,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2453,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5804,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 20,
+   "2024": 22,
    "2025": 3,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2477,7 +2581,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 8,
    "2025": 9,
    "COMUNA": "VILLA ALEMANA"
   },
@@ -2486,7 +2590,7 @@
    "CODCOM": 5804,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 17,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "VILLA ALEMANA"
   },
   {
@@ -2509,13 +2613,13 @@
    "informacion": "Detenidos",
    "CODCOM": 5804,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "VILLA ALEMANA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Valparaíso"
  }
 }

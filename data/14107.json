@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14107,
-   "2024": 85,
-   "2025": 46,
+   "2024": 87,
+   "2025": 47,
    "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "PAILLACO"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 14107,
-   "2024": 52,
-   "2025": 70,
-   "variacion": 35,
+   "2024": 53,
+   "2025": 74,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "PAILLACO"
   },
@@ -66,28 +66,28 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 14107,
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
-   "variacion": -50,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "PAILLACO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14107,
-   "2024": 30,
-   "2025": 20,
-   "variacion": -33,
+   "2024": 31,
+   "2025": 21,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "PAILLACO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14107,
-   "2024": 32,
-   "2025": 33,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 34,
+   "2025": 34,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PAILLACO"
   },
   {
@@ -288,6 +288,14 @@
    "COMUNA": "PAILLACO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PAILLACO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 14107,
    "anio": 2024,
@@ -448,6 +456,14 @@
    "COMUNA": "PAILLACO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "PAILLACO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 14107,
    "anio": 2024,
@@ -840,6 +856,14 @@
    "COMUNA": "PAILLACO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PAILLACO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14107,
    "anio": 2024,
@@ -981,6 +1005,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "PAILLACO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 14107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PAILLACO"
   },
   {
@@ -1045,16 +1077,16 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "HURTOS",
-   "2024": 85,
-   "2025": 46,
+   "2024": 87,
+   "2025": 47,
    "COMUNA": "PAILLACO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "LESIONES",
-   "2024": 52,
-   "2025": 70,
+   "2024": 53,
+   "2025": 74,
    "COMUNA": "PAILLACO"
   },
   {
@@ -1093,7 +1125,7 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "PAILLACO"
   },
@@ -1101,16 +1133,16 @@
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 30,
-   "2025": 20,
+   "2024": 31,
+   "2025": 21,
    "COMUNA": "PAILLACO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 32,
-   "2025": 33,
+   "2024": 34,
+   "2025": 34,
    "COMUNA": "PAILLACO"
   },
   {
@@ -1157,8 +1189,8 @@
    "informacion": "Detenciones",
    "CODCOM": 14107,
    "delito": "LESIONES",
-   "2024": 12,
-   "2025": 29,
+   "2024": 13,
+   "2025": 33,
    "COMUNA": "PAILLACO"
   },
   {
@@ -1237,8 +1269,8 @@
    "informacion": "Detenidos",
    "CODCOM": 14107,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 57,
+   "2024": 27,
+   "2025": 63,
    "COMUNA": "PAILLACO"
   },
   {
@@ -1299,7 +1331,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Ríos"
  }
 }

@@ -21,10 +21,19 @@
   {
    "delito": "LESIONES",
    "CODCOM": 4302,
-   "2024": 24,
-   "2025": 31,
-   "variacion": 29,
+   "2024": 26,
+   "2025": 33,
+   "variacion": 27,
    "situación": "Aumento de Casos",
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4302,
+   "2024": 1,
+   "2025": 0,
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -58,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4302,
    "2024": 9,
-   "2025": 15,
-   "variacion": 67,
+   "2025": 16,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "COMBARBALÁ"
   },
@@ -374,6 +383,14 @@
    "COMUNA": "COMBARBALÁ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4302,
    "anio": 2024,
@@ -550,6 +567,14 @@
    "COMUNA": "COMBARBALÁ"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4302,
    "anio": 2024,
@@ -699,8 +724,16 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 31,
+   "2024": 26,
+   "2025": 33,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 4302,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -732,7 +765,7 @@
    "CODCOM": 4302,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -779,8 +812,8 @@
    "informacion": "Detenciones",
    "CODCOM": 4302,
    "delito": "LESIONES",
-   "2024": 3,
-   "2025": 10,
+   "2024": 4,
+   "2025": 11,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -811,8 +844,8 @@
    "informacion": "Detenidos",
    "CODCOM": 4302,
    "delito": "LESIONES",
-   "2024": 5,
-   "2025": 20,
+   "2024": 7,
+   "2025": 22,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -833,7 +866,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

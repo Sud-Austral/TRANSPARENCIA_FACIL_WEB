@@ -3,44 +3,44 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3102,
-   "2024": 75,
-   "2025": 63,
-   "variacion": -16,
+   "2024": 77,
+   "2025": 64,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3102,
-   "2024": 99,
-   "2025": 95,
-   "variacion": -4,
+   "2024": 108,
+   "2025": 100,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3102,
-   "2024": 2,
+   "2024": 3,
    "2025": 13,
-   "variacion": 550,
+   "variacion": 333,
    "situación": "Aumento de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3102,
-   "2024": 27,
+   "2024": 28,
    "2025": 12,
-   "variacion": -56,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3102,
-   "2024": 16,
-   "2025": 15,
+   "2024": 18,
+   "2025": 17,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
@@ -49,35 +49,35 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 3102,
    "2024": 40,
-   "2025": 42,
-   "variacion": 5,
+   "2025": 43,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 3102,
-   "2024": 9,
+   "2024": 10,
    "2025": 9,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -10,
+   "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3102,
-   "2024": 74,
-   "2025": 51,
-   "variacion": -31,
+   "2024": 78,
+   "2025": 53,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3102,
-   "2024": 62,
-   "2025": 36,
-   "variacion": -42,
+   "2024": 63,
+   "2025": 38,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
@@ -262,6 +262,14 @@
    "COMUNA": "CALDERA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CALDERA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 3102,
    "anio": 2024,
@@ -419,6 +427,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "CALDERA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "CALDERA"
   },
   {
@@ -790,6 +806,14 @@
    "COMUNA": "CALDERA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CALDERA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 3102,
    "anio": 2024,
@@ -930,6 +954,14 @@
    "CODCOM": 3102,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "CALDERA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "CALDERA"
   },
@@ -1182,6 +1214,14 @@
    "COMUNA": "CALDERA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CALDERA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3102,
    "anio": 2024,
@@ -1342,6 +1382,14 @@
    "COMUNA": "CALDERA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CALDERA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3102,
    "anio": 2024,
@@ -1459,23 +1507,23 @@
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "HURTOS",
-   "2024": 75,
-   "2025": 63,
+   "2024": 77,
+   "2025": 64,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "LESIONES",
-   "2024": 99,
-   "2025": 95,
+   "2024": 108,
+   "2025": 100,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 13,
    "COMUNA": "CALDERA"
   },
@@ -1483,7 +1531,7 @@
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 27,
+   "2024": 28,
    "2025": 12,
    "COMUNA": "CALDERA"
   },
@@ -1491,8 +1539,8 @@
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 16,
-   "2025": 15,
+   "2024": 18,
+   "2025": 17,
    "COMUNA": "CALDERA"
   },
   {
@@ -1500,14 +1548,14 @@
    "CODCOM": 3102,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 40,
-   "2025": 42,
+   "2025": 43,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 9,
+   "2024": 10,
    "2025": 9,
    "COMUNA": "CALDERA"
   },
@@ -1515,16 +1563,16 @@
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 74,
-   "2025": 51,
+   "2024": 78,
+   "2025": 53,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 62,
-   "2025": 36,
+   "2024": 63,
+   "2025": 38,
    "COMUNA": "CALDERA"
   },
   {
@@ -1555,8 +1603,8 @@
    "informacion": "Detenciones",
    "CODCOM": 3102,
    "delito": "LESIONES",
-   "2024": 24,
-   "2025": 31,
+   "2024": 25,
+   "2025": 33,
    "COMUNA": "CALDERA"
   },
   {
@@ -1580,7 +1628,7 @@
    "CODCOM": 3102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CALDERA"
   },
   {
@@ -1603,7 +1651,7 @@
    "informacion": "Detenciones",
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 6,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "CALDERA"
   },
@@ -1635,8 +1683,8 @@
    "informacion": "Detenidos",
    "CODCOM": 3102,
    "delito": "LESIONES",
-   "2024": 41,
-   "2025": 51,
+   "2024": 43,
+   "2025": 54,
    "COMUNA": "CALDERA"
   },
   {
@@ -1660,7 +1708,7 @@
    "CODCOM": 3102,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "CALDERA"
   },
   {
@@ -1683,7 +1731,7 @@
    "informacion": "Detenidos",
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 8,
+   "2024": 11,
    "2025": 10,
    "COMUNA": "CALDERA"
   },
@@ -1705,7 +1753,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Atacama"
  }
 }

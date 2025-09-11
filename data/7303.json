@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 7303,
    "2024": 31,
-   "2025": 27,
-   "variacion": -13,
+   "2025": 28,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "LICANTÉN"
   },
@@ -250,6 +250,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "LICANTÉN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7303,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "LICANTÉN"
   },
   {
@@ -739,7 +747,7 @@
    "CODCOM": 7303,
    "delito": "HURTOS",
    "2024": 31,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "LICANTÉN"
   },
   {
@@ -904,7 +912,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

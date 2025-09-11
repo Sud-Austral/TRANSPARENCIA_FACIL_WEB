@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13113,
-   "2024": 465,
-   "2025": 424,
+   "2024": 481,
+   "2025": 437,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
@@ -21,71 +21,71 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13113,
-   "2024": 127,
-   "2025": 124,
-   "variacion": -2,
+   "2024": 132,
+   "2025": 131,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13113,
-   "2024": 36,
-   "2025": 48,
-   "variacion": 33,
+   "2024": 37,
+   "2025": 49,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13113,
-   "2024": 96,
-   "2025": 86,
-   "variacion": -10,
+   "2024": 98,
+   "2025": 87,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13113,
-   "2024": 45,
+   "2024": 48,
    "2025": 42,
-   "variacion": -7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13113,
-   "2024": 255,
-   "2025": 242,
-   "variacion": -5,
+   "2024": 261,
+   "2025": 252,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13113,
-   "2024": 151,
-   "2025": 158,
-   "variacion": 5,
+   "2024": 156,
+   "2025": 161,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13113,
-   "2024": 132,
-   "2025": 201,
-   "variacion": 52,
+   "2024": 137,
+   "2025": 207,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13113,
-   "2024": 71,
-   "2025": 79,
+   "2024": 72,
+   "2025": 80,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "LA REINA"
@@ -93,28 +93,28 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13113,
-   "2024": 80,
-   "2025": 105,
-   "variacion": 31,
+   "2024": 81,
+   "2025": 109,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13113,
-   "2024": 33,
+   "2024": 34,
    "2025": 12,
-   "variacion": -64,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 13113,
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -25,
+   "situación": "Disminución de Casos",
    "COMUNA": "LA REINA"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13113,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 54,
+   "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 13,
    "COMUNA": "LA REINA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13113,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "LA REINA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "LA REINA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 16,
+   "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "LA REINA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13113,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "LA REINA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13113,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "LA REINA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA REINA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13113,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "LA REINA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13113,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA REINA"
   }
  ],
  "info": [
@@ -2213,39 +2317,39 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "HURTOS",
-   "2024": 465,
-   "2025": 424,
+   "2024": 481,
+   "2025": 437,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "LESIONES",
-   "2024": 127,
-   "2025": 124,
+   "2024": 132,
+   "2025": 131,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 36,
-   "2025": 48,
+   "2024": 37,
+   "2025": 49,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 96,
-   "2025": 86,
+   "2024": 98,
+   "2025": 87,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 45,
+   "2024": 48,
    "2025": 42,
    "COMUNA": "LA REINA"
   },
@@ -2253,47 +2357,47 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 255,
-   "2025": 242,
+   "2024": 261,
+   "2025": 252,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 151,
-   "2025": 158,
+   "2024": 156,
+   "2025": 161,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 132,
-   "2025": 201,
+   "2024": 137,
+   "2025": 207,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 71,
-   "2025": 79,
+   "2024": 72,
+   "2025": 80,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO POR SORPRESA",
-   "2024": 80,
-   "2025": 105,
+   "2024": 81,
+   "2025": 109,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 33,
+   "2024": 34,
    "2025": 12,
    "COMUNA": "LA REINA"
   },
@@ -2301,7 +2405,7 @@
    "informacion": "Casos",
    "CODCOM": 13113,
    "delito": "VIOLACIONES",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "LA REINA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13113,
    "delito": "HURTOS",
-   "2024": 212,
-   "2025": 203,
+   "2024": 215,
+   "2025": 208,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13113,
    "delito": "LESIONES",
-   "2024": 20,
-   "2025": 27,
+   "2024": 21,
+   "2025": 32,
    "COMUNA": "LA REINA"
   },
   {
@@ -2349,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13113,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "LA REINA"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13113,
    "delito": "HURTOS",
-   "2024": 219,
-   "2025": 215,
+   "2024": 223,
+   "2025": 220,
    "COMUNA": "LA REINA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13113,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 38,
+   "2024": 32,
+   "2025": 49,
    "COMUNA": "LA REINA"
   },
   {
@@ -2453,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13113,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 10,
+   "2024": 13,
    "2025": 8,
    "COMUNA": "LA REINA"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

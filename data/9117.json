@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9117,
-   "2024": 32,
+   "2024": 33,
    "2025": 14,
-   "variacion": -56,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9117,
    "2024": 10,
-   "2025": 6,
-   "variacion": -40,
+   "2025": 7,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9117,
    "2024": 24,
-   "2025": 8,
-   "variacion": -67,
+   "2025": 9,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -613,6 +613,14 @@
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9117,
    "anio": 2024,
@@ -717,6 +725,14 @@
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9117,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TEODORO SCHMIDT"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9117,
    "anio": 2025,
@@ -746,7 +762,7 @@
    "informacion": "Casos",
    "CODCOM": 9117,
    "delito": "HURTOS",
-   "2024": 32,
+   "2024": 33,
    "2025": 14,
    "COMUNA": "TEODORO SCHMIDT"
   },
@@ -795,7 +811,7 @@
    "CODCOM": 9117,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 10,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -803,7 +819,7 @@
    "CODCOM": 9117,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 24,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "TEODORO SCHMIDT"
   },
   {
@@ -944,7 +960,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

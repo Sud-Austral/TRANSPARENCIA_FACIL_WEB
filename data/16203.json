@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16203,
-   "2024": 40,
-   "2025": 25,
-   "variacion": -38,
+   "2024": 41,
+   "2025": 29,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "COELEMU"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16203,
-   "2024": 31,
-   "2025": 34,
-   "variacion": 10,
+   "2024": 33,
+   "2025": 35,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "COELEMU"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16203,
    "2024": 1,
-   "2025": 6,
-   "variacion": 500,
+   "2025": 7,
+   "variacion": 600,
    "situación": "Aumento de Casos",
    "COMUNA": "COELEMU"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16203,
-   "2024": 32,
+   "2024": 33,
    "2025": 10,
-   "variacion": -69,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "COELEMU"
   },
@@ -262,6 +262,14 @@
    "COMUNA": "COELEMU"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "COELEMU"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16203,
    "anio": 2024,
@@ -422,6 +430,14 @@
    "COMUNA": "COELEMU"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 16203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COELEMU"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16203,
    "anio": 2024,
@@ -458,6 +474,14 @@
    "CODCOM": 16203,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "COELEMU"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16203,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "COELEMU"
   },
@@ -1011,16 +1035,16 @@
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "HURTOS",
-   "2024": 40,
-   "2025": 25,
+   "2024": 41,
+   "2025": 29,
    "COMUNA": "COELEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 34,
+   "2024": 33,
+   "2025": 35,
    "COMUNA": "COELEMU"
   },
   {
@@ -1028,7 +1052,7 @@
    "CODCOM": 16203,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "COELEMU"
   },
   {
@@ -1067,7 +1091,7 @@
    "informacion": "Casos",
    "CODCOM": 16203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 32,
+   "2024": 33,
    "2025": 10,
    "COMUNA": "COELEMU"
   },
@@ -1201,7 +1225,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

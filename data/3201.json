@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3201,
-   "2024": 41,
+   "2024": 42,
    "2025": 19,
-   "variacion": -54,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "CHAÑARAL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3201,
-   "2024": 73,
-   "2025": 58,
-   "variacion": -21,
+   "2024": 75,
+   "2025": 61,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "CHAÑARAL"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 3201,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
-   "variacion": -82,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "CHAÑARAL"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 3201,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "CHAÑARAL"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3201,
-   "2024": 40,
+   "2024": 42,
    "2025": 6,
-   "variacion": -85,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "CHAÑARAL"
   },
@@ -428,6 +428,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "CHAÑARAL"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 3201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "CHAÑARAL"
   },
   {
@@ -1068,7 +1076,7 @@
    "informacion": "Casos",
    "CODCOM": 3201,
    "delito": "HURTOS",
-   "2024": 41,
+   "2024": 42,
    "2025": 19,
    "COMUNA": "CHAÑARAL"
   },
@@ -1076,8 +1084,8 @@
    "informacion": "Casos",
    "CODCOM": 3201,
    "delito": "LESIONES",
-   "2024": 73,
-   "2025": 58,
+   "2024": 75,
+   "2025": 61,
    "COMUNA": "CHAÑARAL"
   },
   {
@@ -1092,7 +1100,7 @@
    "informacion": "Casos",
    "CODCOM": 3201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
    "COMUNA": "CHAÑARAL"
   },
@@ -1100,7 +1108,7 @@
    "informacion": "Casos",
    "CODCOM": 3201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "CHAÑARAL"
   },
@@ -1132,7 +1140,7 @@
    "informacion": "Casos",
    "CODCOM": 3201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
+   "2024": 42,
    "2025": 6,
    "COMUNA": "CHAÑARAL"
   },
@@ -1306,7 +1314,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Atacama"
  }
 }

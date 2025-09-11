@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 8307,
-   "2024": 26,
-   "2025": 22,
-   "variacion": -15,
+   "2024": 28,
+   "2025": 24,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "NEGRETE"
   },
@@ -39,7 +39,7 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8307,
-   "2024": 5,
+   "2024": 6,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8307,
-   "2024": 15,
+   "2024": 16,
    "2025": 14,
-   "variacion": -7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "NEGRETE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8307,
-   "2024": 35,
-   "2025": 17,
-   "variacion": -51,
+   "2024": 39,
+   "2025": 18,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "NEGRETE"
   },
@@ -403,6 +403,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "NEGRETE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 8307,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "NEGRETE"
   },
   {
@@ -910,6 +918,14 @@
    "COMUNA": "NEGRETE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8307,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "NEGRETE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8307,
    "anio": 2024,
@@ -971,8 +987,8 @@
    "informacion": "Casos",
    "CODCOM": 8307,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 22,
+   "2024": 28,
+   "2025": 24,
    "COMUNA": "NEGRETE"
   },
   {
@@ -995,7 +1011,7 @@
    "informacion": "Casos",
    "CODCOM": 8307,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 5,
+   "2024": 6,
    "2025": 0,
    "COMUNA": "NEGRETE"
   },
@@ -1019,7 +1035,7 @@
    "informacion": "Casos",
    "CODCOM": 8307,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 15,
+   "2024": 16,
    "2025": 14,
    "COMUNA": "NEGRETE"
   },
@@ -1027,8 +1043,8 @@
    "informacion": "Casos",
    "CODCOM": 8307,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 35,
-   "2025": 17,
+   "2024": 39,
+   "2025": 18,
    "COMUNA": "NEGRETE"
   },
   {
@@ -1059,7 +1075,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8307,
    "delito": "LESIONES",
-   "2024": 6,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "NEGRETE"
   },
@@ -1083,7 +1099,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8307,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "NEGRETE"
   },
@@ -1099,7 +1115,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8307,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "NEGRETE"
   },
@@ -1115,7 +1131,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8307,
    "delito": "LESIONES",
-   "2024": 12,
+   "2024": 16,
    "2025": 9,
    "COMUNA": "NEGRETE"
   },
@@ -1139,7 +1155,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8307,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1,
+   "2024": 4,
    "2025": 0,
    "COMUNA": "NEGRETE"
   },
@@ -1155,13 +1171,13 @@
    "informacion": "Detenidos",
    "CODCOM": 8307,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "NEGRETE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

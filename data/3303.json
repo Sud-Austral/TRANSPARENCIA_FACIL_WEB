@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3303,
-   "2024": 21,
+   "2024": 23,
    "2025": 12,
-   "variacion": -43,
+   "variacion": -48,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRINA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3303,
-   "2024": 26,
-   "2025": 20,
-   "variacion": -23,
+   "2024": 27,
+   "2025": 23,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "FREIRINA"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3303,
    "2024": 7,
-   "2025": 15,
-   "variacion": 114,
+   "2025": 16,
+   "variacion": 129,
    "situación": "Aumento de Casos",
    "COMUNA": "FREIRINA"
   },
@@ -382,6 +382,14 @@
    "COMUNA": "FREIRINA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "FREIRINA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3303,
    "anio": 2025,
@@ -598,6 +606,14 @@
    "COMUNA": "FREIRINA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3303,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "FREIRINA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3303,
    "anio": 2024,
@@ -715,7 +731,7 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "HURTOS",
-   "2024": 21,
+   "2024": 23,
    "2025": 12,
    "COMUNA": "FREIRINA"
   },
@@ -723,8 +739,8 @@
    "informacion": "Casos",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 20,
+   "2024": 27,
+   "2025": 23,
    "COMUNA": "FREIRINA"
   },
   {
@@ -772,7 +788,7 @@
    "CODCOM": 3303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "FREIRINA"
   },
   {
@@ -803,8 +819,8 @@
    "informacion": "Detenciones",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 10,
-   "2025": 12,
+   "2024": 11,
+   "2025": 14,
    "COMUNA": "FREIRINA"
   },
   {
@@ -820,7 +836,7 @@
    "CODCOM": 3303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "FREIRINA"
   },
   {
@@ -843,8 +859,8 @@
    "informacion": "Detenidos",
    "CODCOM": 3303,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 17,
+   "2024": 20,
+   "2025": 20,
    "COMUNA": "FREIRINA"
   },
   {
@@ -860,7 +876,7 @@
    "CODCOM": 3303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "FREIRINA"
   },
   {
@@ -881,7 +897,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Atacama"
  }
 }

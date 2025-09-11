@@ -4,26 +4,26 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 13401,
    "2024": 10,
-   "2025": 12,
-   "variacion": 20,
+   "2025": 13,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13401,
-   "2024": 830,
-   "2025": 894,
-   "variacion": 8,
+   "2024": 860,
+   "2025": 922,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13401,
-   "2024": 763,
-   "2025": 808,
-   "variacion": 6,
+   "2024": 791,
+   "2025": 828,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
@@ -31,34 +31,34 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13401,
    "2024": 22,
-   "2025": 41,
-   "variacion": 86,
+   "2025": 44,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13401,
-   "2024": 889,
-   "2025": 668,
-   "variacion": -25,
+   "2024": 915,
+   "2025": 679,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13401,
-   "2024": 334,
-   "2025": 300,
-   "variacion": -10,
+   "2024": 337,
+   "2025": 307,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13401,
-   "2024": 739,
-   "2025": 810,
+   "2024": 758,
+   "2025": 834,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
@@ -66,8 +66,8 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13401,
-   "2024": 430,
-   "2025": 532,
+   "2024": 442,
+   "2025": 547,
    "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
@@ -75,17 +75,17 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13401,
-   "2024": 181,
-   "2025": 253,
-   "variacion": 40,
+   "2024": 183,
+   "2025": 258,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13401,
-   "2024": 256,
-   "2025": 282,
+   "2024": 260,
+   "2025": 287,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
@@ -93,17 +93,17 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13401,
-   "2024": 294,
-   "2025": 313,
-   "variacion": 6,
+   "2024": 303,
+   "2025": 319,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN BERNARDO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13401,
-   "2024": 489,
-   "2025": 298,
+   "2024": 500,
+   "2025": 304,
    "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN BERNARDO"
@@ -280,6 +280,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13401,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 134,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 28,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 20,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13401,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13401,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 24,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 24,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13401,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 71,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13401,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 37,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN BERNARDO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13401,
    "anio": 2024,
@@ -2037,6 +2125,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 29,
+   "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 3,
    "COMUNA": "SAN BERNARDO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13401,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN BERNARDO"
   }
  ],
  "info": [
@@ -2206,23 +2310,23 @@
    "CODCOM": 13401,
    "delito": "HOMICIDIOS",
    "2024": 10,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "HURTOS",
-   "2024": 830,
-   "2025": 894,
+   "2024": 860,
+   "2025": 922,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "LESIONES",
-   "2024": 763,
-   "2025": 808,
+   "2024": 791,
+   "2025": 828,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -2230,71 +2334,71 @@
    "CODCOM": 13401,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 22,
-   "2025": 41,
+   "2025": 44,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 889,
-   "2025": 668,
+   "2024": 915,
+   "2025": 679,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 334,
-   "2025": 300,
+   "2024": 337,
+   "2025": 307,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 739,
-   "2025": 810,
+   "2024": 758,
+   "2025": 834,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 430,
-   "2025": 532,
+   "2024": 442,
+   "2025": 547,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 181,
-   "2025": 253,
+   "2024": 183,
+   "2025": 258,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 256,
-   "2025": 282,
+   "2024": 260,
+   "2025": 287,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO POR SORPRESA",
-   "2024": 294,
-   "2025": 313,
+   "2024": 303,
+   "2025": 319,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13401,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 489,
-   "2025": 298,
+   "2024": 500,
+   "2025": 304,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13401,
    "delito": "HURTOS",
-   "2024": 371,
-   "2025": 381,
+   "2024": 383,
+   "2025": 393,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13401,
    "delito": "LESIONES",
-   "2024": 125,
-   "2025": 160,
+   "2024": 129,
+   "2025": 166,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 19,
+   "2024": 20,
    "2025": 24,
    "COMUNA": "SAN BERNARDO"
   },
@@ -2397,7 +2501,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13401,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 8,
+   "2024": 9,
    "2025": 8,
    "COMUNA": "SAN BERNARDO"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13401,
    "delito": "HURTOS",
-   "2024": 382,
-   "2025": 405,
+   "2024": 394,
+   "2025": 417,
    "COMUNA": "SAN BERNARDO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13401,
    "delito": "LESIONES",
-   "2024": 214,
-   "2025": 269,
+   "2024": 219,
+   "2025": 277,
    "COMUNA": "SAN BERNARDO"
   },
   {
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13401,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 38,
+   "2024": 39,
    "2025": 35,
    "COMUNA": "SAN BERNARDO"
   },
@@ -2501,7 +2605,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13401,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 12,
+   "2024": 14,
    "2025": 15,
    "COMUNA": "SAN BERNARDO"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

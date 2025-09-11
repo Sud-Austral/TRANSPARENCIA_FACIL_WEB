@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8110,
-   "2024": 678,
-   "2025": 632,
-   "variacion": -7,
+   "2024": 697,
+   "2025": 654,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8110,
-   "2024": 376,
-   "2025": 259,
+   "2024": 381,
+   "2025": 264,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
@@ -30,18 +30,18 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8110,
-   "2024": 31,
+   "2024": 32,
    "2025": 44,
-   "variacion": 42,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8110,
-   "2024": 138,
-   "2025": 118,
-   "variacion": -14,
+   "2024": 144,
+   "2025": 122,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
@@ -57,45 +57,45 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8110,
-   "2024": 268,
-   "2025": 207,
-   "variacion": -23,
+   "2024": 279,
+   "2025": 213,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8110,
-   "2024": 135,
-   "2025": 121,
-   "variacion": -10,
+   "2024": 141,
+   "2025": 123,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8110,
-   "2024": 219,
-   "2025": 155,
-   "variacion": -29,
+   "2024": 221,
+   "2025": 162,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8110,
-   "2024": 232,
-   "2025": 264,
-   "variacion": 14,
+   "2024": 234,
+   "2025": 271,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "TALCAHUANO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8110,
-   "2024": 68,
+   "2024": 69,
    "2025": 46,
-   "variacion": -32,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "TALCAHUANO"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 8110,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 101,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 22,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8110,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8110,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 9,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8110,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8110,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 37,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8110,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "TALCAHUANO"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 8110,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 8110,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "TALCAHUANO"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 8110,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "TALCAHUANO"
   }
@@ -2213,23 +2317,23 @@
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "HURTOS",
-   "2024": 678,
-   "2025": 632,
+   "2024": 697,
+   "2025": 654,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "LESIONES",
-   "2024": 376,
-   "2025": 259,
+   "2024": 381,
+   "2025": 264,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 31,
+   "2024": 32,
    "2025": 44,
    "COMUNA": "TALCAHUANO"
   },
@@ -2237,8 +2341,8 @@
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 138,
-   "2025": 118,
+   "2024": 144,
+   "2025": 122,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -2253,39 +2357,39 @@
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 268,
-   "2025": 207,
+   "2024": 279,
+   "2025": 213,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 135,
-   "2025": 121,
+   "2024": 141,
+   "2025": 123,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 219,
-   "2025": 155,
+   "2024": 221,
+   "2025": 162,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 232,
-   "2025": 264,
+   "2024": 234,
+   "2025": 271,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8110,
    "delito": "ROBO POR SORPRESA",
-   "2024": 68,
+   "2024": 69,
    "2025": 46,
    "COMUNA": "TALCAHUANO"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 8110,
    "delito": "HURTOS",
-   "2024": 340,
-   "2025": 381,
+   "2024": 346,
+   "2025": 396,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 8110,
    "delito": "LESIONES",
-   "2024": 104,
-   "2025": 64,
+   "2024": 105,
+   "2025": 66,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8110,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "TALCAHUANO"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 8110,
    "delito": "HURTOS",
-   "2024": 369,
-   "2025": 408,
+   "2024": 375,
+   "2025": 425,
    "COMUNA": "TALCAHUANO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 8110,
    "delito": "LESIONES",
-   "2024": 184,
-   "2025": 140,
+   "2024": 188,
+   "2025": 143,
    "COMUNA": "TALCAHUANO"
   },
   {
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8110,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "TALCAHUANO"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

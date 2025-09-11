@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16201,
-   "2024": 28,
-   "2025": 20,
+   "2024": 31,
+   "2025": 22,
    "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "QUIRIHUE"
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 16201,
    "2024": 39,
-   "2025": 42,
-   "variacion": 8,
+   "2025": 45,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "QUIRIHUE"
   },
@@ -245,6 +245,14 @@
    "COMUNA": "QUIRIHUE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "QUIRIHUE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 16201,
    "anio": 2024,
@@ -402,6 +410,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "QUIRIHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -690,8 +706,8 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "HURTOS",
-   "2024": 28,
-   "2025": 20,
+   "2024": 31,
+   "2025": 22,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -699,7 +715,7 @@
    "CODCOM": 16201,
    "delito": "LESIONES",
    "2024": 39,
-   "2025": 42,
+   "2025": 45,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -779,7 +795,7 @@
    "CODCOM": 16201,
    "delito": "LESIONES",
    "2024": 11,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -819,7 +835,7 @@
    "CODCOM": 16201,
    "delito": "LESIONES",
    "2024": 18,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "QUIRIHUE"
   },
   {
@@ -840,7 +856,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Ñuble"
  }
 }

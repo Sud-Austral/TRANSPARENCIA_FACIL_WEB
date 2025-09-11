@@ -12,53 +12,53 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13123,
-   "2024": 1905,
-   "2025": 2371,
-   "variacion": 24,
+   "2024": 1955,
+   "2025": 2447,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13123,
-   "2024": 232,
-   "2025": 200,
-   "variacion": -14,
+   "2024": 239,
+   "2025": 210,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13123,
-   "2024": 129,
-   "2025": 141,
-   "variacion": 9,
+   "2024": 132,
+   "2025": 147,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13123,
-   "2024": 344,
-   "2025": 347,
-   "variacion": 1,
+   "2024": 356,
+   "2025": 362,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13123,
-   "2024": 219,
-   "2025": 197,
-   "variacion": -10,
+   "2024": 224,
+   "2025": 200,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13123,
-   "2024": 642,
-   "2025": 554,
+   "2024": 661,
+   "2025": 568,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "PROVIDENCIA"
@@ -66,36 +66,36 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13123,
-   "2024": 111,
-   "2025": 161,
-   "variacion": 45,
+   "2024": 116,
+   "2025": 164,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13123,
-   "2024": 50,
-   "2025": 67,
-   "variacion": 34,
+   "2024": 51,
+   "2025": 70,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13123,
-   "2024": 184,
-   "2025": 200,
-   "variacion": 9,
+   "2024": 187,
+   "2025": 206,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13123,
-   "2024": 718,
-   "2025": 790,
-   "variacion": 10,
+   "2024": 734,
+   "2025": 817,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PROVIDENCIA"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13123,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 349,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 76,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13123,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 17,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13123,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 20,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 14,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13123,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13123,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13123,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 93,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 27,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "PROVIDENCIA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13123,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13123,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PROVIDENCIA"
   }
  ],
  "info": [
@@ -2213,80 +2317,80 @@
    "informacion": "Casos",
    "CODCOM": 13123,
    "delito": "HURTOS",
-   "2024": 1905,
-   "2025": 2371,
+   "2024": 1955,
+   "2025": 2447,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13123,
    "delito": "LESIONES",
-   "2024": 232,
-   "2025": 200,
+   "2024": 239,
+   "2025": 210,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13123,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 129,
-   "2025": 141,
+   "2024": 132,
+   "2025": 147,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13123,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 344,
-   "2025": 347,
+   "2024": 356,
+   "2025": 362,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13123,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 219,
-   "2025": 197,
-   "COMUNA": "PROVIDENCIA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13123,
-   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 642,
-   "2025": 554,
-   "COMUNA": "PROVIDENCIA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13123,
-   "delito": "ROBO DE VEHÍCULO",
-   "2024": 111,
-   "2025": 161,
-   "COMUNA": "PROVIDENCIA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13123,
-   "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 50,
-   "2025": 67,
-   "COMUNA": "PROVIDENCIA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13123,
-   "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 184,
+   "2024": 224,
    "2025": 200,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13123,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 661,
+   "2025": 568,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13123,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 116,
+   "2025": 164,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13123,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 51,
+   "2025": 70,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13123,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 187,
+   "2025": 206,
+   "COMUNA": "PROVIDENCIA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13123,
    "delito": "ROBO POR SORPRESA",
-   "2024": 718,
-   "2025": 790,
+   "2024": 734,
+   "2025": 817,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13123,
    "delito": "HURTOS",
-   "2024": 379,
-   "2025": 475,
+   "2024": 382,
+   "2025": 489,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13123,
    "delito": "LESIONES",
-   "2024": 73,
-   "2025": 57,
+   "2024": 75,
+   "2025": 62,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2334,15 +2438,15 @@
    "CODCOM": 13123,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 38,
-   "2025": 25,
+   "2025": 27,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13123,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 25,
-   "2025": 17,
+   "2024": 26,
+   "2025": 18,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 13123,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 17,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2358,7 +2462,7 @@
    "CODCOM": 13123,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 7,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2374,7 +2478,7 @@
    "CODCOM": 13123,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2389,8 +2493,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13123,
    "delito": "ROBO POR SORPRESA",
-   "2024": 37,
-   "2025": 43,
+   "2024": 40,
+   "2025": 44,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13123,
    "delito": "HURTOS",
-   "2024": 407,
-   "2025": 518,
+   "2024": 410,
+   "2025": 535,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13123,
    "delito": "LESIONES",
-   "2024": 116,
-   "2025": 88,
+   "2024": 119,
+   "2025": 96,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2438,15 +2542,15 @@
    "CODCOM": 13123,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 47,
-   "2025": 33,
+   "2025": 35,
    "COMUNA": "PROVIDENCIA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13123,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 44,
-   "2025": 32,
+   "2024": 46,
+   "2025": 33,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2454,7 +2558,7 @@
    "CODCOM": 13123,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 34,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2462,7 +2566,7 @@
    "CODCOM": 13123,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 7,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2478,7 +2582,7 @@
    "CODCOM": 13123,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 3,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2493,8 +2597,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13123,
    "delito": "ROBO POR SORPRESA",
-   "2024": 49,
-   "2025": 49,
+   "2024": 52,
+   "2025": 51,
    "COMUNA": "PROVIDENCIA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

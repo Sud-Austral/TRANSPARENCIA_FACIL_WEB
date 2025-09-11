@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12301,
-   "2024": 17,
+   "2024": 18,
    "2025": 13,
-   "variacion": -24,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "PORVENIR"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 12301,
-   "2024": 33,
-   "2025": 35,
+   "2024": 36,
+   "2025": 38,
    "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "PORVENIR"
@@ -57,16 +57,16 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 12301,
-   "2024": 11,
+   "2024": 12,
    "2025": 12,
-   "variacion": 9,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PORVENIR"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 12301,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -360,6 +360,14 @@
    "CODCOM": 12301,
    "anio": 2025,
    "mes": 8,
+   "casos": 3,
+   "COMUNA": "PORVENIR"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 12301,
+   "anio": 2025,
+   "mes": 9,
    "casos": 3,
    "COMUNA": "PORVENIR"
   },
@@ -665,7 +673,7 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 18,
    "2025": 13,
    "COMUNA": "PORVENIR"
   },
@@ -673,8 +681,8 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 35,
+   "2024": 36,
+   "2025": 38,
    "COMUNA": "PORVENIR"
   },
   {
@@ -705,7 +713,7 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 12,
    "COMUNA": "PORVENIR"
   },
@@ -713,7 +721,7 @@
    "informacion": "Casos",
    "CODCOM": 12301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "PORVENIR"
   },
@@ -745,8 +753,8 @@
    "informacion": "Detenciones",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 12,
-   "2025": 15,
+   "2024": 14,
+   "2025": 16,
    "COMUNA": "PORVENIR"
   },
   {
@@ -793,8 +801,8 @@
    "informacion": "Detenidos",
    "CODCOM": 12301,
    "delito": "LESIONES",
-   "2024": 16,
-   "2025": 22,
+   "2024": 27,
+   "2025": 24,
    "COMUNA": "PORVENIR"
   },
   {
@@ -823,7 +831,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Magallanes"
  }
 }

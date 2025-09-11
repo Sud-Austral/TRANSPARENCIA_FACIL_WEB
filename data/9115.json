@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9115,
-   "2024": 292,
-   "2025": 222,
-   "variacion": -24,
+   "2024": 302,
+   "2025": 228,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCON"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9115,
-   "2024": 121,
-   "2025": 113,
-   "variacion": -7,
+   "2024": 125,
+   "2025": 115,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCON"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9115,
    "2024": 9,
-   "2025": 2,
-   "variacion": -78,
+   "2025": 4,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCON"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9115,
-   "2024": 8,
+   "2024": 9,
    "2025": 11,
-   "variacion": 38,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "PUCON"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9115,
-   "2024": 80,
-   "2025": 64,
-   "variacion": -20,
+   "2024": 83,
+   "2025": 70,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "PUCON"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9115,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 20,
+   "COMUNA": "PUCON"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "PUCON"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9115,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9115,
    "anio": 2024,
@@ -920,6 +952,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PUCON"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PUCON"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1396,6 +1452,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "PUCON"
   },
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "PUCON"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "PUCON"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9115,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "PUCON"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9115,
    "anio": 2024,
@@ -2036,6 +2124,14 @@
    "CODCOM": 9115,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "PUCON"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "PUCON"
   },
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "PUCON"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9115,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PUCON"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "HURTOS",
-   "2024": 292,
-   "2025": 222,
+   "2024": 302,
+   "2025": 228,
    "COMUNA": "PUCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "LESIONES",
-   "2024": 121,
-   "2025": 113,
+   "2024": 125,
+   "2025": 115,
    "COMUNA": "PUCON"
   },
   {
@@ -2238,14 +2342,14 @@
    "CODCOM": 9115,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 9,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "PUCON"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 8,
+   "2024": 9,
    "2025": 11,
    "COMUNA": "PUCON"
   },
@@ -2269,8 +2373,8 @@
    "informacion": "Casos",
    "CODCOM": 9115,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 80,
-   "2025": 64,
+   "2024": 83,
+   "2025": 70,
    "COMUNA": "PUCON"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 9115,
    "delito": "HURTOS",
-   "2024": 127,
-   "2025": 110,
+   "2024": 133,
+   "2025": 113,
    "COMUNA": "PUCON"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9115,
    "delito": "LESIONES",
-   "2024": 51,
+   "2024": 52,
    "2025": 53,
    "COMUNA": "PUCON"
   },
@@ -2342,7 +2446,7 @@
    "CODCOM": 9115,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "PUCON"
   },
   {
@@ -2421,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 9115,
    "delito": "HURTOS",
-   "2024": 137,
-   "2025": 121,
+   "2024": 143,
+   "2025": 125,
    "COMUNA": "PUCON"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9115,
    "delito": "LESIONES",
-   "2024": 81,
+   "2024": 82,
    "2025": 88,
    "COMUNA": "PUCON"
   },
@@ -2446,7 +2550,7 @@
    "CODCOM": 9115,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PUCON"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

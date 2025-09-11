@@ -3,17 +3,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7203,
-   "2024": 22,
-   "2025": 21,
-   "variacion": -5,
+   "2024": 25,
+   "2025": 23,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "PELLUHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7203,
-   "2024": 49,
-   "2025": 38,
+   "2024": 50,
+   "2025": 39,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "PELLUHUE"
@@ -67,27 +67,27 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7203,
    "2024": 16,
-   "2025": 15,
-   "variacion": -6,
-   "situación": "Disminución de Casos",
+   "2025": 16,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PELLUHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7203,
-   "2024": 15,
+   "2024": 16,
    "2025": 12,
-   "variacion": -20,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "PELLUHUE"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 7203,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "PELLUHUE"
   }
  ],
@@ -229,6 +229,14 @@
    "COMUNA": "PELLUHUE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 7203,
    "anio": 2024,
@@ -386,6 +394,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PELLUHUE"
   },
   {
@@ -642,6 +658,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PELLUHUE"
   },
   {
@@ -818,16 +842,16 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "HURTOS",
-   "2024": 22,
-   "2025": 21,
+   "2024": 25,
+   "2025": 23,
    "COMUNA": "PELLUHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "LESIONES",
-   "2024": 49,
-   "2025": 38,
+   "2024": 50,
+   "2025": 39,
    "COMUNA": "PELLUHUE"
   },
   {
@@ -875,14 +899,14 @@
    "CODCOM": 7203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 16,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "PELLUHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 15,
+   "2024": 16,
    "2025": 12,
    "COMUNA": "PELLUHUE"
   },
@@ -890,60 +914,12 @@
    "informacion": "Casos",
    "CODCOM": 7203,
    "delito": "VIOLACIONES",
-   "2024": 1,
-   "2025": 1,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "HURTOS",
-   "2024": 1,
-   "2025": 3,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "LESIONES",
-   "2024": 16,
-   "2025": 14,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
-   "2025": 0,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 0,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 0,
    "2025": 1,
    "COMUNA": "PELLUHUE"
   },
   {
    "informacion": "Detenciones",
-   "CODCOM": 7203,
-   "delito": "VIOLACIONES",
-   "2024": 0,
-   "2025": 1,
-   "COMUNA": "PELLUHUE"
-  },
-  {
-   "informacion": "Detenidos",
    "CODCOM": 7203,
    "delito": "HURTOS",
    "2024": 1,
@@ -951,11 +927,59 @@
    "COMUNA": "PELLUHUE"
   },
   {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "LESIONES",
+   "2024": 16,
+   "2025": 15,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7203,
+   "delito": "VIOLACIONES",
+   "2024": 1,
+   "2025": 1,
+   "COMUNA": "PELLUHUE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7203,
+   "delito": "HURTOS",
+   "2024": 1,
+   "2025": 5,
+   "COMUNA": "PELLUHUE"
+  },
+  {
    "informacion": "Detenidos",
    "CODCOM": 7203,
    "delito": "LESIONES",
    "2024": 23,
-   "2025": 20,
+   "2025": 22,
    "COMUNA": "PELLUHUE"
   },
   {
@@ -986,13 +1010,13 @@
    "informacion": "Detenidos",
    "CODCOM": 7203,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "PELLUHUE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

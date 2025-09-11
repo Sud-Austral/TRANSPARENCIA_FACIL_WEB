@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10107,
    "2024": 43,
-   "2025": 74,
-   "variacion": 72,
+   "2025": 80,
+   "variacion": 86,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
@@ -57,27 +57,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 10107,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "LLANQUIHUE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10107,
-   "2024": 11,
-   "2025": 16,
-   "variacion": 45,
+   "2024": 12,
+   "2025": 17,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10107,
-   "2024": 19,
+   "2024": 20,
    "2025": 33,
-   "variacion": 74,
+   "variacion": 65,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
@@ -422,6 +422,14 @@
    "COMUNA": "LLANQUIHUE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "LLANQUIHUE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10107,
    "anio": 2025,
@@ -858,6 +866,14 @@
    "CODCOM": 10107,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "LLANQUIHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 10107,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "LLANQUIHUE"
   },
@@ -1108,7 +1124,7 @@
    "CODCOM": 10107,
    "delito": "LESIONES",
    "2024": 43,
-   "2025": 74,
+   "2025": 80,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1147,7 +1163,7 @@
    "informacion": "Casos",
    "CODCOM": 10107,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "LLANQUIHUE"
   },
@@ -1155,15 +1171,15 @@
    "informacion": "Casos",
    "CODCOM": 10107,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 11,
-   "2025": 16,
+   "2024": 12,
+   "2025": 17,
    "COMUNA": "LLANQUIHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10107,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
+   "2024": 20,
    "2025": 33,
    "COMUNA": "LLANQUIHUE"
   },
@@ -1196,7 +1212,7 @@
    "CODCOM": 10107,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1260,7 +1276,7 @@
    "CODCOM": 10107,
    "delito": "LESIONES",
    "2024": 23,
-   "2025": 28,
+   "2025": 30,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1313,7 +1329,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

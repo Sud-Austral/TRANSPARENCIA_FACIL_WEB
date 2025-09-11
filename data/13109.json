@@ -3,26 +3,26 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13109,
-   "2024": 3,
+   "2024": 4,
    "2025": 8,
-   "variacion": 167,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13109,
-   "2024": 316,
-   "2025": 256,
-   "variacion": -19,
+   "2024": 329,
+   "2025": 272,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13109,
-   "2024": 290,
-   "2025": 274,
+   "2024": 301,
+   "2025": 282,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
@@ -30,80 +30,80 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13109,
-   "2024": 17,
-   "2025": 103,
-   "variacion": 506,
+   "2024": 18,
+   "2025": 107,
+   "variacion": 494,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13109,
-   "2024": 446,
-   "2025": 424,
-   "variacion": -5,
+   "2024": 461,
+   "2025": 434,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13109,
-   "2024": 170,
-   "2025": 159,
-   "variacion": -6,
+   "2024": 172,
+   "2025": 160,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13109,
-   "2024": 330,
-   "2025": 301,
-   "variacion": -9,
+   "2024": 350,
+   "2025": 311,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13109,
-   "2024": 218,
-   "2025": 326,
-   "variacion": 50,
+   "2024": 226,
+   "2025": 329,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13109,
-   "2024": 93,
-   "2025": 107,
-   "variacion": 15,
+   "2024": 101,
+   "2025": 109,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13109,
-   "2024": 96,
-   "2025": 106,
-   "variacion": 10,
+   "2024": 98,
+   "2025": 107,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13109,
-   "2024": 339,
-   "2025": 298,
-   "variacion": -12,
+   "2024": 350,
+   "2025": 302,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13109,
-   "2024": 165,
-   "2025": 99,
+   "2024": 168,
+   "2025": 100,
    "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CISTERNA"
@@ -280,6 +280,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13109,
    "anio": 2024,
@@ -440,6 +448,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 16,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 13109,
    "anio": 2024,
@@ -597,6 +613,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 27,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -760,6 +784,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13109,
    "anio": 2024,
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 37,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -1080,6 +1120,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13109,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 41,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13109,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 13,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13109,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 32,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "LA CISTERNA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13109,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "LA CISTERNA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA CISTERNA"
   }
  ],
  "info": [
@@ -2205,7 +2309,7 @@
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "HOMICIDIOS",
-   "2024": 3,
+   "2024": 4,
    "2025": 8,
    "COMUNA": "LA CISTERNA"
   },
@@ -2213,88 +2317,88 @@
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "HURTOS",
-   "2024": 316,
-   "2025": 256,
+   "2024": 329,
+   "2025": 272,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "LESIONES",
-   "2024": 290,
-   "2025": 274,
+   "2024": 301,
+   "2025": 282,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 17,
-   "2025": 103,
-   "COMUNA": "LA CISTERNA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13109,
-   "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 446,
-   "2025": 424,
-   "COMUNA": "LA CISTERNA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13109,
-   "delito": "ROBO CON VIOLENCIA",
-   "2024": 170,
-   "2025": 159,
-   "COMUNA": "LA CISTERNA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13109,
-   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 330,
-   "2025": 301,
-   "COMUNA": "LA CISTERNA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13109,
-   "delito": "ROBO DE VEHÍCULO",
-   "2024": 218,
-   "2025": 326,
-   "COMUNA": "LA CISTERNA"
-  },
-  {
-   "informacion": "Casos",
-   "CODCOM": 13109,
-   "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 93,
+   "2024": 18,
    "2025": 107,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13109,
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "2024": 461,
+   "2025": 434,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13109,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 172,
+   "2025": 160,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13109,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 350,
+   "2025": 311,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13109,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 226,
+   "2025": 329,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13109,
+   "delito": "ROBO EN LUGAR HABITADO",
+   "2024": 101,
+   "2025": 109,
+   "COMUNA": "LA CISTERNA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 13109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 96,
-   "2025": 106,
+   "2024": 98,
+   "2025": 107,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "ROBO POR SORPRESA",
-   "2024": 339,
-   "2025": 298,
+   "2024": 350,
+   "2025": 302,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13109,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 165,
-   "2025": 99,
+   "2024": 168,
+   "2025": 100,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2309,7 +2413,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13109,
    "delito": "HOMICIDIOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "LA CISTERNA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13109,
    "delito": "HURTOS",
-   "2024": 44,
-   "2025": 28,
+   "2024": 48,
+   "2025": 29,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13109,
    "delito": "LESIONES",
-   "2024": 72,
-   "2025": 57,
+   "2024": 73,
+   "2025": 60,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2342,7 +2446,7 @@
    "CODCOM": 13109,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 13,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2381,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 5,
+   "2024": 6,
    "2025": 9,
    "COMUNA": "LA CISTERNA"
   },
@@ -2390,7 +2494,7 @@
    "CODCOM": 13109,
    "delito": "ROBO POR SORPRESA",
    "2024": 10,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2413,7 +2517,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13109,
    "delito": "HOMICIDIOS",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "LA CISTERNA"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13109,
    "delito": "HURTOS",
-   "2024": 55,
-   "2025": 29,
+   "2024": 61,
+   "2025": 30,
    "COMUNA": "LA CISTERNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13109,
    "delito": "LESIONES",
-   "2024": 120,
-   "2025": 79,
+   "2024": 121,
+   "2025": 84,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2446,7 +2550,7 @@
    "CODCOM": 13109,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 16,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2485,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 6,
+   "2024": 7,
    "2025": 18,
    "COMUNA": "LA CISTERNA"
   },
@@ -2494,7 +2598,7 @@
    "CODCOM": 13109,
    "delito": "ROBO POR SORPRESA",
    "2024": 12,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "LA CISTERNA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 1404,
-   "2024": 28,
+   "2024": 29,
    "2025": 12,
-   "variacion": -57,
+   "variacion": -59,
    "situación": "Disminución de Casos",
    "COMUNA": "HUARA"
   },
@@ -30,7 +30,7 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 1404,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -58,9 +58,9 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 1404,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "HUARA"
   },
   {
@@ -454,6 +454,14 @@
    "COMUNA": "HUARA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUARA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1404,
    "anio": 2024,
@@ -619,7 +627,7 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "LESIONES",
-   "2024": 28,
+   "2024": 29,
    "2025": 12,
    "COMUNA": "HUARA"
   },
@@ -635,7 +643,7 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "HUARA"
   },
@@ -660,7 +668,7 @@
    "CODCOM": 1404,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "HUARA"
   },
   {
@@ -761,7 +769,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Tarapacá"
  }
 }

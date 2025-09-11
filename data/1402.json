@@ -40,8 +40,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 1402,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "CAMIÑA"
   },
@@ -177,6 +177,14 @@
    "COMUNA": "CAMIÑA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 1402,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CAMIÑA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1402,
    "anio": 2024,
@@ -239,7 +247,7 @@
    "CODCOM": 1402,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "CAMIÑA"
   },
   {
@@ -284,7 +292,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Tarapacá"
  }
 }

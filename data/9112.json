@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9112,
-   "2024": 168,
-   "2025": 124,
-   "variacion": -26,
+   "2024": 171,
+   "2025": 129,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9112,
-   "2024": 110,
-   "2025": 95,
+   "2024": 113,
+   "2025": 97,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9112,
    "2024": 17,
-   "2025": 12,
-   "variacion": -29,
+   "2025": 13,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9112,
-   "2024": 38,
+   "2024": 39,
    "2025": 30,
-   "variacion": -21,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9112,
-   "2024": 53,
+   "2024": 56,
    "2025": 23,
-   "variacion": -57,
+   "variacion": -59,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9112,
    "2024": 55,
-   "2025": 63,
-   "variacion": 15,
+   "2025": 65,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9112,
-   "2024": 74,
+   "2024": 76,
    "2025": 51,
-   "variacion": -31,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9112,
-   "2024": 6,
+   "2024": 8,
    "2025": 2,
-   "variacion": -67,
+   "variacion": -75,
    "situación": "Disminución de Casos",
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 19,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9112,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -916,6 +948,14 @@
    "CODCOM": 9112,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9112,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9112,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "PADRE LAS CASAS"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2197,6 +2293,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "PADRE LAS CASAS"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PADRE LAS CASAS"
   }
  ],
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "HURTOS",
-   "2024": 168,
-   "2025": 124,
+   "2024": 171,
+   "2025": 129,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "LESIONES",
-   "2024": 110,
-   "2025": 95,
+   "2024": 113,
+   "2025": 97,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -2238,7 +2342,7 @@
    "CODCOM": 9112,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 17,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -2253,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 38,
+   "2024": 39,
    "2025": 30,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2261,7 +2365,7 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 53,
+   "2024": 56,
    "2025": 23,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2270,14 +2374,14 @@
    "CODCOM": 9112,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 55,
-   "2025": 63,
+   "2025": 65,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 74,
+   "2024": 76,
    "2025": 51,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2293,7 +2397,7 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 6,
+   "2024": 8,
    "2025": 2,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2318,15 +2422,15 @@
    "CODCOM": 9112,
    "delito": "HURTOS",
    "2024": 29,
-   "2025": 28,
+   "2025": 31,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9112,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 26,
+   "2024": 35,
+   "2025": 27,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -2397,7 +2501,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9112,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2422,15 +2526,15 @@
    "CODCOM": 9112,
    "delito": "HURTOS",
    "2024": 34,
-   "2025": 31,
+   "2025": 34,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9112,
    "delito": "LESIONES",
-   "2024": 59,
-   "2025": 42,
+   "2024": 64,
+   "2025": 44,
    "COMUNA": "PADRE LAS CASAS"
   },
   {
@@ -2501,7 +2605,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9112,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 6,
    "2025": 0,
    "COMUNA": "PADRE LAS CASAS"
   },
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

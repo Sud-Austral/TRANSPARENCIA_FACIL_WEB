@@ -4,26 +4,26 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 8109,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SANTA JUANA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 8109,
-   "2024": 55,
+   "2024": 57,
    "2025": 26,
-   "variacion": -53,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA JUANA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8109,
-   "2024": 33,
-   "2025": 44,
-   "variacion": 33,
+   "2024": 34,
+   "2025": 46,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8109,
-   "2024": 36,
+   "2024": 38,
    "2025": 40,
-   "variacion": 11,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8109,
    "2024": 31,
-   "2025": 11,
-   "variacion": -65,
+   "2025": 12,
+   "variacion": -61,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -115,6 +115,14 @@
    "CODCOM": 8109,
    "anio": 2024,
    "mes": 2,
+   "casos": 1,
+   "COMUNA": "SANTA JUANA"
+  },
+  {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 8109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "SANTA JUANA"
   },
@@ -439,6 +447,14 @@
    "COMUNA": "SANTA JUANA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SANTA JUANA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8109,
    "anio": 2024,
@@ -991,6 +1007,14 @@
    "COMUNA": "SANTA JUANA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 8109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SANTA JUANA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 8109,
    "anio": 2025,
@@ -1029,14 +1053,14 @@
    "CODCOM": 8109,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SANTA JUANA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "HURTOS",
-   "2024": 55,
+   "2024": 57,
    "2025": 26,
    "COMUNA": "SANTA JUANA"
   },
@@ -1044,8 +1068,8 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 44,
+   "2024": 34,
+   "2025": 46,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1092,7 +1116,7 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 36,
+   "2024": 38,
    "2025": 40,
    "COMUNA": "SANTA JUANA"
   },
@@ -1101,7 +1125,7 @@
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 31,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1132,8 +1156,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8109,
    "delito": "LESIONES",
-   "2024": 10,
-   "2025": 15,
+   "2024": 11,
+   "2025": 17,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1172,8 +1196,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8109,
    "delito": "LESIONES",
-   "2024": 19,
-   "2025": 30,
+   "2024": 23,
+   "2025": 34,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1202,7 +1226,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

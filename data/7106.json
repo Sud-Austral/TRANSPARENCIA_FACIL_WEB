@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 7106,
    "2024": 18,
-   "2025": 16,
-   "variacion": -11,
+   "2025": 17,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "PELARCO"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7106,
-   "2024": 10,
+   "2024": 11,
    "2025": 3,
-   "variacion": -70,
+   "variacion": -73,
    "situación": "Disminución de Casos",
    "COMUNA": "PELARCO"
   },
@@ -242,6 +242,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PELARCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PELARCO"
   },
   {
@@ -715,7 +723,7 @@
    "CODCOM": 7106,
    "delito": "HURTOS",
    "2024": 18,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "PELARCO"
   },
   {
@@ -762,7 +770,7 @@
    "informacion": "Casos",
    "CODCOM": 7106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 3,
    "COMUNA": "PELARCO"
   },
@@ -840,7 +848,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

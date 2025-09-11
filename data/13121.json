@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13121,
-   "2024": 183,
-   "2025": 163,
+   "2024": 189,
+   "2025": 168,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13121,
-   "2024": 200,
-   "2025": 208,
-   "variacion": 4,
+   "2024": 206,
+   "2025": 219,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -31,16 +31,16 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13121,
    "2024": 12,
-   "2025": 11,
-   "variacion": -8,
-   "situación": "Disminución de Casos",
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13121,
-   "2024": 288,
-   "2025": 217,
+   "2024": 296,
+   "2025": 222,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
@@ -48,8 +48,8 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13121,
-   "2024": 117,
-   "2025": 73,
+   "2024": 120,
+   "2025": 75,
    "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
@@ -57,54 +57,54 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13121,
-   "2024": 160,
-   "2025": 182,
-   "variacion": 14,
+   "2024": 165,
+   "2025": 183,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13121,
-   "2024": 85,
-   "2025": 104,
-   "variacion": 22,
+   "2024": 88,
+   "2025": 105,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13121,
-   "2024": 69,
-   "2025": 81,
-   "variacion": 17,
+   "2024": 76,
+   "2025": 84,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13121,
-   "2024": 64,
+   "2024": 66,
    "2025": 62,
-   "variacion": -3,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13121,
-   "2024": 150,
-   "2025": 159,
-   "variacion": 6,
+   "2024": 158,
+   "2025": 164,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13121,
-   "2024": 60,
-   "2025": 52,
-   "variacion": -13,
+   "2024": 62,
+   "2025": 55,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13121,
    "2024": 4,
-   "2025": 5,
-   "variacion": 25,
+   "2025": 6,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "PEDRO AGUIRRE CERDA"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13121,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 9,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 11,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13121,
    "anio": 2024,
@@ -756,6 +780,14 @@
    "CODCOM": 13121,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -920,6 +952,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13121,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13121,
    "anio": 2024,
@@ -1400,6 +1456,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13121,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 8,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13121,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13121,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "PEDRO AGUIRRE CERDA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13121,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PEDRO AGUIRRE CERDA"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "HURTOS",
-   "2024": 183,
-   "2025": 163,
+   "2024": 189,
+   "2025": 168,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "LESIONES",
-   "2024": 200,
-   "2025": 208,
+   "2024": 206,
+   "2025": 219,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2230,54 +2334,54 @@
    "CODCOM": 13121,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 288,
-   "2025": 217,
+   "2024": 296,
+   "2025": 222,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 117,
-   "2025": 73,
+   "2024": 120,
+   "2025": 75,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 160,
-   "2025": 182,
+   "2024": 165,
+   "2025": 183,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 85,
-   "2025": 104,
+   "2024": 88,
+   "2025": 105,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 69,
-   "2025": 81,
+   "2024": 76,
+   "2025": 84,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 64,
+   "2024": 66,
    "2025": 62,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -2285,16 +2389,16 @@
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO POR SORPRESA",
-   "2024": 150,
-   "2025": 159,
+   "2024": 158,
+   "2025": 164,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13121,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 60,
-   "2025": 52,
+   "2024": 62,
+   "2025": 55,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2302,7 +2406,7 @@
    "CODCOM": 13121,
    "delito": "VIOLACIONES",
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2317,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 13121,
    "delito": "HURTOS",
-   "2024": 39,
-   "2025": 28,
+   "2024": 40,
+   "2025": 29,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13121,
    "delito": "LESIONES",
-   "2024": 34,
+   "2024": 36,
    "2025": 37,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -2342,7 +2446,7 @@
    "CODCOM": 13121,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 11,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 13121,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2390,7 +2494,7 @@
    "CODCOM": 13121,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2421,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 13121,
    "delito": "HURTOS",
-   "2024": 44,
-   "2025": 35,
+   "2024": 45,
+   "2025": 36,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13121,
    "delito": "LESIONES",
-   "2024": 64,
+   "2024": 67,
    "2025": 61,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
@@ -2446,7 +2550,7 @@
    "CODCOM": 13121,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 15,
-   "2025": 4,
+   "2025": 6,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2454,7 +2558,7 @@
    "CODCOM": 13121,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2494,7 +2598,7 @@
    "CODCOM": 13121,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "PEDRO AGUIRRE CERDA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

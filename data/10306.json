@@ -22,9 +22,9 @@
    "delito": "LESIONES",
    "CODCOM": 10306,
    "2024": 32,
-   "2025": 30,
-   "variacion": -6,
-   "situación": "Disminución de Casos",
+   "2025": 33,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10306,
-   "2024": 13,
-   "2025": 2,
-   "variacion": -85,
+   "2024": 14,
+   "2025": 3,
+   "variacion": -79,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -390,6 +390,14 @@
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10306,
    "anio": 2024,
@@ -678,6 +686,14 @@
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10306,
    "anio": 2025,
@@ -724,7 +740,7 @@
    "CODCOM": 10306,
    "delito": "LESIONES",
    "2024": 32,
-   "2025": 30,
+   "2025": 33,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -771,8 +787,8 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 13,
-   "2025": 2,
+   "2024": 14,
+   "2025": 3,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -857,7 +873,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

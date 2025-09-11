@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7109,
-   "2024": 84,
-   "2025": 81,
-   "variacion": -4,
+   "2024": 86,
+   "2025": 84,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7109,
-   "2024": 146,
-   "2025": 123,
-   "variacion": -16,
+   "2024": 149,
+   "2025": 124,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7109,
-   "2024": 17,
+   "2024": 18,
    "2025": 10,
-   "variacion": -41,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7109,
    "2024": 22,
-   "2025": 9,
-   "variacion": -59,
+   "2025": 10,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7109,
-   "2024": 65,
-   "2025": 53,
+   "2024": 66,
+   "2025": 54,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7109,
-   "2024": 87,
-   "2025": 46,
-   "variacion": -47,
+   "2024": 88,
+   "2025": 48,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN CLEMENTE"
   },
@@ -280,6 +280,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 11,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7109,
    "anio": 2024,
@@ -756,6 +780,14 @@
    "CODCOM": 7109,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN CLEMENTE"
   },
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7109,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7109,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7109,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "SAN CLEMENTE"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2196,6 +2292,14 @@
    "CODCOM": 7109,
    "anio": 2025,
    "mes": 8,
+   "casos": 0,
+   "COMUNA": "SAN CLEMENTE"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 0,
    "COMUNA": "SAN CLEMENTE"
   }
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "HURTOS",
-   "2024": 84,
-   "2025": 81,
+   "2024": 86,
+   "2025": 84,
    "COMUNA": "SAN CLEMENTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "LESIONES",
-   "2024": 146,
-   "2025": 123,
+   "2024": 149,
+   "2025": 124,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -2237,7 +2341,7 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 17,
+   "2024": 18,
    "2025": 10,
    "COMUNA": "SAN CLEMENTE"
   },
@@ -2254,7 +2358,7 @@
    "CODCOM": 7109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 22,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -2269,16 +2373,16 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 65,
-   "2025": 53,
+   "2024": 66,
+   "2025": 54,
    "COMUNA": "SAN CLEMENTE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 87,
-   "2025": 46,
+   "2024": 88,
+   "2025": 48,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -2325,8 +2429,8 @@
    "informacion": "Detenciones",
    "CODCOM": 7109,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 53,
+   "2024": 35,
+   "2025": 54,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -2429,8 +2533,8 @@
    "informacion": "Detenidos",
    "CODCOM": 7109,
    "delito": "LESIONES",
-   "2024": 53,
-   "2025": 103,
+   "2024": 54,
+   "2025": 105,
    "COMUNA": "SAN CLEMENTE"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

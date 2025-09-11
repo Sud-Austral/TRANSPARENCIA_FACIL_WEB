@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10403,
-   "2024": 28,
+   "2024": 30,
    "2025": 10,
-   "variacion": -64,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10403,
-   "2024": 29,
-   "2025": 24,
-   "variacion": -17,
+   "2024": 30,
+   "2025": 28,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
@@ -22,8 +22,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10403,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALAIHUÉ"
   },
@@ -362,6 +362,14 @@
    "COMUNA": "HUALAIHUÉ"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10403,
    "anio": 2024,
@@ -374,6 +382,14 @@
    "CODCOM": 10403,
    "anio": 2025,
    "mes": 4,
+   "casos": 1,
+   "COMUNA": "HUALAIHUÉ"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10403,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "HUALAIHUÉ"
   },
@@ -591,7 +607,7 @@
    "informacion": "Casos",
    "CODCOM": 10403,
    "delito": "HURTOS",
-   "2024": 28,
+   "2024": 30,
    "2025": 10,
    "COMUNA": "HUALAIHUÉ"
   },
@@ -599,8 +615,8 @@
    "informacion": "Casos",
    "CODCOM": 10403,
    "delito": "LESIONES",
-   "2024": 29,
-   "2025": 24,
+   "2024": 30,
+   "2025": 28,
    "COMUNA": "HUALAIHUÉ"
   },
   {
@@ -608,7 +624,7 @@
    "CODCOM": 10403,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "HUALAIHUÉ"
   },
   {
@@ -709,7 +725,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 9106,
    "2024": 13,
-   "2025": 22,
-   "variacion": 69,
+   "2025": 23,
+   "variacion": 77,
    "situación": "Aumento de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -46,11 +46,20 @@
    "COMUNA": "GALVARINO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9106,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
+   "COMUNA": "GALVARINO"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9106,
-   "2024": 12,
+   "2024": 13,
    "2025": 5,
-   "variacion": -58,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "GALVARINO"
   },
@@ -223,6 +232,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "GALVARINO"
   },
@@ -415,6 +432,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "GALVARINO"
   },
@@ -649,7 +674,7 @@
    "CODCOM": 9106,
    "delito": "HURTOS",
    "2024": 13,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "GALVARINO"
   },
   {
@@ -687,8 +712,16 @@
   {
    "informacion": "Casos",
    "CODCOM": 9106,
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "GALVARINO"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 9106,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
+   "2024": 13,
    "2025": 5,
    "COMUNA": "GALVARINO"
   },
@@ -774,7 +807,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

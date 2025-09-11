@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13502,
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
-   "variacion": 40,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "ALHUE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13502,
-   "2024": 14,
+   "2024": 15,
    "2025": 24,
-   "variacion": 71,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "ALHUE"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13502,
-   "2024": 13,
+   "2024": 15,
    "2025": 11,
-   "variacion": -15,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "ALHUE"
   },
@@ -2141,7 +2141,7 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "HURTOS",
-   "2024": 5,
+   "2024": 6,
    "2025": 7,
    "COMUNA": "ALHUE"
   },
@@ -2149,7 +2149,7 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 24,
    "COMUNA": "ALHUE"
   },
@@ -2205,7 +2205,7 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 13,
+   "2024": 15,
    "2025": 11,
    "COMUNA": "ALHUE"
   },
@@ -2245,7 +2245,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13502,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "ALHUE"
   },
@@ -2253,7 +2253,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13502,
    "delito": "LESIONES",
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "ALHUE"
   },
@@ -2349,7 +2349,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13502,
    "delito": "HURTOS",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "ALHUE"
   },
@@ -2357,7 +2357,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13502,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "ALHUE"
   },
@@ -2443,7 +2443,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

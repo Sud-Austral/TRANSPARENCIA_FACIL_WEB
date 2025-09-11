@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10307,
-   "2024": 37,
-   "2025": 52,
-   "variacion": 41,
+   "2024": 38,
+   "2025": 55,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10307,
-   "2024": 23,
+   "2024": 26,
    "2025": 29,
-   "variacion": 26,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
@@ -250,6 +250,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "SAN PABLO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10307,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "SAN PABLO"
   },
   {
@@ -882,15 +890,15 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "HURTOS",
-   "2024": 37,
-   "2025": 52,
+   "2024": 38,
+   "2025": 55,
    "COMUNA": "SAN PABLO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 23,
+   "2024": 26,
    "2025": 29,
    "COMUNA": "SAN PABLO"
   },
@@ -970,7 +978,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 10,
+   "2024": 11,
    "2025": 12,
    "COMUNA": "SAN PABLO"
   },
@@ -1018,7 +1026,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 22,
+   "2024": 25,
    "2025": 20,
    "COMUNA": "SAN PABLO"
   },
@@ -1056,7 +1064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

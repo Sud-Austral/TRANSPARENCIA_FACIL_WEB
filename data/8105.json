@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8105,
-   "2024": 47,
+   "2024": 48,
    "2025": 28,
-   "variacion": -40,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALQUI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8105,
-   "2024": 50,
-   "2025": 49,
+   "2024": 55,
+   "2025": 54,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "HUALQUI"
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8105,
    "2024": 11,
-   "2025": 14,
-   "variacion": 27,
+   "2025": 15,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALQUI"
   },
@@ -67,17 +67,17 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8105,
    "2024": 7,
-   "2025": 15,
-   "variacion": 114,
+   "2025": 17,
+   "variacion": 143,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALQUI"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8105,
-   "2024": 17,
-   "2025": 22,
-   "variacion": 29,
+   "2024": 18,
+   "2025": 24,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "HUALQUI"
   },
@@ -440,6 +440,14 @@
    "COMUNA": "HUALQUI"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 8105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 5,
+   "COMUNA": "HUALQUI"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8105,
    "anio": 2024,
@@ -712,6 +720,14 @@
    "COMUNA": "HUALQUI"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 8105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "HUALQUI"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8105,
    "anio": 2024,
@@ -861,6 +877,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "HUALQUI"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 8105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1013,6 +1037,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "HUALQUI"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1285,7 +1317,7 @@
    "informacion": "Casos",
    "CODCOM": 8105,
    "delito": "HURTOS",
-   "2024": 47,
+   "2024": 48,
    "2025": 28,
    "COMUNA": "HUALQUI"
   },
@@ -1293,8 +1325,8 @@
    "informacion": "Casos",
    "CODCOM": 8105,
    "delito": "LESIONES",
-   "2024": 50,
-   "2025": 49,
+   "2024": 55,
+   "2025": 54,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1318,7 +1350,7 @@
    "CODCOM": 8105,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 11,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1334,15 +1366,15 @@
    "CODCOM": 8105,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 7,
-   "2025": 15,
+   "2025": 17,
    "COMUNA": "HUALQUI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 17,
-   "2025": 22,
+   "2024": 18,
+   "2025": 24,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1389,8 +1421,8 @@
    "informacion": "Detenciones",
    "CODCOM": 8105,
    "delito": "LESIONES",
-   "2024": 20,
-   "2025": 15,
+   "2024": 21,
+   "2025": 17,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1461,8 +1493,8 @@
    "informacion": "Detenidos",
    "CODCOM": 8105,
    "delito": "LESIONES",
-   "2024": 43,
-   "2025": 30,
+   "2024": 44,
+   "2025": 33,
    "COMUNA": "HUALQUI"
   },
   {
@@ -1523,7 +1555,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Biobío"
  }
 }

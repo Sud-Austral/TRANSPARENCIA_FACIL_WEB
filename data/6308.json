@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6308,
-   "2024": 20,
+   "2024": 21,
    "2025": 17,
-   "variacion": -15,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "PLACILLA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6308,
-   "2024": 19,
+   "2024": 20,
    "2025": 21,
-   "variacion": 11,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "PLACILLA"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6308,
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -33,
+   "situación": "Disminución de Casos",
    "COMUNA": "PLACILLA"
   },
   {
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6308,
-   "2024": 16,
+   "2024": 17,
    "2025": 6,
-   "variacion": -62,
+   "variacion": -65,
    "situación": "Disminución de Casos",
    "COMUNA": "PLACILLA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6308,
-   "2024": 11,
-   "2025": 16,
-   "variacion": 45,
+   "2024": 12,
+   "2025": 17,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "PLACILLA"
   },
@@ -797,6 +797,14 @@
    "COMUNA": "PLACILLA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PLACILLA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 6308,
    "anio": 2024,
@@ -818,7 +826,7 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "HURTOS",
-   "2024": 20,
+   "2024": 21,
    "2025": 17,
    "COMUNA": "PLACILLA"
   },
@@ -826,7 +834,7 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "LESIONES",
-   "2024": 19,
+   "2024": 20,
    "2025": 21,
    "COMUNA": "PLACILLA"
   },
@@ -850,7 +858,7 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "PLACILLA"
   },
@@ -874,7 +882,7 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 16,
+   "2024": 17,
    "2025": 6,
    "COMUNA": "PLACILLA"
   },
@@ -882,8 +890,8 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
-   "2025": 16,
+   "2024": 12,
+   "2025": 17,
    "COMUNA": "PLACILLA"
   },
   {
@@ -976,7 +984,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

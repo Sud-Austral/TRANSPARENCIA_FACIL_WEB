@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4103,
-   "2024": 17,
+   "2024": 19,
    "2025": 21,
-   "variacion": 24,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "ANDACOLLO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4103,
-   "2024": 51,
-   "2025": 34,
-   "variacion": -33,
+   "2024": 53,
+   "2025": 35,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "ANDACOLLO"
   },
@@ -411,6 +411,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "ANDACOLLO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -899,7 +907,7 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 19,
    "2025": 21,
    "COMUNA": "ANDACOLLO"
   },
@@ -907,8 +915,8 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 34,
+   "2024": 53,
+   "2025": 35,
    "COMUNA": "ANDACOLLO"
   },
   {
@@ -1081,7 +1089,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

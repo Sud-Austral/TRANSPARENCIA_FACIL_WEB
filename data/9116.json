@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9116,
-   "2024": 23,
+   "2024": 24,
    "2025": 22,
-   "variacion": -4,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "SAAVEDRA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9116,
-   "2024": 34,
-   "2025": 28,
-   "variacion": -18,
+   "2024": 36,
+   "2025": 30,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "SAAVEDRA"
   },
@@ -66,8 +66,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9116,
-   "2024": 19,
-   "2025": 20,
+   "2024": 20,
+   "2025": 21,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "SAAVEDRA"
@@ -445,6 +445,14 @@
    "COMUNA": "SAAVEDRA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9116,
    "anio": 2024,
@@ -725,6 +733,14 @@
    "COMUNA": "SAAVEDRA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9116,
    "anio": 2024,
@@ -762,7 +778,7 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "HURTOS",
-   "2024": 23,
+   "2024": 24,
    "2025": 22,
    "COMUNA": "SAAVEDRA"
   },
@@ -770,8 +786,8 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 34,
-   "2025": 28,
+   "2024": 36,
+   "2025": 30,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -810,8 +826,8 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 19,
-   "2025": 20,
+   "2024": 20,
+   "2025": 21,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -850,7 +866,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 9,
+   "2024": 10,
    "2025": 10,
    "COMUNA": "SAAVEDRA"
   },
@@ -882,7 +898,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9116,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 18,
    "2025": 13,
    "COMUNA": "SAAVEDRA"
   },
@@ -896,7 +912,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

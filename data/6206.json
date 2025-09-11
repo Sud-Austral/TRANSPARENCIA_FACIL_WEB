@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 6206,
-   "2024": 14,
+   "2024": 15,
    "2025": 12,
-   "variacion": -14,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6206,
-   "2024": 19,
+   "2024": 21,
    "2025": 12,
-   "variacion": -37,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6206,
-   "2024": 10,
+   "2024": 11,
    "2025": 6,
-   "variacion": -40,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
@@ -730,7 +730,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "LESIONES",
-   "2024": 14,
+   "2024": 15,
    "2025": 12,
    "COMUNA": "PAREDONES"
   },
@@ -778,7 +778,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 19,
+   "2024": 21,
    "2025": 12,
    "COMUNA": "PAREDONES"
   },
@@ -786,7 +786,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 10,
+   "2024": 11,
    "2025": 6,
    "COMUNA": "PAREDONES"
   },
@@ -944,7 +944,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

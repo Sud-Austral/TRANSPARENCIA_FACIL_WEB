@@ -3,62 +3,62 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 13127,
-   "2024": 13,
+   "2024": 15,
    "2025": 17,
-   "variacion": 31,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13127,
-   "2024": 618,
-   "2025": 663,
-   "variacion": 7,
+   "2024": 643,
+   "2025": 682,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13127,
-   "2024": 556,
-   "2025": 515,
-   "variacion": -7,
+   "2024": 576,
+   "2025": 528,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13127,
-   "2024": 130,
-   "2025": 226,
-   "variacion": 74,
+   "2024": 137,
+   "2025": 232,
+   "variacion": 69,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13127,
-   "2024": 722,
-   "2025": 658,
-   "variacion": -9,
+   "2024": 736,
+   "2025": 677,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13127,
-   "2024": 377,
-   "2025": 321,
-   "variacion": -15,
+   "2024": 385,
+   "2025": 342,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13127,
-   "2024": 312,
-   "2025": 292,
+   "2024": 322,
+   "2025": 302,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
@@ -66,35 +66,35 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13127,
-   "2024": 181,
-   "2025": 209,
-   "variacion": 15,
+   "2024": 186,
+   "2025": 215,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13127,
-   "2024": 65,
-   "2025": 133,
-   "variacion": 105,
+   "2024": 68,
+   "2025": 139,
+   "variacion": 104,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13127,
-   "2024": 193,
-   "2025": 171,
-   "variacion": -11,
+   "2024": 199,
+   "2025": 174,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13127,
-   "2024": 779,
-   "2025": 688,
+   "2024": 800,
+   "2025": 706,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "RECOLETA"
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13127,
-   "2024": 71,
-   "2025": 109,
-   "variacion": 54,
+   "2024": 73,
+   "2025": 115,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13127,
    "2024": 15,
-   "2025": 17,
-   "variacion": 13,
+   "2025": 18,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "RECOLETA"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13127,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 91,
+   "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 19,
    "COMUNA": "RECOLETA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 13,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13127,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 28,
+   "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "RECOLETA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 19,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13127,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 38,
+   "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 21,
    "COMUNA": "RECOLETA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13127,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 23,
+   "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "RECOLETA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13127,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 23,
+   "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "RECOLETA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 18,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13127,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "RECOLETA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
+   "COMUNA": "RECOLETA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 13127,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "RECOLETA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13127,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RECOLETA"
   }
  ],
  "info": [
@@ -2205,7 +2309,7 @@
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "HOMICIDIOS",
-   "2024": 13,
+   "2024": 15,
    "2025": 17,
    "COMUNA": "RECOLETA"
   },
@@ -2213,88 +2317,88 @@
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "HURTOS",
-   "2024": 618,
-   "2025": 663,
+   "2024": 643,
+   "2025": 682,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "LESIONES",
-   "2024": 556,
-   "2025": 515,
+   "2024": 576,
+   "2025": 528,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 130,
-   "2025": 226,
+   "2024": 137,
+   "2025": 232,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 722,
-   "2025": 658,
+   "2024": 736,
+   "2025": 677,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 377,
-   "2025": 321,
+   "2024": 385,
+   "2025": 342,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 312,
-   "2025": 292,
+   "2024": 322,
+   "2025": 302,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 181,
-   "2025": 209,
+   "2024": 186,
+   "2025": 215,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 65,
-   "2025": 133,
+   "2024": 68,
+   "2025": 139,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 193,
-   "2025": 171,
+   "2024": 199,
+   "2025": 174,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO POR SORPRESA",
-   "2024": 779,
-   "2025": 688,
+   "2024": 800,
+   "2025": 706,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13127,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 71,
-   "2025": 109,
+   "2024": 73,
+   "2025": 115,
    "COMUNA": "RECOLETA"
   },
   {
@@ -2302,14 +2406,14 @@
    "CODCOM": 13127,
    "delito": "VIOLACIONES",
    "2024": 15,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "RECOLETA"
   },
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "HURTOS",
-   "2024": 102,
-   "2025": 72,
+   "2024": 103,
+   "2025": 75,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "LESIONES",
-   "2024": 154,
-   "2025": 123,
+   "2024": 161,
+   "2025": 125,
    "COMUNA": "RECOLETA"
   },
   {
@@ -2334,14 +2438,14 @@
    "CODCOM": 13127,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 33,
+   "2024": 35,
    "2025": 22,
    "COMUNA": "RECOLETA"
   },
@@ -2349,8 +2453,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 15,
-   "2025": 15,
+   "2024": 17,
+   "2025": 18,
    "COMUNA": "RECOLETA"
   },
   {
@@ -2389,7 +2493,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13127,
    "delito": "ROBO POR SORPRESA",
-   "2024": 41,
+   "2024": 42,
    "2025": 26,
    "COMUNA": "RECOLETA"
   },
@@ -2406,14 +2510,14 @@
    "CODCOM": 13127,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "HOMICIDIOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "RECOLETA"
   },
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "HURTOS",
-   "2024": 108,
-   "2025": 79,
+   "2024": 109,
+   "2025": 82,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "LESIONES",
-   "2024": 249,
-   "2025": 214,
+   "2024": 265,
+   "2025": 217,
    "COMUNA": "RECOLETA"
   },
   {
@@ -2438,14 +2542,14 @@
    "CODCOM": 13127,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 7,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "RECOLETA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 43,
+   "2024": 49,
    "2025": 32,
    "COMUNA": "RECOLETA"
   },
@@ -2453,8 +2557,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 31,
-   "2025": 27,
+   "2024": 34,
+   "2025": 32,
    "COMUNA": "RECOLETA"
   },
   {
@@ -2493,7 +2597,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13127,
    "delito": "ROBO POR SORPRESA",
-   "2024": 46,
+   "2024": 47,
    "2025": 27,
    "COMUNA": "RECOLETA"
   },
@@ -2510,12 +2614,12 @@
    "CODCOM": 13127,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RECOLETA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9201,
-   "2024": 129,
-   "2025": 155,
-   "variacion": 20,
+   "2024": 137,
+   "2025": 159,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9201,
-   "2024": 169,
-   "2025": 148,
+   "2024": 176,
+   "2025": 155,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
@@ -39,27 +39,27 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9201,
-   "2024": 17,
-   "2025": 13,
-   "variacion": -24,
+   "2024": 18,
+   "2025": 14,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 9201,
-   "2024": 19,
+   "2024": 21,
    "2025": 20,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9201,
-   "2024": 22,
+   "2024": 23,
    "2025": 39,
-   "variacion": 77,
+   "variacion": 70,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
@@ -76,26 +76,26 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9201,
    "2024": 86,
-   "2025": 70,
-   "variacion": -19,
+   "2025": 71,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9201,
-   "2024": 81,
-   "2025": 79,
-   "variacion": -2,
+   "2024": 82,
+   "2025": 81,
+   "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "ANGOL"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9201,
-   "2024": 13,
+   "2024": 14,
    "2025": 16,
-   "variacion": 23,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 9201,
    "2024": 2,
-   "2025": 2,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "ANGOL"
   }
  ],
@@ -280,6 +280,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 9201,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 22,
+   "COMUNA": "ANGOL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "ANGOL"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 7,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9201,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9201,
    "anio": 2024,
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "ANGOL"
   },
   {
@@ -1080,6 +1120,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1240,6 +1288,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "ANGOL"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
    "COMUNA": "ANGOL"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1720,6 +1792,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9201,
    "anio": 2024,
@@ -1880,6 +1960,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 9201,
    "anio": 2024,
@@ -2040,6 +2128,14 @@
    "COMUNA": "ANGOL"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "ANGOL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 9201,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 0,
    "COMUNA": "ANGOL"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "ANGOL"
   }
  ],
  "info": [
@@ -2213,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 129,
-   "2025": 155,
+   "2024": 137,
+   "2025": 159,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 169,
-   "2025": 148,
+   "2024": 176,
+   "2025": 155,
    "COMUNA": "ANGOL"
   },
   {
@@ -2237,15 +2341,15 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 17,
-   "2025": 13,
+   "2024": 18,
+   "2025": 14,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 19,
+   "2024": 21,
    "2025": 20,
    "COMUNA": "ANGOL"
   },
@@ -2253,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 22,
+   "2024": 23,
    "2025": 39,
    "COMUNA": "ANGOL"
   },
@@ -2270,22 +2374,22 @@
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 86,
-   "2025": 70,
+   "2025": 71,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 81,
-   "2025": 79,
+   "2024": 82,
+   "2025": 81,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9201,
    "delito": "ROBO POR SORPRESA",
-   "2024": 13,
+   "2024": 14,
    "2025": 16,
    "COMUNA": "ANGOL"
   },
@@ -2302,7 +2406,7 @@
    "CODCOM": 9201,
    "delito": "VIOLACIONES",
    "2024": 2,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "ANGOL"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 51,
-   "2025": 35,
+   "2024": 53,
+   "2025": 36,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 48,
+   "2024": 54,
+   "2025": 49,
    "COMUNA": "ANGOL"
   },
   {
@@ -2341,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "ANGOL"
   },
@@ -2374,7 +2478,7 @@
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "ANGOL"
   },
   {
@@ -2406,7 +2510,7 @@
    "CODCOM": 9201,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "ANGOL"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "HURTOS",
-   "2024": 57,
-   "2025": 45,
+   "2024": 60,
+   "2025": 46,
    "COMUNA": "ANGOL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "LESIONES",
-   "2024": 87,
-   "2025": 84,
+   "2024": 97,
+   "2025": 85,
    "COMUNA": "ANGOL"
   },
   {
@@ -2445,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 10,
    "COMUNA": "ANGOL"
   },
@@ -2478,7 +2582,7 @@
    "CODCOM": 9201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 6,
+   "2025": 9,
    "COMUNA": "ANGOL"
   },
   {
@@ -2510,12 +2614,12 @@
    "CODCOM": 9201,
    "delito": "VIOLACIONES",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "ANGOL"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

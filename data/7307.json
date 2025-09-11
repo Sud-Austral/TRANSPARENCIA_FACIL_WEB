@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7307,
-   "2024": 40,
+   "2024": 41,
    "2025": 58,
-   "variacion": 45,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7307,
-   "2024": 33,
+   "2024": 34,
    "2025": 39,
-   "variacion": 18,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -40,17 +40,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7307,
    "2024": 2,
-   "2025": 4,
-   "variacion": 100,
+   "2025": 5,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7307,
-   "2024": 11,
+   "2024": 12,
    "2025": 18,
-   "variacion": 64,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7307,
-   "2024": 27,
+   "2024": 28,
    "2025": 48,
-   "variacion": 78,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -94,9 +94,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 7307,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAGRADA FAMILIA"
   }
  ],
@@ -558,6 +558,14 @@
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7307,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAGRADA FAMILIA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7307,
    "anio": 2024,
@@ -1004,6 +1012,14 @@
    "mes": 3,
    "casos": 1,
    "COMUNA": "SAGRADA FAMILIA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 7307,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAGRADA FAMILIA"
   }
  ],
  "info": [
@@ -1011,7 +1027,7 @@
    "informacion": "Casos",
    "CODCOM": 7307,
    "delito": "HURTOS",
-   "2024": 40,
+   "2024": 41,
    "2025": 58,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1019,7 +1035,7 @@
    "informacion": "Casos",
    "CODCOM": 7307,
    "delito": "LESIONES",
-   "2024": 33,
+   "2024": 34,
    "2025": 39,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1044,14 +1060,14 @@
    "CODCOM": 7307,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7307,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 11,
+   "2024": 12,
    "2025": 18,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1075,7 +1091,7 @@
    "informacion": "Casos",
    "CODCOM": 7307,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 27,
+   "2024": 28,
    "2025": 48,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1092,14 +1108,14 @@
    "CODCOM": 7307,
    "delito": "VIOLACIONES",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7307,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 9,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1152,10 +1168,18 @@
    "COMUNA": "SAGRADA FAMILIA"
   },
   {
+   "informacion": "Detenciones",
+   "CODCOM": 7307,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAGRADA FAMILIA"
+  },
+  {
    "informacion": "Detenidos",
    "CODCOM": 7307,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 4,
    "2025": 13,
    "COMUNA": "SAGRADA FAMILIA"
   },
@@ -1206,10 +1230,18 @@
    "2024": 0,
    "2025": 1,
    "COMUNA": "SAGRADA FAMILIA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7307,
+   "delito": "VIOLACIONES",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAGRADA FAMILIA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

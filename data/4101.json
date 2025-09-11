@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4101,
-   "2024": 1012,
-   "2025": 809,
+   "2024": 1041,
+   "2025": 836,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
@@ -21,44 +21,44 @@
   {
    "delito": "LESIONES",
    "CODCOM": 4101,
-   "2024": 601,
-   "2025": 456,
-   "variacion": -24,
+   "2024": 615,
+   "2025": 478,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4101,
-   "2024": 54,
-   "2025": 82,
-   "variacion": 52,
+   "2024": 55,
+   "2025": 83,
+   "variacion": 51,
    "situación": "Aumento de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4101,
-   "2024": 253,
-   "2025": 256,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "2024": 258,
+   "2025": 259,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4101,
-   "2024": 195,
-   "2025": 176,
-   "variacion": -10,
+   "2024": 199,
+   "2025": 184,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4101,
-   "2024": 557,
-   "2025": 545,
+   "2024": 567,
+   "2025": 557,
    "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
@@ -66,45 +66,45 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4101,
-   "2024": 349,
-   "2025": 286,
-   "variacion": -18,
+   "2024": 364,
+   "2025": 289,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4101,
-   "2024": 521,
-   "2025": 340,
-   "variacion": -35,
+   "2024": 529,
+   "2025": 349,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4101,
-   "2024": 502,
-   "2025": 396,
-   "variacion": -21,
+   "2024": 520,
+   "2025": 415,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4101,
-   "2024": 135,
-   "2025": 141,
-   "variacion": 4,
+   "2024": 139,
+   "2025": 142,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "LA SERENA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 4101,
-   "2024": 26,
+   "2024": 29,
    "2025": 24,
-   "variacion": -8,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "LA SERENA"
   },
@@ -112,8 +112,8 @@
    "delito": "VIOLACIONES",
    "CODCOM": 4101,
    "2024": 11,
-   "2025": 13,
-   "variacion": 18,
+   "2025": 14,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "LA SERENA"
   }
@@ -280,6 +280,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 4101,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 15,
+   "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 27,
    "COMUNA": "LA SERENA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 22,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4101,
    "anio": 2024,
@@ -760,6 +784,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4101,
    "anio": 2024,
@@ -917,6 +949,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "LA SERENA"
   },
   {
@@ -1080,6 +1120,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 4101,
    "anio": 2024,
@@ -1237,6 +1285,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 12,
    "COMUNA": "LA SERENA"
   },
   {
@@ -1400,6 +1456,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4101,
    "anio": 2024,
@@ -1557,6 +1621,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 23,
+   "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 9,
    "COMUNA": "LA SERENA"
   },
   {
@@ -1720,6 +1792,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 19,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4101,
    "anio": 2024,
@@ -1877,6 +1957,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2040,6 +2128,14 @@
    "COMUNA": "LA SERENA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA SERENA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 4101,
    "anio": 2024,
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "LA SERENA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 4101,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA SERENA"
   }
  ],
  "info": [
@@ -2213,87 +2317,87 @@
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "HURTOS",
-   "2024": 1012,
-   "2025": 809,
+   "2024": 1041,
+   "2025": 836,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "LESIONES",
-   "2024": 601,
-   "2025": 456,
+   "2024": 615,
+   "2025": 478,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 54,
-   "2025": 82,
+   "2024": 55,
+   "2025": 83,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 253,
-   "2025": 256,
+   "2024": 258,
+   "2025": 259,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 195,
-   "2025": 176,
+   "2024": 199,
+   "2025": 184,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 557,
-   "2025": 545,
+   "2024": 567,
+   "2025": 557,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 349,
-   "2025": 286,
+   "2024": 364,
+   "2025": 289,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 521,
-   "2025": 340,
+   "2024": 529,
+   "2025": 349,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 502,
-   "2025": 396,
+   "2024": 520,
+   "2025": 415,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO POR SORPRESA",
-   "2024": 135,
-   "2025": 141,
+   "2024": 139,
+   "2025": 142,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4101,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 26,
+   "2024": 29,
    "2025": 24,
    "COMUNA": "LA SERENA"
   },
@@ -2302,7 +2406,7 @@
    "CODCOM": 4101,
    "delito": "VIOLACIONES",
    "2024": 11,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 4101,
    "delito": "HURTOS",
-   "2024": 311,
-   "2025": 266,
+   "2024": 319,
+   "2025": 277,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4101,
    "delito": "LESIONES",
-   "2024": 118,
-   "2025": 88,
+   "2024": 120,
+   "2025": 93,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2350,7 +2454,7 @@
    "CODCOM": 4101,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 17,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2381,8 +2485,8 @@
    "informacion": "Detenciones",
    "CODCOM": 4101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 39,
-   "2025": 40,
+   "2024": 41,
+   "2025": 42,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 4101,
    "delito": "HURTOS",
-   "2024": 351,
-   "2025": 280,
+   "2024": 360,
+   "2025": 291,
    "COMUNA": "LA SERENA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4101,
    "delito": "LESIONES",
-   "2024": 203,
-   "2025": 154,
+   "2024": 207,
+   "2025": 160,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2454,7 +2558,7 @@
    "CODCOM": 4101,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 31,
-   "2025": 7,
+   "2025": 12,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2485,8 +2589,8 @@
    "informacion": "Detenidos",
    "CODCOM": 4101,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 60,
-   "2025": 58,
+   "2024": 63,
+   "2025": 60,
    "COMUNA": "LA SERENA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Coquimbo"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9209,
-   "2024": 38,
+   "2024": 39,
    "2025": 35,
-   "variacion": -8,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "RENAICO"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 9209,
    "2024": 35,
-   "2025": 38,
-   "variacion": 9,
+   "2025": 39,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "RENAICO"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9209,
-   "2024": 4,
+   "2024": 5,
    "2025": 2,
-   "variacion": -50,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "RENAICO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9209,
-   "2024": 11,
-   "2025": 28,
-   "variacion": 155,
+   "2024": 12,
+   "2025": 29,
+   "variacion": 142,
    "situación": "Aumento de Casos",
    "COMUNA": "RENAICO"
   },
@@ -445,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "RENAICO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9209,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "RENAICO"
   },
   {
@@ -880,6 +888,14 @@
    "COMUNA": "RENAICO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 9209,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RENAICO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9209,
    "anio": 2024,
@@ -1101,7 +1117,7 @@
    "informacion": "Casos",
    "CODCOM": 9209,
    "delito": "HURTOS",
-   "2024": 38,
+   "2024": 39,
    "2025": 35,
    "COMUNA": "RENAICO"
   },
@@ -1110,7 +1126,7 @@
    "CODCOM": 9209,
    "delito": "LESIONES",
    "2024": 35,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "RENAICO"
   },
   {
@@ -1125,7 +1141,7 @@
    "informacion": "Casos",
    "CODCOM": 9209,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 4,
+   "2024": 5,
    "2025": 2,
    "COMUNA": "RENAICO"
   },
@@ -1157,8 +1173,8 @@
    "informacion": "Casos",
    "CODCOM": 9209,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 11,
-   "2025": 28,
+   "2024": 12,
+   "2025": 29,
    "COMUNA": "RENAICO"
   },
   {
@@ -1387,7 +1403,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

@@ -13,26 +13,26 @@
    "delito": "HURTOS",
    "CODCOM": 6104,
    "2024": 34,
-   "2025": 22,
-   "variacion": -35,
+   "2025": 23,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "COLTAUCO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6104,
-   "2024": 33,
-   "2025": 54,
-   "variacion": 64,
+   "2024": 36,
+   "2025": 57,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "COLTAUCO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6104,
-   "2024": 5,
-   "2025": 4,
-   "variacion": -20,
+   "2024": 6,
+   "2025": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "COLTAUCO"
   },
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6104,
-   "2024": 42,
-   "2025": 19,
-   "variacion": -55,
+   "2024": 43,
+   "2025": 20,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "COLTAUCO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6104,
-   "2024": 20,
-   "2025": 32,
-   "variacion": 60,
+   "2024": 21,
+   "2025": 34,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "COLTAUCO"
   }
@@ -236,6 +236,14 @@
    "COMUNA": "COLTAUCO"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COLTAUCO"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6104,
    "anio": 2024,
@@ -393,6 +401,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "COLTAUCO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -492,6 +508,14 @@
    "COMUNA": "COLTAUCO"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COLTAUCO"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 6104,
    "anio": 2024,
@@ -740,6 +764,14 @@
    "COMUNA": "COLTAUCO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COLTAUCO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6104,
    "anio": 2024,
@@ -890,6 +922,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "COLTAUCO"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "COLTAUCO"
   }
  ],
  "info": [
@@ -906,23 +946,23 @@
    "CODCOM": 6104,
    "delito": "HURTOS",
    "2024": 34,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 54,
+   "2024": 36,
+   "2025": 57,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
-   "2025": 4,
+   "2024": 6,
+   "2025": 5,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -953,16 +993,16 @@
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 42,
-   "2025": 19,
+   "2024": 43,
+   "2025": 20,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
-   "2025": 32,
+   "2024": 21,
+   "2025": 34,
    "COMUNA": "COLTAUCO"
   },
   {
@@ -978,14 +1018,14 @@
    "CODCOM": 6104,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 16,
+   "2025": 17,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6104,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "COLTAUCO"
   },
@@ -1026,14 +1066,14 @@
    "CODCOM": 6104,
    "delito": "LESIONES",
    "2024": 16,
-   "2025": 28,
+   "2025": 30,
    "COMUNA": "COLTAUCO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6104,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "COLTAUCO"
   },
@@ -1063,7 +1103,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "O'Higgins"
  }
 }

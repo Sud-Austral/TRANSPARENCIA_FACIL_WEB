@@ -40,8 +40,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7309,
    "2024": 8,
-   "2025": 6,
-   "variacion": -25,
+   "2025": 7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "VICHUQUÉN"
   },
@@ -410,6 +410,14 @@
    "COMUNA": "VICHUQUÉN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7309,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "VICHUQUÉN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7309,
    "anio": 2024,
@@ -536,7 +544,7 @@
    "CODCOM": 7309,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 8,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "VICHUQUÉN"
   },
   {
@@ -605,7 +613,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

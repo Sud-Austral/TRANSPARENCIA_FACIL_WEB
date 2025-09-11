@@ -12,17 +12,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13110,
-   "2024": 1440,
-   "2025": 1658,
-   "variacion": 15,
+   "2024": 1503,
+   "2025": 1704,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13110,
-   "2024": 568,
-   "2025": 574,
+   "2024": 581,
+   "2025": 589,
    "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
@@ -30,35 +30,35 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13110,
-   "2024": 79,
-   "2025": 110,
-   "variacion": 39,
+   "2024": 83,
+   "2025": 114,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13110,
-   "2024": 823,
-   "2025": 667,
-   "variacion": -19,
+   "2024": 843,
+   "2025": 688,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "LA FLORIDA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13110,
-   "2024": 297,
-   "2025": 249,
-   "variacion": -16,
+   "2024": 303,
+   "2025": 257,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "LA FLORIDA"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13110,
-   "2024": 945,
-   "2025": 969,
+   "2024": 975,
+   "2025": 1001,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
@@ -66,8 +66,8 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13110,
-   "2024": 430,
-   "2025": 448,
+   "2024": 450,
+   "2025": 469,
    "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13110,
-   "2024": 335,
-   "2025": 479,
+   "2024": 345,
+   "2025": 492,
    "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "LA FLORIDA"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13110,
-   "2024": 262,
-   "2025": 236,
+   "2024": 272,
+   "2025": 246,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "LA FLORIDA"
@@ -93,17 +93,17 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13110,
-   "2024": 664,
-   "2025": 544,
-   "variacion": -18,
+   "2024": 696,
+   "2025": 561,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "LA FLORIDA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13110,
-   "2024": 305,
-   "2025": 191,
+   "2024": 312,
+   "2025": 197,
    "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "LA FLORIDA"
@@ -280,6 +280,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "HOMICIDIOS",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 13110,
    "anio": 2024,
@@ -437,6 +445,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 216,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 46,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -600,6 +616,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 15,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13110,
    "anio": 2024,
@@ -757,6 +781,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 4,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -920,6 +952,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 21,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13110,
    "anio": 2024,
@@ -1077,6 +1117,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 28,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 8,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -1240,6 +1288,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 32,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13110,
    "anio": 2024,
@@ -1397,6 +1453,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 33,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 21,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -1560,6 +1624,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 13,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13110,
    "anio": 2024,
@@ -1717,6 +1789,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 18,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 10,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -1880,6 +1960,14 @@
    "COMUNA": "LA FLORIDA"
   },
   {
+   "delito": "ROBO POR SORPRESA",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 17,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13110,
    "anio": 2024,
@@ -2037,6 +2125,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 9,
+   "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2198,6 +2294,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "LA FLORIDA"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 13110,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "LA FLORIDA"
   }
  ],
  "info": [
@@ -2213,88 +2317,88 @@
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "HURTOS",
-   "2024": 1440,
-   "2025": 1658,
+   "2024": 1503,
+   "2025": 1704,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "LESIONES",
-   "2024": 568,
-   "2025": 574,
+   "2024": 581,
+   "2025": 589,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 79,
-   "2025": 110,
+   "2024": 83,
+   "2025": 114,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 823,
-   "2025": 667,
+   "2024": 843,
+   "2025": 688,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 297,
-   "2025": 249,
+   "2024": 303,
+   "2025": 257,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 945,
-   "2025": 969,
+   "2024": 975,
+   "2025": 1001,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 430,
-   "2025": 448,
+   "2024": 450,
+   "2025": 469,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 335,
-   "2025": 479,
+   "2024": 345,
+   "2025": 492,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 262,
-   "2025": 236,
+   "2024": 272,
+   "2025": 246,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO POR SORPRESA",
-   "2024": 664,
-   "2025": 544,
+   "2024": 696,
+   "2025": 561,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13110,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 305,
-   "2025": 191,
+   "2024": 312,
+   "2025": 197,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2317,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13110,
    "delito": "HURTOS",
-   "2024": 819,
-   "2025": 932,
+   "2024": 853,
+   "2025": 958,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13110,
    "delito": "LESIONES",
-   "2024": 101,
-   "2025": 113,
+   "2024": 102,
+   "2025": 116,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2334,7 +2438,7 @@
    "CODCOM": 13110,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 6,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2374,23 +2478,23 @@
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 36,
-   "2025": 24,
+   "2024": 39,
+   "2025": 25,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13110,
    "delito": "ROBO POR SORPRESA",
-   "2024": 15,
-   "2025": 13,
+   "2024": 16,
+   "2025": 14,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2421,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13110,
    "delito": "HURTOS",
-   "2024": 839,
-   "2025": 959,
+   "2024": 875,
+   "2025": 985,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13110,
    "delito": "LESIONES",
-   "2024": 146,
-   "2025": 186,
+   "2024": 147,
+   "2025": 192,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2438,7 +2542,7 @@
    "CODCOM": 13110,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 10,
-   "2025": 9,
+   "2025": 11,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2478,23 +2582,23 @@
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13110,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 49,
-   "2025": 37,
+   "2024": 53,
+   "2025": 38,
    "COMUNA": "LA FLORIDA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13110,
    "delito": "ROBO POR SORPRESA",
-   "2024": 19,
-   "2025": 19,
+   "2024": 20,
+   "2025": 20,
    "COMUNA": "LA FLORIDA"
   },
   {
@@ -2515,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Metropolitana"
  }
 }

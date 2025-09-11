@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14105,
-   "2024": 22,
+   "2024": 24,
    "2025": 15,
-   "variacion": -32,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "MÁFIL"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 14105,
-   "2024": 12,
-   "2025": 6,
-   "variacion": -50,
+   "2024": 13,
+   "2025": 7,
+   "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "MÁFIL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14105,
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
-   "variacion": 25,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "MÁFIL"
   },
@@ -620,6 +620,14 @@
    "COMUNA": "MÁFIL"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 14105,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "MÁFIL"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 14105,
    "anio": 2024,
@@ -761,7 +769,7 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "HURTOS",
-   "2024": 22,
+   "2024": 24,
    "2025": 15,
    "COMUNA": "MÁFIL"
   },
@@ -801,15 +809,15 @@
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 12,
-   "2025": 6,
+   "2024": 13,
+   "2025": 7,
    "COMUNA": "MÁFIL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14105,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 10,
    "COMUNA": "MÁFIL"
   },
@@ -895,7 +903,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Ríos"
  }
 }

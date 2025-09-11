@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10203,
-   "2024": 22,
-   "2025": 18,
-   "variacion": -18,
+   "2024": 24,
+   "2025": 19,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "CHONCHI"
   },
@@ -85,9 +85,9 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10203,
    "2024": 12,
-   "2025": 12,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 13,
+   "variacion": 8,
+   "situación": "Aumento de Casos",
    "COMUNA": "CHONCHI"
   },
   {
@@ -268,6 +268,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "CHONCHI"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "CHONCHI"
   },
   {
@@ -775,6 +783,14 @@
    "COMUNA": "CHONCHI"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 10203,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CHONCHI"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10203,
    "anio": 2025,
@@ -836,8 +852,8 @@
    "informacion": "Casos",
    "CODCOM": 10203,
    "delito": "HURTOS",
-   "2024": 22,
-   "2025": 18,
+   "2024": 24,
+   "2025": 19,
    "COMUNA": "CHONCHI"
   },
   {
@@ -901,7 +917,7 @@
    "CODCOM": 10203,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 12,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "CHONCHI"
   },
   {
@@ -932,7 +948,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10203,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "CHONCHI"
   },
@@ -988,7 +1004,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10203,
    "delito": "HURTOS",
-   "2024": 4,
+   "2024": 5,
    "2025": 4,
    "COMUNA": "CHONCHI"
   },
@@ -1034,7 +1050,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Los Lagos"
  }
 }

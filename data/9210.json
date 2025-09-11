@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9210,
-   "2024": 67,
-   "2025": 77,
-   "variacion": 15,
+   "2024": 69,
+   "2025": 79,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "TRAIGUÉN"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9210,
-   "2024": 22,
+   "2024": 24,
    "2025": 17,
-   "variacion": -23,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "TRAIGUÉN"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9210,
    "2024": 14,
-   "2025": 15,
-   "variacion": 7,
+   "2025": 16,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "TRAIGUÉN"
   },
@@ -422,6 +422,14 @@
    "COMUNA": "TRAIGUÉN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9210,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "TRAIGUÉN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9210,
    "anio": 2024,
@@ -982,6 +990,14 @@
    "COMUNA": "TRAIGUÉN"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 9210,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TRAIGUÉN"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 9210,
    "anio": 2024,
@@ -1051,8 +1067,8 @@
    "informacion": "Casos",
    "CODCOM": 9210,
    "delito": "LESIONES",
-   "2024": 67,
-   "2025": 77,
+   "2024": 69,
+   "2025": 79,
    "COMUNA": "TRAIGUÉN"
   },
   {
@@ -1099,7 +1115,7 @@
    "informacion": "Casos",
    "CODCOM": 9210,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 22,
+   "2024": 24,
    "2025": 17,
    "COMUNA": "TRAIGUÉN"
   },
@@ -1108,7 +1124,7 @@
    "CODCOM": 9210,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "TRAIGUÉN"
   },
   {
@@ -1139,8 +1155,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9210,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 28,
+   "2024": 28,
+   "2025": 30,
    "COMUNA": "TRAIGUÉN"
   },
   {
@@ -1203,8 +1219,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9210,
    "delito": "LESIONES",
-   "2024": 42,
-   "2025": 45,
+   "2024": 44,
+   "2025": 47,
    "COMUNA": "TRAIGUÉN"
   },
   {
@@ -1257,7 +1273,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "La Araucanía"
  }
 }

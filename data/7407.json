@@ -12,8 +12,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 7407,
-   "2024": 49,
-   "2025": 31,
+   "2024": 51,
+   "2025": 32,
    "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
@@ -21,9 +21,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7407,
-   "2024": 1,
-   "2025": 5,
-   "variacion": 400,
+   "2024": 3,
+   "2025": 7,
+   "variacion": 133,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7407,
-   "2024": 40,
+   "2024": 41,
    "2025": 43,
-   "variacion": 8,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -406,6 +406,14 @@
    "COMUNA": "VILLA ALEGRE"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 7407,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7407,
    "anio": 2024,
@@ -451,6 +459,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 3,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 7407,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1107,16 +1123,16 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "LESIONES",
-   "2024": 49,
-   "2025": 31,
+   "2024": 51,
+   "2025": 32,
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
-   "2025": 5,
+   "2024": 3,
+   "2025": 7,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1163,7 +1179,7 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 40,
+   "2024": 41,
    "2025": 43,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -1195,8 +1211,16 @@
    "informacion": "Detenciones",
    "CODCOM": 7407,
    "delito": "LESIONES",
-   "2024": 29,
-   "2025": 12,
+   "2024": 31,
+   "2025": 13,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 7407,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1227,8 +1251,16 @@
    "informacion": "Detenidos",
    "CODCOM": 7407,
    "delito": "LESIONES",
-   "2024": 44,
-   "2025": 22,
+   "2024": 46,
+   "2025": 27,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7407,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1249,7 +1281,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 35/2025 (del 25/08/2025 al 31/08/2025)",
+  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
   "region": "Maule"
  }
 }

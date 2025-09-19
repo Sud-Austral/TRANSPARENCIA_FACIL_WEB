@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 6202,
    "2024": 7,
-   "2025": 10,
-   "variacion": 43,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "LA ESTRELLA"
   },
@@ -39,7 +39,7 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6202,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -49,8 +49,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6202,
    "2024": 13,
-   "2025": 3,
-   "variacion": -77,
+   "2025": 4,
+   "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "LA ESTRELLA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6202,
    "2024": 7,
-   "2025": 14,
-   "variacion": 100,
+   "2025": 15,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "LA ESTRELLA"
   },
@@ -159,6 +159,14 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "LA ESTRELLA"
   },
@@ -343,7 +351,7 @@
    "CODCOM": 6202,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -435,6 +443,14 @@
    "COMUNA": "LA ESTRELLA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA ESTRELLA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 6202,
    "anio": 2024,
@@ -449,7 +465,7 @@
    "CODCOM": 6202,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -480,7 +496,7 @@
    "informacion": "Casos",
    "CODCOM": 6202,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "LA ESTRELLA"
   },
@@ -489,7 +505,7 @@
    "CODCOM": 6202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 13,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -497,7 +513,7 @@
    "CODCOM": 6202,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 7,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -513,7 +529,7 @@
    "CODCOM": 6202,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -537,7 +553,7 @@
    "CODCOM": 6202,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "LA ESTRELLA"
   },
   {
@@ -558,7 +574,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

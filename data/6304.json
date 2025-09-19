@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 6304,
    "2024": 6,
-   "2025": 20,
-   "variacion": 233,
+   "2025": 21,
+   "variacion": 250,
    "situación": "Aumento de Casos",
    "COMUNA": "LOLOL"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6304,
-   "2024": 14,
-   "2025": 13,
+   "2024": 15,
+   "2025": 14,
    "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "LOLOL"
@@ -309,6 +309,14 @@
    "COMUNA": "LOLOL"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LOLOL"
+  },
+  {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6304,
    "anio": 2025,
@@ -621,6 +629,14 @@
    "COMUNA": "LOLOL"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 6304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LOLOL"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 6304,
    "anio": 2025,
@@ -651,7 +667,7 @@
    "CODCOM": 6304,
    "delito": "LESIONES",
    "2024": 6,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "LOLOL"
   },
   {
@@ -698,8 +714,8 @@
    "informacion": "Casos",
    "CODCOM": 6304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 14,
-   "2025": 13,
+   "2024": 15,
+   "2025": 14,
    "COMUNA": "LOLOL"
   },
   {
@@ -760,7 +776,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

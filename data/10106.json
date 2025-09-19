@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10106,
-   "2024": 31,
-   "2025": 20,
-   "variacion": -35,
+   "2024": 32,
+   "2025": 23,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS MUERMOS"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10106,
    "2024": 28,
-   "2025": 40,
-   "variacion": 43,
+   "2025": 43,
+   "variacion": 54,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS MUERMOS"
   },
@@ -236,6 +236,14 @@
    "COMUNA": "LOS MUERMOS"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LOS MUERMOS"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10106,
    "anio": 2024,
@@ -393,6 +401,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "LOS MUERMOS"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 10106,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -649,8 +665,8 @@
    "informacion": "Casos",
    "CODCOM": 10106,
    "delito": "HURTOS",
-   "2024": 31,
-   "2025": 20,
+   "2024": 32,
+   "2025": 23,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -658,7 +674,7 @@
    "CODCOM": 10106,
    "delito": "LESIONES",
    "2024": 28,
-   "2025": 40,
+   "2025": 43,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -722,7 +738,7 @@
    "CODCOM": 10106,
    "delito": "HURTOS",
    "2024": 7,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -730,7 +746,7 @@
    "CODCOM": 10106,
    "delito": "LESIONES",
    "2024": 5,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -762,7 +778,7 @@
    "CODCOM": 10106,
    "delito": "HURTOS",
    "2024": 9,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -770,7 +786,7 @@
    "CODCOM": 10106,
    "delito": "LESIONES",
    "2024": 8,
-   "2025": 14,
+   "2025": 18,
    "COMUNA": "LOS MUERMOS"
   },
   {
@@ -799,7 +815,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

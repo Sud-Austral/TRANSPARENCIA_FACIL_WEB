@@ -12,19 +12,19 @@
   {
    "delito": "LESIONES",
    "CODCOM": 3103,
-   "2024": 56,
-   "2025": 62,
-   "variacion": 11,
+   "2024": 58,
+   "2025": 65,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3103,
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 3103,
-   "2024": 11,
+   "2024": 12,
    "2025": 1,
-   "variacion": -91,
+   "variacion": -92,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3103,
    "2024": 31,
-   "2025": 18,
-   "variacion": -42,
+   "2025": 20,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3103,
-   "2024": 92,
-   "2025": 60,
-   "variacion": -35,
+   "2024": 93,
+   "2025": 61,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -431,6 +431,14 @@
    "COMUNA": "TIERRA AMARILLA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 3103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "TIERRA AMARILLA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 3103,
    "anio": 2024,
@@ -1012,6 +1020,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 4,
+   "COMUNA": "TIERRA AMARILLA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 3103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1179,7 +1195,7 @@
    "CODCOM": 3103,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1300,15 +1316,15 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 56,
-   "2025": 62,
+   "2024": 58,
+   "2025": 65,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1332,7 +1348,7 @@
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 11,
+   "2024": 12,
    "2025": 1,
    "COMUNA": "TIERRA AMARILLA"
   },
@@ -1349,15 +1365,15 @@
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 31,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 92,
-   "2025": 60,
+   "2024": 93,
+   "2025": 61,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1396,8 +1412,16 @@
    "informacion": "Detenciones",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 14,
-   "2025": 23,
+   "2024": 15,
+   "2025": 24,
+   "COMUNA": "TIERRA AMARILLA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 3103,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1421,7 +1445,7 @@
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1452,8 +1476,16 @@
    "informacion": "Detenidos",
    "CODCOM": 3103,
    "delito": "LESIONES",
-   "2024": 23,
-   "2025": 41,
+   "2024": 25,
+   "2025": 43,
+   "COMUNA": "TIERRA AMARILLA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 3103,
+   "delito": "OTROS ROBOS CON FUERZA",
+   "2024": 1,
+   "2025": 0,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1477,7 +1509,7 @@
    "CODCOM": 3103,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 4,
-   "2025": 5,
+   "2025": 13,
    "COMUNA": "TIERRA AMARILLA"
   },
   {
@@ -1498,7 +1530,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Atacama"
  }
 }

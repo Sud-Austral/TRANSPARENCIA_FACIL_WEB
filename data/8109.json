@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 8109,
    "2024": 34,
-   "2025": 46,
-   "variacion": 35,
+   "2025": 47,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8109,
-   "2024": 6,
+   "2024": 7,
    "2025": 13,
-   "variacion": 117,
+   "variacion": 86,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8109,
-   "2024": 38,
+   "2024": 40,
    "2025": 40,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SANTA JUANA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8109,
    "2024": 31,
-   "2025": 12,
-   "variacion": -61,
+   "2025": 13,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA JUANA"
   },
@@ -451,7 +451,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1011,7 +1011,7 @@
    "CODCOM": 8109,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1069,7 +1069,7 @@
    "CODCOM": 8109,
    "delito": "LESIONES",
    "2024": 34,
-   "2025": 46,
+   "2025": 47,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1100,7 +1100,7 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 13,
    "COMUNA": "SANTA JUANA"
   },
@@ -1116,7 +1116,7 @@
    "informacion": "Casos",
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 38,
+   "2024": 40,
    "2025": 40,
    "COMUNA": "SANTA JUANA"
   },
@@ -1125,7 +1125,7 @@
    "CODCOM": 8109,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 31,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "SANTA JUANA"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Biobío"
  }
 }

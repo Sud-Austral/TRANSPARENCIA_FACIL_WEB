@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 16106,
    "2024": 17,
-   "2025": 21,
-   "variacion": 24,
+   "2025": 22,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "PINTO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16106,
-   "2024": 27,
-   "2025": 29,
+   "2024": 29,
+   "2025": 31,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "PINTO"
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16106,
    "2024": 12,
-   "2025": 28,
-   "variacion": 133,
+   "2025": 31,
+   "variacion": 158,
    "situación": "Aumento de Casos",
    "COMUNA": "PINTO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16106,
-   "2024": 17,
-   "2025": 15,
-   "variacion": -12,
+   "2024": 18,
+   "2025": 17,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "PINTO"
   },
@@ -250,7 +250,7 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PINTO"
   },
   {
@@ -402,6 +402,14 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 8,
+   "casos": 2,
+   "COMUNA": "PINTO"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 16106,
+   "anio": 2025,
+   "mes": 9,
    "casos": 2,
    "COMUNA": "PINTO"
   },
@@ -746,7 +754,7 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 9,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "PINTO"
   },
   {
@@ -858,7 +866,7 @@
    "CODCOM": 16106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "PINTO"
   },
   {
@@ -908,15 +916,15 @@
    "CODCOM": 16106,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "PINTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "LESIONES",
-   "2024": 27,
-   "2025": 29,
+   "2024": 29,
+   "2025": 31,
    "COMUNA": "PINTO"
   },
   {
@@ -956,15 +964,15 @@
    "CODCOM": 16106,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 28,
+   "2025": 31,
    "COMUNA": "PINTO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 17,
-   "2025": 15,
+   "2024": 18,
+   "2025": 17,
    "COMUNA": "PINTO"
   },
   {
@@ -1004,7 +1012,7 @@
    "CODCOM": 16106,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PINTO"
   },
   {
@@ -1036,7 +1044,7 @@
    "CODCOM": 16106,
    "delito": "LESIONES",
    "2024": 17,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "PINTO"
   },
   {
@@ -1049,7 +1057,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Ñuble"
  }
 }

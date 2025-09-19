@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 6103,
    "2024": 19,
-   "2025": 9,
-   "variacion": -53,
+   "2025": 10,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "COINCO"
   },
@@ -210,6 +210,14 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 8,
+   "casos": 1,
+   "COMUNA": "COINCO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6103,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "COINCO"
   },
@@ -732,7 +740,7 @@
    "CODCOM": 6103,
    "delito": "HURTOS",
    "2024": 19,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "COINCO"
   },
   {
@@ -913,7 +921,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

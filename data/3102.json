@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3102,
-   "2024": 77,
-   "2025": 64,
-   "variacion": -17,
+   "2024": 80,
+   "2025": 67,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 3102,
-   "2024": 108,
-   "2025": 100,
-   "variacion": -7,
+   "2024": 110,
+   "2025": 101,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 3102,
    "2024": 78,
-   "2025": 53,
-   "variacion": -32,
+   "2025": 54,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
@@ -76,18 +76,27 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 3102,
    "2024": 63,
-   "2025": 38,
-   "variacion": -40,
+   "2025": 39,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CALDERA"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 3102,
-   "2024": 9,
+   "2024": 10,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
+   "COMUNA": "CALDERA"
+  },
+  {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 3102,
+   "2024": 0,
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "CALDERA"
   },
   {
@@ -266,7 +275,7 @@
    "CODCOM": 3102,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "CALDERA"
   },
   {
@@ -434,7 +443,7 @@
    "CODCOM": 3102,
    "anio": 2025,
    "mes": 9,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "CALDERA"
   },
   {
@@ -1218,7 +1227,7 @@
    "CODCOM": 3102,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CALDERA"
   },
   {
@@ -1386,7 +1395,7 @@
    "CODCOM": 3102,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CALDERA"
   },
   {
@@ -1462,6 +1471,14 @@
    "COMUNA": "CALDERA"
   },
   {
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "CODCOM": 3102,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CALDERA"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 3102,
    "anio": 2024,
@@ -1507,16 +1524,16 @@
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "HURTOS",
-   "2024": 77,
-   "2025": 64,
+   "2024": 80,
+   "2025": 67,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "LESIONES",
-   "2024": 108,
-   "2025": 100,
+   "2024": 110,
+   "2025": 101,
    "COMUNA": "CALDERA"
   },
   {
@@ -1564,7 +1581,7 @@
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 78,
-   "2025": 53,
+   "2025": 54,
    "COMUNA": "CALDERA"
   },
   {
@@ -1572,15 +1589,23 @@
    "CODCOM": 3102,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 63,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "CALDERA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3102,
    "delito": "ROBO POR SORPRESA",
-   "2024": 9,
+   "2024": 10,
    "2025": 0,
+   "COMUNA": "CALDERA"
+  },
+  {
+   "informacion": "Casos",
+   "CODCOM": 3102,
+   "delito": "ROBO VIOLENTO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
    "COMUNA": "CALDERA"
   },
   {
@@ -1595,8 +1620,8 @@
    "informacion": "Detenciones",
    "CODCOM": 3102,
    "delito": "HURTOS",
-   "2024": 13,
-   "2025": 6,
+   "2024": 14,
+   "2025": 7,
    "COMUNA": "CALDERA"
   },
   {
@@ -1604,7 +1629,7 @@
    "CODCOM": 3102,
    "delito": "LESIONES",
    "2024": 25,
-   "2025": 33,
+   "2025": 34,
    "COMUNA": "CALDERA"
   },
   {
@@ -1675,8 +1700,8 @@
    "informacion": "Detenidos",
    "CODCOM": 3102,
    "delito": "HURTOS",
-   "2024": 17,
-   "2025": 6,
+   "2024": 19,
+   "2025": 7,
    "COMUNA": "CALDERA"
   },
   {
@@ -1684,7 +1709,7 @@
    "CODCOM": 3102,
    "delito": "LESIONES",
    "2024": 43,
-   "2025": 54,
+   "2025": 57,
    "COMUNA": "CALDERA"
   },
   {
@@ -1753,7 +1778,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Atacama"
  }
 }

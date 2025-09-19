@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13119,
-   "2024": 1076,
-   "2025": 1127,
+   "2024": 1119,
+   "2025": 1170,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13119,
-   "2024": 798,
-   "2025": 732,
-   "variacion": -8,
+   "2024": 824,
+   "2025": 750,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "MAIPU"
   },
@@ -31,16 +31,16 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13119,
    "2024": 80,
-   "2025": 85,
-   "variacion": 6,
+   "2025": 87,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13119,
-   "2024": 1236,
-   "2025": 1046,
+   "2024": 1261,
+   "2025": 1067,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "MAIPU"
@@ -48,8 +48,8 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13119,
-   "2024": 460,
-   "2025": 420,
+   "2024": 472,
+   "2025": 429,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "MAIPU"
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13119,
-   "2024": 875,
-   "2025": 918,
+   "2024": 904,
+   "2025": 948,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -66,8 +66,8 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13119,
-   "2024": 521,
-   "2025": 630,
+   "2024": 536,
+   "2025": 648,
    "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13119,
-   "2024": 402,
-   "2025": 430,
+   "2024": 414,
+   "2025": 444,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13119,
-   "2024": 414,
-   "2025": 521,
+   "2024": 419,
+   "2025": 530,
    "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -93,8 +93,8 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13119,
-   "2024": 491,
-   "2025": 565,
+   "2024": 506,
+   "2025": 584,
    "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13119,
-   "2024": 508,
-   "2025": 620,
-   "variacion": 22,
+   "2024": 524,
+   "2025": 630,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "MAIPU"
   },
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 13119,
    "2024": 23,
-   "2025": 21,
-   "variacion": -9,
-   "situación": "Disminución de Casos",
+   "2025": 23,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "MAIPU"
   }
  ],
@@ -452,7 +452,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 41,
+   "casos": 84,
    "COMUNA": "MAIPU"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 14,
+   "casos": 32,
    "COMUNA": "MAIPU"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "MAIPU"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 27,
+   "casos": 48,
    "COMUNA": "MAIPU"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 14,
+   "casos": 23,
    "COMUNA": "MAIPU"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 25,
+   "casos": 55,
    "COMUNA": "MAIPU"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 17,
+   "casos": 35,
    "COMUNA": "MAIPU"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 15,
+   "casos": 29,
    "COMUNA": "MAIPU"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 16,
    "COMUNA": "MAIPU"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 20,
+   "casos": 39,
    "COMUNA": "MAIPU"
   },
   {
@@ -2132,7 +2132,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 24,
+   "casos": 34,
    "COMUNA": "MAIPU"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 13119,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "MAIPU"
   }
  ],
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "HURTOS",
-   "2024": 1076,
-   "2025": 1127,
+   "2024": 1119,
+   "2025": 1170,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "LESIONES",
-   "2024": 798,
-   "2025": 732,
+   "2024": 824,
+   "2025": 750,
    "COMUNA": "MAIPU"
   },
   {
@@ -2334,71 +2334,71 @@
    "CODCOM": 13119,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 80,
-   "2025": 85,
+   "2025": 87,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1236,
-   "2025": 1046,
+   "2024": 1261,
+   "2025": 1067,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 460,
-   "2025": 420,
+   "2024": 472,
+   "2025": 429,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 875,
-   "2025": 918,
+   "2024": 904,
+   "2025": 948,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 521,
-   "2025": 630,
+   "2024": 536,
+   "2025": 648,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 402,
-   "2025": 430,
+   "2024": 414,
+   "2025": 444,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 414,
-   "2025": 521,
+   "2024": 419,
+   "2025": 530,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO POR SORPRESA",
-   "2024": 491,
-   "2025": 565,
+   "2024": 506,
+   "2025": 584,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13119,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 508,
-   "2025": 620,
+   "2024": 524,
+   "2025": 630,
    "COMUNA": "MAIPU"
   },
   {
@@ -2406,7 +2406,7 @@
    "CODCOM": 13119,
    "delito": "VIOLACIONES",
    "2024": 23,
-   "2025": 21,
+   "2025": 23,
    "COMUNA": "MAIPU"
   },
   {
@@ -2421,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13119,
    "delito": "HURTOS",
-   "2024": 358,
-   "2025": 421,
+   "2024": 366,
+   "2025": 435,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13119,
    "delito": "LESIONES",
-   "2024": 148,
-   "2025": 126,
+   "2024": 151,
+   "2025": 130,
    "COMUNA": "MAIPU"
   },
   {
@@ -2445,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13119,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 24,
+   "2024": 25,
    "2025": 23,
    "COMUNA": "MAIPU"
   },
@@ -2453,7 +2453,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13119,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 14,
+   "2024": 15,
    "2025": 4,
    "COMUNA": "MAIPU"
   },
@@ -2485,8 +2485,8 @@
    "informacion": "Detenciones",
    "CODCOM": 13119,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 29,
-   "2025": 37,
+   "2024": 30,
+   "2025": 38,
    "COMUNA": "MAIPU"
   },
   {
@@ -2494,7 +2494,7 @@
    "CODCOM": 13119,
    "delito": "ROBO POR SORPRESA",
    "2024": 11,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "MAIPU"
   },
   {
@@ -2525,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13119,
    "delito": "HURTOS",
-   "2024": 402,
-   "2025": 443,
+   "2024": 411,
+   "2025": 460,
    "COMUNA": "MAIPU"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13119,
    "delito": "LESIONES",
-   "2024": 260,
-   "2025": 196,
+   "2024": 265,
+   "2025": 206,
    "COMUNA": "MAIPU"
   },
   {
@@ -2549,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13119,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 31,
+   "2024": 33,
    "2025": 33,
    "COMUNA": "MAIPU"
   },
@@ -2557,7 +2557,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13119,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 24,
+   "2024": 26,
    "2025": 5,
    "COMUNA": "MAIPU"
   },
@@ -2589,8 +2589,8 @@
    "informacion": "Detenidos",
    "CODCOM": 13119,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
-   "2025": 49,
+   "2024": 46,
+   "2025": 51,
    "COMUNA": "MAIPU"
   },
   {
@@ -2598,7 +2598,7 @@
    "CODCOM": 13119,
    "delito": "ROBO POR SORPRESA",
    "2024": 12,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "MAIPU"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

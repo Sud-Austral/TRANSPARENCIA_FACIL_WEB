@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13203,
-   "2024": 55,
-   "2025": 35,
+   "2024": 56,
+   "2025": 36,
    "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
@@ -21,18 +21,18 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13203,
-   "2024": 93,
-   "2025": 66,
-   "variacion": -29,
+   "2024": 97,
+   "2025": 67,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13203,
-   "2024": 5,
-   "2025": 3,
-   "variacion": -40,
+   "2024": 7,
+   "2025": 4,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13203,
-   "2024": 34,
-   "2025": 30,
-   "variacion": -12,
+   "2024": 35,
+   "2025": 31,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -94,9 +94,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13203,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 13203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2317,24 +2317,24 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "HURTOS",
-   "2024": 55,
-   "2025": 35,
+   "2024": 56,
+   "2025": 36,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "LESIONES",
-   "2024": 93,
-   "2025": 66,
+   "2024": 97,
+   "2025": 67,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 5,
-   "2025": 3,
+   "2024": 7,
+   "2025": 4,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2373,8 +2373,8 @@
    "informacion": "Casos",
    "CODCOM": 13203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 34,
-   "2025": 30,
+   "2024": 35,
+   "2025": 31,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2390,7 +2390,7 @@
    "CODCOM": 13203,
    "delito": "ROBO POR SORPRESA",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2429,7 +2429,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13203,
    "delito": "LESIONES",
-   "2024": 25,
+   "2024": 26,
    "2025": 18,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2437,7 +2437,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13203,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2478,7 +2478,7 @@
    "CODCOM": 13203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2533,7 +2533,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13203,
    "delito": "LESIONES",
-   "2024": 50,
+   "2024": 52,
    "2025": 33,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2541,7 +2541,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13203,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
@@ -2582,7 +2582,7 @@
    "CODCOM": 13203,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "SAN JOSÉ DE MAIPO"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

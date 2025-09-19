@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13503,
-   "2024": 67,
-   "2025": 89,
-   "variacion": 33,
+   "2024": 70,
+   "2025": 90,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13503,
-   "2024": 156,
-   "2025": 123,
-   "variacion": -21,
+   "2024": 158,
+   "2025": 127,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACAVI"
   },
@@ -31,9 +31,9 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 13503,
    "2024": 6,
-   "2025": 6,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 8,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13503,
    "2024": 30,
-   "2025": 33,
-   "variacion": 10,
+   "2025": 34,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13503,
-   "2024": 76,
-   "2025": 95,
-   "variacion": 25,
+   "2024": 77,
+   "2025": 99,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "CURACAVI"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13503,
-   "2024": 78,
-   "2025": 57,
-   "variacion": -27,
+   "2024": 80,
+   "2025": 58,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "CURACAVI"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CURACAVI"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "CURACAVI"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "CURACAVI"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 13503,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "HURTOS",
-   "2024": 67,
-   "2025": 89,
+   "2024": 70,
+   "2025": 90,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "LESIONES",
-   "2024": 156,
-   "2025": 123,
+   "2024": 158,
+   "2025": 127,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2334,7 +2334,7 @@
    "CODCOM": 13503,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 6,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2358,7 +2358,7 @@
    "CODCOM": 13503,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 30,
-   "2025": 33,
+   "2025": 34,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2373,16 +2373,16 @@
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 76,
-   "2025": 95,
+   "2024": 77,
+   "2025": 99,
    "COMUNA": "CURACAVI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 78,
-   "2025": 57,
+   "2024": 80,
+   "2025": 58,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 13503,
    "delito": "LESIONES",
    "2024": 37,
-   "2025": 36,
+   "2025": 38,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2438,7 +2438,7 @@
    "CODCOM": 13503,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 1,
-   "2025": 0,
+   "2025": 2,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2534,7 +2534,7 @@
    "CODCOM": 13503,
    "delito": "LESIONES",
    "2024": 68,
-   "2025": 59,
+   "2025": 63,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2542,7 +2542,7 @@
    "CODCOM": 13503,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 2,
-   "2025": 0,
+   "2025": 4,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2582,7 +2582,7 @@
    "CODCOM": 13503,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "CURACAVI"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

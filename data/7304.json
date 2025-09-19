@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7304,
-   "2024": 180,
-   "2025": 167,
-   "variacion": -7,
+   "2024": 188,
+   "2025": 173,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7304,
-   "2024": 123,
-   "2025": 123,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 125,
+   "2025": 124,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
   {
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7304,
    "2024": 14,
-   "2025": 23,
-   "variacion": 64,
+   "2025": 25,
+   "variacion": 79,
    "situación": "Aumento de Casos",
    "COMUNA": "MOLINA"
   },
@@ -58,17 +58,17 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7304,
    "2024": 22,
-   "2025": 19,
-   "variacion": -14,
+   "2025": 21,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7304,
-   "2024": 21,
-   "2025": 13,
-   "variacion": -38,
+   "2024": 22,
+   "2025": 14,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7304,
    "2024": 60,
-   "2025": 47,
-   "variacion": -22,
+   "2025": 49,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7304,
-   "2024": 108,
-   "2025": 73,
-   "variacion": -32,
+   "2024": 113,
+   "2025": 75,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "MOLINA"
   },
@@ -94,9 +94,9 @@
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7304,
    "2024": 14,
-   "2025": 14,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 15,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
    "COMUNA": "MOLINA"
   },
   {
@@ -112,9 +112,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 7304,
    "2024": 5,
-   "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 6,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "MOLINA"
   }
  ],
@@ -452,7 +452,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 6,
+   "casos": 12,
    "COMUNA": "MOLINA"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "MOLINA"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "MOLINA"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "MOLINA"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "MOLINA"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "MOLINA"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "MOLINA"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "MOLINA"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 7304,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "MOLINA"
   }
  ],
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 7304,
    "delito": "HURTOS",
-   "2024": 180,
-   "2025": 167,
+   "2024": 188,
+   "2025": 173,
    "COMUNA": "MOLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7304,
    "delito": "LESIONES",
-   "2024": 123,
-   "2025": 123,
+   "2024": 125,
+   "2025": 124,
    "COMUNA": "MOLINA"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 7304,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 14,
-   "2025": 23,
+   "2025": 25,
    "COMUNA": "MOLINA"
   },
   {
@@ -2358,15 +2358,15 @@
    "CODCOM": 7304,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 22,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "MOLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7304,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 21,
-   "2025": 13,
+   "2024": 22,
+   "2025": 14,
    "COMUNA": "MOLINA"
   },
   {
@@ -2374,15 +2374,15 @@
    "CODCOM": 7304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 60,
-   "2025": 47,
+   "2025": 49,
    "COMUNA": "MOLINA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7304,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 108,
-   "2025": 73,
+   "2024": 113,
+   "2025": 75,
    "COMUNA": "MOLINA"
   },
   {
@@ -2390,7 +2390,7 @@
    "CODCOM": 7304,
    "delito": "ROBO POR SORPRESA",
    "2024": 14,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "MOLINA"
   },
   {
@@ -2406,7 +2406,7 @@
    "CODCOM": 7304,
    "delito": "VIOLACIONES",
    "2024": 5,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "MOLINA"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7304,
    "delito": "HURTOS",
-   "2024": 32,
+   "2024": 33,
    "2025": 32,
    "COMUNA": "MOLINA"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenciones",
    "CODCOM": 7304,
    "delito": "LESIONES",
-   "2024": 41,
-   "2025": 42,
+   "2024": 42,
+   "2025": 43,
    "COMUNA": "MOLINA"
   },
   {
@@ -2454,7 +2454,7 @@
    "CODCOM": 7304,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "MOLINA"
   },
   {
@@ -2525,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7304,
    "delito": "HURTOS",
-   "2024": 37,
+   "2024": 38,
    "2025": 40,
    "COMUNA": "MOLINA"
   },
@@ -2533,8 +2533,8 @@
    "informacion": "Detenidos",
    "CODCOM": 7304,
    "delito": "LESIONES",
-   "2024": 61,
-   "2025": 76,
+   "2024": 62,
+   "2025": 78,
    "COMUNA": "MOLINA"
   },
   {
@@ -2558,7 +2558,7 @@
    "CODCOM": 7304,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "MOLINA"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

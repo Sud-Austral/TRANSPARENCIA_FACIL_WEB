@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7408,
-   "2024": 17,
+   "2024": 19,
    "2025": 16,
-   "variacion": -6,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7408,
-   "2024": 32,
-   "2025": 45,
-   "variacion": 41,
+   "2024": 33,
+   "2025": 46,
+   "variacion": 39,
    "situación": "Aumento de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 7408,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
@@ -75,10 +75,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7408,
-   "2024": 20,
+   "2024": 22,
    "2025": 20,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -9,
+   "situación": "Disminución de Casos",
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -393,7 +393,7 @@
    "CODCOM": 7408,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -489,6 +489,14 @@
    "CODCOM": 7408,
    "anio": 2024,
    "mes": 11,
+   "casos": 1,
+   "COMUNA": "YERBAS BUENAS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 7408,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "YERBAS BUENAS"
   },
@@ -858,7 +866,7 @@
    "informacion": "Casos",
    "CODCOM": 7408,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 19,
    "2025": 16,
    "COMUNA": "YERBAS BUENAS"
   },
@@ -866,8 +874,8 @@
    "informacion": "Casos",
    "CODCOM": 7408,
    "delito": "LESIONES",
-   "2024": 32,
-   "2025": 45,
+   "2024": 33,
+   "2025": 46,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -891,7 +899,7 @@
    "CODCOM": 7408,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -922,7 +930,7 @@
    "informacion": "Casos",
    "CODCOM": 7408,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
+   "2024": 22,
    "2025": 20,
    "COMUNA": "YERBAS BUENAS"
   },
@@ -938,8 +946,8 @@
    "informacion": "Detenciones",
    "CODCOM": 7408,
    "delito": "LESIONES",
-   "2024": 15,
-   "2025": 23,
+   "2024": 16,
+   "2025": 24,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -954,8 +962,8 @@
    "informacion": "Detenidos",
    "CODCOM": 7408,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 47,
+   "2024": 28,
+   "2025": 48,
    "COMUNA": "YERBAS BUENAS"
   },
   {
@@ -968,7 +976,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 10302,
-   "2024": 33,
-   "2025": 22,
-   "variacion": -33,
+   "2024": 34,
+   "2025": 23,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "PUERTO OCTAY"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10302,
-   "2024": 8,
+   "2024": 9,
    "2025": 18,
-   "variacion": 125,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "PUERTO OCTAY"
   },
@@ -396,6 +396,14 @@
    "COMUNA": "PUERTO OCTAY"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 10302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PUERTO OCTAY"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 10302,
    "anio": 2025,
@@ -673,8 +681,8 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "LESIONES",
-   "2024": 33,
-   "2025": 22,
+   "2024": 34,
+   "2025": 23,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -705,7 +713,7 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 8,
+   "2024": 9,
    "2025": 18,
    "COMUNA": "PUERTO OCTAY"
   },
@@ -745,8 +753,8 @@
    "informacion": "Detenciones",
    "CODCOM": 10302,
    "delito": "LESIONES",
-   "2024": 8,
-   "2025": 12,
+   "2024": 9,
+   "2025": 13,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -769,8 +777,8 @@
    "informacion": "Detenidos",
    "CODCOM": 10302,
    "delito": "LESIONES",
-   "2024": 12,
-   "2025": 17,
+   "2024": 17,
+   "2025": 19,
    "COMUNA": "PUERTO OCTAY"
   },
   {
@@ -783,7 +791,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

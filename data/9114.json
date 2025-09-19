@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9114,
-   "2024": 79,
-   "2025": 90,
-   "variacion": 14,
+   "2024": 82,
+   "2025": 92,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9114,
-   "2024": 71,
-   "2025": 73,
-   "variacion": 3,
+   "2024": 73,
+   "2025": 74,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9114,
-   "2024": 5,
-   "2025": 7,
-   "variacion": 40,
+   "2024": 6,
+   "2025": 8,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 9114,
    "2024": 7,
-   "2025": 9,
-   "variacion": 29,
+   "2025": 10,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9114,
-   "2024": 56,
+   "2024": 57,
    "2025": 50,
-   "variacion": -11,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9114,
-   "2024": 45,
+   "2024": 47,
    "2025": 42,
-   "variacion": -7,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "PITRUFQUÉN"
   },
@@ -103,9 +103,9 @@
    "delito": "VIOLACIONES",
    "CODCOM": 9114,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "PITRUFQUÉN"
   }
  ],
@@ -283,7 +283,7 @@
    "CODCOM": 9114,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -447,6 +447,14 @@
    "COMUNA": "PITRUFQUÉN"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 9114,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PITRUFQUÉN"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9114,
    "anio": 2024,
@@ -571,7 +579,7 @@
    "CODCOM": 9114,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -772,6 +780,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PITRUFQUÉN"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 9114,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1277,6 +1293,14 @@
    "mes": 8,
    "casos": 2,
    "COMUNA": "PITRUFQUÉN"
+  },
+  {
+   "delito": "VIOLACIONES",
+   "CODCOM": 9114,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PITRUFQUÉN"
   }
  ],
  "info": [
@@ -1292,16 +1316,16 @@
    "informacion": "Casos",
    "CODCOM": 9114,
    "delito": "HURTOS",
-   "2024": 79,
-   "2025": 90,
+   "2024": 82,
+   "2025": 92,
    "COMUNA": "PITRUFQUÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9114,
    "delito": "LESIONES",
-   "2024": 71,
-   "2025": 73,
+   "2024": 73,
+   "2025": 74,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1316,8 +1340,8 @@
    "informacion": "Casos",
    "CODCOM": 9114,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
-   "2025": 7,
+   "2024": 6,
+   "2025": 8,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1333,7 +1357,7 @@
    "CODCOM": 9114,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 7,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1348,7 +1372,7 @@
    "informacion": "Casos",
    "CODCOM": 9114,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 56,
+   "2024": 57,
    "2025": 50,
    "COMUNA": "PITRUFQUÉN"
   },
@@ -1356,7 +1380,7 @@
    "informacion": "Casos",
    "CODCOM": 9114,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
+   "2024": 47,
    "2025": 42,
    "COMUNA": "PITRUFQUÉN"
   },
@@ -1373,7 +1397,7 @@
    "CODCOM": 9114,
    "delito": "VIOLACIONES",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1389,14 +1413,14 @@
    "CODCOM": 9114,
    "delito": "HURTOS",
    "2024": 14,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "PITRUFQUÉN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 9114,
    "delito": "LESIONES",
-   "2024": 27,
+   "2024": 28,
    "2025": 29,
    "COMUNA": "PITRUFQUÉN"
   },
@@ -1413,7 +1437,7 @@
    "CODCOM": 9114,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1485,14 +1509,14 @@
    "CODCOM": 9114,
    "delito": "HURTOS",
    "2024": 16,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "PITRUFQUÉN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 9114,
    "delito": "LESIONES",
-   "2024": 36,
+   "2024": 37,
    "2025": 41,
    "COMUNA": "PITRUFQUÉN"
   },
@@ -1509,7 +1533,7 @@
    "CODCOM": 9114,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "PITRUFQUÉN"
   },
   {
@@ -1570,7 +1594,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 9116,
    "2024": 36,
-   "2025": 30,
-   "variacion": -17,
+   "2025": 31,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAAVEDRA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 9116,
    "2024": 0,
-   "2025": 1,
-   "variacion": 100,
+   "2025": 2,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "SAAVEDRA"
   },
@@ -66,10 +66,10 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9116,
-   "2024": 20,
+   "2024": 21,
    "2025": 21,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -449,7 +449,7 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -505,6 +505,14 @@
    "CODCOM": 9116,
    "anio": 2025,
    "mes": 6,
+   "casos": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 9116,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "SAAVEDRA"
   },
@@ -787,7 +795,7 @@
    "CODCOM": 9116,
    "delito": "LESIONES",
    "2024": 36,
-   "2025": 30,
+   "2025": 31,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -811,7 +819,7 @@
    "CODCOM": 9116,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAAVEDRA"
   },
   {
@@ -826,7 +834,7 @@
    "informacion": "Casos",
    "CODCOM": 9116,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
+   "2024": 21,
    "2025": 21,
    "COMUNA": "SAAVEDRA"
   },
@@ -873,6 +881,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 9116,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 9116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
    "2025": 0,
@@ -905,6 +921,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 9116,
+   "delito": "ROBO DE VEHÍCULO",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAAVEDRA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 9116,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 3,
    "2025": 0,
@@ -912,7 +936,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10202,
-   "2024": 101,
-   "2025": 88,
-   "variacion": -13,
+   "2024": 103,
+   "2025": 89,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10202,
-   "2024": 115,
-   "2025": 114,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 116,
+   "2025": 117,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
   {
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10202,
    "2024": 10,
-   "2025": 3,
-   "variacion": -70,
+   "2025": 4,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
@@ -75,27 +75,27 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10202,
-   "2024": 30,
+   "2024": 31,
    "2025": 34,
-   "variacion": 13,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 10202,
-   "2024": 28,
+   "2024": 29,
    "2025": 44,
-   "variacion": 57,
+   "variacion": 52,
    "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 10202,
-   "2024": 6,
+   "2024": 8,
    "2025": 5,
-   "variacion": -17,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "ANCUD"
   },
@@ -103,9 +103,9 @@
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 10202,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "ANCUD"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ANCUD"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "ANCUD"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ANCUD"
   },
   {
@@ -2132,7 +2132,7 @@
    "CODCOM": 10202,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ANCUD"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "HURTOS",
-   "2024": 101,
-   "2025": 88,
+   "2024": 103,
+   "2025": 89,
    "COMUNA": "ANCUD"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "LESIONES",
-   "2024": 115,
-   "2025": 114,
+   "2024": 116,
+   "2025": 117,
    "COMUNA": "ANCUD"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 10202,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 10,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "ANCUD"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 30,
+   "2024": 31,
    "2025": 34,
    "COMUNA": "ANCUD"
   },
@@ -2381,7 +2381,7 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 28,
+   "2024": 29,
    "2025": 44,
    "COMUNA": "ANCUD"
   },
@@ -2389,7 +2389,7 @@
    "informacion": "Casos",
    "CODCOM": 10202,
    "delito": "ROBO POR SORPRESA",
-   "2024": 6,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "ANCUD"
   },
@@ -2398,7 +2398,7 @@
    "CODCOM": 10202,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "ANCUD"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 10202,
    "delito": "LESIONES",
    "2024": 48,
-   "2025": 53,
+   "2025": 54,
    "COMUNA": "ANCUD"
   },
   {
@@ -2493,7 +2493,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10202,
    "delito": "ROBO POR SORPRESA",
-   "2024": 3,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "ANCUD"
   },
@@ -2534,7 +2534,7 @@
    "CODCOM": 10202,
    "delito": "LESIONES",
    "2024": 80,
-   "2025": 97,
+   "2025": 99,
    "COMUNA": "ANCUD"
   },
   {
@@ -2597,7 +2597,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10202,
    "delito": "ROBO POR SORPRESA",
-   "2024": 5,
+   "2024": 9,
    "2025": 1,
    "COMUNA": "ANCUD"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

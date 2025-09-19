@@ -4,16 +4,16 @@
    "delito": "HOMICIDIOS",
    "CODCOM": 13122,
    "2024": 1,
-   "2025": 2,
-   "variacion": 100,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 13122,
-   "2024": 403,
-   "2025": 379,
+   "2024": 415,
+   "2025": 392,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "PENALOLEN"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 13122,
-   "2024": 381,
-   "2025": 299,
-   "variacion": -22,
+   "2024": 391,
+   "2025": 313,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PENALOLEN"
   },
@@ -39,26 +39,26 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13122,
-   "2024": 245,
-   "2025": 277,
-   "variacion": 13,
+   "2024": 249,
+   "2025": 280,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 13122,
-   "2024": 134,
-   "2025": 115,
-   "variacion": -14,
+   "2024": 136,
+   "2025": 118,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13122,
-   "2024": 371,
-   "2025": 427,
+   "2024": 382,
+   "2025": 441,
    "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
@@ -66,8 +66,8 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13122,
-   "2024": 253,
-   "2025": 276,
+   "2024": 259,
+   "2025": 282,
    "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
@@ -75,36 +75,36 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13122,
-   "2024": 177,
-   "2025": 248,
-   "variacion": 40,
+   "2024": 179,
+   "2025": 252,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13122,
-   "2024": 132,
+   "2024": 133,
    "2025": 133,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 13122,
-   "2024": 186,
-   "2025": 212,
-   "variacion": 14,
+   "2024": 196,
+   "2025": 215,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "PENALOLEN"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13122,
-   "2024": 132,
+   "2024": 133,
    "2025": 103,
-   "variacion": -22,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "PENALOLEN"
   },
@@ -284,7 +284,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 10,
+   "casos": 23,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 12,
+   "casos": 26,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 11,
+   "casos": 14,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 8,
+   "casos": 22,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 13,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 11,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 13122,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 10,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -2310,23 +2310,23 @@
    "CODCOM": 13122,
    "delito": "HOMICIDIOS",
    "2024": 1,
-   "2025": 2,
+   "2025": 4,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "HURTOS",
-   "2024": 403,
-   "2025": 379,
+   "2024": 415,
+   "2025": 392,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "LESIONES",
-   "2024": 381,
-   "2025": 299,
+   "2024": 391,
+   "2025": 313,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -2341,47 +2341,47 @@
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 245,
-   "2025": 277,
+   "2024": 249,
+   "2025": 280,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 134,
-   "2025": 115,
+   "2024": 136,
+   "2025": 118,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 371,
-   "2025": 427,
+   "2024": 382,
+   "2025": 441,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 253,
-   "2025": 276,
+   "2024": 259,
+   "2025": 282,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 177,
-   "2025": 248,
+   "2024": 179,
+   "2025": 252,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 132,
+   "2024": 133,
    "2025": 133,
    "COMUNA": "PENALOLEN"
   },
@@ -2389,15 +2389,15 @@
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO POR SORPRESA",
-   "2024": 186,
-   "2025": 212,
+   "2024": 196,
+   "2025": 215,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13122,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 132,
+   "2024": 133,
    "2025": 103,
    "COMUNA": "PENALOLEN"
   },
@@ -2421,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 13122,
    "delito": "HURTOS",
-   "2024": 136,
-   "2025": 118,
+   "2024": 138,
+   "2025": 124,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 13122,
    "delito": "LESIONES",
-   "2024": 57,
-   "2025": 64,
+   "2024": 59,
+   "2025": 69,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -2501,7 +2501,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13122,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "PENALOLEN"
   },
@@ -2525,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 13122,
    "delito": "HURTOS",
-   "2024": 146,
-   "2025": 124,
+   "2024": 148,
+   "2025": 130,
    "COMUNA": "PENALOLEN"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 13122,
    "delito": "LESIONES",
-   "2024": 102,
-   "2025": 96,
+   "2024": 106,
+   "2025": 104,
    "COMUNA": "PENALOLEN"
   },
   {
@@ -2605,7 +2605,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13122,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 3,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "PENALOLEN"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

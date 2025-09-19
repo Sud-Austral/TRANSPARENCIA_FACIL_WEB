@@ -4,35 +4,35 @@
    "delito": "HURTOS",
    "CODCOM": 2104,
    "2024": 33,
-   "2025": 24,
-   "variacion": -27,
+   "2025": 26,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "TALTAL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 2104,
-   "2024": 62,
-   "2025": 39,
-   "variacion": -37,
+   "2024": 64,
+   "2025": 40,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "TALTAL"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 2104,
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
-   "variacion": 33,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TALTAL"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 2104,
    "2024": 8,
-   "2025": 4,
-   "variacion": -50,
+   "2025": 5,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "TALTAL"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 2104,
-   "2024": 23,
-   "2025": 15,
-   "variacion": -35,
+   "2024": 24,
+   "2025": 16,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "TALTAL"
   },
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 2104,
    "2024": 12,
-   "2025": 20,
-   "variacion": 67,
+   "2025": 21,
+   "variacion": 75,
    "situación": "Aumento de Casos",
    "COMUNA": "TALTAL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 2104,
-   "2024": 20,
+   "2024": 21,
    "2025": 33,
-   "variacion": 65,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "TALTAL"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 2104,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TALTAL"
   }
  ],
@@ -259,6 +259,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "TALTAL"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "TALTAL"
   },
   {
@@ -426,7 +434,7 @@
    "CODCOM": 2104,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "TALTAL"
   },
   {
@@ -587,6 +595,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "TALTAL"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "TALTAL"
   },
   {
@@ -779,6 +795,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "TALTAL"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 2104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "TALTAL"
   },
   {
@@ -955,6 +979,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "TALTAL"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 2104,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "TALTAL"
   },
   {
@@ -1172,22 +1204,22 @@
    "CODCOM": 2104,
    "delito": "HURTOS",
    "2024": 33,
-   "2025": 24,
+   "2025": 26,
    "COMUNA": "TALTAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2104,
    "delito": "LESIONES",
-   "2024": 62,
-   "2025": 39,
+   "2024": 64,
+   "2025": 40,
    "COMUNA": "TALTAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2104,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 3,
+   "2024": 4,
    "2025": 4,
    "COMUNA": "TALTAL"
   },
@@ -1196,7 +1228,7 @@
    "CODCOM": 2104,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 8,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "TALTAL"
   },
   {
@@ -1211,8 +1243,8 @@
    "informacion": "Casos",
    "CODCOM": 2104,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 23,
-   "2025": 15,
+   "2024": 24,
+   "2025": 16,
    "COMUNA": "TALTAL"
   },
   {
@@ -1228,14 +1260,14 @@
    "CODCOM": 2104,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "TALTAL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2104,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 20,
+   "2024": 21,
    "2025": 33,
    "COMUNA": "TALTAL"
   },
@@ -1251,7 +1283,7 @@
    "informacion": "Casos",
    "CODCOM": 2104,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "TALTAL"
   },
@@ -1267,7 +1299,7 @@
    "informacion": "Detenciones",
    "CODCOM": 2104,
    "delito": "LESIONES",
-   "2024": 29,
+   "2024": 31,
    "2025": 13,
    "COMUNA": "TALTAL"
   },
@@ -1292,7 +1324,7 @@
    "CODCOM": 2104,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TALTAL"
   },
   {
@@ -1315,7 +1347,7 @@
    "informacion": "Detenciones",
    "CODCOM": 2104,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "TALTAL"
   },
@@ -1331,7 +1363,7 @@
    "informacion": "Detenidos",
    "CODCOM": 2104,
    "delito": "LESIONES",
-   "2024": 54,
+   "2024": 58,
    "2025": 23,
    "COMUNA": "TALTAL"
   },
@@ -1356,7 +1388,7 @@
    "CODCOM": 2104,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "TALTAL"
   },
   {
@@ -1379,13 +1411,13 @@
    "informacion": "Detenidos",
    "CODCOM": 2104,
    "delito": "VIOLACIONES",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "TALTAL"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Antofagasta"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5302,
-   "2024": 35,
+   "2024": 38,
    "2025": 19,
-   "variacion": -46,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5302,
    "2024": 12,
-   "2025": 9,
-   "variacion": -25,
+   "2025": 10,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "CALLE LARGA"
   },
@@ -75,8 +75,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5302,
-   "2024": 20,
-   "2025": 18,
+   "2024": 21,
+   "2025": 19,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "CALLE LARGA"
@@ -772,7 +772,7 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1012,7 +1012,7 @@
    "CODCOM": 5302,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1237,7 +1237,7 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 35,
+   "2024": 38,
    "2025": 19,
    "COMUNA": "CALLE LARGA"
   },
@@ -1278,7 +1278,7 @@
    "CODCOM": 5302,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 12,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1293,8 +1293,8 @@
    "informacion": "Casos",
    "CODCOM": 5302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 20,
-   "2025": 18,
+   "2024": 21,
+   "2025": 19,
    "COMUNA": "CALLE LARGA"
   },
   {
@@ -1333,7 +1333,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 3,
    "2025": 2,
    "COMUNA": "CALLE LARGA"
   },
@@ -1365,7 +1365,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "CALLE LARGA"
   },
@@ -1389,7 +1389,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5302,
    "delito": "HURTOS",
-   "2024": 2,
+   "2024": 4,
    "2025": 2,
    "COMUNA": "CALLE LARGA"
   },
@@ -1421,7 +1421,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5302,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "CALLE LARGA"
   },
@@ -1443,7 +1443,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

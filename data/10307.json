@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10307,
-   "2024": 38,
-   "2025": 55,
-   "variacion": 45,
+   "2024": 39,
+   "2025": 57,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10307,
-   "2024": 26,
+   "2024": 27,
    "2025": 29,
-   "variacion": 12,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN PABLO"
   },
@@ -48,10 +48,10 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10307,
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
-   "variacion": 17,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SAN PABLO"
   },
   {
@@ -257,7 +257,7 @@
    "CODCOM": 10307,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "SAN PABLO"
   },
   {
@@ -890,15 +890,15 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "HURTOS",
-   "2024": 38,
-   "2025": 55,
+   "2024": 39,
+   "2025": 57,
    "COMUNA": "SAN PABLO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 26,
+   "2024": 27,
    "2025": 29,
    "COMUNA": "SAN PABLO"
   },
@@ -930,7 +930,7 @@
    "informacion": "Casos",
    "CODCOM": 10307,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 6,
+   "2024": 7,
    "2025": 7,
    "COMUNA": "SAN PABLO"
   },
@@ -978,7 +978,7 @@
    "informacion": "Detenciones",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 11,
+   "2024": 12,
    "2025": 12,
    "COMUNA": "SAN PABLO"
   },
@@ -1026,7 +1026,7 @@
    "informacion": "Detenidos",
    "CODCOM": 10307,
    "delito": "LESIONES",
-   "2024": 25,
+   "2024": 26,
    "2025": 20,
    "COMUNA": "SAN PABLO"
   },
@@ -1064,7 +1064,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

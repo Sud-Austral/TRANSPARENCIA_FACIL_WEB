@@ -3,8 +3,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6302,
-   "2024": 24,
-   "2025": 21,
+   "2024": 25,
+   "2025": 22,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "CHÉPICA"
@@ -39,27 +39,27 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6302,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHÉPICA"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6302,
    "2024": 3,
-   "2025": 2,
-   "variacion": -33,
-   "situación": "Disminución de Casos",
+   "2025": 3,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "CHÉPICA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6302,
    "2024": 7,
-   "2025": 14,
-   "variacion": 100,
+   "2025": 15,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "CHÉPICA"
   },
@@ -250,6 +250,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "CHÉPICA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -581,6 +589,14 @@
    "COMUNA": "CHÉPICA"
   },
   {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 6302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "CHÉPICA"
+  },
+  {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6302,
    "anio": 2024,
@@ -698,6 +714,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "CHÉPICA"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -850,8 +874,8 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "HURTOS",
-   "2024": 24,
-   "2025": 21,
+   "2024": 25,
+   "2025": 22,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -882,7 +906,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "CHÉPICA"
   },
@@ -891,7 +915,7 @@
    "CODCOM": 6302,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 3,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -899,7 +923,7 @@
    "CODCOM": 6302,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 7,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -931,7 +955,7 @@
    "CODCOM": 6302,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -979,7 +1003,7 @@
    "CODCOM": 6302,
    "delito": "HURTOS",
    "2024": 1,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CHÉPICA"
   },
   {
@@ -1024,7 +1048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

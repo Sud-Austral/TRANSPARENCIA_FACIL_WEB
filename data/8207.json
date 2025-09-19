@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8207,
-   "2024": 14,
+   "2024": 15,
    "2025": 10,
-   "variacion": -29,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "TIRÚA"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8207,
    "2024": 9,
-   "2025": 7,
-   "variacion": -22,
+   "2025": 8,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "TIRÚA"
   },
@@ -548,6 +548,14 @@
    "COMUNA": "TIRÚA"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "TIRÚA"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8207,
    "anio": 2024,
@@ -633,7 +641,7 @@
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "HURTOS",
-   "2024": 14,
+   "2024": 15,
    "2025": 10,
    "COMUNA": "TIRÚA"
   },
@@ -682,7 +690,7 @@
    "CODCOM": 8207,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "TIRÚA"
   },
   {
@@ -783,7 +791,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Biobío"
  }
 }

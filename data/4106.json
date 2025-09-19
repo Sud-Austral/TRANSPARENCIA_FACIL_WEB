@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4106,
-   "2024": 100,
-   "2025": 81,
-   "variacion": -19,
+   "2024": 102,
+   "2025": 82,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4106,
-   "2024": 86,
-   "2025": 100,
-   "variacion": 16,
+   "2024": 87,
+   "2025": 102,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4106,
    "2024": 5,
-   "2025": 9,
-   "variacion": 80,
+   "2025": 10,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4106,
    "2024": 9,
-   "2025": 13,
-   "variacion": 44,
+   "2025": 16,
+   "variacion": 78,
    "situación": "Aumento de Casos",
    "COMUNA": "VICUNA"
   },
@@ -76,16 +76,16 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4106,
    "2024": 46,
-   "2025": 41,
-   "variacion": -11,
+   "2025": 42,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4106,
-   "2024": 56,
-   "2025": 50,
+   "2024": 57,
+   "2025": 51,
    "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "VICUNA"
@@ -452,7 +452,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "VICUNA"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 10,
+   "casos": 12,
    "COMUNA": "VICUNA"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "VICUNA"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "VICUNA"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "VICUNA"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 4106,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "VICUNA"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "HURTOS",
-   "2024": 100,
-   "2025": 81,
+   "2024": 102,
+   "2025": 82,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "LESIONES",
-   "2024": 86,
-   "2025": 100,
+   "2024": 87,
+   "2025": 102,
    "COMUNA": "VICUNA"
   },
   {
@@ -2342,7 +2342,7 @@
    "CODCOM": 4106,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 5,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "VICUNA"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 4106,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 9,
-   "2025": 13,
+   "2025": 16,
    "COMUNA": "VICUNA"
   },
   {
@@ -2374,15 +2374,15 @@
    "CODCOM": 4106,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 46,
-   "2025": 41,
+   "2025": 42,
    "COMUNA": "VICUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 56,
-   "2025": 50,
+   "2024": 57,
+   "2025": 51,
    "COMUNA": "VICUNA"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4106,
    "delito": "HURTOS",
-   "2024": 21,
+   "2024": 23,
    "2025": 17,
    "COMUNA": "VICUNA"
   },
@@ -2430,7 +2430,7 @@
    "CODCOM": 4106,
    "delito": "LESIONES",
    "2024": 18,
-   "2025": 40,
+   "2025": 42,
    "COMUNA": "VICUNA"
   },
   {
@@ -2454,7 +2454,7 @@
    "CODCOM": 4106,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "VICUNA"
   },
   {
@@ -2485,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 4106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 4,
    "2025": 5,
    "COMUNA": "VICUNA"
   },
@@ -2525,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4106,
    "delito": "HURTOS",
-   "2024": 26,
+   "2024": 28,
    "2025": 19,
    "COMUNA": "VICUNA"
   },
@@ -2534,7 +2534,7 @@
    "CODCOM": 4106,
    "delito": "LESIONES",
    "2024": 37,
-   "2025": 73,
+   "2025": 77,
    "COMUNA": "VICUNA"
   },
   {
@@ -2558,7 +2558,7 @@
    "CODCOM": 4106,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "VICUNA"
   },
   {
@@ -2589,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 4106,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "VICUNA"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

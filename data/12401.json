@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12401,
-   "2024": 38,
-   "2025": 36,
+   "2024": 39,
+   "2025": 37,
    "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 12401,
-   "2024": 87,
-   "2025": 61,
-   "variacion": -30,
+   "2024": 90,
+   "2025": 64,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "NATALES"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 12401,
    "2024": 1,
-   "2025": 3,
-   "variacion": 200,
+   "2025": 4,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "NATALES"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "NATALES"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 5,
    "COMUNA": "NATALES"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 12401,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "NATALES"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "HURTOS",
-   "2024": 38,
-   "2025": 36,
+   "2024": 39,
+   "2025": 37,
    "COMUNA": "NATALES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 12401,
    "delito": "LESIONES",
-   "2024": 87,
-   "2025": 61,
+   "2024": 90,
+   "2025": 64,
    "COMUNA": "NATALES"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 12401,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "NATALES"
   },
   {
@@ -2430,7 +2430,7 @@
    "CODCOM": 12401,
    "delito": "LESIONES",
    "2024": 43,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "NATALES"
   },
   {
@@ -2454,7 +2454,7 @@
    "CODCOM": 12401,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "NATALES"
   },
   {
@@ -2534,7 +2534,7 @@
    "CODCOM": 12401,
    "delito": "LESIONES",
    "2024": 67,
-   "2025": 46,
+   "2025": 49,
    "COMUNA": "NATALES"
   },
   {
@@ -2558,7 +2558,7 @@
    "CODCOM": 12401,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 1,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "NATALES"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Magallanes"
  }
 }

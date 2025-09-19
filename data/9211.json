@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9211,
-   "2024": 135,
-   "2025": 120,
-   "variacion": -11,
+   "2024": 141,
+   "2025": 121,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 9211,
-   "2024": 139,
-   "2025": 153,
-   "variacion": 10,
+   "2024": 142,
+   "2025": 157,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "VICTORIA"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 9211,
    "2024": 21,
-   "2025": 5,
-   "variacion": -76,
+   "2025": 7,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
@@ -75,19 +75,19 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9211,
-   "2024": 76,
+   "2024": 77,
    "2025": 43,
-   "variacion": -43,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "VICTORIA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 9211,
-   "2024": 76,
-   "2025": 80,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "2024": 82,
+   "2025": 82,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VICTORIA"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 9211,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "VICTORIA"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 9211,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 8,
    "COMUNA": "VICTORIA"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 9211,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "VICTORIA"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 9211,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "HURTOS",
-   "2024": 135,
-   "2025": 120,
+   "2024": 141,
+   "2025": 121,
    "COMUNA": "VICTORIA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 139,
-   "2025": 153,
+   "2024": 142,
+   "2025": 157,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2342,7 +2342,7 @@
    "CODCOM": 9211,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 21,
-   "2025": 5,
+   "2025": 7,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2373,7 +2373,7 @@
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 76,
+   "2024": 77,
    "2025": 43,
    "COMUNA": "VICTORIA"
   },
@@ -2381,8 +2381,8 @@
    "informacion": "Casos",
    "CODCOM": 9211,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 76,
-   "2025": 80,
+   "2024": 82,
+   "2025": 82,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "HURTOS",
-   "2024": 38,
+   "2024": 39,
    "2025": 20,
    "COMUNA": "VICTORIA"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 72,
-   "2025": 70,
+   "2024": 73,
+   "2025": 72,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2525,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "HURTOS",
-   "2024": 53,
+   "2024": 54,
    "2025": 25,
    "COMUNA": "VICTORIA"
   },
@@ -2533,8 +2533,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9211,
    "delito": "LESIONES",
-   "2024": 130,
-   "2025": 119,
+   "2024": 132,
+   "2025": 122,
    "COMUNA": "VICTORIA"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

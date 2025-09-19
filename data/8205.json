@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8205,
-   "2024": 56,
-   "2025": 49,
+   "2024": 57,
+   "2025": 50,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "CURANILAHUE"
@@ -21,18 +21,18 @@
   {
    "delito": "LESIONES",
    "CODCOM": 8205,
-   "2024": 78,
+   "2024": 81,
    "2025": 86,
-   "variacion": 10,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "CURANILAHUE"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 8205,
-   "2024": 14,
+   "2024": 15,
    "2025": 20,
-   "variacion": 43,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "CURANILAHUE"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 8205,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "CURANILAHUE"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8205,
-   "2024": 35,
-   "2025": 58,
-   "variacion": 66,
+   "2024": 37,
+   "2025": 59,
+   "variacion": 59,
    "situación": "Aumento de Casos",
    "COMUNA": "CURANILAHUE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8205,
-   "2024": 64,
+   "2024": 67,
    "2025": 90,
-   "variacion": 41,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "CURANILAHUE"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 8205,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CURANILAHUE"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 8205,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CURANILAHUE"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 8205,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CURANILAHUE"
   },
   {
@@ -2317,15 +2317,15 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "HURTOS",
-   "2024": 56,
-   "2025": 49,
+   "2024": 57,
+   "2025": 50,
    "COMUNA": "CURANILAHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "LESIONES",
-   "2024": 78,
+   "2024": 81,
    "2025": 86,
    "COMUNA": "CURANILAHUE"
   },
@@ -2333,7 +2333,7 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 14,
+   "2024": 15,
    "2025": 20,
    "COMUNA": "CURANILAHUE"
   },
@@ -2358,7 +2358,7 @@
    "CODCOM": 8205,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "CURANILAHUE"
   },
   {
@@ -2373,15 +2373,15 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 35,
-   "2025": 58,
+   "2024": 37,
+   "2025": 59,
    "COMUNA": "CURANILAHUE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 64,
+   "2024": 67,
    "2025": 90,
    "COMUNA": "CURANILAHUE"
   },
@@ -2421,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8205,
    "delito": "HURTOS",
-   "2024": 9,
+   "2024": 10,
    "2025": 5,
    "COMUNA": "CURANILAHUE"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8205,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "CURANILAHUE"
   },
@@ -2525,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8205,
    "delito": "HURTOS",
-   "2024": 9,
+   "2024": 11,
    "2025": 8,
    "COMUNA": "CURANILAHUE"
   },
@@ -2589,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8205,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "CURANILAHUE"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Biobío"
  }
 }

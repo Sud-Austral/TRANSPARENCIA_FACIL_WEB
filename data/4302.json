@@ -12,25 +12,25 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4302,
-   "2024": 12,
+   "2024": 13,
    "2025": 14,
-   "variacion": 17,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "COMBARBALÁ"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4302,
-   "2024": 26,
-   "2025": 33,
-   "variacion": 27,
+   "2024": 27,
+   "2025": 34,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "COMBARBALÁ"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4302,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4302,
    "2024": 9,
-   "2025": 16,
-   "variacion": 78,
+   "2025": 22,
+   "variacion": 144,
    "situación": "Aumento de Casos",
    "COMUNA": "COMBARBALÁ"
   },
@@ -76,18 +76,18 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4302,
    "2024": 8,
-   "2025": 10,
-   "variacion": 25,
+   "2025": 11,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "COMBARBALÁ"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4302,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -387,7 +387,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -571,7 +571,7 @@
    "CODCOM": 4302,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 7,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -663,6 +663,14 @@
    "COMUNA": "COMBARBALÁ"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 4302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "COMBARBALÁ"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 4302,
    "anio": 2024,
@@ -716,7 +724,7 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "HURTOS",
-   "2024": 12,
+   "2024": 13,
    "2025": 14,
    "COMUNA": "COMBARBALÁ"
   },
@@ -724,15 +732,15 @@
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 33,
+   "2024": 27,
+   "2025": 34,
    "COMUNA": "COMBARBALÁ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "COMBARBALÁ"
   },
@@ -765,7 +773,7 @@
    "CODCOM": 4302,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 9,
-   "2025": 16,
+   "2025": 22,
    "COMUNA": "COMBARBALÁ"
   },
   {
@@ -773,14 +781,14 @@
    "CODCOM": 4302,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 8,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "COMBARBALÁ"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4302,
    "delito": "ROBO POR SORPRESA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "COMBARBALÁ"
   },
@@ -866,7 +874,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

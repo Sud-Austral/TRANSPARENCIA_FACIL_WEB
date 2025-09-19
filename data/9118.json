@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9118,
-   "2024": 10,
-   "2025": 7,
-   "variacion": -30,
+   "2024": 11,
+   "2025": 9,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "TOLTÉN"
   },
@@ -209,6 +209,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 1,
+   "COMUNA": "TOLTÉN"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 9118,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -633,8 +641,8 @@
    "informacion": "Casos",
    "CODCOM": 9118,
    "delito": "HURTOS",
-   "2024": 10,
-   "2025": 7,
+   "2024": 11,
+   "2025": 9,
    "COMUNA": "TOLTÉN"
   },
   {
@@ -783,7 +791,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

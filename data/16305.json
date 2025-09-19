@@ -13,8 +13,8 @@
    "delito": "HURTOS",
    "CODCOM": 16305,
    "2024": 21,
-   "2025": 16,
-   "variacion": -24,
+   "2025": 18,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
@@ -49,17 +49,17 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 16305,
    "2024": 4,
-   "2025": 1,
-   "variacion": -75,
+   "2025": 2,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 16305,
-   "2024": 6,
+   "2024": 8,
    "2025": 3,
-   "variacion": -50,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16305,
-   "2024": 33,
+   "2024": 34,
    "2025": 27,
-   "variacion": -18,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN NICOLÁS"
   },
@@ -268,6 +268,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -539,6 +547,14 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "SAN NICOLÁS"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1013,7 +1029,7 @@
    "CODCOM": 16305,
    "delito": "HURTOS",
    "2024": 21,
-   "2025": 16,
+   "2025": 18,
    "COMUNA": "SAN NICOLÁS"
   },
   {
@@ -1045,14 +1061,14 @@
    "CODCOM": 16305,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 4,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SAN NICOLÁS"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 6,
+   "2024": 8,
    "2025": 3,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1068,7 +1084,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 33,
+   "2024": 34,
    "2025": 27,
    "COMUNA": "SAN NICOLÁS"
   },
@@ -1194,7 +1210,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Ñuble"
  }
 }

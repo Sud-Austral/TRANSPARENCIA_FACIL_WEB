@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7303,
-   "2024": 31,
-   "2025": 28,
-   "variacion": -10,
+   "2024": 32,
+   "2025": 29,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "LICANTÉN"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7303,
-   "2024": 18,
+   "2024": 19,
    "2025": 27,
-   "variacion": 50,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "LICANTÉN"
   },
@@ -67,9 +67,9 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7303,
    "2024": 15,
-   "2025": 13,
-   "variacion": -13,
-   "situación": "Disminución de Casos",
+   "2025": 15,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "LICANTÉN"
   },
   {
@@ -257,7 +257,7 @@
    "CODCOM": 7303,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LICANTÉN"
   },
   {
@@ -613,6 +613,14 @@
    "COMUNA": "LICANTÉN"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 7303,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "LICANTÉN"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7303,
    "anio": 2024,
@@ -746,15 +754,15 @@
    "informacion": "Casos",
    "CODCOM": 7303,
    "delito": "HURTOS",
-   "2024": 31,
-   "2025": 28,
+   "2024": 32,
+   "2025": 29,
    "COMUNA": "LICANTÉN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7303,
    "delito": "LESIONES",
-   "2024": 18,
+   "2024": 19,
    "2025": 27,
    "COMUNA": "LICANTÉN"
   },
@@ -795,7 +803,7 @@
    "CODCOM": 7303,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 15,
-   "2025": 13,
+   "2025": 15,
    "COMUNA": "LICANTÉN"
   },
   {
@@ -912,7 +920,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

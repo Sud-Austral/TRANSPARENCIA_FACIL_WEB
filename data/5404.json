@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5404,
-   "2024": 9,
-   "2025": 8,
-   "variacion": -11,
+   "2024": 10,
+   "2025": 9,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "PETORCA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5404,
-   "2024": 26,
-   "2025": 35,
-   "variacion": 35,
+   "2024": 29,
+   "2025": 36,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "PETORCA"
   },
@@ -76,9 +76,9 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5404,
    "2024": 14,
-   "2025": 14,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 15,
+   "variacion": 7,
+   "situación": "Aumento de Casos",
    "COMUNA": "PETORCA"
   },
   {
@@ -213,6 +213,14 @@
    "COMUNA": "PETORCA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PETORCA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5404,
    "anio": 2024,
@@ -362,6 +370,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "PETORCA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PETORCA"
   },
   {
@@ -685,6 +701,14 @@
    "COMUNA": "PETORCA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5404,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PETORCA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5404,
    "anio": 2024,
@@ -698,16 +722,16 @@
    "informacion": "Casos",
    "CODCOM": 5404,
    "delito": "HURTOS",
-   "2024": 9,
-   "2025": 8,
+   "2024": 10,
+   "2025": 9,
    "COMUNA": "PETORCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5404,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 35,
+   "2024": 29,
+   "2025": 36,
    "COMUNA": "PETORCA"
   },
   {
@@ -763,7 +787,7 @@
    "CODCOM": 5404,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 14,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "PETORCA"
   },
   {
@@ -778,8 +802,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5404,
    "delito": "LESIONES",
-   "2024": 8,
-   "2025": 13,
+   "2024": 10,
+   "2025": 14,
    "COMUNA": "PETORCA"
   },
   {
@@ -810,8 +834,8 @@
    "informacion": "Detenidos",
    "CODCOM": 5404,
    "delito": "LESIONES",
-   "2024": 20,
-   "2025": 24,
+   "2024": 22,
+   "2025": 25,
    "COMUNA": "PETORCA"
   },
   {
@@ -840,7 +864,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

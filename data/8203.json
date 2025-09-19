@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8203,
-   "2024": 102,
-   "2025": 76,
-   "variacion": -25,
+   "2024": 104,
+   "2025": 77,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 8203,
-   "2024": 118,
-   "2025": 86,
-   "variacion": -27,
+   "2024": 119,
+   "2025": 90,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
   },
@@ -39,8 +39,8 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 8203,
-   "2024": 24,
-   "2025": 11,
+   "2024": 26,
+   "2025": 12,
    "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 8203,
    "2024": 19,
-   "2025": 14,
-   "variacion": -26,
+   "2025": 15,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
   },
@@ -66,27 +66,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 8203,
-   "2024": 19,
-   "2025": 10,
-   "variacion": -47,
+   "2024": 20,
+   "2025": 12,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 8203,
-   "2024": 59,
-   "2025": 57,
-   "variacion": -3,
+   "2024": 60,
+   "2025": 59,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "CANETE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 8203,
-   "2024": 47,
-   "2025": 52,
-   "variacion": 11,
+   "2024": 48,
+   "2025": 53,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "CANETE"
   },
@@ -102,7 +102,7 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 8203,
-   "2024": 5,
+   "2024": 6,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -452,7 +452,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CANETE"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "CANETE"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CANETE"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CANETE"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "CANETE"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "CANETE"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 8203,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CANETE"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "HURTOS",
-   "2024": 102,
-   "2025": 76,
+   "2024": 104,
+   "2025": 77,
    "COMUNA": "CANETE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "LESIONES",
-   "2024": 118,
-   "2025": 86,
+   "2024": 119,
+   "2025": 90,
    "COMUNA": "CANETE"
   },
   {
@@ -2341,8 +2341,8 @@
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 24,
-   "2025": 11,
+   "2024": 26,
+   "2025": 12,
    "COMUNA": "CANETE"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 8203,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 19,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "CANETE"
   },
   {
@@ -2365,24 +2365,24 @@
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 19,
-   "2025": 10,
+   "2024": 20,
+   "2025": 12,
    "COMUNA": "CANETE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 59,
-   "2025": 57,
+   "2024": 60,
+   "2025": 59,
    "COMUNA": "CANETE"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 47,
-   "2025": 52,
+   "2024": 48,
+   "2025": 53,
    "COMUNA": "CANETE"
   },
   {
@@ -2397,7 +2397,7 @@
    "informacion": "Casos",
    "CODCOM": 8203,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 5,
+   "2024": 6,
    "2025": 0,
    "COMUNA": "CANETE"
   },
@@ -2445,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 8203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 3,
    "COMUNA": "CANETE"
   },
@@ -2549,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 8203,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 2,
+   "2024": 4,
    "2025": 3,
    "COMUNA": "CANETE"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Biobío"
  }
 }

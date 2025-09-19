@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10107,
-   "2024": 36,
-   "2025": 43,
-   "variacion": 19,
+   "2024": 37,
+   "2025": 46,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 10107,
    "2024": 43,
-   "2025": 80,
-   "variacion": 86,
+   "2025": 82,
+   "variacion": 91,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10107,
    "2024": 12,
-   "2025": 17,
-   "variacion": 42,
+   "2025": 18,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "LLANQUIHUE"
   },
@@ -262,6 +262,14 @@
    "COMUNA": "LLANQUIHUE"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "LLANQUIHUE"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 10107,
    "anio": 2024,
@@ -426,7 +434,7 @@
    "CODCOM": 10107,
    "anio": 2025,
    "mes": 9,
-   "casos": 6,
+   "casos": 8,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -874,7 +882,7 @@
    "CODCOM": 10107,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1115,8 +1123,8 @@
    "informacion": "Casos",
    "CODCOM": 10107,
    "delito": "HURTOS",
-   "2024": 36,
-   "2025": 43,
+   "2024": 37,
+   "2025": 46,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1124,7 +1132,7 @@
    "CODCOM": 10107,
    "delito": "LESIONES",
    "2024": 43,
-   "2025": 80,
+   "2025": 82,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1172,7 +1180,7 @@
    "CODCOM": 10107,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 12,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "LLANQUIHUE"
   },
   {
@@ -1329,7 +1337,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

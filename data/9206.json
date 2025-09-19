@@ -13,17 +13,17 @@
    "delito": "LESIONES",
    "CODCOM": 9206,
    "2024": 26,
-   "2025": 20,
-   "variacion": -23,
+   "2025": 23,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS SAUCES"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 9206,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9206,
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
-   "variacion": 50,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "LOS SAUCES"
   },
@@ -380,6 +380,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 6,
+   "COMUNA": "LOS SAUCES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 9206,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -845,14 +853,14 @@
    "CODCOM": 9206,
    "delito": "LESIONES",
    "2024": 26,
-   "2025": 20,
+   "2025": 23,
    "COMUNA": "LOS SAUCES"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "LOS SAUCES"
   },
@@ -892,7 +900,7 @@
    "informacion": "Casos",
    "CODCOM": 9206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 4,
+   "2024": 5,
    "2025": 6,
    "COMUNA": "LOS SAUCES"
   },
@@ -941,7 +949,7 @@
    "CODCOM": 9206,
    "delito": "LESIONES",
    "2024": 7,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -981,7 +989,7 @@
    "CODCOM": 9206,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "LOS SAUCES"
   },
   {
@@ -1010,7 +1018,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

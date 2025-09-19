@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 5706,
    "2024": 20,
-   "2025": 19,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 20,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SANTA MARÍA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 5706,
    "2024": 35,
-   "2025": 39,
-   "variacion": 11,
+   "2025": 45,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA MARÍA"
   },
@@ -31,8 +31,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5706,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 7,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "SANTA MARÍA"
   },
@@ -40,9 +40,9 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5706,
    "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
+   "2025": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -67,17 +67,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5706,
    "2024": 24,
-   "2025": 18,
-   "variacion": -25,
+   "2025": 19,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA MARÍA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5706,
-   "2024": 50,
+   "2024": 52,
    "2025": 37,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "SANTA MARÍA"
   },
@@ -262,6 +262,14 @@
    "COMUNA": "SANTA MARÍA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SANTA MARÍA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5706,
    "anio": 2024,
@@ -419,6 +427,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 7,
+   "COMUNA": "SANTA MARÍA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 6,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -514,7 +530,7 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -578,6 +594,14 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "SANTA MARÍA"
+  },
+  {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 5706,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "SANTA MARÍA"
   },
@@ -810,7 +834,7 @@
    "CODCOM": 5706,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1020,7 +1044,7 @@
    "CODCOM": 5706,
    "delito": "HURTOS",
    "2024": 20,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1028,7 +1052,7 @@
    "CODCOM": 5706,
    "delito": "LESIONES",
    "2024": 35,
-   "2025": 39,
+   "2025": 45,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1044,7 +1068,7 @@
    "CODCOM": 5706,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 5,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1052,7 +1076,7 @@
    "CODCOM": 5706,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 5,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1076,14 +1100,14 @@
    "CODCOM": 5706,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 24,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "SANTA MARÍA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5706,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 50,
+   "2024": 52,
    "2025": 37,
    "COMUNA": "SANTA MARÍA"
   },
@@ -1108,7 +1132,7 @@
    "CODCOM": 5706,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1116,7 +1140,7 @@
    "CODCOM": 5706,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 12,
+   "2025": 16,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1148,7 +1172,7 @@
    "CODCOM": 5706,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1156,7 +1180,7 @@
    "CODCOM": 5706,
    "delito": "LESIONES",
    "2024": 21,
-   "2025": 20,
+   "2025": 27,
    "COMUNA": "SANTA MARÍA"
   },
   {
@@ -1185,7 +1209,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

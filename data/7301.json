@@ -12,35 +12,35 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7301,
-   "2024": 764,
-   "2025": 601,
-   "variacion": -21,
+   "2024": 780,
+   "2025": 624,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7301,
-   "2024": 327,
-   "2025": 339,
-   "variacion": 4,
+   "2024": 338,
+   "2025": 358,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 7301,
-   "2024": 36,
-   "2025": 55,
-   "variacion": 53,
+   "2024": 38,
+   "2025": 57,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 7301,
-   "2024": 139,
-   "2025": 138,
+   "2024": 143,
+   "2025": 141,
    "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "CURICO"
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7301,
-   "2024": 263,
-   "2025": 159,
-   "variacion": -40,
+   "2024": 267,
+   "2025": 165,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CURICO"
   },
@@ -67,45 +67,45 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 7301,
    "2024": 65,
-   "2025": 58,
-   "variacion": -11,
+   "2025": 59,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7301,
-   "2024": 227,
-   "2025": 304,
-   "variacion": 34,
+   "2024": 234,
+   "2025": 310,
+   "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7301,
-   "2024": 309,
-   "2025": 271,
-   "variacion": -12,
+   "2024": 312,
+   "2025": 277,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7301,
-   "2024": 99,
-   "2025": 99,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 102,
+   "2025": 104,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "CURICO"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 7301,
    "2024": 4,
-   "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
    "COMUNA": "CURICO"
   },
   {
@@ -452,7 +452,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 17,
+   "casos": 40,
    "COMUNA": "CURICO"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 10,
+   "casos": 29,
    "COMUNA": "CURICO"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "CURICO"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "CURICO"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 5,
+   "casos": 11,
    "COMUNA": "CURICO"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "CURICO"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 8,
+   "casos": 14,
    "COMUNA": "CURICO"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 13,
+   "casos": 19,
    "COMUNA": "CURICO"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "CURICO"
   },
   {
@@ -2132,7 +2132,7 @@
    "CODCOM": 7301,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "CURICO"
   },
   {
@@ -2317,32 +2317,32 @@
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "HURTOS",
-   "2024": 764,
-   "2025": 601,
+   "2024": 780,
+   "2025": 624,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "LESIONES",
-   "2024": 327,
-   "2025": 339,
+   "2024": 338,
+   "2025": 358,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 36,
-   "2025": 55,
+   "2024": 38,
+   "2025": 57,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 139,
-   "2025": 138,
+   "2024": 143,
+   "2025": 141,
    "COMUNA": "CURICO"
   },
   {
@@ -2357,8 +2357,8 @@
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 263,
-   "2025": 159,
+   "2024": 267,
+   "2025": 165,
    "COMUNA": "CURICO"
   },
   {
@@ -2366,31 +2366,31 @@
    "CODCOM": 7301,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 65,
-   "2025": 58,
+   "2025": 59,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 227,
-   "2025": 304,
+   "2024": 234,
+   "2025": 310,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 309,
-   "2025": 271,
+   "2024": 312,
+   "2025": 277,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7301,
    "delito": "ROBO POR SORPRESA",
-   "2024": 99,
-   "2025": 99,
+   "2024": 102,
+   "2025": 104,
    "COMUNA": "CURICO"
   },
   {
@@ -2398,7 +2398,7 @@
    "CODCOM": 7301,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CURICO"
   },
   {
@@ -2421,16 +2421,16 @@
    "informacion": "Detenciones",
    "CODCOM": 7301,
    "delito": "HURTOS",
-   "2024": 147,
-   "2025": 118,
+   "2024": 150,
+   "2025": 125,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7301,
    "delito": "LESIONES",
-   "2024": 101,
-   "2025": 73,
+   "2024": 104,
+   "2025": 78,
    "COMUNA": "CURICO"
   },
   {
@@ -2445,7 +2445,7 @@
    "informacion": "Detenciones",
    "CODCOM": 7301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 16,
+   "2024": 17,
    "2025": 18,
    "COMUNA": "CURICO"
   },
@@ -2462,7 +2462,7 @@
    "CODCOM": 7301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 10,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "CURICO"
   },
   {
@@ -2478,7 +2478,7 @@
    "CODCOM": 7301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 11,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "CURICO"
   },
   {
@@ -2525,16 +2525,16 @@
    "informacion": "Detenidos",
    "CODCOM": 7301,
    "delito": "HURTOS",
-   "2024": 156,
-   "2025": 124,
+   "2024": 160,
+   "2025": 131,
    "COMUNA": "CURICO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7301,
    "delito": "LESIONES",
-   "2024": 149,
-   "2025": 115,
+   "2024": 152,
+   "2025": 120,
    "COMUNA": "CURICO"
   },
   {
@@ -2549,7 +2549,7 @@
    "informacion": "Detenidos",
    "CODCOM": 7301,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 25,
+   "2024": 26,
    "2025": 22,
    "COMUNA": "CURICO"
   },
@@ -2566,7 +2566,7 @@
    "CODCOM": 7301,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 16,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "CURICO"
   },
   {
@@ -2582,7 +2582,7 @@
    "CODCOM": 7301,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 13,
-   "2025": 27,
+   "2025": 30,
    "COMUNA": "CURICO"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

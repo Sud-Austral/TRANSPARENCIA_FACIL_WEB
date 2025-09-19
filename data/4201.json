@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4201,
-   "2024": 60,
-   "2025": 61,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 63,
+   "2025": 62,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "ILLAPEL"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4201,
-   "2024": 91,
+   "2024": 93,
    "2025": 74,
-   "variacion": -19,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "ILLAPEL"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 4201,
    "2024": 7,
-   "2025": 8,
-   "variacion": 14,
+   "2025": 9,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "ILLAPEL"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 4201,
    "2024": 7,
-   "2025": 12,
-   "variacion": 71,
+   "2025": 13,
+   "variacion": 86,
    "situación": "Aumento de Casos",
    "COMUNA": "ILLAPEL"
   },
@@ -76,17 +76,17 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4201,
    "2024": 19,
-   "2025": 31,
-   "variacion": 63,
+   "2025": 32,
+   "variacion": 68,
    "situación": "Aumento de Casos",
    "COMUNA": "ILLAPEL"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4201,
-   "2024": 42,
+   "2024": 43,
    "2025": 46,
-   "variacion": 10,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "ILLAPEL"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 4201,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -2317,15 +2317,15 @@
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "HURTOS",
-   "2024": 60,
-   "2025": 61,
+   "2024": 63,
+   "2025": 62,
    "COMUNA": "ILLAPEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 91,
+   "2024": 93,
    "2025": 74,
    "COMUNA": "ILLAPEL"
   },
@@ -2342,7 +2342,7 @@
    "CODCOM": 4201,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 7,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -2350,7 +2350,7 @@
    "CODCOM": 4201,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 7,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "ILLAPEL"
   },
   {
@@ -2374,14 +2374,14 @@
    "CODCOM": 4201,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 19,
-   "2025": 31,
+   "2025": 32,
    "COMUNA": "ILLAPEL"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4201,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 42,
+   "2024": 43,
    "2025": 46,
    "COMUNA": "ILLAPEL"
   },
@@ -2422,14 +2422,14 @@
    "CODCOM": 4201,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "ILLAPEL"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 33,
+   "2024": 34,
    "2025": 18,
    "COMUNA": "ILLAPEL"
   },
@@ -2526,14 +2526,14 @@
    "CODCOM": 4201,
    "delito": "HURTOS",
    "2024": 3,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "ILLAPEL"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 4201,
    "delito": "LESIONES",
-   "2024": 50,
+   "2024": 52,
    "2025": 27,
    "COMUNA": "ILLAPEL"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

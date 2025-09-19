@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11201,
-   "2024": 84,
-   "2025": 69,
+   "2024": 85,
+   "2025": 70,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "AYSEN"
@@ -21,9 +21,9 @@
   {
    "delito": "LESIONES",
    "CODCOM": 11201,
-   "2024": 91,
-   "2025": 96,
-   "variacion": 5,
+   "2024": 92,
+   "2025": 99,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "AYSEN"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 11201,
-   "2024": 3,
+   "2024": 4,
    "2025": 10,
-   "variacion": 233,
+   "variacion": 150,
    "situación": "Aumento de Casos",
    "COMUNA": "AYSEN"
   },
@@ -58,8 +58,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 11201,
    "2024": 8,
-   "2025": 14,
-   "variacion": 75,
+   "2025": 15,
+   "variacion": 88,
    "situación": "Aumento de Casos",
    "COMUNA": "AYSEN"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "VIOLACIONES",
    "CODCOM": 11201,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "AYSEN"
   }
@@ -452,7 +452,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "AYSEN"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "AYSEN"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 11201,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "AYSEN"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "HURTOS",
-   "2024": 84,
-   "2025": 69,
+   "2024": 85,
+   "2025": 70,
    "COMUNA": "AYSEN"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "LESIONES",
-   "2024": 91,
-   "2025": 96,
+   "2024": 92,
+   "2025": 99,
    "COMUNA": "AYSEN"
   },
   {
@@ -2341,7 +2341,7 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 3,
+   "2024": 4,
    "2025": 10,
    "COMUNA": "AYSEN"
   },
@@ -2358,7 +2358,7 @@
    "CODCOM": 11201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 8,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "AYSEN"
   },
   {
@@ -2405,7 +2405,7 @@
    "informacion": "Casos",
    "CODCOM": 11201,
    "delito": "VIOLACIONES",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "AYSEN"
   },
@@ -2509,7 +2509,7 @@
    "informacion": "Detenciones",
    "CODCOM": 11201,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "AYSEN"
   },
@@ -2613,13 +2613,13 @@
    "informacion": "Detenidos",
    "CODCOM": 11201,
    "delito": "VIOLACIONES",
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "AYSEN"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Aysén"
  }
 }

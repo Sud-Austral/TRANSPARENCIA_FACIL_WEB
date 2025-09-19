@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 4304,
    "2024": 12,
-   "2025": 17,
-   "variacion": 42,
+   "2025": 19,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "PUNITAQUI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4304,
-   "2024": 30,
-   "2025": 25,
-   "variacion": -17,
+   "2024": 32,
+   "2025": 26,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -67,8 +67,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4304,
    "2024": 26,
-   "2025": 23,
-   "variacion": -12,
+   "2025": 24,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "PUNITAQUI"
   },
@@ -200,6 +200,14 @@
    "CODCOM": 4304,
    "anio": 2025,
    "mes": 8,
+   "casos": 2,
+   "COMUNA": "PUNITAQUI"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 4304,
+   "anio": 2025,
+   "mes": 9,
    "casos": 2,
    "COMUNA": "PUNITAQUI"
   },
@@ -368,7 +376,7 @@
    "CODCOM": 4304,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -640,7 +648,7 @@
    "CODCOM": 4304,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -778,15 +786,15 @@
    "CODCOM": 4304,
    "delito": "HURTOS",
    "2024": 12,
-   "2025": 17,
+   "2025": 19,
    "COMUNA": "PUNITAQUI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4304,
    "delito": "LESIONES",
-   "2024": 30,
-   "2025": 25,
+   "2024": 32,
+   "2025": 26,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -834,7 +842,7 @@
    "CODCOM": 4304,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 26,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -850,7 +858,7 @@
    "CODCOM": 4304,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -882,7 +890,7 @@
    "CODCOM": 4304,
    "delito": "HURTOS",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "PUNITAQUI"
   },
   {
@@ -911,7 +919,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

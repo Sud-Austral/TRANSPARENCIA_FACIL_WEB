@@ -13,17 +13,17 @@
    "delito": "HURTOS",
    "CODCOM": 16109,
    "2024": 47,
-   "2025": 47,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 50,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "YUNGAY"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16109,
    "2024": 47,
-   "2025": 51,
-   "variacion": 9,
+   "2025": 54,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "YUNGAY"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 16109,
    "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "YUNGAY"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 16109,
    "2024": 42,
-   "2025": 25,
-   "variacion": -40,
+   "2025": 26,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "YUNGAY"
   },
@@ -299,7 +299,7 @@
    "CODCOM": 16109,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "YUNGAY"
   },
   {
@@ -467,7 +467,7 @@
    "CODCOM": 16109,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "YUNGAY"
   },
   {
@@ -499,6 +499,14 @@
    "CODCOM": 16109,
    "anio": 2024,
    "mes": 12,
+   "casos": 1,
+   "COMUNA": "YUNGAY"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA",
+   "CODCOM": 16109,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "YUNGAY"
   },
@@ -892,6 +900,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "YUNGAY"
+  },
+  {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 16109,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1109,7 +1125,7 @@
    "CODCOM": 16109,
    "delito": "HURTOS",
    "2024": 47,
-   "2025": 47,
+   "2025": 50,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1117,7 +1133,7 @@
    "CODCOM": 16109,
    "delito": "LESIONES",
    "2024": 47,
-   "2025": 51,
+   "2025": 54,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1125,7 +1141,7 @@
    "CODCOM": 16109,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1165,7 +1181,7 @@
    "CODCOM": 16109,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 42,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1205,7 +1221,7 @@
    "CODCOM": 16109,
    "delito": "HURTOS",
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1213,7 +1229,7 @@
    "CODCOM": 16109,
    "delito": "LESIONES",
    "2024": 12,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1261,7 +1277,7 @@
    "CODCOM": 16109,
    "delito": "HURTOS",
    "2024": 6,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1269,7 +1285,7 @@
    "CODCOM": 16109,
    "delito": "LESIONES",
    "2024": 20,
-   "2025": 41,
+   "2025": 43,
    "COMUNA": "YUNGAY"
   },
   {
@@ -1306,7 +1322,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Ñuble"
  }
 }

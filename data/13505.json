@@ -22,9 +22,9 @@
    "delito": "LESIONES",
    "CODCOM": 13505,
    "2024": 31,
-   "2025": 31,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 33,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -40,9 +40,9 @@
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13505,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13505,
    "2024": 42,
-   "2025": 35,
-   "variacion": -17,
+   "2025": 36,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN PEDRO"
   },
@@ -596,7 +596,7 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -901,6 +901,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 0,
+   "COMUNA": "SAN PEDRO"
+  },
+  {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 13505,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -1700,7 +1708,7 @@
    "CODCOM": 13505,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2182,7 +2190,7 @@
    "CODCOM": 13505,
    "delito": "LESIONES",
    "2024": 31,
-   "2025": 31,
+   "2025": 33,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2198,7 +2206,7 @@
    "CODCOM": 13505,
    "delito": "ROBO CON INTIMIDACIÓN",
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2238,7 +2246,7 @@
    "CODCOM": 13505,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 42,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "SAN PEDRO"
   },
   {
@@ -2475,7 +2483,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

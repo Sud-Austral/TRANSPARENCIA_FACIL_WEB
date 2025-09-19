@@ -30,10 +30,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 16204,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "NINHUE"
   },
   {
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 16204,
    "2024": 2,
-   "2025": 5,
-   "variacion": 150,
+   "2025": 6,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "NINHUE"
   }
@@ -554,6 +554,14 @@
    "mes": 8,
    "casos": 1,
    "COMUNA": "NINHUE"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 16204,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "NINHUE"
   }
  ],
  "info": [
@@ -585,7 +593,7 @@
    "informacion": "Casos",
    "CODCOM": 16204,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "NINHUE"
   },
@@ -626,7 +634,7 @@
    "CODCOM": 16204,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 2,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "NINHUE"
   },
   {
@@ -679,7 +687,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Ñuble"
  }
 }

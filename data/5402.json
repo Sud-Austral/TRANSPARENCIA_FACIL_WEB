@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5402,
-   "2024": 31,
+   "2024": 34,
    "2025": 21,
-   "variacion": -32,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "CABILDO"
   },
@@ -48,9 +48,9 @@
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5402,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
-   "variacion": 100,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "CABILDO"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5402,
    "2024": 13,
-   "2025": 18,
-   "variacion": 38,
+   "2025": 20,
+   "variacion": 54,
    "situación": "Aumento de Casos",
    "COMUNA": "CABILDO"
   },
@@ -856,6 +856,14 @@
    "COMUNA": "CABILDO"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 5402,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "CABILDO"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5402,
    "anio": 2024,
@@ -1053,7 +1061,7 @@
    "informacion": "Casos",
    "CODCOM": 5402,
    "delito": "HURTOS",
-   "2024": 31,
+   "2024": 34,
    "2025": 21,
    "COMUNA": "CABILDO"
   },
@@ -1085,7 +1093,7 @@
    "informacion": "Casos",
    "CODCOM": 5402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "CABILDO"
   },
@@ -1110,7 +1118,7 @@
    "CODCOM": 5402,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 13,
-   "2025": 18,
+   "2025": 20,
    "COMUNA": "CABILDO"
   },
   {
@@ -1149,7 +1157,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5402,
    "delito": "HURTOS",
-   "2024": 10,
+   "2024": 11,
    "2025": 2,
    "COMUNA": "CABILDO"
   },
@@ -1181,7 +1189,7 @@
    "informacion": "Detenciones",
    "CODCOM": 5402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "CABILDO"
   },
@@ -1221,7 +1229,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5402,
    "delito": "HURTOS",
-   "2024": 15,
+   "2024": 17,
    "2025": 2,
    "COMUNA": "CABILDO"
   },
@@ -1253,7 +1261,7 @@
    "informacion": "Detenidos",
    "CODCOM": 5402,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 0,
+   "2024": 3,
    "2025": 1,
    "COMUNA": "CABILDO"
   },
@@ -1291,7 +1299,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

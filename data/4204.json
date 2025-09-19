@@ -13,16 +13,16 @@
    "delito": "HURTOS",
    "CODCOM": 4204,
    "2024": 42,
-   "2025": 60,
-   "variacion": 43,
+   "2025": 62,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "SALAMANCA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 4204,
-   "2024": 104,
-   "2025": 83,
+   "2024": 107,
+   "2025": 86,
    "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "SALAMANCA"
@@ -66,27 +66,27 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 4204,
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
-   "variacion": 150,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "SALAMANCA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 4204,
-   "2024": 46,
+   "2024": 47,
    "2025": 40,
-   "variacion": -13,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "SALAMANCA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 4204,
-   "2024": 71,
-   "2025": 54,
-   "variacion": -24,
+   "2024": 73,
+   "2025": 55,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "SALAMANCA"
   },
@@ -304,6 +304,14 @@
    "COMUNA": "SALAMANCA"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 4204,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "SALAMANCA"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 4204,
    "anio": 2024,
@@ -464,6 +472,14 @@
    "COMUNA": "SALAMANCA"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 4204,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
+   "COMUNA": "SALAMANCA"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 4204,
    "anio": 2024,
@@ -1244,7 +1260,7 @@
    "CODCOM": 4204,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "SALAMANCA"
   },
   {
@@ -1350,15 +1366,15 @@
    "CODCOM": 4204,
    "delito": "HURTOS",
    "2024": 42,
-   "2025": 60,
+   "2025": 62,
    "COMUNA": "SALAMANCA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4204,
    "delito": "LESIONES",
-   "2024": 104,
-   "2025": 83,
+   "2024": 107,
+   "2025": 86,
    "COMUNA": "SALAMANCA"
   },
   {
@@ -1397,7 +1413,7 @@
    "informacion": "Casos",
    "CODCOM": 4204,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 10,
    "COMUNA": "SALAMANCA"
   },
@@ -1405,7 +1421,7 @@
    "informacion": "Casos",
    "CODCOM": 4204,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 46,
+   "2024": 47,
    "2025": 40,
    "COMUNA": "SALAMANCA"
   },
@@ -1413,8 +1429,8 @@
    "informacion": "Casos",
    "CODCOM": 4204,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 71,
-   "2025": 54,
+   "2024": 73,
+   "2025": 55,
    "COMUNA": "SALAMANCA"
   },
   {
@@ -1461,8 +1477,8 @@
    "informacion": "Detenciones",
    "CODCOM": 4204,
    "delito": "LESIONES",
-   "2024": 26,
-   "2025": 27,
+   "2024": 27,
+   "2025": 28,
    "COMUNA": "SALAMANCA"
   },
   {
@@ -1533,8 +1549,8 @@
    "informacion": "Detenidos",
    "CODCOM": 4204,
    "delito": "LESIONES",
-   "2024": 41,
-   "2025": 47,
+   "2024": 42,
+   "2025": 50,
    "COMUNA": "SALAMANCA"
   },
   {
@@ -1587,7 +1603,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

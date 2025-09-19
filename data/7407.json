@@ -3,18 +3,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7407,
-   "2024": 25,
+   "2024": 26,
    "2025": 26,
-   "variacion": 4,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7407,
-   "2024": 51,
-   "2025": 32,
-   "variacion": -37,
+   "2024": 53,
+   "2025": 35,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -49,9 +49,9 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7407,
    "2024": 9,
-   "2025": 8,
-   "variacion": -11,
-   "situación": "Disminución de Casos",
+   "2025": 9,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -66,18 +66,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7407,
-   "2024": 33,
+   "2024": 36,
    "2025": 26,
-   "variacion": -21,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7407,
-   "2024": 41,
-   "2025": 43,
-   "variacion": 5,
+   "2024": 43,
+   "2025": 44,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "VILLA ALEGRE"
   },
@@ -410,7 +410,7 @@
    "CODCOM": 7407,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -707,6 +707,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 7407,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1078,6 +1086,14 @@
    "COMUNA": "VILLA ALEGRE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7407,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 7407,
    "anio": 2024,
@@ -1115,7 +1131,7 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "HURTOS",
-   "2024": 25,
+   "2024": 26,
    "2025": 26,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -1123,8 +1139,8 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "LESIONES",
-   "2024": 51,
-   "2025": 32,
+   "2024": 53,
+   "2025": 35,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1156,7 +1172,7 @@
    "CODCOM": 7407,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1171,7 +1187,7 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 33,
+   "2024": 36,
    "2025": 26,
    "COMUNA": "VILLA ALEGRE"
   },
@@ -1179,8 +1195,8 @@
    "informacion": "Casos",
    "CODCOM": 7407,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 41,
-   "2025": 43,
+   "2024": 43,
+   "2025": 44,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1212,7 +1228,7 @@
    "CODCOM": 7407,
    "delito": "LESIONES",
    "2024": 31,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1240,6 +1256,14 @@
    "COMUNA": "VILLA ALEGRE"
   },
   {
+   "informacion": "Detenciones",
+   "CODCOM": 7407,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "VILLA ALEGRE"
+  },
+  {
    "informacion": "Detenidos",
    "CODCOM": 7407,
    "delito": "HURTOS",
@@ -1252,7 +1276,7 @@
    "CODCOM": 7407,
    "delito": "LESIONES",
    "2024": 46,
-   "2025": 27,
+   "2025": 29,
    "COMUNA": "VILLA ALEGRE"
   },
   {
@@ -1278,10 +1302,18 @@
    "2024": 1,
    "2025": 2,
    "COMUNA": "VILLA ALEGRE"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 7407,
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "VILLA ALEGRE"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

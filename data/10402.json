@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10402,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
-   "variacion": 14,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "FUTALEUFÚ"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 10402,
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
-   "variacion": 60,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "FUTALEUFÚ"
   },
@@ -342,7 +342,7 @@
    "informacion": "Casos",
    "CODCOM": 10402,
    "delito": "HURTOS",
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "FUTALEUFÚ"
   },
@@ -350,7 +350,7 @@
    "informacion": "Casos",
    "CODCOM": 10402,
    "delito": "LESIONES",
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "FUTALEUFÚ"
   },
@@ -444,7 +444,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

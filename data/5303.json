@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5303,
-   "2024": 23,
-   "2025": 25,
-   "variacion": 9,
+   "2024": 24,
+   "2025": 27,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "RINCONADA"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5303,
-   "2024": 11,
+   "2024": 12,
    "2025": 5,
-   "variacion": -55,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "RINCONADA"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5303,
-   "2024": 26,
+   "2024": 27,
    "2025": 29,
-   "variacion": 12,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "RINCONADA"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5303,
-   "2024": 24,
-   "2025": 52,
-   "variacion": 117,
+   "2024": 25,
+   "2025": 53,
+   "variacion": 112,
    "situación": "Aumento de Casos",
    "COMUNA": "RINCONADA"
   },
@@ -284,7 +284,7 @@
    "CODCOM": 5303,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1128,6 +1128,14 @@
    "COMUNA": "RINCONADA"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 5303,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "RINCONADA"
+  },
+  {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5303,
    "anio": 2024,
@@ -1213,8 +1221,8 @@
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "HURTOS",
-   "2024": 23,
-   "2025": 25,
+   "2024": 24,
+   "2025": 27,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1237,7 +1245,7 @@
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 11,
+   "2024": 12,
    "2025": 5,
    "COMUNA": "RINCONADA"
   },
@@ -1269,7 +1277,7 @@
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 26,
+   "2024": 27,
    "2025": 29,
    "COMUNA": "RINCONADA"
   },
@@ -1277,8 +1285,8 @@
    "informacion": "Casos",
    "CODCOM": 5303,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 24,
-   "2025": 52,
+   "2024": 25,
+   "2025": 53,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1342,7 +1350,7 @@
    "CODCOM": 5303,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 3,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RINCONADA"
   },
   {
@@ -1382,12 +1390,12 @@
    "CODCOM": 5303,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 5,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "RINCONADA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10306,
-   "2024": 15,
+   "2024": 16,
    "2025": 17,
-   "variacion": 13,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 10306,
    "2024": 2,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 10306,
-   "2024": 24,
+   "2024": 26,
    "2025": 8,
-   "variacion": -67,
+   "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -462,6 +462,14 @@
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
+   "delito": "ROBO CON VIOLENCIA",
+   "CODCOM": 10306,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 10306,
    "anio": 2024,
@@ -731,7 +739,7 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "HURTOS",
-   "2024": 15,
+   "2024": 16,
    "2025": 17,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -764,7 +772,7 @@
    "CODCOM": 10306,
    "delito": "ROBO CON VIOLENCIA",
    "2024": 2,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
   {
@@ -779,7 +787,7 @@
    "informacion": "Casos",
    "CODCOM": 10306,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 24,
+   "2024": 26,
    "2025": 8,
    "COMUNA": "SAN JUAN DE LA COSTA"
   },
@@ -834,6 +842,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 10306,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 10306,
    "delito": "VIOLACIONES",
    "2024": 0,
    "2025": 1,
@@ -866,6 +882,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 10306,
+   "delito": "ROBO CON VIOLENCIA",
+   "2024": 0,
+   "2025": 1,
+   "COMUNA": "SAN JUAN DE LA COSTA"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 10306,
    "delito": "VIOLACIONES",
    "2024": 0,
    "2025": 1,
@@ -873,7 +897,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Los Lagos"
  }
 }

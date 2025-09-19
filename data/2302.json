@@ -4,35 +4,35 @@
    "delito": "HURTOS",
    "CODCOM": 2302,
    "2024": 14,
-   "2025": 21,
-   "variacion": 50,
+   "2025": 24,
+   "variacion": 71,
    "situación": "Aumento de Casos",
    "COMUNA": "MARÍA ELENA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 2302,
-   "2024": 43,
+   "2024": 44,
    "2025": 32,
-   "variacion": -26,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "MARÍA ELENA"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 2302,
-   "2024": 4,
+   "2024": 5,
    "2025": 13,
-   "variacion": 225,
+   "variacion": 160,
    "situación": "Aumento de Casos",
    "COMUNA": "MARÍA ELENA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 2302,
-   "2024": 5,
-   "2025": 2,
-   "variacion": -60,
+   "2024": 6,
+   "2025": 4,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MARÍA ELENA"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 2302,
-   "2024": 10,
+   "2024": 11,
    "2025": 12,
-   "variacion": 20,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "MARÍA ELENA"
   },
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 2302,
    "2024": 39,
-   "2025": 52,
-   "variacion": 33,
+   "2025": 53,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "MARÍA ELENA"
   },
@@ -251,6 +251,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "MARÍA ELENA"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 3,
    "COMUNA": "MARÍA ELENA"
   },
   {
@@ -526,6 +534,14 @@
    "COMUNA": "MARÍA ELENA"
   },
   {
+   "delito": "ROBO CON INTIMIDACIÓN",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "MARÍA ELENA"
+  },
+  {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 2302,
    "anio": 2024,
@@ -1011,6 +1027,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 10,
+   "COMUNA": "MARÍA ELENA"
+  },
+  {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 2302,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "MARÍA ELENA"
   },
   {
@@ -1068,14 +1092,14 @@
    "CODCOM": 2302,
    "delito": "HURTOS",
    "2024": 14,
-   "2025": 21,
+   "2025": 24,
    "COMUNA": "MARÍA ELENA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "LESIONES",
-   "2024": 43,
+   "2024": 44,
    "2025": 32,
    "COMUNA": "MARÍA ELENA"
   },
@@ -1083,7 +1107,7 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 4,
+   "2024": 5,
    "2025": 13,
    "COMUNA": "MARÍA ELENA"
   },
@@ -1091,8 +1115,8 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
-   "2025": 2,
+   "2024": 6,
+   "2025": 4,
    "COMUNA": "MARÍA ELENA"
   },
   {
@@ -1115,7 +1139,7 @@
    "informacion": "Casos",
    "CODCOM": 2302,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 10,
+   "2024": 11,
    "2025": 12,
    "COMUNA": "MARÍA ELENA"
   },
@@ -1132,7 +1156,7 @@
    "CODCOM": 2302,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 39,
-   "2025": 52,
+   "2025": 53,
    "COMUNA": "MARÍA ELENA"
   },
   {
@@ -1163,7 +1187,7 @@
    "informacion": "Detenciones",
    "CODCOM": 2302,
    "delito": "LESIONES",
-   "2024": 17,
+   "2024": 18,
    "2025": 10,
    "COMUNA": "MARÍA ELENA"
   },
@@ -1195,7 +1219,7 @@
    "informacion": "Detenidos",
    "CODCOM": 2302,
    "delito": "LESIONES",
-   "2024": 28,
+   "2024": 34,
    "2025": 19,
    "COMUNA": "MARÍA ELENA"
   },
@@ -1217,7 +1241,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Antofagasta"
  }
 }

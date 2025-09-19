@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 4202,
    "2024": 13,
-   "2025": 20,
-   "variacion": 54,
+   "2025": 21,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "CANELA"
   },
@@ -371,6 +371,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 5,
+   "COMUNA": "CANELA"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 4202,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "CANELA"
   },
   {
@@ -932,7 +940,7 @@
    "CODCOM": 4202,
    "delito": "LESIONES",
    "2024": 13,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "CANELA"
   },
   {
@@ -1004,7 +1012,7 @@
    "CODCOM": 4202,
    "delito": "LESIONES",
    "2024": 0,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "CANELA"
   },
   {
@@ -1020,7 +1028,7 @@
    "CODCOM": 4202,
    "delito": "LESIONES",
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "CANELA"
   },
   {
@@ -1033,7 +1041,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Coquimbo"
  }
 }

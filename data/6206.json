@@ -4,8 +4,8 @@
    "delito": "HURTOS",
    "CODCOM": 6206,
    "2024": 17,
-   "2025": 12,
-   "variacion": -29,
+   "2025": 14,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 6206,
    "2024": 15,
-   "2025": 12,
-   "variacion": -20,
+   "2025": 13,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6206,
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
-   "variacion": -75,
+   "variacion": -80,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6206,
-   "2024": 21,
-   "2025": 12,
+   "2024": 23,
+   "2025": 13,
    "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "PAREDONES"
@@ -221,6 +221,14 @@
    "COMUNA": "PAREDONES"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6206,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PAREDONES"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 6206,
    "anio": 2024,
@@ -338,6 +346,14 @@
    "anio": 2025,
    "mes": 8,
    "casos": 2,
+   "COMUNA": "PAREDONES"
+  },
+  {
+   "delito": "LESIONES",
+   "CODCOM": 6206,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
    "COMUNA": "PAREDONES"
   },
   {
@@ -621,6 +637,14 @@
    "COMUNA": "PAREDONES"
   },
   {
+   "delito": "ROBO EN LUGAR HABITADO",
+   "CODCOM": 6206,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PAREDONES"
+  },
+  {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6206,
    "anio": 2024,
@@ -723,7 +747,7 @@
    "CODCOM": 6206,
    "delito": "HURTOS",
    "2024": 17,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "PAREDONES"
   },
   {
@@ -731,7 +755,7 @@
    "CODCOM": 6206,
    "delito": "LESIONES",
    "2024": 15,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "PAREDONES"
   },
   {
@@ -770,7 +794,7 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 4,
+   "2024": 5,
    "2025": 1,
    "COMUNA": "PAREDONES"
   },
@@ -778,8 +802,8 @@
    "informacion": "Casos",
    "CODCOM": 6206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 21,
-   "2025": 12,
+   "2024": 23,
+   "2025": 13,
    "COMUNA": "PAREDONES"
   },
   {
@@ -850,7 +874,7 @@
    "informacion": "Detenciones",
    "CODCOM": 6206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "PAREDONES"
   },
@@ -922,7 +946,7 @@
    "informacion": "Detenidos",
    "CODCOM": 6206,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 0,
+   "2024": 1,
    "2025": 2,
    "COMUNA": "PAREDONES"
   },
@@ -944,7 +968,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

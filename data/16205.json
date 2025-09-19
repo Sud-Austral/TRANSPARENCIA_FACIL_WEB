@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 16205,
    "2024": 10,
-   "2025": 9,
-   "variacion": -10,
-   "situación": "Disminución de Casos",
+   "2025": 10,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PORTEZUELO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 16205,
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
-   "variacion": -57,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "PORTEZUELO"
   },
@@ -166,6 +166,14 @@
    "CODCOM": 16205,
    "anio": 2025,
    "mes": 7,
+   "casos": 1,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16205,
+   "anio": 2025,
+   "mes": 9,
    "casos": 1,
    "COMUNA": "PORTEZUELO"
   },
@@ -456,14 +464,14 @@
    "CODCOM": 16205,
    "delito": "HURTOS",
    "2024": 10,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "PORTEZUELO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16205,
    "delito": "LESIONES",
-   "2024": 7,
+   "2024": 8,
    "2025": 3,
    "COMUNA": "PORTEZUELO"
   },
@@ -518,6 +526,14 @@
   {
    "informacion": "Detenciones",
    "CODCOM": 16205,
+   "delito": "LESIONES",
+   "2024": 1,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenciones",
+   "CODCOM": 16205,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -534,6 +550,14 @@
   {
    "informacion": "Detenidos",
    "CODCOM": 16205,
+   "delito": "LESIONES",
+   "2024": 2,
+   "2025": 0,
+   "COMUNA": "PORTEZUELO"
+  },
+  {
+   "informacion": "Detenidos",
+   "CODCOM": 16205,
    "delito": "VIOLACIONES",
    "2024": 1,
    "2025": 0,
@@ -541,7 +565,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Ñuble"
  }
 }

@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7107,
    "2024": 23,
-   "2025": 18,
-   "variacion": -22,
+   "2025": 19,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "PENCAHUE"
   },
@@ -613,6 +613,14 @@
    "COMUNA": "PENCAHUE"
   },
   {
+   "delito": "ROBO EN LUGAR NO HABITADO",
+   "CODCOM": 7107,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PENCAHUE"
+  },
+  {
    "delito": "VIOLACIONES",
    "CODCOM": 7107,
    "anio": 2024,
@@ -691,7 +699,7 @@
    "CODCOM": 7107,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 23,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "PENCAHUE"
   },
   {
@@ -784,7 +792,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

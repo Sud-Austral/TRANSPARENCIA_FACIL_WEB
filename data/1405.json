@@ -4,17 +4,17 @@
    "delito": "HURTOS",
    "CODCOM": 1405,
    "2024": 28,
-   "2025": 19,
-   "variacion": -32,
+   "2025": 20,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "PICA"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 1405,
-   "2024": 31,
-   "2025": 22,
-   "variacion": -29,
+   "2024": 33,
+   "2025": 23,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "PICA"
   },
@@ -49,8 +49,8 @@
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 1405,
    "2024": 1,
-   "2025": 9,
-   "variacion": 800,
+   "2025": 13,
+   "variacion": 1200,
    "situación": "Aumento de Casos",
    "COMUNA": "PICA"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 1405,
-   "2024": 7,
+   "2024": 8,
    "2025": 10,
-   "variacion": 43,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "PICA"
   },
@@ -258,7 +258,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PICA"
   },
   {
@@ -418,7 +418,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PICA"
   },
   {
@@ -578,7 +578,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "PICA"
   },
   {
@@ -836,15 +836,15 @@
    "CODCOM": 1405,
    "delito": "HURTOS",
    "2024": 28,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "PICA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "LESIONES",
-   "2024": 31,
-   "2025": 22,
+   "2024": 33,
+   "2025": 23,
    "COMUNA": "PICA"
   },
   {
@@ -876,7 +876,7 @@
    "CODCOM": 1405,
    "delito": "ROBO DE VEHÍCULO",
    "2024": 1,
-   "2025": 9,
+   "2025": 13,
    "COMUNA": "PICA"
   },
   {
@@ -891,7 +891,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 7,
+   "2024": 8,
    "2025": 10,
    "COMUNA": "PICA"
   },
@@ -932,7 +932,7 @@
    "CODCOM": 1405,
    "delito": "LESIONES",
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "PICA"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 1405,
    "delito": "LESIONES",
    "2024": 10,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "PICA"
   },
   {
@@ -969,7 +969,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Tarapacá"
  }
 }

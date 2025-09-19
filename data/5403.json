@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5403,
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
-   "variacion": 17,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -40,8 +40,8 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5403,
    "2024": 4,
-   "2025": 17,
-   "variacion": 325,
+   "2025": 18,
+   "variacion": 350,
    "situación": "Aumento de Casos",
    "COMUNA": "PAPUDO"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5403,
-   "2024": 25,
-   "2025": 14,
+   "2024": 27,
+   "2025": 15,
    "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "PAPUDO"
@@ -500,6 +500,14 @@
    "COMUNA": "PAPUDO"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 5403,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PAPUDO"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5403,
    "anio": 2025,
@@ -640,7 +648,7 @@
    "CODCOM": 5403,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "PAPUDO"
   },
   {
@@ -753,7 +761,7 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "HURTOS",
-   "2024": 18,
+   "2024": 19,
    "2025": 21,
    "COMUNA": "PAPUDO"
   },
@@ -786,7 +794,7 @@
    "CODCOM": 5403,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 4,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "PAPUDO"
   },
   {
@@ -801,8 +809,8 @@
    "informacion": "Casos",
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 25,
-   "2025": 14,
+   "2024": 27,
+   "2025": 15,
    "COMUNA": "PAPUDO"
   },
   {
@@ -850,7 +858,7 @@
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "PAPUDO"
   },
   {
@@ -882,12 +890,12 @@
    "CODCOM": 5403,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 2,
-   "2025": 8,
+   "2025": 10,
    "COMUNA": "PAPUDO"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

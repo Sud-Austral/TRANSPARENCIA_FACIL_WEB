@@ -12,8 +12,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9202,
-   "2024": 80,
-   "2025": 88,
+   "2024": 84,
+   "2025": 92,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "COLLIPULLI"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 9202,
-   "2024": 89,
-   "2025": 96,
+   "2024": 91,
+   "2025": 98,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "COLLIPULLI"
@@ -76,8 +76,8 @@
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 9202,
    "2024": 18,
-   "2025": 14,
-   "variacion": -22,
+   "2025": 15,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "COLLIPULLI"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 9202,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 80,
-   "2025": 88,
+   "2024": 84,
+   "2025": 92,
    "COMUNA": "COLLIPULLI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 89,
-   "2025": 96,
+   "2024": 91,
+   "2025": 98,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2374,7 +2374,7 @@
    "CODCOM": 9202,
    "delito": "ROBO EN LUGAR HABITADO",
    "2024": 18,
-   "2025": 14,
+   "2025": 15,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2421,7 +2421,7 @@
    "informacion": "Detenciones",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 14,
+   "2024": 15,
    "2025": 8,
    "COMUNA": "COLLIPULLI"
   },
@@ -2429,8 +2429,8 @@
    "informacion": "Detenciones",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 39,
-   "2025": 45,
+   "2024": 40,
+   "2025": 46,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2525,7 +2525,7 @@
    "informacion": "Detenidos",
    "CODCOM": 9202,
    "delito": "HURTOS",
-   "2024": 17,
+   "2024": 18,
    "2025": 9,
    "COMUNA": "COLLIPULLI"
   },
@@ -2533,8 +2533,8 @@
    "informacion": "Detenidos",
    "CODCOM": 9202,
    "delito": "LESIONES",
-   "2024": 65,
-   "2025": 73,
+   "2024": 67,
+   "2025": 75,
    "COMUNA": "COLLIPULLI"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "La Araucanía"
  }
 }

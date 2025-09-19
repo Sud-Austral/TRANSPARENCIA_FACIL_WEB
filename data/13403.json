@@ -13,18 +13,18 @@
    "delito": "HURTOS",
    "CODCOM": 13403,
    "2024": 58,
-   "2025": 52,
-   "variacion": -10,
+   "2025": 53,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13403,
-   "2024": 81,
-   "2025": 83,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 85,
+   "2025": 84,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 13403,
-   "2024": 25,
+   "2024": 27,
    "2025": 19,
-   "variacion": -24,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
@@ -57,26 +57,26 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13403,
-   "2024": 36,
+   "2024": 38,
    "2025": 55,
-   "variacion": 53,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13403,
-   "2024": 12,
+   "2024": 13,
    "2025": 22,
-   "variacion": 83,
+   "variacion": 69,
    "situación": "Aumento de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13403,
-   "2024": 51,
-   "2025": 37,
+   "2024": 52,
+   "2025": 38,
    "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
@@ -84,9 +84,9 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13403,
-   "2024": 45,
-   "2025": 36,
-   "variacion": -20,
+   "2024": 49,
+   "2025": 38,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 13403,
-   "2024": 20,
+   "2024": 21,
    "2025": 8,
-   "variacion": -60,
+   "variacion": -62,
    "situación": "Disminución de Casos",
    "COMUNA": "CALERA DE TANGO"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 13403,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13403,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 13403,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 13403,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -2318,15 +2318,15 @@
    "CODCOM": 13403,
    "delito": "HURTOS",
    "2024": 58,
-   "2025": 52,
+   "2025": 53,
    "COMUNA": "CALERA DE TANGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "LESIONES",
-   "2024": 81,
-   "2025": 83,
+   "2024": 85,
+   "2025": 84,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -2341,7 +2341,7 @@
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 25,
+   "2024": 27,
    "2025": 19,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2357,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 36,
+   "2024": 38,
    "2025": 55,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2365,7 +2365,7 @@
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 12,
+   "2024": 13,
    "2025": 22,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2373,16 +2373,16 @@
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 51,
-   "2025": 37,
+   "2024": 52,
+   "2025": 38,
    "COMUNA": "CALERA DE TANGO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 45,
-   "2025": 36,
+   "2024": 49,
+   "2025": 38,
    "COMUNA": "CALERA DE TANGO"
   },
   {
@@ -2397,7 +2397,7 @@
    "informacion": "Casos",
    "CODCOM": 13403,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 20,
+   "2024": 21,
    "2025": 8,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2429,7 +2429,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13403,
    "delito": "LESIONES",
-   "2024": 31,
+   "2024": 32,
    "2025": 25,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2485,7 +2485,7 @@
    "informacion": "Detenciones",
    "CODCOM": 13403,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 2,
+   "2024": 3,
    "2025": 6,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2533,7 +2533,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13403,
    "delito": "LESIONES",
-   "2024": 55,
+   "2024": 57,
    "2025": 39,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2589,7 +2589,7 @@
    "informacion": "Detenidos",
    "CODCOM": 13403,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3,
+   "2024": 5,
    "2025": 7,
    "COMUNA": "CALERA DE TANGO"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

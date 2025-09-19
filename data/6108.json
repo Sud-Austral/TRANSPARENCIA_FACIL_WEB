@@ -12,18 +12,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6108,
-   "2024": 116,
-   "2025": 70,
-   "variacion": -40,
+   "2024": 120,
+   "2025": 80,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "MACHALI"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 6108,
-   "2024": 111,
-   "2025": 142,
-   "variacion": 28,
+   "2024": 116,
+   "2025": 143,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "MACHALI"
   },
@@ -31,8 +31,8 @@
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6108,
    "2024": 14,
-   "2025": 37,
-   "variacion": 164,
+   "2025": 38,
+   "variacion": 171,
    "situación": "Aumento de Casos",
    "COMUNA": "MACHALI"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6108,
-   "2024": 48,
-   "2025": 27,
+   "2024": 50,
+   "2025": 28,
    "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "MACHALI"
@@ -66,17 +66,17 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6108,
-   "2024": 27,
+   "2024": 28,
    "2025": 18,
-   "variacion": -33,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "MACHALI"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6108,
-   "2024": 134,
-   "2025": 77,
+   "2024": 138,
+   "2025": 78,
    "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "MACHALI"
@@ -84,18 +84,18 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 6108,
-   "2024": 88,
-   "2025": 86,
-   "variacion": -2,
+   "2024": 94,
+   "2025": 90,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "MACHALI"
   },
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 6108,
-   "2024": 7,
+   "2024": 8,
    "2025": 12,
-   "variacion": 71,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "MACHALI"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 12,
    "COMUNA": "MACHALI"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "MACHALI"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "MACHALI"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "MACHALI"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "MACHALI"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 6108,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 6,
    "COMUNA": "MACHALI"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "HURTOS",
-   "2024": 116,
-   "2025": 70,
+   "2024": 120,
+   "2025": 80,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "LESIONES",
-   "2024": 111,
-   "2025": 142,
+   "2024": 116,
+   "2025": 143,
    "COMUNA": "MACHALI"
   },
   {
@@ -2334,7 +2334,7 @@
    "CODCOM": 6108,
    "delito": "OTROS ROBOS CON FUERZA",
    "2024": 14,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "MACHALI"
   },
   {
@@ -2357,15 +2357,15 @@
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 48,
-   "2025": 27,
+   "2024": 50,
+   "2025": 28,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 27,
+   "2024": 28,
    "2025": 18,
    "COMUNA": "MACHALI"
   },
@@ -2373,23 +2373,23 @@
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 134,
-   "2025": 77,
+   "2024": 138,
+   "2025": 78,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 88,
-   "2025": 86,
+   "2024": 94,
+   "2025": 90,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6108,
    "delito": "ROBO POR SORPRESA",
-   "2024": 7,
+   "2024": 8,
    "2025": 12,
    "COMUNA": "MACHALI"
   },
@@ -2421,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 6108,
    "delito": "HURTOS",
-   "2024": 25,
-   "2025": 14,
+   "2024": 26,
+   "2025": 15,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 6108,
    "delito": "LESIONES",
-   "2024": 32,
+   "2024": 33,
    "2025": 30,
    "COMUNA": "MACHALI"
   },
@@ -2525,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 6108,
    "delito": "HURTOS",
-   "2024": 31,
-   "2025": 15,
+   "2024": 32,
+   "2025": 17,
    "COMUNA": "MACHALI"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 6108,
    "delito": "LESIONES",
-   "2024": 52,
+   "2024": 53,
    "2025": 49,
    "COMUNA": "MACHALI"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

@@ -3,9 +3,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5504,
-   "2024": 37,
-   "2025": 45,
-   "variacion": 22,
+   "2024": 39,
+   "2025": 46,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -13,8 +13,8 @@
    "delito": "LESIONES",
    "CODCOM": 5504,
    "2024": 26,
-   "2025": 22,
-   "variacion": -15,
+   "2025": 23,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -30,10 +30,10 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5504,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17,
+   "situación": "Disminución de Casos",
    "COMUNA": "LA CRUZ"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5504,
-   "2024": 19,
-   "2025": 4,
-   "variacion": -79,
+   "2024": 20,
+   "2025": 6,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "LA CRUZ"
   },
@@ -271,6 +271,14 @@
    "COMUNA": "LA CRUZ"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "LA CRUZ"
+  },
+  {
    "delito": "LESIONES",
    "CODCOM": 5504,
    "anio": 2024,
@@ -411,7 +419,7 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -844,6 +852,14 @@
    "anio": 2025,
    "mes": 7,
    "casos": 1,
+   "COMUNA": "LA CRUZ"
+  },
+  {
+   "delito": "ROBO DE VEHÍCULO",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1284,8 +1300,8 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "HURTOS",
-   "2024": 37,
-   "2025": 45,
+   "2024": 39,
+   "2025": 46,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1293,7 +1309,7 @@
    "CODCOM": 5504,
    "delito": "LESIONES",
    "2024": 26,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1308,7 +1324,7 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
    "COMUNA": "LA CRUZ"
   },
@@ -1332,8 +1348,8 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 19,
-   "2025": 4,
+   "2024": 20,
+   "2025": 6,
    "COMUNA": "LA CRUZ"
   },
   {
@@ -1506,7 +1522,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

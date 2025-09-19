@@ -3,17 +3,17 @@
   {
    "delito": "HOMICIDIOS",
    "CODCOM": 5,
-   "2024": 48,
+   "2024": 49,
    "2025": 41,
-   "variacion": -15,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "HURTOS",
    "CODCOM": 5,
-   "2024": 7124,
-   "2025": 7513,
+   "2024": 7343,
+   "2025": 7732,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
@@ -21,8 +21,8 @@
   {
    "delito": "LESIONES",
    "CODCOM": 5,
-   "2024": 5179,
-   "2025": 5306,
+   "2024": 5344,
+   "2025": 5447,
    "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
@@ -30,26 +30,26 @@
   {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 5,
-   "2024": 253,
-   "2025": 351,
-   "variacion": 39,
+   "2024": 262,
+   "2025": 361,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 5,
-   "2024": 1999,
-   "2025": 1562,
-   "variacion": -22,
+   "2024": 2039,
+   "2025": 1603,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "ROBO CON VIOLENCIA",
    "CODCOM": 5,
-   "2024": 1476,
-   "2025": 1329,
+   "2024": 1506,
+   "2025": 1356,
    "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
@@ -57,8 +57,8 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 5,
-   "2024": 3751,
-   "2025": 4354,
+   "2024": 3861,
+   "2025": 4468,
    "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
@@ -66,17 +66,17 @@
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 5,
-   "2024": 2314,
-   "2025": 1949,
-   "variacion": -16,
+   "2024": 2387,
+   "2025": 1986,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 5,
-   "2024": 3903,
-   "2025": 3281,
+   "2024": 4025,
+   "2025": 3373,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
@@ -84,8 +84,8 @@
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 5,
-   "2024": 3058,
-   "2025": 2962,
+   "2024": 3133,
+   "2025": 3051,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
@@ -93,26 +93,26 @@
   {
    "delito": "ROBO POR SORPRESA",
    "CODCOM": 5,
-   "2024": 1610,
-   "2025": 1674,
-   "variacion": 4,
+   "2024": 1664,
+   "2025": 1707,
+   "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
    "CODCOM": 5,
-   "2024": 247,
-   "2025": 189,
-   "variacion": -23,
+   "2024": 253,
+   "2025": 190,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "NO COMUNA"
   },
   {
    "delito": "VIOLACIONES",
    "CODCOM": 5,
-   "2024": 121,
-   "2025": 132,
+   "2024": 126,
+   "2025": 137,
    "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "NO COMUNA"
@@ -452,7 +452,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 253,
+   "casos": 472,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 145,
+   "casos": 286,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -788,7 +788,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 7,
+   "casos": 17,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -956,7 +956,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 50,
+   "casos": 91,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1124,7 +1124,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 38,
+   "casos": 65,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1292,7 +1292,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 99,
+   "casos": 213,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1460,7 +1460,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 37,
+   "casos": 74,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1628,7 +1628,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 107,
+   "casos": 199,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 92,
+   "casos": 181,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -1964,7 +1964,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 35,
+   "casos": 68,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2132,7 +2132,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 5,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 9,
    "COMUNA": "NO COMUNA"
   }
  ],
@@ -2309,7 +2309,7 @@
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "HOMICIDIOS",
-   "2024": 48,
+   "2024": 49,
    "2025": 41,
    "COMUNA": "NO COMUNA"
   },
@@ -2317,96 +2317,96 @@
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "HURTOS",
-   "2024": 7124,
-   "2025": 7513,
+   "2024": 7343,
+   "2025": 7732,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "LESIONES",
-   "2024": 5179,
-   "2025": 5306,
+   "2024": 5344,
+   "2025": 5447,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 253,
-   "2025": 351,
+   "2024": 262,
+   "2025": 361,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 1999,
-   "2025": 1562,
+   "2024": 2039,
+   "2025": 1603,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 1476,
-   "2025": 1329,
+   "2024": 1506,
+   "2025": 1356,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 3751,
-   "2025": 4354,
+   "2024": 3861,
+   "2025": 4468,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 2314,
-   "2025": 1949,
+   "2024": 2387,
+   "2025": 1986,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 3903,
-   "2025": 3281,
+   "2024": 4025,
+   "2025": 3373,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 3058,
-   "2025": 2962,
+   "2024": 3133,
+   "2025": 3051,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO POR SORPRESA",
-   "2024": 1610,
-   "2025": 1674,
+   "2024": 1664,
+   "2025": 1707,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 247,
-   "2025": 189,
+   "2024": 253,
+   "2025": 190,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5,
    "delito": "VIOLACIONES",
-   "2024": 121,
-   "2025": 132,
+   "2024": 126,
+   "2025": 137,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2421,55 +2421,55 @@
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "HURTOS",
-   "2024": 2602,
-   "2025": 2629,
+   "2024": 2691,
+   "2025": 2721,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "LESIONES",
-   "2024": 1532,
-   "2025": 1590,
+   "2024": 1578,
+   "2025": 1635,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 54,
-   "2025": 64,
+   "2024": 57,
+   "2025": 65,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 125,
-   "2025": 123,
+   "2024": 128,
+   "2025": 128,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 181,
-   "2025": 157,
+   "2024": 186,
+   "2025": 160,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 97,
-   "2025": 105,
+   "2024": 100,
+   "2025": 108,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 37,
+   "2024": 38,
    "2025": 19,
    "COMUNA": "NO COMUNA"
   },
@@ -2477,31 +2477,31 @@
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 204,
-   "2025": 192,
+   "2024": 213,
+   "2025": 199,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 352,
-   "2025": 355,
+   "2024": 359,
+   "2025": 369,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO POR SORPRESA",
-   "2024": 162,
-   "2025": 220,
+   "2024": 177,
+   "2025": 228,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 9,
+   "2024": 10,
    "2025": 12,
    "COMUNA": "NO COMUNA"
   },
@@ -2509,8 +2509,8 @@
    "informacion": "Detenciones",
    "CODCOM": 5,
    "delito": "VIOLACIONES",
-   "2024": 20,
-   "2025": 24,
+   "2024": 21,
+   "2025": 25,
    "COMUNA": "NO COMUNA"
   },
   {
@@ -2525,55 +2525,55 @@
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "HURTOS",
-   "2024": 2805,
-   "2025": 2838,
+   "2024": 2898,
+   "2025": 2936,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "LESIONES",
-   "2024": 2677,
-   "2025": 2818,
+   "2024": 2764,
+   "2025": 2902,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "OTROS ROBOS CON FUERZA",
-   "2024": 76,
-   "2025": 103,
+   "2024": 80,
+   "2025": 104,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 209,
-   "2025": 183,
+   "2024": 213,
+   "2025": 188,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO CON VIOLENCIA",
-   "2024": 300,
-   "2025": 287,
+   "2024": 310,
+   "2025": 290,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 135,
-   "2025": 148,
+   "2024": 140,
+   "2025": 153,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 56,
+   "2024": 57,
    "2025": 30,
    "COMUNA": "NO COMUNA"
   },
@@ -2581,31 +2581,31 @@
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 262,
-   "2025": 238,
+   "2024": 274,
+   "2025": 246,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 497,
-   "2025": 483,
+   "2024": 507,
+   "2025": 505,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO POR SORPRESA",
-   "2024": 206,
-   "2025": 311,
+   "2024": 223,
+   "2025": 322,
    "COMUNA": "NO COMUNA"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "ROBO VIOLENTO DE VEHÍCULO",
-   "2024": 21,
+   "2024": 23,
    "2025": 22,
    "COMUNA": "NO COMUNA"
   },
@@ -2613,13 +2613,13 @@
    "informacion": "Detenidos",
    "CODCOM": 5,
    "delito": "VIOLACIONES",
-   "2024": 23,
-   "2025": 24,
+   "2024": 24,
+   "2025": 25,
    "COMUNA": "NO COMUNA"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Valparaíso"
  }
 }

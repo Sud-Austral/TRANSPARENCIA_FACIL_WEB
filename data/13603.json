@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13603,
-   "2024": 47,
-   "2025": 60,
-   "variacion": 28,
+   "2024": 48,
+   "2025": 61,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 13603,
-   "2024": 85,
-   "2025": 83,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 87,
+   "2025": 88,
+   "variacion": 1,
+   "situación": "Aumento de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -57,27 +57,27 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 13603,
-   "2024": 7,
+   "2024": 8,
    "2025": 18,
-   "variacion": 157,
+   "variacion": 125,
    "situación": "Aumento de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 13603,
-   "2024": 19,
+   "2024": 20,
    "2025": 16,
-   "variacion": -16,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 13603,
-   "2024": 67,
+   "2024": 68,
    "2025": 45,
-   "variacion": -33,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
@@ -85,8 +85,8 @@
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 13603,
    "2024": 50,
-   "2025": 34,
-   "variacion": -32,
+   "2025": 36,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "ISLA DE MAIPO"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 13603,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -620,7 +620,7 @@
    "CODCOM": 13603,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 13603,
    "anio": 2025,
    "mes": 9,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -2317,16 +2317,16 @@
    "informacion": "Casos",
    "CODCOM": 13603,
    "delito": "HURTOS",
-   "2024": 47,
-   "2025": 60,
+   "2024": 48,
+   "2025": 61,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13603,
    "delito": "LESIONES",
-   "2024": 85,
-   "2025": 83,
+   "2024": 87,
+   "2025": 88,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -2357,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 13603,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 7,
+   "2024": 8,
    "2025": 18,
    "COMUNA": "ISLA DE MAIPO"
   },
@@ -2365,7 +2365,7 @@
    "informacion": "Casos",
    "CODCOM": 13603,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 19,
+   "2024": 20,
    "2025": 16,
    "COMUNA": "ISLA DE MAIPO"
   },
@@ -2373,7 +2373,7 @@
    "informacion": "Casos",
    "CODCOM": 13603,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 67,
+   "2024": 68,
    "2025": 45,
    "COMUNA": "ISLA DE MAIPO"
   },
@@ -2382,7 +2382,7 @@
    "CODCOM": 13603,
    "delito": "ROBO EN LUGAR NO HABITADO",
    "2024": 50,
-   "2025": 34,
+   "2025": 36,
    "COMUNA": "ISLA DE MAIPO"
   },
   {
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,19 +12,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7308,
-   "2024": 62,
-   "2025": 45,
-   "variacion": -27,
+   "2024": 64,
+   "2025": 46,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "TENO"
   },
   {
    "delito": "LESIONES",
    "CODCOM": 7308,
-   "2024": 64,
+   "2024": 67,
    "2025": 67,
-   "variacion": 5,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "TENO"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 7308,
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
-   "variacion": -22,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TENO"
   },
@@ -75,18 +75,18 @@
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 7308,
-   "2024": 45,
+   "2024": 46,
    "2025": 32,
-   "variacion": -29,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "TENO"
   },
   {
    "delito": "ROBO EN LUGAR NO HABITADO",
    "CODCOM": 7308,
-   "2024": 67,
-   "2025": 80,
-   "variacion": 19,
+   "2024": 69,
+   "2025": 81,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "TENO"
   },
@@ -452,7 +452,7 @@
    "CODCOM": 7308,
    "anio": 2025,
    "mes": 9,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "TENO"
   },
   {
@@ -1796,7 +1796,7 @@
    "CODCOM": 7308,
    "anio": 2025,
    "mes": 9,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "TENO"
   },
   {
@@ -2317,15 +2317,15 @@
    "informacion": "Casos",
    "CODCOM": 7308,
    "delito": "HURTOS",
-   "2024": 62,
-   "2025": 45,
+   "2024": 64,
+   "2025": 46,
    "COMUNA": "TENO"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7308,
    "delito": "LESIONES",
-   "2024": 64,
+   "2024": 67,
    "2025": 67,
    "COMUNA": "TENO"
   },
@@ -2357,7 +2357,7 @@
    "informacion": "Casos",
    "CODCOM": 7308,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
-   "2024": 9,
+   "2024": 10,
    "2025": 7,
    "COMUNA": "TENO"
   },
@@ -2373,7 +2373,7 @@
    "informacion": "Casos",
    "CODCOM": 7308,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 45,
+   "2024": 46,
    "2025": 32,
    "COMUNA": "TENO"
   },
@@ -2381,8 +2381,8 @@
    "informacion": "Casos",
    "CODCOM": 7308,
    "delito": "ROBO EN LUGAR NO HABITADO",
-   "2024": 67,
-   "2025": 80,
+   "2024": 69,
+   "2025": 81,
    "COMUNA": "TENO"
   },
   {
@@ -2421,15 +2421,15 @@
    "informacion": "Detenciones",
    "CODCOM": 7308,
    "delito": "HURTOS",
-   "2024": 8,
-   "2025": 5,
+   "2024": 9,
+   "2025": 6,
    "COMUNA": "TENO"
   },
   {
    "informacion": "Detenciones",
    "CODCOM": 7308,
    "delito": "LESIONES",
-   "2024": 24,
+   "2024": 27,
    "2025": 26,
    "COMUNA": "TENO"
   },
@@ -2525,15 +2525,15 @@
    "informacion": "Detenidos",
    "CODCOM": 7308,
    "delito": "HURTOS",
-   "2024": 9,
-   "2025": 5,
+   "2024": 10,
+   "2025": 6,
    "COMUNA": "TENO"
   },
   {
    "informacion": "Detenidos",
    "CODCOM": 7308,
    "delito": "LESIONES",
-   "2024": 38,
+   "2024": 43,
    "2025": 40,
    "COMUNA": "TENO"
   },
@@ -2619,7 +2619,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "Maule"
  }
 }

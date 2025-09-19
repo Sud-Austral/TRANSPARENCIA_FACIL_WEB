@@ -12,9 +12,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6201,
-   "2024": 110,
-   "2025": 87,
-   "variacion": -21,
+   "2024": 114,
+   "2025": 91,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -22,8 +22,8 @@
    "delito": "LESIONES",
    "CODCOM": 6201,
    "2024": 75,
-   "2025": 77,
-   "variacion": 3,
+   "2025": 79,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "ROBO CON INTIMIDACIÓN",
    "CODCOM": 6201,
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
-   "variacion": -29,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -58,26 +58,26 @@
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "CODCOM": 6201,
    "2024": 9,
-   "2025": 10,
-   "variacion": 11,
+   "2025": 11,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "PICHILEMU"
   },
   {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6201,
-   "2024": 17,
+   "2024": 18,
    "2025": 18,
-   "variacion": 6,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "PICHILEMU"
   },
   {
    "delito": "ROBO EN LUGAR HABITADO",
    "CODCOM": 6201,
-   "2024": 83,
-   "2025": 49,
-   "variacion": -41,
+   "2024": 86,
+   "2025": 50,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "PICHILEMU"
   },
@@ -300,7 +300,7 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 9,
-   "casos": 3,
+   "casos": 7,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -464,6 +464,14 @@
    "COMUNA": "PICHILEMU"
   },
   {
+   "delito": "LESIONES",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 2,
+   "COMUNA": "PICHILEMU"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA",
    "CODCOM": 6201,
    "anio": 2024,
@@ -808,6 +816,14 @@
    "COMUNA": "PICHILEMU"
   },
   {
+   "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
+   "CODCOM": 6201,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "PICHILEMU"
+  },
+  {
    "delito": "ROBO DE VEHÍCULO",
    "CODCOM": 6201,
    "anio": 2024,
@@ -1092,7 +1108,7 @@
    "CODCOM": 6201,
    "anio": 2025,
    "mes": 9,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1341,8 +1357,8 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "HURTOS",
-   "2024": 110,
-   "2025": 87,
+   "2024": 114,
+   "2025": 91,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1350,7 +1366,7 @@
    "CODCOM": 6201,
    "delito": "LESIONES",
    "2024": 75,
-   "2025": 77,
+   "2025": 79,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1365,7 +1381,7 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO CON INTIMIDACIÓN",
-   "2024": 7,
+   "2024": 8,
    "2025": 5,
    "COMUNA": "PICHILEMU"
   },
@@ -1382,14 +1398,14 @@
    "CODCOM": 6201,
    "delito": "ROBO DE OBJETO DE O DESDE VEHÍCULO",
    "2024": 9,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "PICHILEMU"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO DE VEHÍCULO",
-   "2024": 17,
+   "2024": 18,
    "2025": 18,
    "COMUNA": "PICHILEMU"
   },
@@ -1397,8 +1413,8 @@
    "informacion": "Casos",
    "CODCOM": 6201,
    "delito": "ROBO EN LUGAR HABITADO",
-   "2024": 83,
-   "2025": 49,
+   "2024": 86,
+   "2025": 50,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1446,7 +1462,7 @@
    "CODCOM": 6201,
    "delito": "HURTOS",
    "2024": 20,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1454,7 +1470,7 @@
    "CODCOM": 6201,
    "delito": "LESIONES",
    "2024": 34,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1542,7 +1558,7 @@
    "CODCOM": 6201,
    "delito": "HURTOS",
    "2024": 32,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1550,7 +1566,7 @@
    "CODCOM": 6201,
    "delito": "LESIONES",
    "2024": 55,
-   "2025": 61,
+   "2025": 65,
    "COMUNA": "PICHILEMU"
   },
   {
@@ -1627,7 +1643,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 36/2025 (del 01/09/2025 al 07/09/2025)",
+  "semana_id": "SEMANA 37/2025 (del 08/09/2025 al 14/09/2025)",
   "region": "O'Higgins"
  }
 }

@@ -2130,6 +2130,7 @@
                     crimeAnalysisPagesContainer.appendChild(page);
                     
                     const crimeDataFiltered = data.filter(item => item.delito === crime);
+                    console.log("filtrado",crimeDataFiltered)
                     const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
                     
                     const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);

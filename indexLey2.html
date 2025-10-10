@@ -938,15 +938,8 @@
             gap: 15px;
         }
         
-        .crime-small-charts {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 15px;
-            height: 250px;
-            width: 100%;
-        }
-        
-        .crime-chart-box {
+        .crime-casos-chart {
+            height: 350px;
             background-color: var(--card-bg-color);
             border-radius: 16px;
             padding: 15px;
@@ -956,23 +949,13 @@
                 inset 1px 1px 2px rgba(255, 255, 255, 0.9),
                 inset -1px -1px 2px rgba(0, 0, 0, 0.05);
             border: 1px solid var(--border-color);
-            flex: 1;
-            margin: 0 5px;
             display: flex;
             flex-direction: column;
-            width: calc(33.333% - 10px);
+            width: 100%;
             box-sizing: border-box;
         }
         
-        .crime-chart-box:first-child {
-            margin-left: 0;
-        }
-        
-        .crime-chart-box:last-child {
-            margin-right: 0;
-        }
-        
-        .crime-chart-title {
+        .crime-casos-title {
             font-size: 14px;
             font-weight: 500;
             color: var(--text-color-primary);
@@ -980,10 +963,10 @@
             margin-bottom: 10px;
         }
         
-        .crime-chart-container {
+        .crime-casos-container {
             flex: 1;
             position: relative;
-            height: 180px;
+            height: 280px;
         }
         
         .crime-large-chart {
@@ -1257,19 +1240,12 @@
                 width: 100%;
             }
             
-            .crime-small-charts {
-                height: 250px;
-                flex-direction: column;
-                gap: 15px;
+            .crime-casos-chart {
+                height: 300px;
             }
             
-            .crime-chart-box {
-                margin: 0;
-                height: 180px;
-            }
-            
-            .crime-chart-container {
-                height: 130px;
+            .crime-casos-container {
+                height: 230px;
             }
             
             .crime-large-chart {
@@ -1310,16 +1286,12 @@
                 height: 180px;
             }
             
-            .crime-small-charts {
-                height: 220px;
+            .crime-casos-chart {
+                height: 280px;
             }
             
-            .crime-chart-box {
-                height: 160px;
-            }
-            
-            .crime-chart-container {
-                height: 110px;
+            .crime-casos-container {
+                height: 210px;
             }
             
             .crime-large-chart {
@@ -1420,21 +1392,13 @@
                 gap: 10px !important;
             }
             
-            .crime-small-charts {
-                flex-direction: row !important;
-                height: auto !important;
-                margin-bottom: 15px !important;
-            }
-            
-            .crime-chart-box {
-                margin: 0 5px !important;
-                height: 180px !important;
-                width: calc(33.333% - 10px) !important;
+            .crime-casos-chart {
+                height: 250px !important;
                 page-break-inside: avoid;
             }
             
-            .crime-chart-container {
-                height: 130px !important;
+            .crime-casos-container {
+                height: 180px !important;
             }
             
             .crime-large-chart {
@@ -1694,7 +1658,8 @@
         let allDATA = {};
         const params = new URLSearchParams(window.location.search);
         const codcomParam = params.get("codcom")?.trim() || "13101";
-        const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
+        //const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/${encodeURIComponent(codcomParam)}.json`;
+        const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/ejemplo.json`;
         
         // Mostrar indicador de carga al inicio
         document.addEventListener('DOMContentLoaded', () => {
@@ -2085,6 +2050,7 @@
             
             function createCrimeAnalysisPages(data) {
                 const uniqueCrimes = [...new Set(data.map(item => item.delito))];
+                console.log(uniqueCrimes)
                 
                 uniqueCrimes.forEach((crime, crimeIndex) => {
                     const page = document.createElement('div');
@@ -2117,43 +2083,16 @@
                     const crimeChartsContainer = document.createElement('div');
                     crimeChartsContainer.className = 'crime-charts-container';
                     
-                    const crimeSmallCharts = document.createElement('div');
-                    crimeSmallCharts.className = 'crime-small-charts';
-                    
-                    const crimeChartBox1 = document.createElement('div');
-                    crimeChartBox1.className = 'crime-chart-box';
-                    crimeChartBox1.innerHTML = `
-                        <div class="crime-chart-title">Casos</div>
-                        <div class="crime-chart-container">
+                    const crimeCasosChart = document.createElement('div');
+                    crimeCasosChart.className = 'crime-casos-chart';
+                    crimeCasosChart.innerHTML = `
+                        <div class="crime-casos-title">Casos de ${crime} (2024-2025)</div>
+                        <div class="crime-casos-container">
                             <canvas id="crime-casos-chart-${crime.replace(/\s/g, '-')}"></canvas>
                         </div>
                         <div id="crime-casos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
                     `;
-                    crimeSmallCharts.appendChild(crimeChartBox1);
-                    
-                    const crimeChartBox2 = document.createElement('div');
-                    crimeChartBox2.className = 'crime-chart-box';
-                    crimeChartBox2.innerHTML = `
-                        <div class="crime-chart-title">Detenciones</div>
-                        <div class="crime-chart-container">
-                            <canvas id="crime-detenciones-chart-${crime.replace(/\s/g, '-')}"></canvas>
-                        </div>
-                        <div id="crime-detenciones-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
-                    `;
-                    crimeSmallCharts.appendChild(crimeChartBox2);
-                    
-                    const crimeChartBox3 = document.createElement('div');
-                    crimeChartBox3.className = 'crime-chart-box';
-                    crimeChartBox3.innerHTML = `
-                        <div class="crime-chart-title">Detenidos</div>
-                        <div class="crime-chart-container">
-                            <canvas id="crime-detenidos-chart-${crime.replace(/\s/g, '-')}"></canvas>
-                        </div>
-                        <div id="crime-detenidos-label-${crime.replace(/\s/g, '-')}" class="crime-data-label"></div>
-                    `;
-                    crimeSmallCharts.appendChild(crimeChartBox3);
-                    
-                    crimeChartsContainer.appendChild(crimeSmallCharts);
+                    crimeChartsContainer.appendChild(crimeCasosChart);
                     
                     const crimeLargeChart = document.createElement('div');
                     crimeLargeChart.className = 'crime-large-chart';
@@ -2192,20 +2131,10 @@
                     
                     const crimeDataFiltered = data.filter(item => item.delito === crime);
                     const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
-                    const detencionesData = crimeDataFiltered.filter(item => item.informacion === 'Detenciones');
-                    const detenidosData = crimeDataFiltered.filter(item => item.informacion === 'Detenidos');
                     
                     const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);
                     const casos2025 = casosData.reduce((sum, item) => sum + item['2025'], 0);
                     const casosVariation = casos2024 > 0 ? ((casos2025 - casos2024) / casos2024) * 100 : (casos2025 > 0 ? 100 : 0);
-                    
-                    const detenciones2024 = detencionesData.reduce((sum, item) => sum + item['2024'], 0);
-                    const detenciones2025 = detencionesData.reduce((sum, item) => sum + item['2025'], 0);
-                    const detencionesVariation = detenciones2024 > 0 ? ((detenciones2025 - detenciones2024) / detenciones2024) * 100 : (detenciones2025 > 0 ? 100 : 0);
-                    
-                    const detenidos2024 = detenidosData.reduce((sum, item) => sum + item['2024'], 0);
-                    const detenidos2025 = detenidosData.reduce((sum, item) => sum + item['2025'], 0);
-                    const detenidosVariation = detenidos2024 > 0 ? ((detenidos2025 - detenidos2024) / detenidos2024) * 100 : (detenidos2025 > 0 ? 100 : 0);
                     
                     // Determinar clases de color según la comparación para casos
                     let casosHighlightClass, casosVariationClass;
@@ -2220,32 +2149,6 @@
                         casosVariationClass = 'crime-equal';
                     }
                     
-                    // Determinar clases de color según la comparación para detenciones
-                    let detencionesHighlightClass, detencionesVariationClass;
-                    if (detenciones2024 > detenciones2025) {
-                        detencionesHighlightClass = 'crime-highlight-green';
-                        detencionesVariationClass = 'crime-decrease';
-                    } else if (detenciones2024 < detenciones2025) {
-                        detencionesHighlightClass = 'crime-highlight-red';
-                        detencionesVariationClass = 'crime-increase';
-                    } else {
-                        detencionesHighlightClass = 'crime-highlight-yellow';
-                        detencionesVariationClass = 'crime-equal';
-                    }
-                    
-                    // Determinar clases de color según la comparación para detenidos
-                    let detenidosHighlightClass, detenidosVariationClass;
-                    if (detenidos2024 > detenidos2025) {
-                        detenidosHighlightClass = 'crime-highlight-green';
-                        detenidosVariationClass = 'crime-decrease';
-                    } else if (detenidos2024 < detenidos2025) {
-                        detenidosHighlightClass = 'crime-highlight-red';
-                        detenidosVariationClass = 'crime-increase';
-                    } else {
-                        detenidosHighlightClass = 'crime-highlight-yellow';
-                        detenidosVariationClass = 'crime-equal';
-                    }
-                    
                     const statsCard1 = document.createElement('div');
                     statsCard1.className = 'crime-stats-card fade-in';
                     statsCard1.innerHTML = `
@@ -2253,26 +2156,6 @@
                             <i class="fas fa-info-circle text-blue-600" style="margin-right: 5px;"></i>
                             En <span class="crime-highlight">${comunaName} - Región ${regionName}</span> se registraron <span class="${casosHighlightClass}">${formatNumber(casos2025)} casos</span> de ${crime.toLowerCase()} en 2025, 
                             <span class="${casosHighlightClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span> vs ${formatNumber(casos2024)} casos en 2024.
-                        </div>
-                    `;
-                    
-                    const statsCard2 = document.createElement('div');
-                    statsCard2.className = 'crime-stats-card fade-in';
-                    statsCard2.innerHTML = `
-                        <div class="crime-stats-text">
-                            <i class="fas fa-handcuffs text-blue-600" style="margin-right: 5px;"></i>
-                            Detenciones por ${crime.toLowerCase()}: ${formatNumber(detenciones2024)} en 2024, 
-                            <span class="${detencionesHighlightClass}">${formatNumber(detenciones2025)} detenciones</span> en 2025.
-                        </div>
-                    `;
-                    
-                    const statsCard3 = document.createElement('div');
-                    statsCard3.className = 'crime-stats-card fade-in';
-                    statsCard3.innerHTML = `
-                        <div class="crime-stats-text">
-                            <i class="fas fa-users text-blue-600" style="margin-right: 5px;"></i>
-                            Personas detenidas: ${formatNumber(detenidos2024)} en 2024, 
-                            <span class="${detenidosHighlightClass}">${formatNumber(detenidos2025)} detenidos</span> en 2025.
                         </div>
                     `;
                     
@@ -2286,18 +2169,10 @@
                     `;
                     
                     crimeStatsContainer.appendChild(statsCard1);
-                    crimeStatsContainer.appendChild(statsCard2);
-                    crimeStatsContainer.appendChild(statsCard3);
                     crimeStatsContainer.appendChild(statsCard4);
                     
                     document.getElementById(`crime-casos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
                         `2024: ${formatNumber(casos2024)} | 2025: ${formatNumber(casos2025)} <span class="crime-percentage-change ${casosVariationClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span>`;
-                    
-                    document.getElementById(`crime-detenciones-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
-                        `2024: ${formatNumber(detenciones2024)} | 2025: ${formatNumber(detenciones2025)} <span class="crime-percentage-change ${detencionesVariationClass}">${detencionesVariation >= 0 ? '+' : ''}${detencionesVariation.toFixed(1)}%</span>`;
-                    
-                    document.getElementById(`crime-detenidos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
-                        `2024: ${formatNumber(detenidos2024)} | 2025: ${formatNumber(detenidos2025)} <span class="crime-percentage-change ${detenidosVariationClass}">${detenidosVariation >= 0 ? '+' : ''}${detenidosVariation.toFixed(1)}%</span>`;
                     
                     setTimeout(() => {
                         // Función para crear gráficos de barras
@@ -2386,10 +2261,8 @@
                             return chart;
                         }
                         
-                        // Crear los tres gráficos pequeños
+                        // Crear el gráfico de casos (ahora es grande)
                         createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2024, casos2025, casosHighlightClass);
-                        createBarChart(`crime-detenciones-chart-${crime.replace(/\s/g, '-')}`, 'Detenciones', detenciones2024, detenciones2025, detencionesHighlightClass);
-                        createBarChart(`crime-detenidos-chart-${crime.replace(/\s/g, '-')}`, 'Detenidos', detenidos2024, detenidos2025, detenidosHighlightClass);
                         
                         // Crear el gráfico de evolución mensual
                         const evolucionCtx = document.getElementById(`crime-evolucion-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
@@ -2580,18 +2453,10 @@
                 const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
                 const totalCasos2025 = casos2025Data.reduce((sum, item) => sum + item['2025'], 0);
                 
-                const detenidos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Detenidos');
-                const totalDetenidos2025 = detenidos2025Data.reduce((sum, item) => sum + item['2025'], 0);
-                
                 const valor2 = totalCasos2025 > 0 ? horasTranscurridas / totalCasos2025 : 0;
-                const valor4 = totalCasos2025 > 0 ? (totalDetenidos2025 / totalCasos2025) * 100 : 0;
                 
                 infoTextElement1.innerHTML = `
                     Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2025)}</strong> durante el año 2025, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
-                `;
-                
-                infoTextElement2.innerHTML = `
-                    De todos los casos ocurridos, el número de detenidos para todos los delitos que informa la plataforma S.T.O.P. de Carabineros es de <strong>${formatNumber(totalDetenidos2025)}</strong> durante el año 2025. Es decir, la proporción de detenidos con relación al número de casos es de <strong>${valor4.toFixed(1)}%</strong>.
                 `;
                 
                 createComparisonCards(crimeData.nuevo_resumen);

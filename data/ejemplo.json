@@ -2,7 +2,7 @@
  "resumen": [
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 46,
    "2025": 63,
    "variacion": 37,
@@ -10,7 +10,7 @@
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 2646,
    "2025": 2011,
    "variacion": -24,
@@ -18,7 +18,7 @@
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 2854,
    "2025": 2468,
    "variacion": -14,
@@ -26,7 +26,7 @@
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 2307,
    "2025": 1896,
    "variacion": -18,
@@ -34,7 +34,7 @@
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 1741,
    "2025": 1372,
    "variacion": -21,
@@ -42,7 +42,7 @@
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 19,
    "2025": 39,
    "variacion": 105,
@@ -50,7 +50,7 @@
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 6883,
    "2025": 5757,
    "variacion": -16,
@@ -58,7 +58,7 @@
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 3223,
    "2025": 2515,
    "variacion": -22,
@@ -66,7 +66,7 @@
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 182,
    "2025": 118,
    "variacion": -35,
@@ -74,7 +74,7 @@
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 1331,
    "2025": 1195,
    "variacion": -10,
@@ -82,7 +82,7 @@
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 129,
    "2025": 88,
    "variacion": -32,
@@ -90,7 +90,7 @@
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 724,
    "2025": 546,
    "variacion": -25,
@@ -98,7 +98,7 @@
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 393,
    "2025": 406,
    "variacion": 3,
@@ -106,7 +106,7 @@
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 143,
    "2025": 108,
    "variacion": -24,
@@ -114,7 +114,7 @@
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 283,
    "2025": 467,
    "variacion": 65,
@@ -122,7 +122,7 @@
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 325,
    "2025": 318,
    "variacion": -2,
@@ -130,7 +130,7 @@
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 4701,
    "2025": 3966,
    "variacion": -16,
@@ -138,7 +138,7 @@
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 2683,
    "2025": 2697,
    "variacion": 1,
@@ -146,7 +146,7 @@
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 1178,
    "2025": 892,
    "variacion": -24,
@@ -154,7 +154,7 @@
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 5977,
    "2025": 6194,
    "variacion": 4,
@@ -162,7 +162,7 @@
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "2024": 313,
    "2025": 205,
    "variacion": -35,
@@ -172,3236 +172,3236 @@
  "mensual": [
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 6
+   "casos": 6
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 9
+   "casos": 9
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 6
+   "casos": 6
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 8
+   "casos": 8
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 8
+   "casos": 8
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 11
+   "casos": 11
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 2
+   "casos": 2
   },
   {
    "delito": "AMENAZAS CON ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 347
+   "casos": 347
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 269
+   "casos": 269
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 300
+   "casos": 300
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 360
+   "casos": 360
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 257
+   "casos": 257
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 232
+   "casos": 232
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 334
+   "casos": 334
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 252
+   "casos": 252
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 295
+   "casos": 295
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 258
+   "casos": 258
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 263
+   "casos": 263
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 260
+   "casos": 260
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 259
+   "casos": 259
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 214
+   "casos": 214
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 275
+   "casos": 275
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 169
+   "casos": 169
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 188
+   "casos": 188
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 232
+   "casos": 232
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 216
+   "casos": 216
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 219
+   "casos": 219
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 239
+   "casos": 239
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 210
+   "casos": 210
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 114
+   "casos": 114
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 402
+   "casos": 402
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 479
+   "casos": 479
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 301
+   "casos": 301
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 236
+   "casos": 236
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 333
+   "casos": 333
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 380
+   "casos": 380
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 399
+   "casos": 399
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 269
+   "casos": 269
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 272
+   "casos": 272
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 219
+   "casos": 219
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 270
+   "casos": 270
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 170
+   "casos": 170
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 341
+   "casos": 341
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 218
+   "casos": 218
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 193
+   "casos": 193
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 267
+   "casos": 267
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 260
+   "casos": 260
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 413
+   "casos": 413
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 336
+   "casos": 336
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 272
+   "casos": 272
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 214
+   "casos": 214
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 234
+   "casos": 234
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 278
+   "casos": 278
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 240
+   "casos": 240
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 219
+   "casos": 219
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 305
+   "casos": 305
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 237
+   "casos": 237
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 308
+   "casos": 308
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 236
+   "casos": 236
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 265
+   "casos": 265
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 232
+   "casos": 232
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 222
+   "casos": 222
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 159
+   "casos": 159
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 239
+   "casos": 239
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 182
+   "casos": 182
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 201
+   "casos": 201
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 231
+   "casos": 231
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 214
+   "casos": 214
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 194
+   "casos": 194
   },
   {
    "delito": "DAÑOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 254
+   "casos": 254
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 272
+   "casos": 272
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 195
+   "casos": 195
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 196
+   "casos": 196
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 208
+   "casos": 208
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 149
+   "casos": 149
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 171
+   "casos": 171
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 184
+   "casos": 184
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 178
+   "casos": 178
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 188
+   "casos": 188
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 191
+   "casos": 191
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 191
+   "casos": 191
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 211
+   "casos": 211
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 192
+   "casos": 192
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 134
+   "casos": 134
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 191
+   "casos": 191
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 117
+   "casos": 117
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 122
+   "casos": 122
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 165
+   "casos": 165
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 108
+   "casos": 108
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 135
+   "casos": 135
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 208
+   "casos": 208
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 2
+   "casos": 2
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 0
+   "casos": 0
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 2
+   "casos": 2
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 2
+   "casos": 2
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 6
+   "casos": 6
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 8
+   "casos": 8
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 8
+   "casos": 8
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 565
+   "casos": 565
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 529
+   "casos": 529
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 556
+   "casos": 556
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 809
+   "casos": 809
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 667
+   "casos": 667
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 751
+   "casos": 751
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 999
+   "casos": 999
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 922
+   "casos": 922
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 1085
+   "casos": 1085
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 747
+   "casos": 747
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 845
+   "casos": 845
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 827
+   "casos": 827
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 555
+   "casos": 555
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 468
+   "casos": 468
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 748
+   "casos": 748
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 528
+   "casos": 528
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 583
+   "casos": 583
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 764
+   "casos": 764
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 618
+   "casos": 618
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 631
+   "casos": 631
   },
   {
    "delito": "HURTOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 862
+   "casos": 862
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 368
+   "casos": 368
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 248
+   "casos": 248
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 296
+   "casos": 296
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 364
+   "casos": 364
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 266
+   "casos": 266
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 266
+   "casos": 266
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 367
+   "casos": 367
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 375
+   "casos": 375
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 673
+   "casos": 673
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 490
+   "casos": 490
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 464
+   "casos": 464
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 596
+   "casos": 596
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 363
+   "casos": 363
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 247
+   "casos": 247
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 332
+   "casos": 332
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 146
+   "casos": 146
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 197
+   "casos": 197
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 411
+   "casos": 411
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 133
+   "casos": 133
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 388
+   "casos": 388
   },
   {
    "delito": "INCIVILIDADES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 298
+   "casos": 298
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 25
+   "casos": 25
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 25
+   "casos": 25
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 27
+   "casos": 27
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 19
+   "casos": 19
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 22
+   "casos": 22
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 8
+   "casos": 8
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 9
+   "casos": 9
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "LESIONES GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 165
+   "casos": 165
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 144
+   "casos": 144
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 135
+   "casos": 135
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 189
+   "casos": 189
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 104
+   "casos": 104
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 114
+   "casos": 114
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 177
+   "casos": 177
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 133
+   "casos": 133
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 170
+   "casos": 170
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 148
+   "casos": 148
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 165
+   "casos": 165
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 177
+   "casos": 177
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 147
+   "casos": 147
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 116
+   "casos": 116
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 171
+   "casos": 171
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 123
+   "casos": 123
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 89
+   "casos": 89
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 110
+   "casos": 110
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 121
+   "casos": 121
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 129
+   "casos": 129
   },
   {
    "delito": "LESIONES LEVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 189
+   "casos": 189
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 11
+   "casos": 11
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 18
+   "casos": 18
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 9
+   "casos": 9
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 3
+   "casos": 3
   },
   {
    "delito": "LESIONES MENOS GRAVES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 48
+   "casos": 48
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 32
+   "casos": 32
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 55
+   "casos": 55
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 90
+   "casos": 90
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 94
+   "casos": 94
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 90
+   "casos": 90
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 127
+   "casos": 127
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 73
+   "casos": 73
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 115
+   "casos": 115
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 58
+   "casos": 58
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 76
+   "casos": 76
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 52
+   "casos": 52
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 34
+   "casos": 34
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 36
+   "casos": 36
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 56
+   "casos": 56
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 60
+   "casos": 60
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 63
+   "casos": 63
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 60
+   "casos": 60
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 87
+   "casos": 87
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 73
+   "casos": 73
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 77
+   "casos": 77
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 48
+   "casos": 48
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 58
+   "casos": 58
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 67
+   "casos": 67
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 46
+   "casos": 46
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 44
+   "casos": 44
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 50
+   "casos": 50
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 30
+   "casos": 30
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 18
+   "casos": 18
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 21
+   "casos": 21
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 19
+   "casos": 19
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 39
+   "casos": 39
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 61
+   "casos": 61
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 36
+   "casos": 36
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 44
+   "casos": 44
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 51
+   "casos": 51
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 56
+   "casos": 56
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 39
+   "casos": 39
   },
   {
    "delito": "LEY DE DROGAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 47
+   "casos": 47
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 5
+   "casos": 5
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 4
+   "casos": 4
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 18
+   "casos": 18
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 24
+   "casos": 24
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 22
+   "casos": 22
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 26
+   "casos": 26
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 17
+   "casos": 17
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 10
+   "casos": 10
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 1
+   "casos": 1
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 14
+   "casos": 14
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 12
+   "casos": 12
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 7
+   "casos": 7
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 15
+   "casos": 15
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 13
+   "casos": 13
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 23
+   "casos": 23
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 28
+   "casos": 28
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 25
+   "casos": 25
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 25
+   "casos": 25
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 23
+   "casos": 23
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 32
+   "casos": 32
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 36
+   "casos": 36
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 48
+   "casos": 48
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 41
+   "casos": 41
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 51
+   "casos": 51
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 54
+   "casos": 54
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 44
+   "casos": 44
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 50
+   "casos": 50
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 72
+   "casos": 72
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 46
+   "casos": 46
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 45
+   "casos": 45
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 59
+   "casos": 59
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 52
+   "casos": 52
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 50
+   "casos": 50
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 49
+   "casos": 49
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 51
+   "casos": 51
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 26
+   "casos": 26
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 42
+   "casos": 42
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 45
+   "casos": 45
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 32
+   "casos": 32
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 30
+   "casos": 30
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 46
+   "casos": 46
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 29
+   "casos": 29
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 28
+   "casos": 28
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 19
+   "casos": 19
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 32
+   "casos": 32
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 20
+   "casos": 20
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 51
+   "casos": 51
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 28
+   "casos": 28
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 29
+   "casos": 29
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 44
+   "casos": 44
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 27
+   "casos": 27
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "RECEPTACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 54
+   "casos": 54
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 602
+   "casos": 602
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 474
+   "casos": 474
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 444
+   "casos": 444
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 547
+   "casos": 547
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 484
+   "casos": 484
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 466
+   "casos": 466
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 577
+   "casos": 577
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 482
+   "casos": 482
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 625
+   "casos": 625
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 524
+   "casos": 524
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 540
+   "casos": 540
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 514
+   "casos": 514
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 454
+   "casos": 454
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 349
+   "casos": 349
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 491
+   "casos": 491
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 396
+   "casos": 396
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 454
+   "casos": 454
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 512
+   "casos": 512
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 401
+   "casos": 401
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 391
+   "casos": 391
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 518
+   "casos": 518
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 330
+   "casos": 330
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 244
+   "casos": 244
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 256
+   "casos": 256
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 351
+   "casos": 351
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 287
+   "casos": 287
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 252
+   "casos": 252
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 326
+   "casos": 326
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 275
+   "casos": 275
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 362
+   "casos": 362
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 294
+   "casos": 294
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 348
+   "casos": 348
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 382
+   "casos": 382
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 337
+   "casos": 337
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 262
+   "casos": 262
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 376
+   "casos": 376
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 267
+   "casos": 267
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 270
+   "casos": 270
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 346
+   "casos": 346
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 281
+   "casos": 281
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 260
+   "casos": 260
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 298
+   "casos": 298
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 184
+   "casos": 184
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 101
+   "casos": 101
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 120
+   "casos": 120
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 160
+   "casos": 160
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 117
+   "casos": 117
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 97
+   "casos": 97
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 153
+   "casos": 153
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 109
+   "casos": 109
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 137
+   "casos": 137
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 112
+   "casos": 112
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 112
+   "casos": 112
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 139
+   "casos": 139
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 110
+   "casos": 110
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 95
+   "casos": 95
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 104
+   "casos": 104
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 90
+   "casos": 90
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 78
+   "casos": 78
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 114
+   "casos": 114
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 94
+   "casos": 94
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 85
+   "casos": 85
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 122
+   "casos": 122
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 604
+   "casos": 604
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 597
+   "casos": 597
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 620
+   "casos": 620
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 703
+   "casos": 703
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 549
+   "casos": 549
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 569
+   "casos": 569
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 723
+   "casos": 723
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 721
+   "casos": 721
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 891
+   "casos": 891
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 822
+   "casos": 822
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 875
+   "casos": 875
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 812
+   "casos": 812
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 685
+   "casos": 685
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 593
+   "casos": 593
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 782
+   "casos": 782
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 602
+   "casos": 602
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 562
+   "casos": 562
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 812
+   "casos": 812
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 641
+   "casos": 641
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 657
+   "casos": 657
   },
   {
    "delito": "ROBOS POR SORPRESA",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 860
+   "casos": 860
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 1,
-   "frecuencia": 36
+   "casos": 36
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 2,
-   "frecuencia": 31
+   "casos": 31
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 3,
-   "frecuencia": 33
+   "casos": 33
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 4,
-   "frecuencia": 39
+   "casos": 39
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 5,
-   "frecuencia": 22
+   "casos": 22
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 6,
-   "frecuencia": 27
+   "casos": 27
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 7,
-   "frecuencia": 51
+   "casos": 51
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 8,
-   "frecuencia": 29
+   "casos": 29
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 9,
-   "frecuencia": 45
+   "casos": 45
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 10,
-   "frecuencia": 28
+   "casos": 28
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 11,
-   "frecuencia": 41
+   "casos": 41
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2024,
+   "CODCOM": 13101,
+   "anio": 2024,
    "mes": 12,
-   "frecuencia": 26
+   "casos": 26
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 1,
-   "frecuencia": 28
+   "casos": 28
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 2,
-   "frecuencia": 18
+   "casos": 18
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 3,
-   "frecuencia": 29
+   "casos": 29
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 4,
-   "frecuencia": 21
+   "casos": 21
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 5,
-   "frecuencia": 23
+   "casos": 23
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 6,
-   "frecuencia": 16
+   "casos": 16
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 7,
-   "frecuencia": 15
+   "casos": 15
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 8,
-   "frecuencia": 24
+   "casos": 24
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "codcom": 13101,
-   "año": 2025,
+   "CODCOM": 13101,
+   "anio": 2025,
    "mes": 9,
-   "frecuencia": 31
+   "casos": 31
   }
  ],
  "info": [
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "AMENAZAS CON ARMAS",
    "2024": 46,
    "2025": 63
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "AMENAZAS Y RIÑAS",
    "2024": 2646,
    "2025": 2011
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2024": 2854,
    "2025": 2468
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "DAÑOS",
    "2024": 2307,
    "2025": 1896
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2024": 1741,
    "2025": 1372
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2024": 19,
    "2025": 39
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "HURTOS",
    "2024": 6883,
    "2025": 5757
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "INCIVILIDADES",
    "2024": 3223,
    "2025": 2515
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "LESIONES GRAVES",
    "2024": 182,
    "2025": 118
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "LESIONES LEVES",
    "2024": 1331,
    "2025": 1195
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "LESIONES MENOS GRAVES",
    "2024": 129,
    "2025": 88
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2024": 724,
    "2025": 546
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "LEY DE DROGAS",
    "2024": 393,
    "2025": 406
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2024": 143,
    "2025": 108
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2024": 283,
    "2025": 467
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "RECEPTACIÓN",
    "2024": 325,
    "2025": 318
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2024": 4701,
    "2025": 3966
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2024": 2683,
    "2025": 2697
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2024": 1178,
    "2025": 892
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "ROBOS POR SORPRESA",
    "2024": 5977,
    "2025": 6194
   },
   {
    "informacion": "Casos",
-   "codcom": 13101,
+   "CODCOM": 13101,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2024": 313,
    "2025": 205

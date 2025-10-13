@@ -284,7 +284,7 @@
         /* Estadísticas */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(4, 1fr);
+            grid-template-columns: repeat(5, 1fr);
             gap: 15px;
             margin-bottom: 20px;
         }
@@ -365,7 +365,7 @@
         }
         
         .data-table th, .data-table td {
-            padding: 8px 12px; /* Reducido de 12px 15px */
+            padding: 6px 10px;
             border-bottom: 1px solid var(--border-color);
         }
         
@@ -633,7 +633,7 @@
         
         .comparison-grid {
             display: grid;
-            grid-template-columns: 1fr; /* Cambiado de repeat(3, 1fr) */
+            grid-template-columns: 1fr;
             gap: 15px;
         }
         
@@ -684,12 +684,18 @@
         .comparison-info {
             margin-top: 15px;
             display: flex;
-            justify-content: space-between;
+            flex-direction: column;
         }
         
-        .comparison-year {
-            text-align: center;
+        .comparison-years-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        
+        .comparison-years-row .comparison-year {
             flex: 1;
+            text-align: center;
         }
         
         .year-label {
@@ -701,6 +707,10 @@
         .year-value {
             font-size: 18px;
             font-weight: 700;
+        }
+        
+        .year-2023 {
+            color: #9b59b6;
         }
         
         .year-2024 {
@@ -716,6 +726,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
+            padding: 10px 0;
         }
         
         .variation-label {
@@ -1133,7 +1144,7 @@
         }
         
         .crime-relevance-info {
-            flex: 0 0 250px; /* Reducido de 350px */
+            flex: 0 0 250px;
             min-width: 300px;
         }
         
@@ -1169,11 +1180,11 @@
             }
             
             .stats-grid {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(3, 1fr);
             }
             
             .comparison-grid {
-                grid-template-columns: 1fr; /* Mantener una columna */
+                grid-template-columns: 1fr;
             }
         }
         
@@ -1228,7 +1239,7 @@
             }
             
             .comparison-grid {
-                grid-template-columns: 1fr; /* Mantener una columna */
+                grid-template-columns: 1fr;
             }
             
             .crime-relevance-container {
@@ -1352,11 +1363,10 @@
             }
             
             .stats-grid {
-                grid-template-columns: repeat(4, 1fr) !important;
+                grid-template-columns: repeat(5, 1fr) !important;
                 gap: 10px !important;
             }
             
-            /* Mantener la sección de comparación en 1 columna al imprimir */
             .comparison-grid {
                 grid-template-columns: 1fr !important;
                 gap: 10px !important;
@@ -1515,18 +1525,22 @@
                             </div>
                             <div class="stats-grid">
                                 <div class="stat-item fade-in" style="animation-delay: 0.1s;">
+                                    <div id="total-2023" class="stat-value">0</div>
+                                    <div class="stat-label">Total Casos 2023</div>
+                                </div>
+                                <div class="stat-item fade-in" style="animation-delay: 0.2s;">
                                     <div id="total-2024" class="stat-value">0</div>
                                     <div class="stat-label">Total Casos 2024</div>
                                 </div>
-                                <div class="stat-item fade-in" style="animation-delay: 0.2s;">
+                                <div class="stat-item fade-in" style="animation-delay: 0.3s;">
                                     <div id="total-2025" class="stat-value">0</div>
                                     <div class="stat-label">Total Casos 2025</div>
                                 </div>
-                                <div class="stat-item fade-in" style="animation-delay: 0.3s;">
+                                <div class="stat-item fade-in" style="animation-delay: 0.4s;">
                                     <div id="variation" class="stat-value">0%</div>
                                     <div class="stat-label">Variación</div>
                                 </div>
-                                <div class="stat-item fade-in" style="animation-delay: 0.4s;">
+                                <div class="stat-item fade-in" style="animation-delay: 0.5s;">
                                     <div id="situation" class="stat-value">-</div>
                                     <div class="stat-label">Situación</div>
                                 </div>
@@ -1571,6 +1585,7 @@
                                                 <tr>
                                                     <th>Situación</th>
                                                     <th>Delito</th>
+                                                    <th>Casos 2023</th>
                                                     <th>Casos 2024</th>
                                                     <th>Casos 2025</th>
                                                     <th>Variación</th>
@@ -1659,7 +1674,6 @@
         const params = new URLSearchParams(window.location.search);
         const codcomParam = params.get("codcom")?.trim() || "13101";
         const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data2/${encodeURIComponent(codcomParam)}.json`;
-        //const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data/ejemplo2.json`;
         
         // Mostrar indicador de carga al inicio
         document.addEventListener('DOMContentLoaded', () => {
@@ -1828,6 +1842,7 @@
                             </span>
                         </td>
                         <td>${item.delito}</td>
+                        <td>${formatNumber(item['2023'] || 0)}</td>
                         <td>${formatNumber(item['2024'])}</td>
                         <td>${formatNumber(item['2025'])}</td>
                         <td class="${variationClass}">${variationText}</td>
@@ -1837,11 +1852,13 @@
             }
             
             function updateSummaryCards(data) {
+                const total2023 = data.reduce((sum, item) => sum + (item['2023'] || 0), 0);
                 const total2024 = data.reduce((sum, item) => sum + item['2024'], 0);
                 const total2025 = data.reduce((sum, item) => sum + item['2025'], 0);
                 const totalVariation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
                 const situation = totalVariation > 0 ? 'Aumento de Casos' : (totalVariation < 0 ? 'Disminución de Casos' : 'Sin Variación');
                 
+                animateValue('total-2023', 0, total2023, 1000);
                 animateValue('total-2024', 0, total2024, 1000);
                 animateValue('total-2025', 0, total2025, 1000);
                 
@@ -1887,6 +1904,7 @@
                 Object.keys(groupedData).forEach((type, index) => {
                     setTimeout(() => {
                         const typeData = groupedData[type];
+                        const total2023 = typeData.reduce((sum, item) => sum + (item['2023'] || 0), 0);
                         const total2024 = typeData.reduce((sum, item) => sum + item['2024'], 0);
                         const total2025 = typeData.reduce((sum, item) => sum + item['2025'], 0);
                         const variation = total2024 > 0 ? ((total2025 - total2024) / total2024) * 100 : (total2025 > 0 ? 100 : 0);
@@ -1904,12 +1922,33 @@
                         const comparisonInfo = document.createElement('div');
                         comparisonInfo.className = 'comparison-info';
                         
+                        const yearsRow = document.createElement('div');
+                        yearsRow.className = 'comparison-years-row';
+                        
+                        const year2023 = document.createElement('div');
+                        year2023.className = 'comparison-year year-2023';
+                        year2023.innerHTML = `
+                            <div class="year-label">2023</div>
+                            <div class="year-value">${formatNumber(total2023)}</div>
+                        `;
+                        
                         const year2024 = document.createElement('div');
                         year2024.className = 'comparison-year year-2024';
                         year2024.innerHTML = `
                             <div class="year-label">2024</div>
                             <div class="year-value">${formatNumber(total2024)}</div>
                         `;
+                        
+                        const year2025 = document.createElement('div');
+                        year2025.className = 'comparison-year year-2025';
+                        year2025.innerHTML = `
+                            <div class="year-label">2025</div>
+                            <div class="year-value">${formatNumber(total2025)}</div>
+                        `;
+                        
+                        yearsRow.appendChild(year2023);
+                        yearsRow.appendChild(year2024);
+                        yearsRow.appendChild(year2025);
                         
                         const variationDiv = document.createElement('div');
                         variationDiv.className = 'comparison-variation';
@@ -1927,20 +1966,12 @@
                         }
                         
                         variationDiv.innerHTML = `
-                            <div class="variation-label">Variación</div>
+                            <div class="variation-label">Variación (2024-2025)</div>
                             <div class="variation-value ${variationClass}">${variationText}</div>
                         `;
                         
-                        const year2025 = document.createElement('div');
-                        year2025.className = 'comparison-year year-2025';
-                        year2025.innerHTML = `
-                            <div class="year-label">2025</div>
-                            <div class="year-value">${formatNumber(total2025)}</div>
-                        `;
-                        
-                        comparisonInfo.appendChild(year2024);
+                        comparisonInfo.appendChild(yearsRow);
                         comparisonInfo.appendChild(variationDiv);
-                        comparisonInfo.appendChild(year2025);
                         
                         card.appendChild(chartContainer);
                         card.appendChild(comparisonInfo);
@@ -1954,14 +1985,24 @@
                                 labels: [type],
                                 datasets: [
                                     {
+                                        label: '2023',
+                                        data: [total2023],
+                                        backgroundColor: '#9b59b6',
+                                        borderColor: '#8e44ad',
+                                        borderWidth: 1,
+                                        borderRadius: 6,
+                                        barThickness: 25,
+                                        maxBarThickness: 35
+                                    },
+                                    {
                                         label: '2024',
                                         data: [total2024],
                                         backgroundColor: '#3498db',
                                         borderColor: '#2980b9',
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 40,
-                                        maxBarThickness: 50
+                                        barThickness: 25,
+                                        maxBarThickness: 35
                                     },
                                     {
                                         label: '2025',
@@ -1970,8 +2011,8 @@
                                         borderColor: total2024 > total2025 ? '#229954' : (total2024 < total2025 ? '#c0392b' : '#d4ac0d'),
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 40,
-                                        maxBarThickness: 50
+                                        barThickness: 25,
+                                        maxBarThickness: 35
                                     }
                                 ]
                             },
@@ -2002,7 +2043,15 @@
                                     }
                                 },
                                 plugins: {
-                                    legend: { display: false },
+                                    legend: { 
+                                        display: true,
+                                        position: 'top',
+                                        labels: {
+                                            boxWidth: 12,
+                                            padding: 8,
+                                            font: { size: 9 }
+                                        }
+                                    },
                                     tooltip: {
                                         backgroundColor: getComputedStyle(document.body).getPropertyValue('--card-bg-color'),
                                         titleColor: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
@@ -2022,7 +2071,7 @@
                                         anchor: 'end',
                                         align: 'end',
                                         color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
-                                        font: { weight: 'bold', size: 10 },
+                                        font: { weight: 'bold', size: 9 },
                                         formatter: function(value) {
                                             return formatNumber(value);
                                         },
@@ -2050,7 +2099,6 @@
             
             function createCrimeAnalysisPages(data) {
                 const uniqueCrimes = [...new Set(data.map(item => item.delito))];
-                console.log(uniqueCrimes)
                 
                 uniqueCrimes.forEach((crime, crimeIndex) => {
                     const page = document.createElement('div');
@@ -2086,7 +2134,7 @@
                     const crimeCasosChart = document.createElement('div');
                     crimeCasosChart.className = 'crime-casos-chart';
                     crimeCasosChart.innerHTML = `
-                        <div class="crime-casos-title">Casos de ${crime} (2024-2025)</div>
+                        <div class="crime-casos-title">Casos de ${crime} (2023-2025)</div>
                         <div class="crime-casos-container">
                             <canvas id="crime-casos-chart-${crime.replace(/\s/g, '-')}"></canvas>
                         </div>
@@ -2130,9 +2178,9 @@
                     crimeAnalysisPagesContainer.appendChild(page);
                     
                     const crimeDataFiltered = data.filter(item => item.delito === crime);
-                    console.log("filtrado",crimeDataFiltered)
                     const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
                     
+                    const casos2023 = casosData.reduce((sum, item) => sum + (item['2023'] || 0), 0);
                     const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);
                     const casos2025 = casosData.reduce((sum, item) => sum + item['2025'], 0);
                     const casosVariation = casos2024 > 0 ? ((casos2025 - casos2024) / casos2024) * 100 : (casos2025 > 0 ? 100 : 0);
@@ -2160,30 +2208,36 @@
                         </div>
                     `;
                     
-                    // Eliminado el statsCard4 con el texto "Evolución mensual con variaciones significativas durante el período analizado."
-                    
                     crimeStatsContainer.appendChild(statsCard1);
                     
                     document.getElementById(`crime-casos-label-${crime.replace(/\s/g, '-')}`).innerHTML = 
-                        `2024: ${formatNumber(casos2024)} | 2025: ${formatNumber(casos2025)} <span class="crime-percentage-change ${casosVariationClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span>`;
+                        `2023: ${formatNumber(casos2023)} | 2024: ${formatNumber(casos2024)} | 2025: ${formatNumber(casos2025)} <span class="crime-percentage-change ${casosVariationClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span>`;
                     
                     setTimeout(() => {
                         // Función para crear gráficos de barras
-                        function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
+                        function createBarChart(canvasId, label, data2023, data2024, data2025, highlightClass) {
                             const ctx = document.getElementById(canvasId).getContext('2d');
                             const chart = new Chart(ctx, {
                                 type: 'bar',
                                 data: {
-                                    labels: ['2024', '2025'],
+                                    labels: ['2023', '2024', '2025'],
                                     datasets: [{
                                         label: label,
-                                        data: [data2024, data2025],
-                                        backgroundColor: ['#3498db', data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f')],
-                                        borderColor: ['#2980b9', data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d')],
+                                        data: [data2023, data2024, data2025],
+                                        backgroundColor: [
+                                            '#9b59b6', // 2023
+                                            '#3498db', // 2024
+                                            data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f') // 2025
+                                        ],
+                                        borderColor: [
+                                            '#8e44ad', // 2023
+                                            '#2980b9', // 2024
+                                            data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d') // 2025
+                                        ],
                                         borderWidth: 1,
                                         borderRadius: 4,
-                                        barThickness: 30,
-                                        maxBarThickness: 40
+                                        barThickness: 20,
+                                        maxBarThickness: 30
                                     }]
                                 },
                                 options: {
@@ -2255,7 +2309,7 @@
                         }
                         
                         // Crear el gráfico de casos (ahora es grande)
-                        createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2024, casos2025, casosHighlightClass);
+                        createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2023, casos2024, casos2025, casosHighlightClass);
                         
                         // Crear el gráfico de evolución mensual
                         const evolucionCtx = document.getElementById(`crime-evolucion-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
@@ -2440,16 +2494,28 @@
                 renderTable(crimeData.resumen);
                 updateSummaryCards(crimeData.resumen);
                 
-                headerLocation.textContent = `${comunaName} - Región ${regionName} 2024-2025 - ${lastWeekName}`;
+                headerLocation.textContent = `${comunaName} - Región ${regionName} 2023-2025 - ${lastWeekName}`;
                 lastWeekNameElement.textContent = `Fecha de actualización: ${lastWeekName}`;
                 
                 const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
+                const totalCasos2023 = casos2025Data.reduce((sum, item) => sum + (item['2023'] || 0), 0);
+                const totalCasos2024 = casos2025Data.reduce((sum, item) => sum + item['2024'], 0);
                 const totalCasos2025 = casos2025Data.reduce((sum, item) => sum + item['2025'], 0);
                 
                 const valor2 = totalCasos2025 > 0 ? horasTranscurridas / totalCasos2025 : 0;
+                const variacion2024_2025 = totalCasos2024 > 0 ? ((totalCasos2025 - totalCasos2024) / totalCasos2024) * 100 : 0;
+                const variacion2023_2024 = totalCasos2023 > 0 ? ((totalCasos2024 - totalCasos2023) / totalCasos2023) * 100 : 0;
                 
                 infoTextElement1.innerHTML = `
-                    Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2025)}</strong> durante el año 2025, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
+                    Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2025)}</strong> durante el año 2025, 
+                    lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas. 
+                    Esto representa una variación de <strong>${variacion2024_2025 >= 0 ? '+' : ''}${variacion2024_2025.toFixed(1)}%</strong> respecto a 2024.
+                `;
+                
+                infoTextElement2.innerHTML = `
+                    En 2023 se registraron <strong>${formatNumber(totalCasos2023)}</strong> casos, en 2024 <strong>${formatNumber(totalCasos2024)}</strong> casos, 
+                    y en 2025 <strong>${formatNumber(totalCasos2025)}</strong> casos. 
+                    La variación entre 2023 y 2024 fue de <strong>${variacion2023_2024 >= 0 ? '+' : ''}${variacion2023_2024.toFixed(1)}%</strong>.
                 `;
                 
                 createComparisonCards(crimeData.nuevo_resumen);

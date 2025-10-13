@@ -634,13 +634,13 @@
         .comparison-grid {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 15px;
+            gap: 20px;
         }
         
         .comparison-card {
             background-color: var(--card-bg-color);
             border-radius: 16px;
-            padding: 15px;
+            padding: 20px;
             box-shadow: 
                 8px 8px 16px rgba(0, 0, 0, 0.05),
                 -8px -8px 16px rgba(255, 255, 255, 0.7),
@@ -676,36 +676,52 @@
         }
         
         .comparison-chart-container {
-            height: 200px;
+            height: 300px;
             position: relative;
             flex: 1;
+            margin-bottom: 15px;
         }
         
         .comparison-info {
-            margin-top: 15px;
             display: flex;
             flex-direction: column;
+            gap: 15px;
         }
         
         .comparison-years-row {
             display: flex;
             justify-content: space-between;
+            gap: 10px;
             margin-bottom: 10px;
         }
         
         .comparison-years-row .comparison-year {
             flex: 1;
             text-align: center;
+            background-color: var(--stats-item-bg-color);
+            padding: 15px;
+            border-radius: 12px;
+            box-shadow: 
+                3px 3px 6px rgba(0, 0, 0, 0.05),
+                -3px -3px 6px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease;
+        }
+        
+        .comparison-years-row .comparison-year:hover {
+            transform: translateY(-3px);
         }
         
         .year-label {
-            font-size: 12px;
+            font-size: 14px;
             color: var(--text-color-secondary);
-            margin-bottom: 5px;
+            margin-bottom: 8px;
+            font-weight: 500;
         }
         
         .year-value {
-            font-size: 18px;
+            font-size: 20px;
             font-weight: 700;
         }
         
@@ -726,17 +742,30 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 10px 0;
+            padding: 15px;
+            background-color: var(--stats-item-bg-color);
+            border-radius: 12px;
+            box-shadow: 
+                3px 3px 6px rgba(0, 0, 0, 0.05),
+                -3px -3px 6px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease;
+        }
+        
+        .comparison-variation:hover {
+            transform: translateY(-3px);
         }
         
         .variation-label {
-            font-size: 12px;
+            font-size: 14px;
             color: var(--text-color-secondary);
-            margin-bottom: 5px;
+            margin-bottom: 8px;
+            font-weight: 500;
         }
         
         .variation-value {
-            font-size: 16px;
+            font-size: 20px;
             font-weight: 700;
         }
         
@@ -1294,7 +1323,7 @@
             }
             
             .comparison-chart-container {
-                height: 180px;
+                height: 250px;
             }
             
             .crime-casos-chart {
@@ -1378,7 +1407,7 @@
             }
             
             .comparison-chart-container {
-                height: 150px !important;
+                height: 200px !important;
             }
             
             .comparison-info {
@@ -1461,6 +1490,143 @@
                 height: auto !important;
             }
         }
+
+        /* Ajustes para el gráfico de comparación anual más alargado */
+        .comparison-chart-container {
+            height: 350px !important; /* Aumentado de 200px a 350px */
+            position: relative;
+            flex: 1;
+            margin-bottom: 20px;
+        }
+
+        .comparison-card {
+            min-height: 500px; /* Altura mínima para la tarjeta completa */
+            padding: 25px; /* Aumentado el padding */
+        }
+
+        .comparison-info {
+            display: flex;
+            flex-direction: column;
+            gap: 20px; /* Mayor espacio entre elementos */
+            margin-top: 15px;
+        }
+
+        .comparison-years-row {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px; /* Mayor espacio entre columnas */
+            margin-bottom: 15px;
+        }
+
+        .comparison-years-row .comparison-year {
+            flex: 1;
+            text-align: center;
+            background-color: var(--stats-item-bg-color);
+            padding: 20px; /* Aumentado el padding */
+            border-radius: 16px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease;
+        }
+
+        .year-label {
+            font-size: 16px; /* Aumentado el tamaño de fuente */
+            color: var(--text-color-secondary);
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .year-value {
+            font-size: 24px; /* Aumentado el tamaño de fuente */
+            font-weight: 700;
+        }
+
+        .comparison-variation {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px; /* Aumentado el padding */
+            background-color: var(--stats-item-bg-color);
+            border-radius: 16px;
+            box-shadow: 
+                5px 5px 10px rgba(0, 0, 0, 0.05),
+                -5px -5px 10px rgba(255, 255, 255, 0.8),
+                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
+                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease;
+        }
+
+        .variation-label {
+            font-size: 16px; /* Aumentado el tamaño de fuente */
+            color: var(--text-color-secondary);
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .variation-value {
+            font-size: 24px; /* Aumentado el tamaño de fuente */
+            font-weight: 700;
+        }
+
+        /* Ajustes para el contenedor de la sección de comparación */
+        .comparison-section {
+            margin-bottom: 30px; /* Mayor espacio después de la sección */
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 25px; /* Mayor espacio entre tarjetas */
+        }
+        @media print {
+            /* Ajustes específicos para la sección Delitos de Mayor Relevancia */
+            .crime-relevance-container {
+                display: flex;
+                flex-wrap: nowrap !important;
+                gap: 10px !important;
+            }
+
+            .crime-relevance-table {
+                flex: 3 !important; /* tabla más ancha */
+            }
+
+            .crime-relevance-info {
+                flex: 1 !important; /* texto más angosto */
+                font-size: 10px !important;
+                line-height: 1.3 !important; /* interlineado más compacto */
+            }
+
+            .info-text {
+                font-size: 10px !important;
+                line-height: 1.3 !important;
+                margin-bottom: 6px !important;
+                padding: 8px !important;
+            }
+
+            .data-table th, .data-table td {
+                padding: 4px 6px !important;
+                font-size: 9.5px !important;
+            }
+        }
+        @media print {
+            /* Aumentar altura del gráfico "Casos" en comparación anual */
+            #comparison-chart-Casos {
+                height: 280px !important; /* antes era ~200px */
+            }
+
+            /* También puedes ajustar el contenedor completo si lo deseas */
+            .comparison-chart-container {
+                height: 300px !important; /* valor más alto que el original */
+            }
+        }
+        #comparison-chart-Casos {
+                height: 280px !important; /* antes era ~200px */
+            }
+
     </style>
 </head>
 <body>
@@ -1991,9 +2157,9 @@
                                         borderColor: '#8e44ad',
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 60,
-                                        maxBarThickness: 80,
-                                        categoryPercentage: 0.7,
+                                        barThickness: 100,
+                                        maxBarThickness: 120,
+                                        categoryPercentage: 0.8,
                                         barPercentage: 0.9
                                     },
                                     {
@@ -2003,9 +2169,9 @@
                                         borderColor: '#2980b9',
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 60,
-                                        maxBarThickness: 80,
-                                        categoryPercentage: 0.7,
+                                        barThickness: 100,
+                                        maxBarThickness: 120,
+                                        categoryPercentage: 0.8,
                                         barPercentage: 0.9
                                     },
                                     {
@@ -2015,9 +2181,9 @@
                                         borderColor: total2024 > total2025 ? '#229954' : (total2024 < total2025 ? '#c0392b' : '#d4ac0d'),
                                         borderWidth: 1,
                                         borderRadius: 6,
-                                        barThickness: 60,
-                                        maxBarThickness: 80,
-                                        categoryPercentage: 0.7,
+                                        barThickness: 100,
+                                        maxBarThickness: 120,
+                                        categoryPercentage: 0.8,
                                         barPercentage: 0.9
                                     }
                                 ]
@@ -2030,7 +2196,7 @@
                                         beginAtZero: true,
                                         ticks: {
                                             color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
-                                            font: { size: 10 },
+                                            font: { size: 12 },
                                             callback: function(value) {
                                                 return formatNumber(value);
                                             },
@@ -2043,7 +2209,7 @@
                                     x: {
                                         ticks: {
                                             color: getComputedStyle(document.body).getPropertyValue('--text-color-secondary'),
-                                            font: { size: 10 }
+                                            font: { size: 12 }
                                         },
                                         grid: { display: false }
                                     }
@@ -2053,9 +2219,9 @@
                                         display: true,
                                         position: 'top',
                                         labels: {
-                                            boxWidth: 12,
-                                            padding: 8,
-                                            font: { size: 9 }
+                                            boxWidth: 15,
+                                            padding: 10,
+                                            font: { size: 11 }
                                         }
                                     },
                                     tooltip: {
@@ -2077,7 +2243,7 @@
                                         anchor: 'end',
                                         align: 'end',
                                         color: getComputedStyle(document.body).getPropertyValue('--text-color-primary'),
-                                        font: { weight: 'bold', size: 9 },
+                                        font: { weight: 'bold', size: 11 },
                                         formatter: function(value) {
                                             return formatNumber(value);
                                         },

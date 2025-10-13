@@ -365,7 +365,7 @@
         }
         
         .data-table th, .data-table td {
-            padding: 8px 15px; /* Reducir el padding para disminuir el interlineado */
+            padding: 8px 12px; /* Reducido de 12px 15px */
             border-bottom: 1px solid var(--border-color);
         }
         
@@ -633,7 +633,7 @@
         
         .comparison-grid {
             display: grid;
-            grid-template-columns: 1fr; /* Cambiado a una sola columna */
+            grid-template-columns: 1fr; /* Cambiado de repeat(3, 1fr) */
             gap: 15px;
         }
         
@@ -676,7 +676,7 @@
         }
         
         .comparison-chart-container {
-            height: 250px; /* Aumentado para usar más espacio */
+            height: 200px;
             position: relative;
             flex: 1;
         }
@@ -1128,12 +1128,12 @@
         }
         
         .crime-relevance-table {
-            flex: 2; /* Aumentar el ancho de la tabla */
+            flex: 1;
             min-width: 300px;
         }
         
         .crime-relevance-info {
-            flex: 1; /* Reducir el ancho del texto informativo */
+            flex: 0 0 250px; /* Reducido de 350px */
             min-width: 300px;
         }
         
@@ -1173,7 +1173,7 @@
             }
             
             .comparison-grid {
-                grid-template-columns: 1fr; /* Mantener una columna en pantallas más pequeñas */
+                grid-template-columns: 1fr; /* Mantener una columna */
             }
         }
         
@@ -1228,7 +1228,7 @@
             }
             
             .comparison-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: 1fr; /* Mantener una columna */
             }
             
             .crime-relevance-container {
@@ -1275,7 +1275,7 @@
             }
             
             .data-table th, .data-table td {
-                padding: 6px 12px; /* Reducir aún más el padding en pantallas muy pequeñas */
+                padding: 6px 8px;
             }
             
             .comparison-card {
@@ -1427,7 +1427,7 @@
             }
             
             .data-table th, .data-table td {
-                padding: 4px 8px; /* Reducir el padding al imprimir */
+                padding: 6px 8px;
             }
             
             .crime-stats-text, .info-text {
@@ -2160,7 +2160,7 @@
                         </div>
                     `;
                     
-                    // Eliminamos el statsCard4 que contenía el texto "Evolución mensual con variaciones significativas durante el período analizado."
+                    // Eliminado el statsCard4 con el texto "Evolución mensual con variaciones significativas durante el período analizado."
                     
                     crimeStatsContainer.appendChild(statsCard1);
                     

@@ -634,13 +634,13 @@
         .comparison-grid {
             display: grid;
             grid-template-columns: 1fr;
-            gap: 20px;
+            gap: 15px;
         }
         
         .comparison-card {
             background-color: var(--card-bg-color);
             border-radius: 16px;
-            padding: 20px;
+            padding: 15px;
             box-shadow: 
                 8px 8px 16px rgba(0, 0, 0, 0.05),
                 -8px -8px 16px rgba(255, 255, 255, 0.7),
@@ -676,52 +676,36 @@
         }
         
         .comparison-chart-container {
-            height: 300px;
+            height: 200px;
             position: relative;
             flex: 1;
-            margin-bottom: 15px;
         }
         
         .comparison-info {
+            margin-top: 15px;
             display: flex;
             flex-direction: column;
-            gap: 15px;
         }
         
         .comparison-years-row {
             display: flex;
             justify-content: space-between;
-            gap: 10px;
             margin-bottom: 10px;
         }
         
         .comparison-years-row .comparison-year {
             flex: 1;
             text-align: center;
-            background-color: var(--stats-item-bg-color);
-            padding: 15px;
-            border-radius: 12px;
-            box-shadow: 
-                3px 3px 6px rgba(0, 0, 0, 0.05),
-                -3px -3px 6px rgba(255, 255, 255, 0.8),
-                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
-                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
-            transition: transform 0.2s ease;
-        }
-        
-        .comparison-years-row .comparison-year:hover {
-            transform: translateY(-3px);
         }
         
         .year-label {
-            font-size: 14px;
+            font-size: 12px;
             color: var(--text-color-secondary);
-            margin-bottom: 8px;
-            font-weight: 500;
+            margin-bottom: 5px;
         }
         
         .year-value {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 700;
         }
         
@@ -742,30 +726,17 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 15px;
-            background-color: var(--stats-item-bg-color);
-            border-radius: 12px;
-            box-shadow: 
-                3px 3px 6px rgba(0, 0, 0, 0.05),
-                -3px -3px 6px rgba(255, 255, 255, 0.8),
-                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
-                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
-            transition: transform 0.2s ease;
-        }
-        
-        .comparison-variation:hover {
-            transform: translateY(-3px);
+            padding: 10px 0;
         }
         
         .variation-label {
-            font-size: 14px;
+            font-size: 12px;
             color: var(--text-color-secondary);
-            margin-bottom: 8px;
-            font-weight: 500;
+            margin-bottom: 5px;
         }
         
         .variation-value {
-            font-size: 20px;
+            font-size: 16px;
             font-weight: 700;
         }
         
@@ -1323,7 +1294,7 @@
             }
             
             .comparison-chart-container {
-                height: 250px;
+                height: 180px;
             }
             
             .crime-casos-chart {
@@ -1407,7 +1378,7 @@
             }
             
             .comparison-chart-container {
-                height: 200px !important;
+                height: 150px !important;
             }
             
             .comparison-info {
@@ -1489,24 +1460,7 @@
                 max-width: 100% !important;
                 height: auto !important;
             }
-
-            /* Ajustes específicos para la sección Delitos de Mayor Relevancia */
-            .crime-relevance-container {
-                display: flex;
-                flex-wrap: nowrap !important;
-                gap: 10px !important;
-            }
-
-            .crime-relevance-table {
-                flex: 3 !important; /* tabla más ancha */
-            }
-
-            .crime-relevance-info {
-                flex: 1 !important; /* texto más angosto */
-                font-size: 10px !important;
-                line-height: 1.3 !important; /* interlineado más compacto */
-            }
-            /*
+            
             .info-text {
                 font-size: 10px !important;
                 line-height: 1.3 !important;
@@ -1516,118 +1470,19 @@
             
             .data-table th, .data-table td {
                 padding: 4px 6px !important;
-                font-size: 9.5px !important;
+                font-size: 8.5px !important;
             }
-            */
-            /* Aumentar altura del gráfico "Casos" en comparación anual 
+
             #comparison-chart-Casos {
-                height: 240px !important; 
+                height: 140px !important; 
             }
-
-            /* También puedes ajustar el contenedor completo si lo deseas 
-            .comparison-chart-container {
-                height: 300px !important; 
-            }
-                */
+            
         }
-
-        /* Ajustes para el gráfico de comparación anual más alargado */
-        .comparison-chart-container {
-            height: 350px !important; /* Aumentado de 200px a 350px */
-            position: relative;
-            flex: 1;
-            margin-bottom: 20px;
-        }
-
-        .comparison-card {
-            min-height: 500px; /* Altura mínima para la tarjeta completa */
-            padding: 25px; /* Aumentado el padding */
-        }
-
-        .comparison-info {
-            display: flex;
-            flex-direction: column;
-            gap: 20px; /* Mayor espacio entre elementos */
-            margin-top: 15px;
-        }
-
-        .comparison-years-row {
-            display: flex;
-            justify-content: space-between;
-            gap: 15px; /* Mayor espacio entre columnas */
-            margin-bottom: 15px;
-        }
-
-        .comparison-years-row .comparison-year {
-            flex: 1;
-            text-align: center;
-            background-color: var(--stats-item-bg-color);
-            padding: 20px; /* Aumentado el padding */
-            border-radius: 16px;
-            box-shadow: 
-                5px 5px 10px rgba(0, 0, 0, 0.05),
-                -5px -5px 10px rgba(255, 255, 255, 0.8),
-                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
-                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
-            transition: transform 0.2s ease;
-        }
-
-        .year-label {
-            font-size: 16px; /* Aumentado el tamaño de fuente */
-            color: var(--text-color-secondary);
-            margin-bottom: 10px;
-            font-weight: 600;
-        }
-
-        .year-value {
-            font-size: 24px; /* Aumentado el tamaño de fuente */
-            font-weight: 700;
-        }
-
-        .comparison-variation {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            padding: 20px; /* Aumentado el padding */
-            background-color: var(--stats-item-bg-color);
-            border-radius: 16px;
-            box-shadow: 
-                5px 5px 10px rgba(0, 0, 0, 0.05),
-                -5px -5px 10px rgba(255, 255, 255, 0.8),
-                inset 1px 1px 2px rgba(255, 255, 255, 0.9),
-                inset -1px -1px 2px rgba(0, 0, 0, 0.05);
-            transition: transform 0.2s ease;
-        }
-
-        .variation-label {
-            font-size: 16px; /* Aumentado el tamaño de fuente */
-            color: var(--text-color-secondary);
-            margin-bottom: 10px;
-            font-weight: 600;
-        }
-
-        .variation-value {
-            font-size: 24px; /* Aumentado el tamaño de fuente */
-            font-weight: 700;
-        }
-
-        /* Ajustes para el contenedor de la sección de comparación */
-        .comparison-section {
-            margin-bottom: 30px; /* Mayor espacio después de la sección */
-        }
-
-        .comparison-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 25px; /* Mayor espacio entre tarjetas */
-        }
-        
         
         #comparison-chart-Casos {
-                height: 280px !important; 
+                height: 200px; 
         }
-
+        
     </style>
 </head>
 <body>

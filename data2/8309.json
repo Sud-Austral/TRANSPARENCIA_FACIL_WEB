@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8309,
-   "2024": 26,
+   "2024": 27,
    "2025": 20,
-   "variacion": -23,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8309,
-   "2024": 69,
-   "2025": 81,
-   "variacion": 17,
+   "2024": 74,
+   "2025": 82,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8309,
-   "2024": 43,
-   "2025": 50,
-   "variacion": 16,
+   "2024": 45,
+   "2025": 54,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8309,
-   "2024": 14,
-   "2025": 16,
-   "variacion": 14,
+   "2024": 16,
+   "2025": 17,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8309,
-   "2024": 13,
+   "2024": 14,
    "2025": 17,
-   "variacion": 31,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "Quilleco"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8309,
-   "2024": 15,
+   "2024": 16,
    "2025": 7,
-   "variacion": -53,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
@@ -139,22 +139,13 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8309,
    "2024": 3,
-   "2025": 0,
-   "variacion": -100,
+   "2025": 1,
+   "variacion": -67,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "CODCOM": 8309,
-   "2024": 4,
-   "2025": 1,
-   "variacion": -75,
-   "situación": "Disminución de Casos",
-   "COMUNA": "Quilleco"
-  },
-  {
-   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8309,
    "2024": 5,
    "2025": 2,
@@ -163,11 +154,20 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8309,
+   "2024": 5,
+   "2025": 3,
+   "variacion": -40,
+   "situación": "Disminución de Casos",
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8309,
-   "2024": 27,
+   "2024": 28,
    "2025": 17,
-   "variacion": -37,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Quilleco"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8309,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Quilleco"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8309,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8309,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8309,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quilleco"
   },
@@ -1364,6 +1412,14 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quilleco"
   },
@@ -1536,6 +1592,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8309,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Quilleco"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8309,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quilleco"
   },
@@ -2205,6 +2293,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Quilleco"
   },
   {
@@ -2376,6 +2472,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8309,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quilleco"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8309,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8309,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8309,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Quilleco"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8309,
    "anio": 2024,
@@ -3716,6 +3876,14 @@
    "CODCOM": 8309,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quilleco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8309,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quilleco"
   }
@@ -3734,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 36,
-   "2024": 26,
+   "2023": 38,
+   "2024": 27,
    "2025": 20,
    "COMUNA": "Quilleco"
   },
@@ -3743,16 +3911,16 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 47,
-   "2024": 69,
-   "2025": 81,
+   "2023": 48,
+   "2024": 74,
+   "2025": 82,
    "COMUNA": "Quilleco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "DAÑOS",
-   "2023": 36,
+   "2023": 38,
    "2024": 48,
    "2025": 31,
    "COMUNA": "Quilleco"
@@ -3761,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 58,
-   "2024": 43,
-   "2025": 50,
+   "2023": 60,
+   "2024": 45,
+   "2025": 54,
    "COMUNA": "Quilleco"
   },
   {
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "HURTOS",
-   "2023": 17,
+   "2023": 18,
    "2024": 11,
    "2025": 4,
    "COMUNA": "Quilleco"
@@ -3789,8 +3957,8 @@
    "CODCOM": 8309,
    "delito": "INCIVILIDADES",
    "2023": 8,
-   "2024": 14,
-   "2025": 16,
+   "2024": 16,
+   "2025": 17,
    "COMUNA": "Quilleco"
   },
   {
@@ -3806,8 +3974,8 @@
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "LESIONES LEVES",
-   "2023": 13,
-   "2024": 13,
+   "2023": 14,
+   "2024": 14,
    "2025": 17,
    "COMUNA": "Quilleco"
   },
@@ -3834,7 +4002,7 @@
    "CODCOM": 8309,
    "delito": "LEY DE DROGAS",
    "2023": 4,
-   "2024": 15,
+   "2024": 16,
    "2025": 7,
    "COMUNA": "Quilleco"
   },
@@ -3862,7 +4030,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 1,
    "2024": 3,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Quilleco"
   },
   {
@@ -3870,8 +4038,8 @@
    "CODCOM": 8309,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 3,
-   "2024": 4,
-   "2025": 1,
+   "2024": 5,
+   "2025": 2,
    "COMUNA": "Quilleco"
   },
   {
@@ -3880,15 +4048,15 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 10,
    "2024": 5,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Quilleco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8309,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 39,
-   "2024": 27,
+   "2023": 40,
+   "2024": 28,
    "2025": 17,
    "COMUNA": "Quilleco"
   },

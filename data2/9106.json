@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9106,
-   "2024": 68,
-   "2025": 66,
-   "variacion": -3,
+   "2024": 71,
+   "2025": 67,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9106,
-   "2024": 219,
-   "2025": 127,
-   "variacion": -42,
+   "2024": 224,
+   "2025": 128,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9106,
-   "2024": 43,
-   "2025": 29,
-   "variacion": -33,
+   "2024": 44,
+   "2025": 33,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9106,
-   "2024": 61,
+   "2024": 62,
    "2025": 66,
-   "variacion": 8,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9106,
-   "2024": 18,
+   "2024": 19,
    "2025": 12,
-   "variacion": -33,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "Galvarino"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9106,
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
-   "variacion": 150,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Galvarino"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Galvarino"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Galvarino"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Galvarino"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9106,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9106,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Galvarino"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9106,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -2372,6 +2468,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Galvarino"
   },
@@ -2544,6 +2648,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9106,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Galvarino"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9106,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Galvarino"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Galvarino"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9106,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 9106,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Galvarino"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "Galvarino"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9106,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Galvarino"
   }
  ],
  "info": [
@@ -3725,7 +3893,7 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 2,
    "2025": 2,
    "COMUNA": "Galvarino"
@@ -3734,18 +3902,18 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 100,
-   "2024": 68,
-   "2025": 66,
+   "2023": 102,
+   "2024": 71,
+   "2025": 67,
    "COMUNA": "Galvarino"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 99,
-   "2024": 219,
-   "2025": 127,
+   "2023": 103,
+   "2024": 224,
+   "2025": 128,
    "COMUNA": "Galvarino"
   },
   {
@@ -3753,8 +3921,8 @@
    "CODCOM": 9106,
    "delito": "DAÑOS",
    "2023": 48,
-   "2024": 43,
-   "2025": 29,
+   "2024": 44,
+   "2025": 33,
    "COMUNA": "Galvarino"
   },
   {
@@ -3762,7 +3930,7 @@
    "CODCOM": 9106,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 86,
-   "2024": 61,
+   "2024": 62,
    "2025": 66,
    "COMUNA": "Galvarino"
   },
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "HURTOS",
-   "2023": 21,
+   "2023": 23,
    "2024": 21,
    "2025": 27,
    "COMUNA": "Galvarino"
@@ -3788,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "INCIVILIDADES",
-   "2023": 13,
+   "2023": 17,
    "2024": 16,
    "2025": 6,
    "COMUNA": "Galvarino"
@@ -3806,8 +3974,8 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "LESIONES LEVES",
-   "2023": 33,
-   "2024": 18,
+   "2023": 34,
+   "2024": 19,
    "2025": 12,
    "COMUNA": "Galvarino"
   },
@@ -3842,7 +4010,7 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "2023": 1,
+   "2023": 2,
    "2024": 3,
    "2025": 1,
    "COMUNA": "Galvarino"
@@ -3869,8 +4037,8 @@
    "informacion": "Casos",
    "CODCOM": 9106,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 10,
-   "2024": 2,
+   "2023": 11,
+   "2024": 3,
    "2025": 5,
    "COMUNA": "Galvarino"
   },

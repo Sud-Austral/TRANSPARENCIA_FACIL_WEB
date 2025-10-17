@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13202,
-   "2024": 195,
-   "2025": 155,
+   "2024": 199,
+   "2025": 158,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
@@ -21,26 +21,26 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13202,
-   "2024": 319,
-   "2025": 173,
-   "variacion": -46,
+   "2024": 330,
+   "2025": 175,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13202,
-   "2024": 176,
+   "2024": 181,
    "2025": 148,
-   "variacion": -16,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13202,
-   "2024": 142,
-   "2025": 152,
+   "2024": 146,
+   "2025": 156,
    "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Pirque"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13202,
-   "2024": 60,
+   "2024": 64,
    "2025": 54,
-   "variacion": -10,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13202,
-   "2024": 46,
-   "2025": 37,
-   "variacion": -20,
+   "2024": 50,
+   "2025": 38,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 13202,
    "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2025": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 13202,
    "2024": 46,
-   "2025": 45,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2025": 47,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Pirque"
   },
   {
@@ -102,18 +102,18 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13202,
-   "2024": 81,
+   "2024": 82,
    "2025": 46,
-   "variacion": -43,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13202,
-   "2024": 20,
+   "2024": 21,
    "2025": 29,
-   "variacion": 45,
+   "variacion": 38,
    "situación": "Aumento de Casos",
    "COMUNA": "Pirque"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13202,
-   "2024": 35,
+   "2024": 36,
    "2025": 20,
-   "variacion": -43,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13202,
    "2024": 71,
-   "2025": 50,
-   "variacion": -30,
+   "2025": 51,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 13202,
-   "2024": 15,
+   "2024": 16,
    "2025": 10,
-   "variacion": -33,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Pirque"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 21,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Pirque"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Pirque"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Pirque"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Pirque"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13202,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Pirque"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13202,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Pirque"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Pirque"
   },
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Pirque"
   },
   {
@@ -3044,6 +3172,14 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Pirque"
   },
@@ -3216,6 +3352,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13202,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Pirque"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Pirque"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13202,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 13202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Pirque"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Pirque"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 2,
    "COMUNA": "Pirque"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Pirque"
   }
  ],
  "info": [
@@ -3734,26 +3902,26 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 143,
-   "2024": 195,
-   "2025": 155,
+   "2023": 151,
+   "2024": 199,
+   "2025": 158,
    "COMUNA": "Pirque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 547,
-   "2024": 319,
-   "2025": 173,
+   "2023": 553,
+   "2024": 330,
+   "2025": 175,
    "COMUNA": "Pirque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "DAÑOS",
-   "2023": 123,
-   "2024": 176,
+   "2023": 125,
+   "2024": 181,
    "2025": 148,
    "COMUNA": "Pirque"
   },
@@ -3762,8 +3930,8 @@
    "CODCOM": 13202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 118,
-   "2024": 142,
-   "2025": 152,
+   "2024": 146,
+   "2025": 156,
    "COMUNA": "Pirque"
   },
   {
@@ -3780,7 +3948,7 @@
    "CODCOM": 13202,
    "delito": "HURTOS",
    "2023": 41,
-   "2024": 60,
+   "2024": 64,
    "2025": 54,
    "COMUNA": "Pirque"
   },
@@ -3788,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "INCIVILIDADES",
-   "2023": 30,
-   "2024": 46,
-   "2025": 37,
+   "2023": 31,
+   "2024": 50,
+   "2025": 38,
    "COMUNA": "Pirque"
   },
   {
@@ -3799,16 +3967,16 @@
    "delito": "LESIONES GRAVES",
    "2023": 4,
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Pirque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "LESIONES LEVES",
-   "2023": 30,
+   "2023": 32,
    "2024": 46,
-   "2025": 45,
+   "2025": 47,
    "COMUNA": "Pirque"
   },
   {
@@ -3824,8 +3992,8 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 25,
-   "2024": 81,
+   "2023": 26,
+   "2024": 82,
    "2025": 46,
    "COMUNA": "Pirque"
   },
@@ -3834,7 +4002,7 @@
    "CODCOM": 13202,
    "delito": "LEY DE DROGAS",
    "2023": 15,
-   "2024": 20,
+   "2024": 21,
    "2025": 29,
    "COMUNA": "Pirque"
   },
@@ -3869,8 +4037,8 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 28,
-   "2024": 35,
+   "2023": 29,
+   "2024": 36,
    "2025": 20,
    "COMUNA": "Pirque"
   },
@@ -3887,16 +4055,16 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 70,
+   "2023": 74,
    "2024": 71,
-   "2025": 50,
+   "2025": 51,
    "COMUNA": "Pirque"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 3,
+   "2023": 4,
    "2024": 4,
    "2025": 2,
    "COMUNA": "Pirque"
@@ -3905,8 +4073,8 @@
    "informacion": "Casos",
    "CODCOM": 13202,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 10,
-   "2024": 15,
+   "2023": 12,
+   "2024": 16,
    "2025": 10,
    "COMUNA": "Pirque"
   }

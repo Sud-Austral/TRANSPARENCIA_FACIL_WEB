@@ -12,37 +12,37 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7405,
-   "2024": 136,
-   "2025": 101,
-   "variacion": -26,
+   "2024": 139,
+   "2025": 102,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Retiro"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7405,
-   "2024": 40,
-   "2025": 69,
-   "variacion": 72,
+   "2024": 41,
+   "2025": 71,
+   "variacion": 73,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7405,
-   "2024": 124,
-   "2025": 134,
-   "variacion": 8,
+   "2024": 130,
+   "2025": 138,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7405,
-   "2024": 109,
+   "2024": 113,
    "2025": 110,
-   "variacion": 1,
-   "situación": "Aumento de Casos",
+   "variacion": -3,
+   "situación": "Disminución de Casos",
    "COMUNA": "Retiro"
   },
   {
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7405,
-   "2024": 42,
+   "2024": 43,
    "2025": 32,
-   "variacion": -24,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Retiro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 7405,
-   "2024": 13,
+   "2024": 14,
    "2025": 30,
-   "variacion": 131,
+   "variacion": 114,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7405,
-   "2024": 29,
-   "2025": 36,
-   "variacion": 24,
+   "2024": 32,
+   "2025": 37,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7405,
-   "2024": 31,
+   "2024": 43,
    "2025": 107,
-   "variacion": 245,
+   "variacion": 149,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7405,
    "2024": 3,
-   "2025": 6,
-   "variacion": 100,
+   "2025": 7,
+   "variacion": 133,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
   },
@@ -156,17 +156,17 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7405,
-   "2024": 40,
-   "2025": 25,
-   "variacion": -38,
+   "2024": 41,
+   "2025": 27,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Retiro"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7405,
-   "2024": 79,
-   "2025": 90,
+   "2024": 81,
+   "2025": 92,
    "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Retiro"
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7405,
    "2024": 20,
-   "2025": 7,
-   "variacion": -65,
+   "2025": 8,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Retiro"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7405,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7405,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 15,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Retiro"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7405,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7405,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Retiro"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 7405,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7405,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Retiro"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7405,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Retiro"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7405,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7405,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Retiro"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7405,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Retiro"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Retiro"
   },
   {
@@ -3212,6 +3348,14 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 9,
+   "casos": 2,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
    "casos": 2,
    "COMUNA": "Retiro"
   },
@@ -3384,6 +3528,14 @@
    "COMUNA": "Retiro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Retiro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7405,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 7405,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Retiro"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Retiro"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 0,
    "COMUNA": "Retiro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7405,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Retiro"
   }
  ],
  "info": [
@@ -3734,35 +3902,35 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 137,
-   "2024": 136,
-   "2025": 101,
+   "2023": 140,
+   "2024": 139,
+   "2025": 102,
    "COMUNA": "Retiro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 33,
-   "2024": 40,
-   "2025": 69,
+   "2023": 35,
+   "2024": 41,
+   "2025": 71,
    "COMUNA": "Retiro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "DAÑOS",
-   "2023": 119,
-   "2024": 124,
-   "2025": 134,
+   "2023": 123,
+   "2024": 130,
+   "2025": 138,
    "COMUNA": "Retiro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 117,
-   "2024": 109,
+   "2023": 118,
+   "2024": 113,
    "2025": 110,
    "COMUNA": "Retiro"
   },
@@ -3779,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "HURTOS",
-   "2023": 27,
-   "2024": 42,
+   "2023": 29,
+   "2024": 43,
    "2025": 32,
    "COMUNA": "Retiro"
   },
@@ -3788,8 +3956,8 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "INCIVILIDADES",
-   "2023": 40,
-   "2024": 13,
+   "2023": 41,
+   "2024": 14,
    "2025": 30,
    "COMUNA": "Retiro"
   },
@@ -3807,8 +3975,8 @@
    "CODCOM": 7405,
    "delito": "LESIONES LEVES",
    "2023": 48,
-   "2024": 29,
-   "2025": 36,
+   "2024": 32,
+   "2025": 37,
    "COMUNA": "Retiro"
   },
   {
@@ -3825,7 +3993,7 @@
    "CODCOM": 7405,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 5,
-   "2024": 31,
+   "2024": 43,
    "2025": 107,
    "COMUNA": "Retiro"
   },
@@ -3853,14 +4021,14 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 2,
    "2024": 3,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Retiro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "RECEPTACIÓN",
-   "2023": 3,
+   "2023": 4,
    "2024": 2,
    "2025": 5,
    "COMUNA": "Retiro"
@@ -3869,7 +4037,7 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 14,
+   "2023": 16,
    "2024": 10,
    "2025": 21,
    "COMUNA": "Retiro"
@@ -3878,9 +4046,9 @@
    "informacion": "Casos",
    "CODCOM": 7405,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 43,
-   "2024": 40,
-   "2025": 25,
+   "2023": 44,
+   "2024": 41,
+   "2025": 27,
    "COMUNA": "Retiro"
   },
   {
@@ -3888,8 +4056,8 @@
    "CODCOM": 7405,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 78,
-   "2024": 79,
-   "2025": 90,
+   "2024": 81,
+   "2025": 92,
    "COMUNA": "Retiro"
   },
   {
@@ -3907,7 +4075,7 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 12,
    "2024": 20,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Retiro"
   }
  ],

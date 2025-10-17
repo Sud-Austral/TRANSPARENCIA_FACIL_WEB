@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16206,
-   "2024": 42,
-   "2025": 47,
+   "2024": 43,
+   "2025": 48,
    "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Ránquil"
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16206,
    "2024": 10,
-   "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 12,
+   "variacion": 20,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ránquil"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16206,
-   "2024": 45,
-   "2025": 39,
+   "2024": 46,
+   "2025": 40,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Ránquil"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16206,
-   "2024": 22,
+   "2024": 23,
    "2025": 20,
-   "variacion": -9,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Ránquil"
   },
@@ -49,9 +49,9 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16206,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Ránquil"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16206,
-   "2024": 34,
-   "2025": 32,
-   "variacion": -6,
+   "2024": 36,
+   "2025": 33,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Ránquil"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16206,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Ránquil"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16206,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -1197,6 +1237,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Ránquil"
   },
   {
@@ -1368,6 +1416,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16206,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16206,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 16206,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Ránquil"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16206,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 16206,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Ránquil"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 16206,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Ránquil"
   },
@@ -2880,6 +3000,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16206,
    "anio": 2024,
@@ -3048,6 +3176,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16206,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Ránquil"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16206,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Ránquil"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16206,
    "anio": 2024,
@@ -3716,6 +3876,14 @@
    "CODCOM": 16206,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Ránquil"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16206,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Ránquil"
   }
@@ -3734,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 16206,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 48,
-   "2024": 42,
-   "2025": 47,
+   "2023": 50,
+   "2024": 43,
+   "2025": 48,
    "COMUNA": "Ránquil"
   },
   {
@@ -3745,16 +3913,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 16,
    "2024": 10,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "Ránquil"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16206,
    "delito": "DAÑOS",
-   "2023": 54,
-   "2024": 45,
-   "2025": 39,
+   "2023": 56,
+   "2024": 46,
+   "2025": 40,
    "COMUNA": "Ránquil"
   },
   {
@@ -3762,7 +3930,7 @@
    "CODCOM": 16206,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 27,
-   "2024": 22,
+   "2024": 23,
    "2025": 20,
    "COMUNA": "Ránquil"
   },
@@ -3772,7 +3940,7 @@
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2023": 0,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Ránquil"
   },
   {
@@ -3888,8 +4056,8 @@
    "CODCOM": 16206,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 62,
-   "2024": 34,
-   "2025": 32,
+   "2024": 36,
+   "2025": 33,
    "COMUNA": "Ránquil"
   },
   {

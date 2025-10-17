@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 11101,
-   "2024": 20,
-   "2025": 16,
-   "variacion": -20,
+   "2024": 21,
+   "2025": 17,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11101,
-   "2024": 249,
-   "2025": 240,
-   "variacion": -4,
+   "2024": 264,
+   "2025": 246,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11101,
-   "2024": 318,
-   "2025": 395,
-   "variacion": 24,
+   "2024": 330,
+   "2025": 404,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11101,
-   "2024": 294,
-   "2025": 275,
-   "variacion": -6,
+   "2024": 298,
+   "2025": 282,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11101,
-   "2024": 449,
-   "2025": 364,
-   "variacion": -19,
+   "2024": 456,
+   "2025": 383,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 11101,
-   "2024": 260,
-   "2025": 214,
+   "2024": 264,
+   "2025": 216,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
@@ -66,27 +66,27 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11101,
-   "2024": 88,
-   "2025": 129,
-   "variacion": 47,
+   "2024": 90,
+   "2025": 134,
+   "variacion": 49,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11101,
-   "2024": 15,
+   "2024": 17,
    "2025": 19,
-   "variacion": 27,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11101,
-   "2024": 154,
-   "2025": 120,
-   "variacion": -22,
+   "2024": 157,
+   "2025": 125,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
@@ -94,26 +94,26 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11101,
    "2024": 28,
-   "2025": 30,
-   "variacion": 7,
+   "2025": 31,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 11101,
-   "2024": 130,
-   "2025": 100,
-   "variacion": -23,
+   "2024": 142,
+   "2025": 102,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 11101,
-   "2024": 27,
-   "2025": 58,
-   "variacion": 115,
+   "2024": 28,
+   "2025": 59,
+   "variacion": 111,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11101,
-   "2024": 19,
-   "2025": 24,
-   "variacion": 26,
+   "2024": 20,
+   "2025": 25,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Coihaique"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 11101,
-   "2024": 139,
-   "2025": 95,
-   "variacion": -32,
+   "2024": 144,
+   "2025": 100,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 11101,
-   "2024": 32,
-   "2025": 23,
-   "variacion": -28,
+   "2024": 33,
+   "2025": 25,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Coihaique"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 31,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
    "COMUNA": "Coihaique"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 34,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
    "COMUNA": "Coihaique"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 19,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Coihaique"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 11101,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Coihaique"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Coihaique"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 11101,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Coihaique"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11101,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Coihaique"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Coihaique"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Coihaique"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 11101,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 11101,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Coihaique"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 4,
    "COMUNA": "Coihaique"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 11101,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Coihaique"
   }
  ],
  "info": [
@@ -3726,44 +3894,44 @@
    "CODCOM": 11101,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 27,
-   "2024": 20,
-   "2025": 16,
+   "2024": 21,
+   "2025": 17,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 254,
-   "2024": 249,
-   "2025": 240,
+   "2023": 259,
+   "2024": 264,
+   "2025": 246,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 344,
-   "2024": 318,
-   "2025": 395,
+   "2023": 350,
+   "2024": 330,
+   "2025": 404,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "DAÑOS",
-   "2023": 319,
-   "2024": 294,
-   "2025": 275,
+   "2023": 323,
+   "2024": 298,
+   "2025": 282,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 379,
-   "2024": 449,
-   "2025": 364,
+   "2023": 385,
+   "2024": 456,
+   "2025": 383,
    "COMUNA": "Coihaique"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "HURTOS",
-   "2023": 206,
-   "2024": 260,
-   "2025": 214,
+   "2023": 210,
+   "2024": 264,
+   "2025": 216,
    "COMUNA": "Coihaique"
   },
   {
@@ -3789,8 +3957,8 @@
    "CODCOM": 11101,
    "delito": "INCIVILIDADES",
    "2023": 95,
-   "2024": 88,
-   "2025": 129,
+   "2024": 90,
+   "2025": 134,
    "COMUNA": "Coihaique"
   },
   {
@@ -3798,7 +3966,7 @@
    "CODCOM": 11101,
    "delito": "LESIONES GRAVES",
    "2023": 15,
-   "2024": 15,
+   "2024": 17,
    "2025": 19,
    "COMUNA": "Coihaique"
   },
@@ -3806,36 +3974,36 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LESIONES LEVES",
-   "2023": 133,
-   "2024": 154,
-   "2025": 120,
+   "2023": 138,
+   "2024": 157,
+   "2025": 125,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 32,
+   "2023": 35,
    "2024": 28,
-   "2025": 30,
+   "2025": 31,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 87,
-   "2024": 130,
-   "2025": 100,
+   "2023": 90,
+   "2024": 142,
+   "2025": 102,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "LEY DE DROGAS",
-   "2023": 65,
-   "2024": 27,
-   "2025": 58,
+   "2023": 68,
+   "2024": 28,
+   "2025": 59,
    "COMUNA": "Coihaique"
   },
   {
@@ -3878,18 +4046,18 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 46,
-   "2024": 19,
-   "2025": 24,
+   "2023": 48,
+   "2024": 20,
+   "2025": 25,
    "COMUNA": "Coihaique"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 150,
-   "2024": 139,
-   "2025": 95,
+   "2023": 153,
+   "2024": 144,
+   "2025": 100,
    "COMUNA": "Coihaique"
   },
   {
@@ -3905,9 +4073,9 @@
    "informacion": "Casos",
    "CODCOM": 11101,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 33,
-   "2024": 32,
-   "2025": 23,
+   "2023": 36,
+   "2024": 33,
+   "2025": 25,
    "COMUNA": "Coihaique"
   }
  ],

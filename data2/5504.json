@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5504,
-   "2024": 79,
-   "2025": 87,
-   "variacion": 10,
+   "2024": 83,
+   "2025": 90,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5504,
-   "2024": 84,
-   "2025": 76,
-   "variacion": -10,
+   "2024": 90,
+   "2025": 77,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5504,
-   "2024": 77,
-   "2025": 106,
-   "variacion": 38,
+   "2024": 78,
+   "2025": 110,
+   "variacion": 41,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5504,
-   "2024": 48,
-   "2025": 47,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 49,
+   "2025": 49,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "La Cruz"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5504,
-   "2024": 17,
-   "2025": 19,
-   "variacion": 12,
+   "2024": 19,
+   "2025": 20,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5504,
    "2024": 6,
-   "2025": 4,
-   "variacion": -33,
+   "2025": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5504,
-   "2024": 36,
+   "2024": 37,
    "2025": 71,
-   "variacion": 97,
+   "variacion": 92,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5504,
    "2024": 26,
-   "2025": 22,
-   "variacion": -15,
+   "2025": 24,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "La Cruz"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5504,
-   "2024": 83,
-   "2025": 102,
-   "variacion": 23,
+   "2024": 85,
+   "2025": 104,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "La Cruz"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "La Cruz"
   },
   {
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "La Cruz"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5504,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "La Cruz"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5504,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5504,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "La Cruz"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5504,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "La Cruz"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 5504,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "La Cruz"
   },
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "La Cruz"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "La Cruz"
   },
   {
@@ -3216,6 +3352,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5504,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5504,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "La Cruz"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "La Cruz"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5504,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "La Cruz"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5504,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "La Cruz"
   }
  ],
@@ -3734,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 76,
-   "2024": 79,
-   "2025": 87,
+   "2023": 78,
+   "2024": 83,
+   "2025": 90,
    "COMUNA": "La Cruz"
   },
   {
@@ -3753,17 +3921,17 @@
    "CODCOM": 5504,
    "delito": "DAÑOS",
    "2023": 71,
-   "2024": 84,
-   "2025": 76,
+   "2024": 90,
+   "2025": 77,
    "COMUNA": "La Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 94,
-   "2024": 77,
-   "2025": 106,
+   "2023": 96,
+   "2024": 78,
+   "2025": 110,
    "COMUNA": "La Cruz"
   },
   {
@@ -3779,16 +3947,16 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "HURTOS",
-   "2023": 62,
-   "2024": 48,
-   "2025": 47,
+   "2023": 64,
+   "2024": 49,
+   "2025": 49,
    "COMUNA": "La Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "INCIVILIDADES",
-   "2023": 35,
+   "2023": 36,
    "2024": 17,
    "2025": 31,
    "COMUNA": "La Cruz"
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "LESIONES LEVES",
-   "2023": 29,
-   "2024": 17,
-   "2025": 19,
+   "2023": 30,
+   "2024": 19,
+   "2025": 20,
    "COMUNA": "La Cruz"
   },
   {
@@ -3817,7 +3985,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 8,
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "La Cruz"
   },
   {
@@ -3825,7 +3993,7 @@
    "CODCOM": 5504,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 19,
-   "2024": 36,
+   "2024": 37,
    "2025": 71,
    "COMUNA": "La Cruz"
   },
@@ -3880,16 +4048,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 24,
    "2024": 26,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "La Cruz"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5504,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 95,
-   "2024": 83,
-   "2025": 102,
+   "2023": 99,
+   "2024": 85,
+   "2025": 104,
    "COMUNA": "La Cruz"
   },
   {

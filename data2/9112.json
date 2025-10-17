@@ -4,16 +4,16 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9112,
    "2024": 14,
-   "2025": 5,
-   "variacion": -64,
+   "2025": 6,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9112,
-   "2024": 436,
-   "2025": 399,
+   "2024": 442,
+   "2025": 405,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9112,
-   "2024": 359,
-   "2025": 158,
+   "2024": 374,
+   "2025": 164,
    "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9112,
-   "2024": 336,
-   "2025": 273,
-   "variacion": -19,
+   "2024": 344,
+   "2025": 276,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9112,
-   "2024": 508,
-   "2025": 440,
-   "variacion": -13,
+   "2024": 528,
+   "2025": 453,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9112,
-   "2024": 216,
-   "2025": 155,
-   "variacion": -28,
+   "2024": 221,
+   "2025": 161,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9112,
-   "2024": 53,
-   "2025": 40,
-   "variacion": -25,
+   "2024": 54,
+   "2025": 41,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
@@ -84,10 +84,10 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9112,
-   "2024": 90,
-   "2025": 93,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 95,
+   "2025": 94,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9112,
-   "2024": 40,
+   "2024": 41,
    "2025": 46,
-   "variacion": 15,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Padre las Casas"
   },
@@ -121,43 +121,43 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9112,
    "2024": 17,
-   "2025": 9,
-   "variacion": -47,
+   "2025": 10,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9112,
-   "2024": 18,
+   "2024": 19,
    "2025": 8,
-   "variacion": -56,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9112,
-   "2024": 31,
+   "2024": 34,
    "2025": 20,
-   "variacion": -35,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9112,
-   "2024": 51,
-   "2025": 38,
-   "variacion": -25,
+   "2024": 53,
+   "2025": 39,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9112,
-   "2024": 107,
-   "2025": 71,
+   "2024": 111,
+   "2025": 73,
    "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9112,
-   "2024": 164,
-   "2025": 145,
+   "2024": 168,
+   "2025": 148,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Padre las Casas"
@@ -360,6 +360,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 60,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 30,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 13,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 9112,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Padre las Casas"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9112,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9112,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 9112,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Padre las Casas"
   },
@@ -2880,6 +3000,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9112,
    "anio": 2024,
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3216,6 +3352,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9112,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Padre las Casas"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Padre las Casas"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9112,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 5,
    "COMUNA": "Padre las Casas"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9112,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Padre las Casas"
   }
  ],
  "info": [
@@ -3725,45 +3893,45 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 13,
+   "2023": 15,
    "2024": 14,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 433,
-   "2024": 436,
-   "2025": 399,
+   "2023": 444,
+   "2024": 442,
+   "2025": 405,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 120,
-   "2024": 359,
-   "2025": 158,
+   "2023": 124,
+   "2024": 374,
+   "2025": 164,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "DAÑOS",
-   "2023": 351,
-   "2024": 336,
-   "2025": 273,
+   "2023": 358,
+   "2024": 344,
+   "2025": 276,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 494,
-   "2024": 508,
-   "2025": 440,
+   "2023": 505,
+   "2024": 528,
+   "2025": 453,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3779,18 +3947,18 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "HURTOS",
-   "2023": 170,
-   "2024": 216,
-   "2025": 155,
+   "2023": 174,
+   "2024": 221,
+   "2025": 161,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "INCIVILIDADES",
-   "2023": 53,
-   "2024": 53,
-   "2025": 40,
+   "2023": 54,
+   "2024": 54,
+   "2025": 41,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3806,16 +3974,16 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "LESIONES LEVES",
-   "2023": 95,
-   "2024": 90,
-   "2025": 93,
+   "2023": 98,
+   "2024": 95,
+   "2025": 94,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 29,
+   "2023": 30,
    "2024": 35,
    "2025": 25,
    "COMUNA": "Padre las Casas"
@@ -3825,7 +3993,7 @@
    "CODCOM": 9112,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 19,
-   "2024": 40,
+   "2024": 41,
    "2025": 46,
    "COMUNA": "Padre las Casas"
   },
@@ -3842,9 +4010,9 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "2023": 9,
+   "2023": 10,
    "2024": 17,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3852,7 +4020,7 @@
    "CODCOM": 9112,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 14,
-   "2024": 18,
+   "2024": 19,
    "2025": 8,
    "COMUNA": "Padre las Casas"
   },
@@ -3860,8 +4028,8 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "RECEPTACIÓN",
-   "2023": 21,
-   "2024": 31,
+   "2023": 24,
+   "2024": 34,
    "2025": 20,
    "COMUNA": "Padre las Casas"
   },
@@ -3869,27 +4037,27 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 79,
-   "2024": 51,
-   "2025": 38,
+   "2023": 80,
+   "2024": 53,
+   "2025": 39,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 108,
-   "2024": 107,
-   "2025": 71,
+   "2023": 111,
+   "2024": 111,
+   "2025": 73,
    "COMUNA": "Padre las Casas"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 176,
-   "2024": 164,
-   "2025": 145,
+   "2023": 179,
+   "2024": 168,
+   "2025": 148,
    "COMUNA": "Padre las Casas"
   },
   {
@@ -3905,7 +4073,7 @@
    "informacion": "Casos",
    "CODCOM": 9112,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 48,
+   "2023": 51,
    "2024": 52,
    "2025": 35,
    "COMUNA": "Padre las Casas"

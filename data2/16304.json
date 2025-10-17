@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16304,
-   "2024": 33,
-   "2025": 41,
-   "variacion": 24,
+   "2024": 34,
+   "2025": 44,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "San Fabián"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16304,
-   "2024": 40,
-   "2025": 34,
+   "2024": 41,
+   "2025": 35,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16304,
-   "2024": 14,
+   "2024": 15,
    "2025": 14,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -7,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
-   "variacion": -14,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16304,
    "2024": 16,
-   "2025": 6,
-   "variacion": -62,
+   "2025": 7,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16304,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
-   "variacion": -82,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "San Fabián"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Fabián"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "San Fabián"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Fabián"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Fabián"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16304,
    "anio": 2024,
@@ -1704,105 +1768,17 @@
    "COMUNA": "San Fabián"
   },
   {
-   "delito": "LESIONES LEVES",
+   "delito": "LESIONES GRAVES",
    "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 2,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 2,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 2,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
+   "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 0,
    "COMUNA": "San Fabián"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
    "anio": 2024,
-   "mes": 11,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 12,
-   "casos": 2,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES LEVES",
-   "CODCOM": 16304,
-   "anio": 2025,
    "mes": 1,
    "casos": 2,
    "COMUNA": "San Fabián"
@@ -1810,7 +1786,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 2,
    "casos": 0,
    "COMUNA": "San Fabián"
@@ -1818,15 +1794,15 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 3,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "San Fabián"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 4,
    "casos": 2,
    "COMUNA": "San Fabián"
@@ -1834,7 +1810,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 5,
    "casos": 0,
    "COMUNA": "San Fabián"
@@ -1842,7 +1818,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 6,
    "casos": 0,
    "COMUNA": "San Fabián"
@@ -1850,7 +1826,7 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 7,
    "casos": 0,
    "COMUNA": "San Fabián"
@@ -1858,261 +1834,21 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
+   "anio": 2024,
    "mes": 8,
-   "casos": 1,
+   "casos": 0,
    "COMUNA": "San Fabián"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
    "anio": 2024,
    "mes": 9,
    "casos": 1,
    "COMUNA": "San Fabián"
   },
   {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 10,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 11,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 12,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 16304,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 1,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 16304,
-   "anio": 2024,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "San Fabián"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
+   "delito": "LESIONES LEVES",
    "CODCOM": 16304,
    "anio": 2024,
    "mes": 10,
@@ -2120,6 +1856,358 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16304,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Fabián"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16304,
    "anio": 2024,
@@ -2880,6 +3000,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16304,
    "anio": 2024,
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Fabián"
   },
   {
@@ -3212,6 +3348,14 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Fabián"
   },
@@ -3384,6 +3528,14 @@
    "COMUNA": "San Fabián"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16304,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 16304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Fabián"
   },
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Fabián"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Fabián"
   }
  ],
@@ -3734,7 +3902,7 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 33,
+   "2023": 34,
    "2024": 34,
    "2025": 30,
    "COMUNA": "San Fabián"
@@ -3752,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "DAÑOS",
-   "2023": 29,
-   "2024": 33,
-   "2025": 41,
+   "2023": 30,
+   "2024": 34,
+   "2025": 44,
    "COMUNA": "San Fabián"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 38,
-   "2024": 40,
-   "2025": 34,
+   "2023": 39,
+   "2024": 41,
+   "2025": 35,
    "COMUNA": "San Fabián"
   },
   {
@@ -3780,7 +3948,7 @@
    "CODCOM": 16304,
    "delito": "HURTOS",
    "2023": 18,
-   "2024": 14,
+   "2024": 15,
    "2025": 14,
    "COMUNA": "San Fabián"
   },
@@ -3788,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 16304,
    "delito": "INCIVILIDADES",
-   "2023": 17,
+   "2023": 18,
    "2024": 20,
    "2025": 24,
    "COMUNA": "San Fabián"
@@ -3807,7 +3975,7 @@
    "CODCOM": 16304,
    "delito": "LESIONES LEVES",
    "2023": 8,
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "San Fabián"
   },
@@ -3889,7 +4057,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 21,
    "2024": 16,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "San Fabián"
   },
   {
@@ -3906,7 +4074,7 @@
    "CODCOM": 16304,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
    "COMUNA": "San Fabián"
   }

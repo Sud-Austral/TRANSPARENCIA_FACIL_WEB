@@ -3,26 +3,26 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6115,
-   "2024": 25,
+   "2024": 26,
    "2025": 12,
-   "variacion": -52,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6115,
-   "2024": 561,
-   "2025": 571,
-   "variacion": 2,
+   "2024": 574,
+   "2025": 581,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6115,
-   "2024": 229,
-   "2025": 235,
+   "2024": 233,
+   "2025": 241,
    "variacion": 3,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6115,
-   "2024": 423,
-   "2025": 396,
-   "variacion": -6,
+   "2024": 436,
+   "2025": 407,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6115,
-   "2024": 452,
-   "2025": 393,
+   "2024": 457,
+   "2025": 399,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6115,
-   "2024": 364,
-   "2025": 316,
-   "variacion": -13,
+   "2024": 366,
+   "2025": 322,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6115,
-   "2024": 124,
-   "2025": 174,
-   "variacion": 40,
+   "2024": 136,
+   "2025": 178,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
   },
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6115,
-   "2024": 239,
-   "2025": 265,
-   "variacion": 11,
+   "2024": 249,
+   "2025": 273,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6115,
-   "2024": 27,
+   "2024": 28,
    "2025": 33,
-   "variacion": 22,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6115,
-   "2024": 13,
+   "2024": 15,
    "2025": 23,
-   "variacion": 77,
+   "variacion": 53,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
   },
@@ -147,8 +147,8 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6115,
-   "2024": 107,
-   "2025": 119,
+   "2024": 108,
+   "2025": 120,
    "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Rengo"
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6115,
-   "2024": 110,
+   "2024": 111,
    "2025": 80,
-   "variacion": -27,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6115,
-   "2024": 387,
-   "2025": 337,
-   "variacion": -13,
+   "2024": 404,
+   "2025": 345,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
@@ -175,17 +175,17 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6115,
    "2024": 35,
-   "2025": 19,
-   "variacion": -46,
+   "2025": 20,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6115,
-   "2024": 53,
-   "2025": 36,
-   "variacion": -32,
+   "2024": 54,
+   "2025": 37,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Rengo"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 85,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 10,
    "COMUNA": "Rengo"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 42,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 11,
    "COMUNA": "Rengo"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 6115,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Rengo"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 6115,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6115,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Rengo"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6115,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Rengo"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 6115,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Rengo"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6115,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Rengo"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6115,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Rengo"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Rengo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "Rengo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6115,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Rengo"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Rengo"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 8,
    "COMUNA": "Rengo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Rengo"
   }
  ],
  "info": [
@@ -3726,7 +3894,7 @@
    "CODCOM": 6115,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 11,
-   "2024": 25,
+   "2024": 26,
    "2025": 12,
    "COMUNA": "Rengo"
   },
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 545,
-   "2024": 561,
-   "2025": 571,
+   "2023": 559,
+   "2024": 574,
+   "2025": 581,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 295,
-   "2024": 229,
-   "2025": 235,
+   "2023": 306,
+   "2024": 233,
+   "2025": 241,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "DAÑOS",
-   "2023": 350,
-   "2024": 423,
-   "2025": 396,
+   "2023": 362,
+   "2024": 436,
+   "2025": 407,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 410,
-   "2024": 452,
-   "2025": 393,
+   "2023": 420,
+   "2024": 457,
+   "2025": 399,
    "COMUNA": "Rengo"
   },
   {
@@ -3779,25 +3947,25 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "HURTOS",
-   "2023": 378,
-   "2024": 364,
-   "2025": 316,
+   "2023": 385,
+   "2024": 366,
+   "2025": 322,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "INCIVILIDADES",
-   "2023": 113,
-   "2024": 124,
-   "2025": 174,
+   "2023": 114,
+   "2024": 136,
+   "2025": 178,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "LESIONES GRAVES",
-   "2023": 25,
+   "2023": 29,
    "2024": 37,
    "2025": 49,
    "COMUNA": "Rengo"
@@ -3806,17 +3974,17 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "LESIONES LEVES",
-   "2023": 211,
-   "2024": 239,
-   "2025": 265,
+   "2023": 216,
+   "2024": 249,
+   "2025": 273,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 57,
-   "2024": 27,
+   "2023": 58,
+   "2024": 28,
    "2025": 33,
    "COMUNA": "Rengo"
   },
@@ -3824,7 +3992,7 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 28,
+   "2023": 29,
    "2024": 33,
    "2025": 55,
    "COMUNA": "Rengo"
@@ -3852,7 +4020,7 @@
    "CODCOM": 6115,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 20,
-   "2024": 13,
+   "2024": 15,
    "2025": 23,
    "COMUNA": "Rengo"
   },
@@ -3860,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "RECEPTACIÓN",
-   "2023": 43,
+   "2023": 45,
    "2024": 32,
    "2025": 35,
    "COMUNA": "Rengo"
@@ -3870,16 +4038,16 @@
    "CODCOM": 6115,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 101,
-   "2024": 107,
-   "2025": 119,
+   "2024": 108,
+   "2025": 120,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 78,
-   "2024": 110,
+   "2023": 80,
+   "2024": 111,
    "2025": 80,
    "COMUNA": "Rengo"
   },
@@ -3887,27 +4055,27 @@
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 374,
-   "2024": 387,
-   "2025": 337,
+   "2023": 389,
+   "2024": 404,
+   "2025": 345,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 32,
+   "2023": 34,
    "2024": 35,
-   "2025": 19,
+   "2025": 20,
    "COMUNA": "Rengo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6115,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 43,
-   "2024": 53,
-   "2025": 36,
+   "2023": 45,
+   "2024": 54,
+   "2025": 37,
    "COMUNA": "Rengo"
   }
  ],

@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10208,
-   "2024": 319,
-   "2025": 276,
-   "variacion": -13,
+   "2024": 336,
+   "2025": 280,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10208,
-   "2024": 624,
-   "2025": 404,
-   "variacion": -35,
+   "2024": 631,
+   "2025": 414,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10208,
-   "2024": 163,
-   "2025": 162,
-   "variacion": -1,
-   "situación": "Disminución de Casos",
+   "2024": 164,
+   "2025": 164,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10208,
-   "2024": 204,
-   "2025": 138,
-   "variacion": -32,
+   "2024": 205,
+   "2025": 144,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10208,
-   "2024": 140,
-   "2025": 119,
+   "2024": 143,
+   "2025": 121,
    "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10208,
-   "2024": 72,
-   "2025": 53,
+   "2024": 73,
+   "2025": 54,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10208,
-   "2024": 89,
-   "2025": 69,
+   "2024": 91,
+   "2025": 71,
    "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
@@ -93,9 +93,9 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10208,
-   "2024": 15,
+   "2024": 16,
    "2025": 13,
-   "variacion": -13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10208,
    "2024": 68,
-   "2025": 36,
-   "variacion": -47,
+   "2025": 39,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
@@ -138,18 +138,18 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10208,
-   "2024": 20,
+   "2024": 21,
    "2025": 14,
-   "variacion": -30,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10208,
-   "2024": 28,
-   "2025": 23,
-   "variacion": -18,
+   "2024": 29,
+   "2025": 24,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10208,
    "2024": 4,
-   "2025": 22,
-   "variacion": 450,
+   "2025": 24,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Quellón"
   },
@@ -166,26 +166,26 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10208,
    "2024": 57,
-   "2025": 38,
-   "variacion": -33,
+   "2025": 40,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10208,
-   "2024": 8,
-   "2025": 6,
-   "variacion": -25,
+   "2024": 9,
+   "2025": 7,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10208,
-   "2024": 20,
-   "2025": 15,
-   "variacion": -25,
+   "2024": 21,
+   "2025": 16,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Quellón"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 32,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Quellón"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 10,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 22,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Quellón"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 10208,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quellón"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10208,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10208,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 10208,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Quellón"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10208,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Quellón"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -2709,6 +2821,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Quellón"
   },
   {
@@ -2880,6 +3000,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10208,
    "anio": 2024,
@@ -3048,6 +3176,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10208,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Quellón"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10208,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Quellón"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Quellón"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10208,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Quellón"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10208,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Quellón"
   }
  ],
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 296,
-   "2024": 319,
-   "2025": 276,
+   "2023": 305,
+   "2024": 336,
+   "2025": 280,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 336,
-   "2024": 624,
-   "2025": 404,
+   "2023": 363,
+   "2024": 631,
+   "2025": 414,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "DAÑOS",
-   "2023": 194,
-   "2024": 163,
-   "2025": 162,
+   "2023": 198,
+   "2024": 164,
+   "2025": 164,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 227,
-   "2024": 204,
-   "2025": 138,
+   "2023": 231,
+   "2024": 205,
+   "2025": 144,
    "COMUNA": "Quellón"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "HURTOS",
-   "2023": 165,
-   "2024": 140,
-   "2025": 119,
+   "2023": 169,
+   "2024": 143,
+   "2025": 121,
    "COMUNA": "Quellón"
   },
   {
@@ -3789,15 +3957,15 @@
    "CODCOM": 10208,
    "delito": "INCIVILIDADES",
    "2023": 109,
-   "2024": 72,
-   "2025": 53,
+   "2024": 73,
+   "2025": 54,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "LESIONES GRAVES",
-   "2023": 21,
+   "2023": 22,
    "2024": 7,
    "2025": 6,
    "COMUNA": "Quellón"
@@ -3806,17 +3974,17 @@
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "LESIONES LEVES",
-   "2023": 101,
-   "2024": 89,
-   "2025": 69,
+   "2023": 104,
+   "2024": 91,
+   "2025": 71,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 29,
-   "2024": 15,
+   "2023": 30,
+   "2024": 16,
    "2025": 13,
    "COMUNA": "Quellón"
   },
@@ -3826,14 +3994,14 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 23,
    "2024": 68,
-   "2025": 36,
+   "2025": 39,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "LEY DE DROGAS",
-   "2023": 9,
+   "2023": 10,
    "2024": 16,
    "2025": 25,
    "COMUNA": "Quellón"
@@ -3861,7 +4029,7 @@
    "CODCOM": 10208,
    "delito": "RECEPTACIÓN",
    "2023": 6,
-   "2024": 20,
+   "2024": 21,
    "2025": 14,
    "COMUNA": "Quellón"
   },
@@ -3870,8 +4038,8 @@
    "CODCOM": 10208,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 26,
-   "2024": 28,
-   "2025": 23,
+   "2024": 29,
+   "2025": 24,
    "COMUNA": "Quellón"
   },
   {
@@ -3880,16 +4048,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 7,
    "2024": 4,
-   "2025": 22,
+   "2025": 24,
    "COMUNA": "Quellón"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10208,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 47,
+   "2023": 48,
    "2024": 57,
-   "2025": 38,
+   "2025": 40,
    "COMUNA": "Quellón"
   },
   {
@@ -3897,8 +4065,8 @@
    "CODCOM": 10208,
    "delito": "ROBOS POR SORPRESA",
    "2023": 8,
-   "2024": 8,
-   "2025": 6,
+   "2024": 9,
+   "2025": 7,
    "COMUNA": "Quellón"
   },
   {
@@ -3906,8 +4074,8 @@
    "CODCOM": 10208,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 34,
-   "2024": 20,
-   "2025": 15,
+   "2024": 21,
+   "2025": 16,
    "COMUNA": "Quellón"
   }
  ],

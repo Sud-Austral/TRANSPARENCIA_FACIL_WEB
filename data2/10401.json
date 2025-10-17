@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10401,
-   "2024": 36,
-   "2025": 23,
-   "variacion": -36,
+   "2024": 37,
+   "2025": 24,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10401,
-   "2024": 21,
+   "2024": 23,
    "2025": 29,
-   "variacion": 38,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "Chaitén"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10401,
-   "2024": 14,
+   "2024": 15,
    "2025": 13,
-   "variacion": -7,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10401,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10401,
    "2024": 16,
-   "2025": 6,
-   "variacion": -62,
+   "2025": 7,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10401,
-   "2024": 15,
+   "2024": 16,
    "2025": 5,
-   "variacion": -67,
+   "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "Chaitén"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -524,6 +532,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -696,6 +712,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -860,6 +884,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Chaitén"
   },
@@ -1032,6 +1064,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -1364,6 +1404,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -1536,6 +1584,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10401,
    "anio": 2024,
@@ -1700,6 +1756,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -1872,6 +1936,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10401,
    "anio": 2024,
@@ -2040,6 +2112,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -2204,6 +2284,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -2376,6 +2464,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -2544,6 +2640,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -2712,6 +2816,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10401,
    "anio": 2024,
@@ -2876,6 +2988,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -3048,6 +3168,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 10401,
    "anio": 2024,
@@ -3212,6 +3340,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   },
@@ -3384,6 +3520,14 @@
    "COMUNA": "Chaitén"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10401,
    "anio": 2024,
@@ -3716,6 +3860,14 @@
    "CODCOM": 10401,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chaitén"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10401,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chaitén"
   }
@@ -3734,7 +3886,7 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 24,
+   "2023": 26,
    "2024": 31,
    "2025": 10,
    "COMUNA": "Chaitén"
@@ -3743,7 +3895,7 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 29,
+   "2023": 32,
    "2024": 40,
    "2025": 23,
    "COMUNA": "Chaitén"
@@ -3752,17 +3904,17 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "DAÑOS",
-   "2023": 38,
-   "2024": 36,
-   "2025": 23,
+   "2023": 39,
+   "2024": 37,
+   "2025": 24,
    "COMUNA": "Chaitén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 36,
-   "2024": 21,
+   "2023": 37,
+   "2024": 23,
    "2025": 29,
    "COMUNA": "Chaitén"
   },
@@ -3789,7 +3941,7 @@
    "CODCOM": 10401,
    "delito": "INCIVILIDADES",
    "2023": 28,
-   "2024": 14,
+   "2024": 15,
    "2025": 13,
    "COMUNA": "Chaitén"
   },
@@ -3816,7 +3968,7 @@
    "CODCOM": 10401,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 2,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "Chaitén"
   },
@@ -3835,7 +3987,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 7,
    "2024": 16,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Chaitén"
   },
   {
@@ -3887,8 +4039,8 @@
    "informacion": "Casos",
    "CODCOM": 10401,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 8,
-   "2024": 15,
+   "2023": 9,
+   "2024": 16,
    "2025": 5,
    "COMUNA": "Chaitén"
   },

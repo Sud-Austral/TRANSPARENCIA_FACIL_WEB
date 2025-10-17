@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10201,
-   "2024": 399,
-   "2025": 304,
-   "variacion": -24,
+   "2024": 413,
+   "2025": 311,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10201,
-   "2024": 406,
-   "2025": 283,
+   "2024": 413,
+   "2025": 288,
    "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 10201,
-   "2024": 286,
-   "2025": 247,
+   "2024": 290,
+   "2025": 250,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10201,
-   "2024": 353,
-   "2025": 283,
-   "variacion": -20,
+   "2024": 363,
+   "2025": 285,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
@@ -57,36 +57,36 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10201,
-   "2024": 296,
-   "2025": 259,
-   "variacion": -12,
+   "2024": 305,
+   "2025": 261,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 10201,
-   "2024": 191,
-   "2025": 211,
-   "variacion": 10,
+   "2024": 193,
+   "2025": 218,
+   "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10201,
-   "2024": 21,
+   "2024": 22,
    "2025": 23,
-   "variacion": 10,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10201,
-   "2024": 123,
-   "2025": 94,
-   "variacion": -24,
+   "2024": 128,
+   "2025": 99,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10201,
    "2024": 32,
-   "2025": 26,
-   "variacion": -19,
+   "2025": 27,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 10201,
-   "2024": 103,
-   "2025": 44,
-   "variacion": -57,
+   "2024": 104,
+   "2025": 46,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
@@ -112,26 +112,26 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 10201,
    "2024": 48,
-   "2025": 48,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 49,
+   "variacion": 2,
+   "situación": "Aumento de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10201,
    "2024": 7,
-   "2025": 2,
-   "variacion": -71,
+   "2025": 3,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10201,
-   "2024": 4,
+   "2024": 6,
    "2025": 3,
-   "variacion": -25,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 10201,
-   "2024": 33,
+   "2024": 34,
    "2025": 46,
-   "variacion": 39,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "Castro"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10201,
-   "2024": 89,
-   "2025": 148,
-   "variacion": 66,
+   "2024": 93,
+   "2025": 151,
+   "variacion": 62,
    "situación": "Aumento de Casos",
    "COMUNA": "Castro"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 10201,
-   "2024": 45,
+   "2024": 47,
    "2025": 36,
-   "variacion": -20,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Castro"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 44,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
    "COMUNA": "Castro"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 24,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Castro"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1197,6 +1237,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -1368,6 +1416,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 10201,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10201,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Castro"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10201,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 10201,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Castro"
   },
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Castro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Castro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 10201,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Castro"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Castro"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 5,
    "COMUNA": "Castro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 10201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Castro"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 380,
-   "2024": 399,
-   "2025": 304,
+   "2023": 393,
+   "2024": 413,
+   "2025": 311,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 457,
-   "2024": 406,
-   "2025": 283,
+   "2023": 471,
+   "2024": 413,
+   "2025": 288,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "DAÑOS",
-   "2023": 277,
-   "2024": 286,
-   "2025": 247,
+   "2023": 286,
+   "2024": 290,
+   "2025": 250,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 368,
-   "2024": 353,
-   "2025": 283,
+   "2023": 376,
+   "2024": 363,
+   "2025": 285,
    "COMUNA": "Castro"
   },
   {
@@ -3779,26 +3947,26 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "HURTOS",
-   "2023": 352,
-   "2024": 296,
-   "2025": 259,
+   "2023": 359,
+   "2024": 305,
+   "2025": 261,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "INCIVILIDADES",
-   "2023": 221,
-   "2024": 191,
-   "2025": 211,
+   "2023": 233,
+   "2024": 193,
+   "2025": 218,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "LESIONES GRAVES",
-   "2023": 11,
-   "2024": 21,
+   "2023": 13,
+   "2024": 22,
    "2025": 23,
    "COMUNA": "Castro"
   },
@@ -3806,18 +3974,18 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "LESIONES LEVES",
-   "2023": 148,
-   "2024": 123,
-   "2025": 94,
+   "2023": 150,
+   "2024": 128,
+   "2025": 99,
    "COMUNA": "Castro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 29,
+   "2023": 30,
    "2024": 32,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "Castro"
   },
   {
@@ -3825,8 +3993,8 @@
    "CODCOM": 10201,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 38,
-   "2024": 103,
-   "2025": 44,
+   "2024": 104,
+   "2025": 46,
    "COMUNA": "Castro"
   },
   {
@@ -3835,7 +4003,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 37,
    "2024": 48,
-   "2025": 48,
+   "2025": 49,
    "COMUNA": "Castro"
   },
   {
@@ -3844,7 +4012,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 9,
    "2024": 7,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Castro"
   },
   {
@@ -3852,7 +4020,7 @@
    "CODCOM": 10201,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 1,
-   "2024": 4,
+   "2024": 6,
    "2025": 3,
    "COMUNA": "Castro"
   },
@@ -3860,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "RECEPTACIÓN",
-   "2023": 11,
+   "2023": 12,
    "2024": 13,
    "2025": 16,
    "COMUNA": "Castro"
@@ -3870,7 +4038,7 @@
    "CODCOM": 10201,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 43,
-   "2024": 33,
+   "2024": 34,
    "2025": 46,
    "COMUNA": "Castro"
   },
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 120,
-   "2024": 89,
-   "2025": 148,
+   "2023": 125,
+   "2024": 93,
+   "2025": 151,
    "COMUNA": "Castro"
   },
   {
@@ -3905,8 +4073,8 @@
    "informacion": "Casos",
    "CODCOM": 10201,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 36,
-   "2024": 45,
+   "2023": 40,
+   "2024": 47,
    "2025": 36,
    "COMUNA": "Castro"
   }

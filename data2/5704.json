@@ -13,9 +13,9 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
    "2024": 42,
-   "2025": 42,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 44,
+   "variacion": 5,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2024": 65,
-   "2025": 65,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 66,
+   "2025": 70,
+   "variacion": 6,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
-   "2024": 52,
+   "2024": 54,
    "2025": 72,
-   "variacion": 38,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5704,
-   "2024": 21,
-   "2025": 21,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 23,
+   "2025": 22,
+   "variacion": -4,
+   "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5704,
-   "2024": 26,
-   "2025": 29,
-   "variacion": 12,
+   "2024": 28,
+   "2025": 31,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5704,
    "2024": 12,
-   "2025": 18,
-   "variacion": 50,
+   "2025": 19,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5704,
-   "2024": 2,
+   "2024": 3,
    "2025": 8,
-   "variacion": 300,
+   "variacion": 167,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 5704,
    "2024": 4,
-   "2025": 4,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 5,
+   "variacion": 25,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5704,
-   "2024": 8,
-   "2025": 3,
-   "variacion": -62,
+   "2024": 9,
+   "2025": 4,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Panquehue"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2024": 28,
+   "2024": 30,
    "2025": 47,
-   "variacion": 68,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5704,
    "2024": 4,
-   "2025": 5,
-   "variacion": 25,
+   "2025": 6,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5704,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5704,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Panquehue"
   },
   {
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
    "COMUNA": "Panquehue"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5704,
    "anio": 2024,
@@ -1365,6 +1405,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -1536,6 +1584,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5704,
    "anio": 2024,
@@ -1700,6 +1756,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -1872,6 +1936,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5704,
    "anio": 2024,
@@ -2040,6 +2112,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5704,
    "anio": 2024,
@@ -2204,6 +2284,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -2376,6 +2464,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5704,
    "anio": 2024,
@@ -2540,6 +2636,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -2712,6 +2816,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5704,
    "anio": 2024,
@@ -2876,6 +2988,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -3045,6 +3165,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -3212,6 +3340,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -3384,6 +3520,14 @@
    "COMUNA": "Panquehue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5704,
    "anio": 2024,
@@ -3548,6 +3692,14 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Panquehue"
   },
@@ -3718,6 +3870,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "Panquehue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5704,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Panquehue"
   }
  ],
  "info": [
@@ -3734,9 +3894,9 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 54,
+   "2023": 56,
    "2024": 42,
-   "2025": 42,
+   "2025": 44,
    "COMUNA": "Panquehue"
   },
   {
@@ -3752,9 +3912,9 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "DAÑOS",
-   "2023": 59,
-   "2024": 65,
-   "2025": 65,
+   "2023": 61,
+   "2024": 66,
+   "2025": 70,
    "COMUNA": "Panquehue"
   },
   {
@@ -3762,7 +3922,7 @@
    "CODCOM": 5704,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 56,
-   "2024": 52,
+   "2024": 54,
    "2025": 72,
    "COMUNA": "Panquehue"
   },
@@ -3779,9 +3939,9 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "HURTOS",
-   "2023": 20,
-   "2024": 21,
-   "2025": 21,
+   "2023": 22,
+   "2024": 23,
+   "2025": 22,
    "COMUNA": "Panquehue"
   },
   {
@@ -3789,8 +3949,8 @@
    "CODCOM": 5704,
    "delito": "INCIVILIDADES",
    "2023": 27,
-   "2024": 26,
-   "2025": 29,
+   "2024": 28,
+   "2025": 31,
    "COMUNA": "Panquehue"
   },
   {
@@ -3808,7 +3968,7 @@
    "delito": "LESIONES LEVES",
    "2023": 22,
    "2024": 12,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Panquehue"
   },
   {
@@ -3824,8 +3984,8 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 7,
-   "2024": 2,
+   "2023": 8,
+   "2024": 3,
    "2025": 8,
    "COMUNA": "Panquehue"
   },
@@ -3833,9 +3993,9 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "LEY DE DROGAS",
-   "2023": 11,
+   "2023": 13,
    "2024": 4,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Panquehue"
   },
   {
@@ -3851,7 +4011,7 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 2,
+   "2023": 3,
    "2024": 5,
    "2025": 3,
    "COMUNA": "Panquehue"
@@ -3860,7 +4020,7 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "RECEPTACIÓN",
-   "2023": 3,
+   "2023": 4,
    "2024": 5,
    "2025": 4,
    "COMUNA": "Panquehue"
@@ -3870,8 +4030,8 @@
    "CODCOM": 5704,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 3,
-   "2024": 8,
-   "2025": 3,
+   "2024": 9,
+   "2025": 4,
    "COMUNA": "Panquehue"
   },
   {
@@ -3887,8 +4047,8 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 31,
-   "2024": 28,
+   "2023": 34,
+   "2024": 30,
    "2025": 47,
    "COMUNA": "Panquehue"
   },
@@ -3907,7 +4067,7 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 1,
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Panquehue"
   }
  ],

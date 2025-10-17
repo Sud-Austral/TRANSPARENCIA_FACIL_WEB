@@ -13,25 +13,25 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16305,
    "2024": 84,
-   "2025": 103,
-   "variacion": 23,
+   "2025": 107,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16305,
-   "2024": 101,
-   "2025": 133,
-   "variacion": 32,
+   "2024": 105,
+   "2025": 141,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16305,
-   "2024": 90,
-   "2025": 78,
+   "2024": 91,
+   "2025": 79,
    "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16305,
-   "2024": 82,
-   "2025": 94,
-   "variacion": 15,
+   "2024": 87,
+   "2025": 96,
+   "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "San Nicolás"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16305,
-   "2024": 67,
-   "2025": 49,
-   "variacion": -27,
+   "2024": 68,
+   "2025": 51,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "San Nicolás"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "San Nicolás"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "San Nicolás"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Nicolás"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Nicolás"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16305,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Nicolás"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16305,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Nicolás"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16305,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16305,
    "anio": 2024,
@@ -2880,6 +3000,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16305,
    "anio": 2024,
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Nicolás"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Nicolás"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "San Nicolás"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "San Nicolás"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16305,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 16305,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Nicolás"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 4,
    "COMUNA": "San Nicolás"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16305,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Nicolás"
   }
  ],
  "info": [
@@ -3734,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 82,
+   "2023": 84,
    "2024": 84,
-   "2025": 103,
+   "2025": 107,
    "COMUNA": "San Nicolás"
   },
   {
@@ -3744,26 +3912,26 @@
    "CODCOM": 16305,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 54,
-   "2024": 101,
-   "2025": 133,
+   "2024": 105,
+   "2025": 141,
    "COMUNA": "San Nicolás"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "DAÑOS",
-   "2023": 73,
-   "2024": 90,
-   "2025": 78,
+   "2023": 74,
+   "2024": 91,
+   "2025": 79,
    "COMUNA": "San Nicolás"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 69,
-   "2024": 82,
-   "2025": 94,
+   "2023": 71,
+   "2024": 87,
+   "2025": 96,
    "COMUNA": "San Nicolás"
   },
   {
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "HURTOS",
-   "2023": 20,
+   "2023": 21,
    "2024": 24,
    "2025": 22,
    "COMUNA": "San Nicolás"
@@ -3788,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "INCIVILIDADES",
-   "2023": 63,
+   "2023": 64,
    "2024": 12,
    "2025": 27,
    "COMUNA": "San Nicolás"
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "LESIONES LEVES",
-   "2023": 32,
+   "2023": 33,
    "2024": 25,
    "2025": 36,
    "COMUNA": "San Nicolás"
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 16305,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 65,
-   "2024": 67,
-   "2025": 49,
+   "2023": 66,
+   "2024": 68,
+   "2025": 51,
    "COMUNA": "San Nicolás"
   },
   {

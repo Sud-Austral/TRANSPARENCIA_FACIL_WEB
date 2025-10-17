@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8304,
-   "2024": 168,
-   "2025": 166,
-   "variacion": -1,
+   "2024": 171,
+   "2025": 168,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8304,
-   "2024": 100,
-   "2025": 160,
-   "variacion": 60,
+   "2024": 102,
+   "2025": 172,
+   "variacion": 69,
    "situación": "Aumento de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8304,
-   "2024": 118,
-   "2025": 130,
-   "variacion": 10,
+   "2024": 120,
+   "2025": 133,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8304,
-   "2024": 117,
-   "2025": 99,
-   "variacion": -15,
+   "2024": 122,
+   "2025": 101,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8304,
-   "2024": 67,
-   "2025": 51,
-   "variacion": -24,
+   "2024": 69,
+   "2025": 52,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8304,
-   "2024": 21,
+   "2024": 22,
    "2025": 13,
-   "variacion": -38,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8304,
-   "2024": 90,
-   "2025": 87,
-   "variacion": -3,
+   "2024": 92,
+   "2025": 88,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8304,
    "2024": 43,
-   "2025": 34,
-   "variacion": -21,
+   "2025": 35,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
@@ -130,26 +130,26 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8304,
    "2024": 8,
-   "2025": 6,
-   "variacion": -25,
+   "2025": 7,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8304,
-   "2024": 8,
+   "2024": 10,
    "2025": 13,
-   "variacion": 62,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "Laja"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8304,
-   "2024": 24,
+   "2024": 25,
    "2025": 23,
-   "variacion": -4,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
   },
@@ -166,7 +166,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8304,
    "2024": 142,
-   "2025": 133,
+   "2025": 134,
    "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Laja"
@@ -360,6 +360,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 15,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Laja"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 12,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 23,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Laja"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Laja"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8304,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Laja"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8304,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Laja"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8304,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Laja"
   },
@@ -2709,6 +2821,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Laja"
   },
   {
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Laja"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Laja"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Laja"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Laja"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Laja"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8304,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 8304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Laja"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Laja"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 2,
    "COMUNA": "Laja"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Laja"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 179,
-   "2024": 168,
-   "2025": 166,
+   "2023": 185,
+   "2024": 171,
+   "2025": 168,
    "COMUNA": "Laja"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 76,
-   "2024": 100,
-   "2025": 160,
+   "2023": 77,
+   "2024": 102,
+   "2025": 172,
    "COMUNA": "Laja"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "DAÑOS",
-   "2023": 126,
-   "2024": 118,
-   "2025": 130,
+   "2023": 132,
+   "2024": 120,
+   "2025": 133,
    "COMUNA": "Laja"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 122,
-   "2024": 117,
-   "2025": 99,
+   "2023": 124,
+   "2024": 122,
+   "2025": 101,
    "COMUNA": "Laja"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "HURTOS",
-   "2023": 87,
-   "2024": 67,
-   "2025": 51,
+   "2023": 88,
+   "2024": 69,
+   "2025": 52,
    "COMUNA": "Laja"
   },
   {
@@ -3789,7 +3957,7 @@
    "CODCOM": 8304,
    "delito": "INCIVILIDADES",
    "2023": 26,
-   "2024": 21,
+   "2024": 22,
    "2025": 13,
    "COMUNA": "Laja"
   },
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "LESIONES LEVES",
-   "2023": 80,
-   "2024": 90,
-   "2025": 87,
+   "2023": 82,
+   "2024": 92,
+   "2025": 88,
    "COMUNA": "Laja"
   },
   {
@@ -3826,7 +3994,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 14,
    "2024": 43,
-   "2025": 34,
+   "2025": 35,
    "COMUNA": "Laja"
   },
   {
@@ -3851,9 +4019,9 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 8,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Laja"
   },
   {
@@ -3861,7 +4029,7 @@
    "CODCOM": 8304,
    "delito": "RECEPTACIÓN",
    "2023": 9,
-   "2024": 8,
+   "2024": 10,
    "2025": 13,
    "COMUNA": "Laja"
   },
@@ -3870,7 +4038,7 @@
    "CODCOM": 8304,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 14,
-   "2024": 24,
+   "2024": 25,
    "2025": 23,
    "COMUNA": "Laja"
   },
@@ -3878,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 37,
+   "2023": 38,
    "2024": 35,
    "2025": 28,
    "COMUNA": "Laja"
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 8304,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 168,
+   "2023": 170,
    "2024": 142,
-   "2025": 133,
+   "2025": 134,
    "COMUNA": "Laja"
   },
   {

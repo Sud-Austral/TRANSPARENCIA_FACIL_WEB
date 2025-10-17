@@ -4,34 +4,34 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 9103,
    "2024": 4,
-   "2025": 2,
-   "variacion": -50,
+   "2025": 3,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9103,
-   "2024": 104,
+   "2024": 108,
    "2025": 110,
-   "variacion": 6,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Cunco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9103,
-   "2024": 38,
+   "2024": 39,
    "2025": 67,
-   "variacion": 76,
+   "variacion": 72,
    "situación": "Aumento de Casos",
    "COMUNA": "Cunco"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9103,
-   "2024": 93,
-   "2025": 86,
+   "2024": 96,
+   "2025": 88,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9103,
    "2024": 122,
-   "2025": 104,
-   "variacion": -15,
+   "2025": 108,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9103,
-   "2024": 61,
-   "2025": 46,
-   "variacion": -25,
+   "2024": 64,
+   "2025": 49,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9103,
-   "2024": 26,
-   "2025": 21,
+   "2024": 27,
+   "2025": 22,
    "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9103,
-   "2024": 32,
-   "2025": 34,
-   "variacion": 6,
+   "2024": 33,
+   "2025": 36,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Cunco"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9103,
    "2024": 4,
-   "2025": 10,
-   "variacion": 150,
+   "2025": 11,
+   "variacion": 175,
    "situación": "Aumento de Casos",
    "COMUNA": "Cunco"
   },
@@ -157,17 +157,17 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9103,
    "2024": 10,
-   "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 11,
+   "variacion": 10,
+   "situación": "Aumento de Casos",
    "COMUNA": "Cunco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9103,
-   "2024": 69,
-   "2025": 50,
-   "variacion": -28,
+   "2024": 71,
+   "2025": 53,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Cunco"
   },
@@ -183,10 +183,10 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9103,
-   "2024": 10,
-   "2025": 11,
-   "variacion": 10,
-   "situación": "Aumento de Casos",
+   "2024": 12,
+   "2025": 12,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cunco"
   }
  ],
@@ -360,6 +360,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Cunco"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 16,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Cunco"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 9103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cunco"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9103,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9103,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 9103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cunco"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9103,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9103,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 9103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cunco"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9103,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 9103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cunco"
   },
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Cunco"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Cunco"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Cunco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Cunco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9103,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 9103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cunco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cunco"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "Cunco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cunco"
   }
  ],
  "info": [
@@ -3727,15 +3895,15 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 7,
    "2024": 4,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Cunco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 143,
-   "2024": 104,
+   "2023": 145,
+   "2024": 108,
    "2025": 110,
    "COMUNA": "Cunco"
   },
@@ -3744,7 +3912,7 @@
    "CODCOM": 9103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 34,
-   "2024": 38,
+   "2024": 39,
    "2025": 67,
    "COMUNA": "Cunco"
   },
@@ -3752,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "DAÑOS",
-   "2023": 138,
-   "2024": 93,
-   "2025": 86,
+   "2023": 142,
+   "2024": 96,
+   "2025": 88,
    "COMUNA": "Cunco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 135,
+   "2023": 136,
    "2024": 122,
-   "2025": 104,
+   "2025": 108,
    "COMUNA": "Cunco"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "HURTOS",
-   "2023": 69,
-   "2024": 61,
-   "2025": 46,
+   "2023": 72,
+   "2024": 64,
+   "2025": 49,
    "COMUNA": "Cunco"
   },
   {
@@ -3789,8 +3957,8 @@
    "CODCOM": 9103,
    "delito": "INCIVILIDADES",
    "2023": 33,
-   "2024": 26,
-   "2025": 21,
+   "2024": 27,
+   "2025": 22,
    "COMUNA": "Cunco"
   },
   {
@@ -3807,8 +3975,8 @@
    "CODCOM": 9103,
    "delito": "LESIONES LEVES",
    "2023": 59,
-   "2024": 32,
-   "2025": 34,
+   "2024": 33,
+   "2025": 36,
    "COMUNA": "Cunco"
   },
   {
@@ -3826,7 +3994,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 2,
    "2024": 4,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Cunco"
   },
   {
@@ -3880,16 +4048,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 8,
    "2024": 10,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Cunco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 64,
-   "2024": 69,
-   "2025": 50,
+   "2023": 66,
+   "2024": 71,
+   "2025": 53,
    "COMUNA": "Cunco"
   },
   {
@@ -3906,8 +4074,8 @@
    "CODCOM": 9103,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 18,
-   "2024": 10,
-   "2025": 11,
+   "2024": 12,
+   "2025": 12,
    "COMUNA": "Cunco"
   }
  ],

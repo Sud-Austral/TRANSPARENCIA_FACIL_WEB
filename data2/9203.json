@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9203,
-   "2024": 119,
-   "2025": 119,
+   "2024": 123,
+   "2025": 123,
    "variacion": 0,
    "situación": "Sin variación de Casos",
    "COMUNA": "Curacautín"
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9203,
    "2024": 52,
-   "2025": 45,
-   "variacion": -13,
+   "2025": 47,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 9203,
-   "2024": 144,
-   "2025": 124,
-   "variacion": -14,
+   "2024": 149,
+   "2025": 127,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9203,
-   "2024": 114,
-   "2025": 121,
-   "variacion": 6,
+   "2024": 116,
+   "2025": 125,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9203,
-   "2024": 70,
-   "2025": 70,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 73,
+   "2025": 72,
+   "variacion": -1,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9203,
-   "2024": 34,
-   "2025": 60,
-   "variacion": 76,
+   "2024": 35,
+   "2025": 63,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9203,
-   "2024": 60,
-   "2025": 50,
-   "variacion": -17,
+   "2024": 62,
+   "2025": 51,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9203,
-   "2024": 11,
-   "2025": 36,
-   "variacion": 227,
+   "2024": 12,
+   "2025": 37,
+   "variacion": 208,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9203,
-   "2024": 5,
+   "2024": 6,
    "2025": 9,
-   "variacion": 80,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9203,
    "2024": 61,
-   "2025": 100,
-   "variacion": 64,
+   "2025": 102,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
@@ -175,17 +175,17 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9203,
    "2024": 0,
-   "2025": 4,
-   "variacion": 400,
+   "2025": 5,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Curacautín"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9203,
-   "2024": 22,
+   "2024": 24,
    "2025": 10,
-   "variacion": -55,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Curacautín"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9203,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9203,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Curacautín"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9203,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9203,
    "anio": 2024,
@@ -1368,6 +1408,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9203,
    "anio": 2024,
@@ -1536,6 +1584,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9203,
    "anio": 2024,
@@ -1701,6 +1757,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curacautín"
   },
   {
@@ -1872,6 +1936,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9203,
    "anio": 2024,
@@ -2037,6 +2109,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curacautín"
   },
   {
@@ -2208,6 +2288,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9203,
    "anio": 2024,
@@ -2376,6 +2464,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9203,
    "anio": 2024,
@@ -2540,6 +2636,14 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Curacautín"
   },
@@ -2712,6 +2816,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9203,
    "anio": 2024,
@@ -2880,6 +2992,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9203,
    "anio": 2024,
@@ -3048,6 +3168,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9203,
    "anio": 2024,
@@ -3212,6 +3340,14 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Curacautín"
   },
@@ -3384,6 +3520,14 @@
    "COMUNA": "Curacautín"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Curacautín"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9203,
    "anio": 2024,
@@ -3548,6 +3692,14 @@
    "CODCOM": 9203,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Curacautín"
   },
@@ -3718,6 +3870,14 @@
    "mes": 9,
    "casos": 3,
    "COMUNA": "Curacautín"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9203,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curacautín"
   }
  ],
  "info": [
@@ -3734,9 +3894,9 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 100,
-   "2024": 119,
-   "2025": 119,
+   "2023": 101,
+   "2024": 123,
+   "2025": 123,
    "COMUNA": "Curacautín"
   },
   {
@@ -3745,25 +3905,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 68,
    "2024": 52,
-   "2025": 45,
+   "2025": 47,
    "COMUNA": "Curacautín"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "DAÑOS",
-   "2023": 117,
-   "2024": 144,
-   "2025": 124,
+   "2023": 122,
+   "2024": 149,
+   "2025": 127,
    "COMUNA": "Curacautín"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 100,
-   "2024": 114,
-   "2025": 121,
+   "2023": 106,
+   "2024": 116,
+   "2025": 125,
    "COMUNA": "Curacautín"
   },
   {
@@ -3779,9 +3939,9 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "HURTOS",
-   "2023": 60,
-   "2024": 70,
-   "2025": 70,
+   "2023": 63,
+   "2024": 73,
+   "2025": 72,
    "COMUNA": "Curacautín"
   },
   {
@@ -3789,8 +3949,8 @@
    "CODCOM": 9203,
    "delito": "INCIVILIDADES",
    "2023": 27,
-   "2024": 34,
-   "2025": 60,
+   "2024": 35,
+   "2025": 63,
    "COMUNA": "Curacautín"
   },
   {
@@ -3806,9 +3966,9 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "LESIONES LEVES",
-   "2023": 52,
-   "2024": 60,
-   "2025": 50,
+   "2023": 56,
+   "2024": 62,
+   "2025": 51,
    "COMUNA": "Curacautín"
   },
   {
@@ -3825,15 +3985,15 @@
    "CODCOM": 9203,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 4,
-   "2024": 11,
-   "2025": 36,
+   "2024": 12,
+   "2025": 37,
    "COMUNA": "Curacautín"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "LEY DE DROGAS",
-   "2023": 6,
+   "2023": 7,
    "2024": 13,
    "2025": 10,
    "COMUNA": "Curacautín"
@@ -3852,7 +4012,7 @@
    "CODCOM": 9203,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 6,
-   "2024": 5,
+   "2024": 6,
    "2025": 9,
    "COMUNA": "Curacautín"
   },
@@ -3860,7 +4020,7 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "RECEPTACIÓN",
-   "2023": 3,
+   "2023": 4,
    "2024": 11,
    "2025": 7,
    "COMUNA": "Curacautín"
@@ -3887,9 +4047,9 @@
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 67,
+   "2023": 71,
    "2024": 61,
-   "2025": 100,
+   "2025": 102,
    "COMUNA": "Curacautín"
   },
   {
@@ -3898,15 +4058,15 @@
    "delito": "ROBOS POR SORPRESA",
    "2023": 1,
    "2024": 0,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Curacautín"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9203,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 21,
-   "2024": 22,
+   "2023": 22,
+   "2024": 24,
    "2025": 10,
    "COMUNA": "Curacautín"
   }

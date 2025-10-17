@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
-   "2024": 51,
-   "2025": 49,
-   "variacion": -4,
+   "2024": 53,
+   "2025": 52,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -22,16 +22,16 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8104,
    "2024": 8,
-   "2025": 35,
-   "variacion": 338,
+   "2025": 37,
+   "variacion": 362,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 8104,
-   "2024": 76,
-   "2025": 79,
+   "2024": 79,
+   "2025": 82,
    "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
-   "2024": 71,
-   "2025": 66,
-   "variacion": -7,
+   "2024": 73,
+   "2025": 67,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
-   "2024": 17,
-   "2025": 24,
-   "variacion": 41,
+   "2024": 18,
+   "2025": 25,
+   "variacion": 39,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8104,
-   "2024": 28,
+   "2024": 29,
    "2025": 25,
-   "variacion": -11,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -139,18 +139,18 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8104,
    "2024": 4,
-   "2025": 7,
-   "variacion": 75,
+   "2025": 8,
+   "variacion": 100,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8104,
-   "2024": 6,
+   "2024": 7,
    "2025": 6,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -14,
+   "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8104,
    "2024": 56,
-   "2025": 57,
-   "variacion": 2,
+   "2025": 58,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8104,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 8,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Florida"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Florida"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8104,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Florida"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8104,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Florida"
   },
   {
@@ -3044,6 +3172,14 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Florida"
   },
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Florida"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Florida"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Florida"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8104,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Florida"
   },
@@ -3716,6 +3876,14 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Florida"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Florida"
   }
@@ -3734,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 54,
-   "2024": 51,
-   "2025": 49,
+   "2023": 55,
+   "2024": 53,
+   "2025": 52,
    "COMUNA": "Florida"
   },
   {
@@ -3745,25 +3913,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 6,
    "2024": 8,
-   "2025": 35,
+   "2025": 37,
    "COMUNA": "Florida"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "DAÑOS",
-   "2023": 86,
-   "2024": 76,
-   "2025": 79,
+   "2023": 87,
+   "2024": 79,
+   "2025": 82,
    "COMUNA": "Florida"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 60,
-   "2024": 71,
-   "2025": 66,
+   "2023": 61,
+   "2024": 73,
+   "2025": 67,
    "COMUNA": "Florida"
   },
   {
@@ -3788,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "INCIVILIDADES",
-   "2023": 29,
-   "2024": 17,
-   "2025": 24,
+   "2023": 30,
+   "2024": 18,
+   "2025": 25,
    "COMUNA": "Florida"
   },
   {
@@ -3806,8 +3974,8 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "LESIONES LEVES",
-   "2023": 23,
-   "2024": 28,
+   "2023": 24,
+   "2024": 29,
    "2025": 25,
    "COMUNA": "Florida"
   },
@@ -3862,7 +4030,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 3,
    "2024": 4,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Florida"
   },
   {
@@ -3870,7 +4038,7 @@
    "CODCOM": 8104,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 6,
-   "2024": 6,
+   "2024": 7,
    "2025": 6,
    "COMUNA": "Florida"
   },
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 64,
+   "2023": 65,
    "2024": 56,
-   "2025": 57,
+   "2025": 58,
    "COMUNA": "Florida"
   },
   {

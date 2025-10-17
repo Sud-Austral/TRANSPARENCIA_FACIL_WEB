@@ -12,26 +12,26 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7109,
-   "2024": 303,
-   "2025": 262,
-   "variacion": -14,
+   "2024": 305,
+   "2025": 271,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 7109,
-   "2024": 383,
-   "2025": 260,
-   "variacion": -32,
+   "2024": 394,
+   "2025": 275,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 7109,
-   "2024": 239,
-   "2025": 164,
+   "2024": 244,
+   "2025": 169,
    "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 7109,
-   "2024": 325,
-   "2025": 299,
+   "2024": 329,
+   "2025": 302,
    "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 7109,
-   "2024": 115,
+   "2024": 123,
    "2025": 110,
-   "variacion": -4,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7109,
    "2024": 75,
-   "2025": 91,
-   "variacion": 21,
+   "2025": 95,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "San Clemente"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7109,
-   "2024": 127,
-   "2025": 116,
-   "variacion": -9,
+   "2024": 130,
+   "2025": 120,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7109,
-   "2024": 33,
+   "2024": 35,
    "2025": 14,
-   "variacion": -58,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7109,
-   "2024": 82,
-   "2025": 142,
-   "variacion": 73,
+   "2024": 84,
+   "2025": 150,
+   "variacion": 79,
    "situación": "Aumento de Casos",
    "COMUNA": "San Clemente"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 7109,
    "2024": 41,
-   "2025": 32,
-   "variacion": -22,
+   "2025": 35,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
@@ -139,53 +139,53 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 7109,
    "2024": 25,
-   "2025": 12,
-   "variacion": -52,
+   "2025": 14,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 7109,
-   "2024": 33,
-   "2025": 29,
-   "variacion": -12,
+   "2024": 35,
+   "2025": 30,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 7109,
-   "2024": 43,
+   "2024": 45,
    "2025": 26,
-   "variacion": -40,
+   "variacion": -42,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7109,
-   "2024": 191,
-   "2025": 127,
-   "variacion": -34,
+   "2024": 195,
+   "2025": 132,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7109,
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
-   "variacion": 60,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "San Clemente"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7109,
-   "2024": 44,
+   "2024": 47,
    "2025": 21,
-   "variacion": -52,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "San Clemente"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 37,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 9,
    "COMUNA": "San Clemente"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 15,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 28,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
    "COMUNA": "San Clemente"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 7109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Clemente"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 16,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Clemente"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 7109,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Clemente"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Clemente"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 7109,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "San Clemente"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "San Clemente"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Clemente"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "San Clemente"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "San Clemente"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 7109,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Clemente"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 3,
    "COMUNA": "San Clemente"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 7109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Clemente"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 324,
-   "2024": 303,
-   "2025": 262,
+   "2023": 331,
+   "2024": 305,
+   "2025": 271,
    "COMUNA": "San Clemente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 213,
-   "2024": 383,
-   "2025": 260,
+   "2023": 218,
+   "2024": 394,
+   "2025": 275,
    "COMUNA": "San Clemente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "DAÑOS",
-   "2023": 226,
-   "2024": 239,
-   "2025": 164,
+   "2023": 233,
+   "2024": 244,
+   "2025": 169,
    "COMUNA": "San Clemente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 356,
-   "2024": 325,
-   "2025": 299,
+   "2023": 367,
+   "2024": 329,
+   "2025": 302,
    "COMUNA": "San Clemente"
   },
   {
@@ -3779,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "HURTOS",
-   "2023": 138,
-   "2024": 115,
+   "2023": 143,
+   "2024": 123,
    "2025": 110,
    "COMUNA": "San Clemente"
   },
@@ -3788,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "INCIVILIDADES",
-   "2023": 77,
+   "2023": 79,
    "2024": 75,
-   "2025": 91,
+   "2025": 95,
    "COMUNA": "San Clemente"
   },
   {
@@ -3806,17 +3974,17 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "LESIONES LEVES",
-   "2023": 113,
-   "2024": 127,
-   "2025": 116,
+   "2023": 119,
+   "2024": 130,
+   "2025": 120,
    "COMUNA": "San Clemente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 24,
-   "2024": 33,
+   "2023": 26,
+   "2024": 35,
    "2025": 14,
    "COMUNA": "San Clemente"
   },
@@ -3824,9 +3992,9 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 15,
-   "2024": 82,
-   "2025": 142,
+   "2023": 17,
+   "2024": 84,
+   "2025": 150,
    "COMUNA": "San Clemente"
   },
   {
@@ -3835,7 +4003,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 27,
    "2024": 41,
-   "2025": 32,
+   "2025": 35,
    "COMUNA": "San Clemente"
   },
   {
@@ -3862,7 +4030,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 18,
    "2024": 25,
-   "2025": 12,
+   "2025": 14,
    "COMUNA": "San Clemente"
   },
   {
@@ -3870,16 +4038,16 @@
    "CODCOM": 7109,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 19,
-   "2024": 33,
-   "2025": 29,
+   "2024": 35,
+   "2025": 30,
    "COMUNA": "San Clemente"
   },
   {
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 32,
-   "2024": 43,
+   "2023": 33,
+   "2024": 45,
    "2025": 26,
    "COMUNA": "San Clemente"
   },
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 179,
-   "2024": 191,
-   "2025": 127,
+   "2023": 184,
+   "2024": 195,
+   "2025": 132,
    "COMUNA": "San Clemente"
   },
   {
@@ -3897,7 +4065,7 @@
    "CODCOM": 7109,
    "delito": "ROBOS POR SORPRESA",
    "2023": 6,
-   "2024": 5,
+   "2024": 6,
    "2025": 8,
    "COMUNA": "San Clemente"
   },
@@ -3905,8 +4073,8 @@
    "informacion": "Casos",
    "CODCOM": 7109,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 35,
-   "2024": 44,
+   "2023": 36,
+   "2024": 47,
    "2025": 21,
    "COMUNA": "San Clemente"
   }

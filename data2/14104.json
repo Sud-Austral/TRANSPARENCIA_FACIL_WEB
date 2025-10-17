@@ -4,51 +4,51 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 14104,
    "2024": 6,
-   "2025": 7,
-   "variacion": 17,
+   "2025": 9,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Lagos"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14104,
-   "2024": 156,
-   "2025": 135,
-   "variacion": -13,
+   "2024": 160,
+   "2025": 137,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14104,
-   "2024": 87,
-   "2025": 125,
-   "variacion": 44,
+   "2024": 89,
+   "2025": 130,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Lagos"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 14104,
-   "2024": 182,
-   "2025": 180,
-   "variacion": -1,
+   "2024": 186,
+   "2025": 181,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14104,
-   "2024": 102,
-   "2025": 116,
-   "variacion": 14,
+   "2024": 106,
+   "2025": 118,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Lagos"
   },
   {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14104,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14104,
-   "2024": 96,
-   "2025": 89,
-   "variacion": -7,
+   "2024": 99,
+   "2025": 90,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 14104,
    "2024": 29,
-   "2025": 41,
-   "variacion": 41,
+   "2025": 42,
+   "variacion": 45,
    "situación": "Aumento de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 14104,
-   "2024": 60,
-   "2025": 43,
-   "variacion": -28,
+   "2024": 64,
+   "2025": 44,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14104,
    "2024": 82,
-   "2025": 66,
-   "variacion": -20,
+   "2025": 67,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -112,9 +112,9 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 14104,
    "2024": 10,
-   "2025": 10,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 11,
+   "variacion": 10,
+   "situación": "Aumento de Casos",
    "COMUNA": "Los Lagos"
   },
   {
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 14104,
    "2024": 6,
-   "2025": 2,
-   "variacion": -67,
+   "2025": 3,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14104,
-   "2024": 125,
-   "2025": 120,
-   "variacion": -4,
+   "2024": 126,
+   "2025": 122,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Los Lagos"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14104,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14104,
    "anio": 2024,
@@ -693,6 +709,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 22,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
    "COMUNA": "Los Lagos"
   },
   {
@@ -864,6 +888,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14104,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 14104,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Los Lagos"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 14104,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 14104,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Los Lagos"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 14104,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Los Lagos"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 14104,
    "anio": 2024,
@@ -2373,6 +2469,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Los Lagos"
   },
   {
@@ -2544,6 +2648,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 14104,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Los Lagos"
   },
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 14104,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Los Lagos"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Los Lagos"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 14104,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 14104,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Los Lagos"
   },
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Los Lagos"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 14104,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Los Lagos"
   }
  ],
@@ -3727,34 +3895,34 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 4,
    "2024": 6,
-   "2025": 7,
+   "2025": 9,
    "COMUNA": "Los Lagos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 143,
-   "2024": 156,
-   "2025": 135,
+   "2023": 150,
+   "2024": 160,
+   "2025": 137,
    "COMUNA": "Los Lagos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 99,
-   "2024": 87,
-   "2025": 125,
+   "2023": 102,
+   "2024": 89,
+   "2025": 130,
    "COMUNA": "Los Lagos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "DAÑOS",
-   "2023": 158,
-   "2024": 182,
-   "2025": 180,
+   "2023": 162,
+   "2024": 186,
+   "2025": 181,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3762,8 +3930,8 @@
    "CODCOM": 14104,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 110,
-   "2024": 102,
-   "2025": 116,
+   "2024": 106,
+   "2025": 118,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3771,7 +3939,7 @@
    "CODCOM": 14104,
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "2023": 0,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "Los Lagos"
   },
@@ -3779,18 +3947,18 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "HURTOS",
-   "2023": 103,
-   "2024": 96,
-   "2025": 89,
+   "2023": 104,
+   "2024": 99,
+   "2025": 90,
    "COMUNA": "Los Lagos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "INCIVILIDADES",
-   "2023": 22,
+   "2023": 23,
    "2024": 29,
-   "2025": 41,
+   "2025": 42,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "LESIONES LEVES",
-   "2023": 47,
-   "2024": 60,
-   "2025": 43,
+   "2023": 51,
+   "2024": 64,
+   "2025": 44,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3826,7 +3994,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 13,
    "2024": 82,
-   "2025": 66,
+   "2025": 67,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3835,14 +4003,14 @@
    "delito": "LEY DE DROGAS",
    "2023": 11,
    "2024": 10,
-   "2025": 10,
+   "2025": 11,
    "COMUNA": "Los Lagos"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "2023": 3,
+   "2023": 4,
    "2024": 9,
    "2025": 6,
    "COMUNA": "Los Lagos"
@@ -3851,7 +4019,7 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 16,
+   "2023": 17,
    "2024": 5,
    "2025": 3,
    "COMUNA": "Los Lagos"
@@ -3862,7 +4030,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 5,
    "2024": 6,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3878,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 18,
+   "2023": 19,
    "2024": 35,
    "2025": 15,
    "COMUNA": "Los Lagos"
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 104,
-   "2024": 125,
-   "2025": 120,
+   "2023": 108,
+   "2024": 126,
+   "2025": 122,
    "COMUNA": "Los Lagos"
   },
   {
@@ -3905,7 +4073,7 @@
    "informacion": "Casos",
    "CODCOM": 14104,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 11,
+   "2023": 14,
    "2024": 16,
    "2025": 18,
    "COMUNA": "Los Lagos"

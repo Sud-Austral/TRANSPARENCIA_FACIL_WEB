@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1404,
-   "2024": 29,
-   "2025": 18,
-   "variacion": -38,
+   "2024": 30,
+   "2025": 20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1404,
-   "2024": 50,
-   "2025": 33,
-   "variacion": -34,
+   "2024": 53,
+   "2025": 34,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1404,
    "2024": 27,
-   "2025": 21,
-   "variacion": -22,
+   "2025": 22,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 1404,
    "2024": 28,
-   "2025": 11,
-   "variacion": -61,
+   "2025": 13,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -156,9 +156,9 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 1404,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Huara"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1404,
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
-   "variacion": 100,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Huara"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Huara"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1404,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Huara"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 1404,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 1404,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -2204,6 +2292,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   },
@@ -2376,6 +2472,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   },
@@ -2708,6 +2820,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   },
@@ -2880,6 +3000,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1404,
    "anio": 2024,
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Huara"
   },
   {
@@ -3216,6 +3352,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1404,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 1404,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Huara"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 1404,
    "anio": 2024,
@@ -3716,6 +3876,14 @@
    "CODCOM": 1404,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huara"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 1404,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huara"
   }
@@ -3735,8 +3903,8 @@
    "CODCOM": 1404,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 24,
-   "2024": 29,
-   "2025": 18,
+   "2024": 30,
+   "2025": 20,
    "COMUNA": "Huara"
   },
   {
@@ -3753,8 +3921,8 @@
    "CODCOM": 1404,
    "delito": "DAÑOS",
    "2023": 27,
-   "2024": 50,
-   "2025": 33,
+   "2024": 53,
+   "2025": 34,
    "COMUNA": "Huara"
   },
   {
@@ -3763,7 +3931,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 22,
    "2024": 27,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "Huara"
   },
   {
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "HURTOS",
-   "2023": 14,
+   "2023": 15,
    "2024": 27,
    "2025": 11,
    "COMUNA": "Huara"
@@ -3833,9 +4001,9 @@
    "informacion": "Casos",
    "CODCOM": 1404,
    "delito": "LEY DE DROGAS",
-   "2023": 50,
+   "2023": 53,
    "2024": 28,
-   "2025": 11,
+   "2025": 13,
    "COMUNA": "Huara"
   },
   {
@@ -3879,7 +4047,7 @@
    "CODCOM": 1404,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 10,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "Huara"
   },
@@ -3906,7 +4074,7 @@
    "CODCOM": 1404,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 2,
-   "2024": 4,
+   "2024": 5,
    "2025": 8,
    "COMUNA": "Huara"
   }

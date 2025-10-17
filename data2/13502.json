@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
-   "2024": 55,
-   "2025": 34,
-   "variacion": -38,
+   "2024": 58,
+   "2025": 37,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13502,
    "2024": 50,
-   "2025": 55,
-   "variacion": 10,
+   "2025": 56,
+   "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13502,
-   "2024": 34,
-   "2025": 42,
-   "variacion": 24,
+   "2024": 37,
+   "2025": 45,
+   "variacion": 22,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13502,
-   "2024": 65,
+   "2024": 67,
    "2025": 41,
-   "variacion": -37,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13502,
-   "2024": 14,
+   "2024": 16,
    "2025": 25,
-   "variacion": 79,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "Alhué"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13502,
    "2024": 7,
-   "2025": 5,
-   "variacion": -29,
+   "2025": 6,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Alhué"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Alhué"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Alhué"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -1368,6 +1408,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13502,
    "anio": 2024,
@@ -1536,6 +1584,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13502,
    "anio": 2024,
@@ -1700,6 +1756,14 @@
    "CODCOM": 13502,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alhué"
   },
@@ -1872,6 +1936,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13502,
    "anio": 2024,
@@ -2037,6 +2109,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Alhué"
   },
   {
@@ -2208,6 +2288,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -2376,6 +2464,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -2544,6 +2640,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -2712,6 +2816,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13502,
    "anio": 2024,
@@ -2880,6 +2992,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13502,
    "anio": 2024,
@@ -3048,6 +3168,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13502,
    "anio": 2024,
@@ -3212,6 +3340,14 @@
    "CODCOM": 13502,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alhué"
   },
@@ -3384,6 +3520,14 @@
    "COMUNA": "Alhué"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13502,
    "anio": 2024,
@@ -3548,6 +3692,14 @@
    "CODCOM": 13502,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alhué"
   },
@@ -3716,6 +3868,14 @@
    "CODCOM": 13502,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alhué"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13502,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alhué"
   }
@@ -3734,35 +3894,35 @@
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 62,
-   "2024": 55,
-   "2025": 34,
+   "2023": 65,
+   "2024": 58,
+   "2025": 37,
    "COMUNA": "Alhué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 36,
+   "2023": 37,
    "2024": 50,
-   "2025": 55,
+   "2025": 56,
    "COMUNA": "Alhué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "DAÑOS",
-   "2023": 34,
-   "2024": 34,
-   "2025": 42,
+   "2023": 35,
+   "2024": 37,
+   "2025": 45,
    "COMUNA": "Alhué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13502,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 59,
-   "2024": 65,
+   "2023": 61,
+   "2024": 67,
    "2025": 41,
    "COMUNA": "Alhué"
   },
@@ -3807,7 +3967,7 @@
    "CODCOM": 13502,
    "delito": "LESIONES LEVES",
    "2023": 22,
-   "2024": 14,
+   "2024": 16,
    "2025": 25,
    "COMUNA": "Alhué"
   },
@@ -3826,7 +3986,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 1,
    "2024": 7,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Alhué"
   },
   {

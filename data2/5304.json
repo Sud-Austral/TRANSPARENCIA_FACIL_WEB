@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5304,
-   "2024": 121,
-   "2025": 111,
-   "variacion": -8,
+   "2024": 122,
+   "2025": 113,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5304,
-   "2024": 93,
-   "2025": 87,
-   "variacion": -6,
+   "2024": 98,
+   "2025": 88,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5304,
-   "2024": 110,
-   "2025": 98,
-   "variacion": -11,
+   "2024": 112,
+   "2025": 101,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
@@ -57,17 +57,17 @@
   {
    "delito": "HURTOS",
    "CODCOM": 5304,
-   "2024": 25,
-   "2025": 34,
-   "variacion": 36,
+   "2024": 27,
+   "2025": 36,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "San Esteban"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5304,
-   "2024": 44,
-   "2025": 40,
+   "2024": 46,
+   "2025": 42,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5304,
    "2024": 37,
-   "2025": 33,
-   "variacion": -11,
+   "2025": 34,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5304,
-   "2024": 17,
-   "2025": 9,
-   "variacion": -47,
+   "2024": 18,
+   "2025": 10,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5304,
-   "2024": 9,
+   "2024": 10,
    "2025": 4,
-   "variacion": -56,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "San Esteban"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5304,
    "2024": 16,
-   "2025": 18,
-   "variacion": 12,
+   "2025": 19,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "San Esteban"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5304,
-   "2024": 58,
+   "2024": 61,
    "2025": 77,
-   "variacion": 33,
+   "variacion": 26,
    "situación": "Aumento de Casos",
    "COMUNA": "San Esteban"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 17,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "San Esteban"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 10,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "San Esteban"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "San Esteban"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5304,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5304,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -2372,6 +2468,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   },
@@ -2544,6 +2648,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5304,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Esteban"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5304,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "San Esteban"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "San Esteban"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5304,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   },
@@ -3716,6 +3876,14 @@
    "CODCOM": 5304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "San Esteban"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "San Esteban"
   }
@@ -3734,16 +3902,16 @@
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 113,
-   "2024": 121,
-   "2025": 111,
+   "2023": 119,
+   "2024": 122,
+   "2025": 113,
    "COMUNA": "San Esteban"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 67,
+   "2023": 68,
    "2024": 71,
    "2025": 67,
    "COMUNA": "San Esteban"
@@ -3752,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "DAÑOS",
-   "2023": 82,
-   "2024": 93,
-   "2025": 87,
+   "2023": 85,
+   "2024": 98,
+   "2025": 88,
    "COMUNA": "San Esteban"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 96,
-   "2024": 110,
-   "2025": 98,
+   "2023": 98,
+   "2024": 112,
+   "2025": 101,
    "COMUNA": "San Esteban"
   },
   {
@@ -3780,8 +3948,8 @@
    "CODCOM": 5304,
    "delito": "HURTOS",
    "2023": 31,
-   "2024": 25,
-   "2025": 34,
+   "2024": 27,
+   "2025": 36,
    "COMUNA": "San Esteban"
   },
   {
@@ -3789,15 +3957,15 @@
    "CODCOM": 5304,
    "delito": "INCIVILIDADES",
    "2023": 35,
-   "2024": 44,
-   "2025": 40,
+   "2024": 46,
+   "2025": 42,
    "COMUNA": "San Esteban"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "LESIONES GRAVES",
-   "2023": 5,
+   "2023": 6,
    "2024": 0,
    "2025": 4,
    "COMUNA": "San Esteban"
@@ -3808,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 43,
    "2024": 37,
-   "2025": 33,
+   "2025": 34,
    "COMUNA": "San Esteban"
   },
   {
@@ -3825,8 +3993,8 @@
    "CODCOM": 5304,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 7,
-   "2024": 17,
-   "2025": 9,
+   "2024": 18,
+   "2025": 10,
    "COMUNA": "San Esteban"
   },
   {
@@ -3852,7 +4020,7 @@
    "CODCOM": 5304,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 11,
-   "2024": 9,
+   "2024": 10,
    "2025": 4,
    "COMUNA": "San Esteban"
   },
@@ -3871,7 +4039,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 23,
    "2024": 16,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "San Esteban"
   },
   {
@@ -3887,8 +4055,8 @@
    "informacion": "Casos",
    "CODCOM": 5304,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 88,
-   "2024": 58,
+   "2023": 92,
+   "2024": 61,
    "2025": 77,
    "COMUNA": "San Esteban"
   },

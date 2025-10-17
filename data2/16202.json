@@ -4,25 +4,25 @@
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 16202,
    "2024": 2,
-   "2025": 1,
-   "variacion": -50,
-   "situación": "Disminución de Casos",
+   "2025": 2,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16202,
-   "2024": 41,
-   "2025": 42,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 44,
+   "2025": 43,
+   "variacion": -2,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16202,
-   "2024": 52,
-   "2025": 59,
+   "2024": 53,
+   "2025": 60,
    "variacion": 13,
    "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 16202,
-   "2024": 40,
+   "2024": 41,
    "2025": 51,
-   "variacion": 28,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16202,
-   "2024": 23,
-   "2025": 20,
-   "variacion": -13,
+   "2024": 26,
+   "2025": 23,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16202,
    "2024": 8,
-   "2025": 9,
-   "variacion": 12,
+   "2025": 10,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Cobquecura"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 8,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Cobquecura"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16202,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -1200,6 +1240,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -1364,6 +1412,14 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cobquecura"
   },
@@ -1536,6 +1592,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16202,
    "anio": 2024,
@@ -1704,6 +1768,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "LESIONES LEVES",
    "CODCOM": 16202,
    "anio": 2024,
@@ -1872,6 +1944,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16202,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cobquecura"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16202,
    "anio": 2024,
@@ -2880,6 +3000,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16202,
    "anio": 2024,
@@ -3044,6 +3172,14 @@
    "CODCOM": 16202,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cobquecura"
   },
@@ -3216,6 +3352,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16202,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16202,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Cobquecura"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cobquecura"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16202,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Cobquecura"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16202,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Cobquecura"
   }
  ],
@@ -3727,7 +3895,7 @@
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
    "2024": 2,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Cobquecura"
   },
   {
@@ -3735,25 +3903,25 @@
    "CODCOM": 16202,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 22,
-   "2024": 41,
-   "2025": 42,
+   "2024": 44,
+   "2025": 43,
    "COMUNA": "Cobquecura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 74,
-   "2024": 52,
-   "2025": 59,
+   "2023": 77,
+   "2024": 53,
+   "2025": 60,
    "COMUNA": "Cobquecura"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "DAÑOS",
-   "2023": 36,
-   "2024": 40,
+   "2023": 38,
+   "2024": 41,
    "2025": 51,
    "COMUNA": "Cobquecura"
   },
@@ -3761,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 20,
-   "2024": 23,
-   "2025": 20,
+   "2023": 21,
+   "2024": 26,
+   "2025": 23,
    "COMUNA": "Cobquecura"
   },
   {
@@ -3788,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "INCIVILIDADES",
-   "2023": 8,
+   "2023": 13,
    "2024": 21,
    "2025": 13,
    "COMUNA": "Cobquecura"
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "LESIONES LEVES",
-   "2023": 19,
+   "2023": 21,
    "2024": 23,
    "2025": 16,
    "COMUNA": "Cobquecura"
@@ -3889,7 +4057,7 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 12,
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Cobquecura"
   },
   {
@@ -3905,7 +4073,7 @@
    "informacion": "Casos",
    "CODCOM": 16202,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 4,
+   "2023": 5,
    "2024": 1,
    "2025": 5,
    "COMUNA": "Cobquecura"

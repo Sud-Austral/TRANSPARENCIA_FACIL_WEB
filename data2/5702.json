@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5702,
-   "2024": 106,
-   "2025": 113,
-   "variacion": 7,
+   "2024": 109,
+   "2025": 115,
+   "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5702,
-   "2024": 82,
-   "2025": 81,
+   "2024": 83,
+   "2025": 82,
    "variacion": -1,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5702,
-   "2024": 86,
-   "2025": 75,
-   "variacion": -13,
+   "2024": 88,
+   "2025": 77,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5702,
-   "2024": 34,
+   "2024": 35,
    "2025": 25,
-   "variacion": -26,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
   },
@@ -76,8 +76,8 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 5702,
    "2024": 6,
-   "2025": 4,
-   "variacion": -33,
+   "2025": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
   },
@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 5702,
    "2024": 53,
-   "2025": 51,
-   "variacion": -4,
-   "situación": "Disminución de Casos",
+   "2025": 53,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Catemu"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 5702,
    "2024": 10,
-   "2025": 2,
-   "variacion": -80,
+   "2025": 3,
+   "variacion": -70,
    "situación": "Disminución de Casos",
    "COMUNA": "Catemu"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5702,
-   "2024": 67,
-   "2025": 85,
+   "2024": 70,
+   "2025": 89,
    "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Catemu"
@@ -360,6 +360,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 12,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Catemu"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5702,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 5702,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Catemu"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 5702,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5702,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Catemu"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 5702,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 5702,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Catemu"
   },
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Catemu"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Catemu"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Catemu"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Catemu"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5702,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 5702,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Catemu"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Catemu"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 0,
    "COMUNA": "Catemu"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5702,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Catemu"
   }
  ],
  "info": [
@@ -3734,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 121,
-   "2024": 106,
-   "2025": 113,
+   "2023": 124,
+   "2024": 109,
+   "2025": 115,
    "COMUNA": "Catemu"
   },
   {
@@ -3752,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "DAÑOS",
-   "2023": 68,
-   "2024": 82,
-   "2025": 81,
+   "2023": 70,
+   "2024": 83,
+   "2025": 82,
    "COMUNA": "Catemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 80,
-   "2024": 86,
-   "2025": 75,
+   "2023": 83,
+   "2024": 88,
+   "2025": 77,
    "COMUNA": "Catemu"
   },
   {
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "HURTOS",
-   "2023": 32,
+   "2023": 34,
    "2024": 33,
    "2025": 14,
    "COMUNA": "Catemu"
@@ -3788,8 +3956,8 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "INCIVILIDADES",
-   "2023": 37,
-   "2024": 34,
+   "2023": 39,
+   "2024": 35,
    "2025": 25,
    "COMUNA": "Catemu"
   },
@@ -3799,16 +3967,16 @@
    "delito": "LESIONES GRAVES",
    "2023": 5,
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Catemu"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "LESIONES LEVES",
-   "2023": 54,
+   "2023": 55,
    "2024": 53,
-   "2025": 51,
+   "2025": 53,
    "COMUNA": "Catemu"
   },
   {
@@ -3871,7 +4039,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 7,
    "2024": 10,
-   "2025": 2,
+   "2025": 3,
    "COMUNA": "Catemu"
   },
   {
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 86,
-   "2024": 67,
-   "2025": 85,
+   "2023": 87,
+   "2024": 70,
+   "2025": 89,
    "COMUNA": "Catemu"
   },
   {
@@ -3905,7 +4073,7 @@
    "informacion": "Casos",
    "CODCOM": 5702,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 9,
+   "2023": 10,
    "2024": 7,
    "2025": 5,
    "COMUNA": "Catemu"

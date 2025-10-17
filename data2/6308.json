@@ -21,27 +21,27 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6308,
-   "2024": 66,
-   "2025": 120,
-   "variacion": 82,
+   "2024": 67,
+   "2025": 121,
+   "variacion": 81,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6308,
-   "2024": 43,
+   "2024": 47,
    "2025": 38,
-   "variacion": -12,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6308,
-   "2024": 70,
-   "2025": 76,
-   "variacion": 9,
+   "2024": 72,
+   "2025": 78,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
@@ -57,19 +57,19 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6308,
-   "2024": 24,
+   "2024": 25,
    "2025": 19,
-   "variacion": -21,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 6308,
-   "2024": 35,
-   "2025": 36,
-   "variacion": 3,
-   "situación": "Aumento de Casos",
+   "2024": 38,
+   "2025": 38,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Placilla"
   },
   {
@@ -157,8 +157,8 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6308,
    "2024": 3,
-   "2025": 8,
-   "variacion": 167,
+   "2025": 9,
+   "variacion": 200,
    "situación": "Aumento de Casos",
    "COMUNA": "Placilla"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6308,
    "2024": 41,
-   "2025": 27,
-   "variacion": -34,
+   "2025": 28,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Placilla"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 6308,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Placilla"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Placilla"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 6308,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 6308,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Placilla"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6308,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 6308,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Placilla"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6308,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 6308,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Placilla"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6308,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Placilla"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 6308,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Placilla"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6308,
    "anio": 2024,
@@ -3716,6 +3876,14 @@
    "CODCOM": 6308,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Placilla"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 6308,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Placilla"
   }
@@ -3744,16 +3912,16 @@
    "CODCOM": 6308,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 22,
-   "2024": 66,
-   "2025": 120,
+   "2024": 67,
+   "2025": 121,
    "COMUNA": "Placilla"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "DAÑOS",
-   "2023": 52,
-   "2024": 43,
+   "2023": 54,
+   "2024": 47,
    "2025": 38,
    "COMUNA": "Placilla"
   },
@@ -3761,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 57,
-   "2024": 70,
-   "2025": 76,
+   "2023": 59,
+   "2024": 72,
+   "2025": 78,
    "COMUNA": "Placilla"
   },
   {
@@ -3779,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "HURTOS",
-   "2023": 23,
-   "2024": 24,
+   "2023": 26,
+   "2024": 25,
    "2025": 19,
    "COMUNA": "Placilla"
   },
@@ -3789,8 +3957,8 @@
    "CODCOM": 6308,
    "delito": "INCIVILIDADES",
    "2023": 27,
-   "2024": 35,
-   "2025": 36,
+   "2024": 38,
+   "2025": 38,
    "COMUNA": "Placilla"
   },
   {
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "LESIONES LEVES",
-   "2023": 17,
+   "2023": 18,
    "2024": 18,
    "2025": 16,
    "COMUNA": "Placilla"
@@ -3880,16 +4048,16 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 5,
    "2024": 3,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Placilla"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6308,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 28,
+   "2023": 29,
    "2024": 41,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "Placilla"
   },
   {

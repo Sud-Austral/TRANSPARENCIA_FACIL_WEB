@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
-   "2024": 47,
-   "2025": 38,
-   "variacion": -19,
+   "2024": 49,
+   "2025": 39,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8314,
-   "2024": 83,
-   "2025": 77,
-   "variacion": -7,
+   "2024": 84,
+   "2025": 79,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
@@ -120,10 +120,10 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8314,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Alto Biobío"
   },
   {
@@ -138,7 +138,7 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8314,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -360,6 +360,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 9,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -860,6 +884,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -1032,6 +1064,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8314,
    "anio": 2024,
@@ -1532,6 +1588,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -1700,6 +1764,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8314,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Alto Biobío"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -2372,6 +2468,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -2544,6 +2648,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -2712,6 +2824,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8314,
    "anio": 2024,
@@ -2880,6 +3000,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8314,
    "anio": 2024,
@@ -3048,6 +3176,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8314,
    "anio": 2024,
@@ -3212,6 +3348,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -3384,6 +3528,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8314,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Alto Biobío"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8314,
    "anio": 2024,
@@ -3716,6 +3876,14 @@
    "CODCOM": 8314,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Alto Biobío"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8314,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Alto Biobío"
   }
@@ -3735,24 +3903,24 @@
    "CODCOM": 8314,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 39,
-   "2024": 47,
-   "2025": 38,
+   "2024": 49,
+   "2025": 39,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 46,
-   "2024": 83,
-   "2025": 77,
+   "2023": 47,
+   "2024": 84,
+   "2025": 79,
    "COMUNA": "Alto Biobío"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "DAÑOS",
-   "2023": 42,
+   "2023": 43,
    "2024": 37,
    "2025": 15,
    "COMUNA": "Alto Biobío"
@@ -3761,7 +3929,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 44,
+   "2023": 45,
    "2024": 41,
    "2025": 45,
    "COMUNA": "Alto Biobío"
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "HURTOS",
-   "2023": 15,
+   "2023": 16,
    "2024": 11,
    "2025": 15,
    "COMUNA": "Alto Biobío"
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 8314,
    "delito": "LESIONES LEVES",
-   "2023": 19,
+   "2023": 20,
    "2024": 14,
    "2025": 9,
    "COMUNA": "Alto Biobío"
@@ -3843,7 +4011,7 @@
    "CODCOM": 8314,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 2,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Alto Biobío"
   },
@@ -3861,7 +4029,7 @@
    "CODCOM": 8314,
    "delito": "RECEPTACIÓN",
    "2023": 1,
-   "2024": 1,
+   "2024": 2,
    "2025": 0,
    "COMUNA": "Alto Biobío"
   },

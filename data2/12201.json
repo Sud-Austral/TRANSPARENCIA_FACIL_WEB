@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12201,
-   "2024": 6,
-   "2025": 7,
-   "variacion": 17,
+   "2024": 7,
+   "2025": 11,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12201,
-   "2024": 40,
-   "2025": 92,
-   "variacion": 130,
+   "2024": 41,
+   "2025": 94,
+   "variacion": 129,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12201,
-   "2024": 9,
+   "2024": 11,
    "2025": 11,
-   "variacion": 22,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12201,
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
-   "variacion": -17,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12201,
    "anio": 2024,
@@ -1032,6 +1064,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -1200,6 +1240,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 12201,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cabo de Hornos"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 12201,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -2208,6 +2296,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cabo de Hornos"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 12201,
    "anio": 2024,
@@ -2880,6 +3000,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 12201,
    "anio": 2024,
@@ -3044,6 +3172,14 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cabo de Hornos"
   },
@@ -3216,6 +3352,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12201,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Cabo de Hornos"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 12201,
    "anio": 2024,
@@ -3716,6 +3868,14 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Cabo de Hornos"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 12201,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Cabo de Hornos"
   }
@@ -3735,8 +3895,8 @@
    "CODCOM": 12201,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 8,
-   "2024": 6,
-   "2025": 7,
+   "2024": 7,
+   "2025": 11,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -3744,8 +3904,8 @@
    "CODCOM": 12201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 69,
-   "2024": 40,
-   "2025": 92,
+   "2024": 41,
+   "2025": 94,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -3762,7 +3922,7 @@
    "CODCOM": 12201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 8,
-   "2024": 9,
+   "2024": 11,
    "2025": 11,
    "COMUNA": "Cabo de Hornos"
   },
@@ -3780,7 +3940,7 @@
    "CODCOM": 12201,
    "delito": "HURTOS",
    "2023": 7,
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "Cabo de Hornos"
   },
@@ -3806,7 +3966,7 @@
    "informacion": "Casos",
    "CODCOM": 12201,
    "delito": "LESIONES LEVES",
-   "2023": 12,
+   "2023": 14,
    "2024": 5,
    "2025": 6,
    "COMUNA": "Cabo de Hornos"
@@ -3833,7 +3993,7 @@
    "informacion": "Casos",
    "CODCOM": 12201,
    "delito": "LEY DE DROGAS",
-   "2023": 1,
+   "2023": 2,
    "2024": 0,
    "2025": 0,
    "COMUNA": "Cabo de Hornos"

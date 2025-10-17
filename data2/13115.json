@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13115,
-   "2024": 328,
-   "2025": 311,
-   "variacion": -5,
+   "2024": 341,
+   "2025": 317,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 13115,
-   "2024": 159,
-   "2025": 199,
-   "variacion": 25,
+   "2024": 171,
+   "2025": 219,
+   "variacion": 28,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Barnechea"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 13115,
-   "2024": 280,
-   "2025": 230,
-   "variacion": -18,
+   "2024": 286,
+   "2025": 237,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13115,
-   "2024": 310,
-   "2025": 257,
-   "variacion": -17,
+   "2024": 311,
+   "2025": 260,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13115,
-   "2024": 397,
-   "2025": 435,
+   "2024": 405,
+   "2025": 444,
    "variacion": 10,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Barnechea"
@@ -66,8 +66,8 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 13115,
-   "2024": 37,
-   "2025": 36,
+   "2024": 38,
+   "2025": 37,
    "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
@@ -75,17 +75,17 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13115,
-   "2024": 31,
+   "2024": 32,
    "2025": 15,
-   "variacion": -52,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 13115,
-   "2024": 149,
-   "2025": 178,
+   "2024": 154,
+   "2025": 184,
    "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Barnechea"
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13115,
    "2024": 11,
-   "2025": 20,
-   "variacion": 82,
+   "2025": 21,
+   "variacion": 91,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Barnechea"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 13115,
    "2024": 40,
-   "2025": 55,
-   "variacion": 38,
+   "2025": 56,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Lo Barnechea"
   },
@@ -147,8 +147,8 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 13115,
-   "2024": 91,
-   "2025": 69,
+   "2024": 92,
+   "2025": 70,
    "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 13115,
-   "2024": 213,
-   "2025": 142,
-   "variacion": -33,
+   "2024": 218,
+   "2025": 143,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13115,
-   "2024": 152,
-   "2025": 139,
-   "variacion": -9,
+   "2024": 155,
+   "2025": 142,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
@@ -175,8 +175,8 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13115,
    "2024": 37,
-   "2025": 29,
-   "variacion": -22,
+   "2025": 30,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Lo Barnechea"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 41,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 20,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 26,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 13115,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Lo Barnechea"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 9,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 13115,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 13115,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 13115,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Lo Barnechea"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13115,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3216,6 +3352,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13115,
    "anio": 2024,
@@ -3384,6 +3528,14 @@
    "COMUNA": "Lo Barnechea"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 13115,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "Lo Barnechea"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 13115,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lo Barnechea"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 286,
-   "2024": 328,
-   "2025": 311,
+   "2023": 293,
+   "2024": 341,
+   "2025": 317,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 248,
-   "2024": 159,
-   "2025": 199,
+   "2023": 251,
+   "2024": 171,
+   "2025": 219,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "DAÑOS",
-   "2023": 261,
-   "2024": 280,
-   "2025": 230,
+   "2023": 268,
+   "2024": 286,
+   "2025": 237,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 292,
-   "2024": 310,
-   "2025": 257,
+   "2023": 298,
+   "2024": 311,
+   "2025": 260,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "HURTOS",
-   "2023": 307,
-   "2024": 397,
-   "2025": 435,
+   "2023": 318,
+   "2024": 405,
+   "2025": 444,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3789,16 +3957,16 @@
    "CODCOM": 13115,
    "delito": "INCIVILIDADES",
    "2023": 30,
-   "2024": 37,
-   "2025": 36,
+   "2024": 38,
+   "2025": 37,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "LESIONES GRAVES",
-   "2023": 23,
-   "2024": 31,
+   "2023": 24,
+   "2024": 32,
    "2025": 15,
    "COMUNA": "Lo Barnechea"
   },
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "LESIONES LEVES",
-   "2023": 157,
-   "2024": 149,
-   "2025": 178,
+   "2023": 160,
+   "2024": 154,
+   "2025": 184,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3817,16 +3985,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 17,
    "2024": 11,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 19,
+   "2023": 22,
    "2024": 40,
-   "2025": 55,
+   "2025": 56,
    "COMUNA": "Lo Barnechea"
   },
   {
@@ -3851,7 +4019,7 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 23,
+   "2023": 25,
    "2024": 25,
    "2025": 11,
    "COMUNA": "Lo Barnechea"
@@ -3869,43 +4037,43 @@
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 91,
-   "2024": 91,
-   "2025": 69,
+   "2023": 94,
+   "2024": 92,
+   "2025": 70,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 235,
-   "2024": 213,
-   "2025": 142,
+   "2023": 240,
+   "2024": 218,
+   "2025": 143,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 164,
-   "2024": 152,
-   "2025": 139,
+   "2023": 169,
+   "2024": 155,
+   "2025": 142,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 31,
+   "2023": 32,
    "2024": 37,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "Lo Barnechea"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13115,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 33,
+   "2023": 35,
    "2024": 26,
    "2025": 17,
    "COMUNA": "Lo Barnechea"

@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8205,
-   "2024": 169,
-   "2025": 168,
-   "variacion": -1,
+   "2024": 178,
+   "2025": 175,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8205,
-   "2024": 246,
-   "2025": 268,
+   "2024": 247,
+   "2025": 269,
    "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8205,
-   "2024": 144,
-   "2025": 108,
-   "variacion": -25,
+   "2024": 146,
+   "2025": 111,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8205,
-   "2024": 176,
-   "2025": 155,
+   "2024": 179,
+   "2025": 158,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8205,
-   "2024": 75,
-   "2025": 64,
-   "variacion": -15,
+   "2024": 77,
+   "2025": 66,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8205,
    "2024": 21,
-   "2025": 29,
-   "variacion": 38,
+   "2025": 30,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8205,
    "2024": 72,
-   "2025": 79,
-   "variacion": 10,
+   "2025": 80,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -94,26 +94,26 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8205,
    "2024": 19,
-   "2025": 10,
-   "variacion": -47,
+   "2025": 12,
+   "variacion": -37,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8205,
-   "2024": 41,
+   "2024": 42,
    "2025": 40,
-   "variacion": -2,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8205,
-   "2024": 12,
+   "2024": 13,
    "2025": 17,
-   "variacion": 42,
+   "variacion": 31,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8205,
-   "2024": 66,
-   "2025": 48,
-   "variacion": -27,
+   "2024": 68,
+   "2025": 49,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8205,
    "2024": 28,
-   "2025": 21,
-   "variacion": -25,
+   "2025": 22,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8205,
    "2024": 120,
-   "2025": 169,
-   "variacion": 41,
+   "2025": 175,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 8205,
-   "2024": 12,
-   "2025": 18,
-   "variacion": 50,
+   "2024": 13,
+   "2025": 19,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "Curanilahue"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8205,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 23,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 7,
    "COMUNA": "Curanilahue"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8205,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 20,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Curanilahue"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8205,
    "anio": 2024,
@@ -1197,6 +1237,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -1368,6 +1416,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8205,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8205,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8205,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Curanilahue"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8205,
    "anio": 2024,
@@ -2373,6 +2469,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -2541,6 +2645,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -2712,6 +2824,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8205,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3048,6 +3176,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8205,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Curanilahue"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 6,
+   "COMUNA": "Curanilahue"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8205,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 5,
    "COMUNA": "Curanilahue"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8205,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Curanilahue"
   }
  ],
  "info": [
@@ -3734,27 +3902,27 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 169,
-   "2024": 169,
-   "2025": 168,
+   "2023": 176,
+   "2024": 178,
+   "2025": 175,
    "COMUNA": "Curanilahue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 144,
-   "2024": 246,
-   "2025": 268,
+   "2023": 157,
+   "2024": 247,
+   "2025": 269,
    "COMUNA": "Curanilahue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "DAÑOS",
-   "2023": 130,
-   "2024": 144,
-   "2025": 108,
+   "2023": 133,
+   "2024": 146,
+   "2025": 111,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3762,8 +3930,8 @@
    "CODCOM": 8205,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 131,
-   "2024": 176,
-   "2025": 155,
+   "2024": 179,
+   "2025": 158,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "HURTOS",
-   "2023": 92,
-   "2024": 75,
-   "2025": 64,
+   "2023": 94,
+   "2024": 77,
+   "2025": 66,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3790,7 +3958,7 @@
    "delito": "INCIVILIDADES",
    "2023": 18,
    "2024": 21,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "LESIONES LEVES",
-   "2023": 41,
+   "2023": 47,
    "2024": 72,
-   "2025": 79,
+   "2025": 80,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3817,15 +3985,15 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 13,
    "2024": 19,
-   "2025": 10,
+   "2025": 12,
    "COMUNA": "Curanilahue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 38,
-   "2024": 41,
+   "2023": 39,
+   "2024": 42,
    "2025": 40,
    "COMUNA": "Curanilahue"
   },
@@ -3834,7 +4002,7 @@
    "CODCOM": 8205,
    "delito": "LEY DE DROGAS",
    "2023": 16,
-   "2024": 12,
+   "2024": 13,
    "2025": 17,
    "COMUNA": "Curanilahue"
   },
@@ -3842,7 +4010,7 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
-   "2023": 19,
+   "2023": 20,
    "2024": 1,
    "2025": 14,
    "COMUNA": "Curanilahue"
@@ -3851,16 +4019,16 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 42,
-   "2024": 66,
-   "2025": 48,
+   "2023": 46,
+   "2024": 68,
+   "2025": 49,
    "COMUNA": "Curanilahue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "RECEPTACIÓN",
-   "2023": 15,
+   "2023": 16,
    "2024": 13,
    "2025": 11,
    "COMUNA": "Curanilahue"
@@ -3871,14 +4039,14 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 50,
    "2024": 28,
-   "2025": 21,
+   "2025": 22,
    "COMUNA": "Curanilahue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 43,
+   "2023": 46,
    "2024": 17,
    "2025": 17,
    "COMUNA": "Curanilahue"
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 8205,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 188,
+   "2023": 190,
    "2024": 120,
-   "2025": 169,
+   "2025": 175,
    "COMUNA": "Curanilahue"
   },
   {
@@ -3906,8 +4074,8 @@
    "CODCOM": 8205,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 12,
-   "2024": 12,
-   "2025": 18,
+   "2024": 13,
+   "2025": 19,
    "COMUNA": "Curanilahue"
   }
  ],

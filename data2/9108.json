@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9108,
-   "2024": 243,
-   "2025": 256,
+   "2024": 247,
+   "2025": 260,
    "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Lautaro"
@@ -21,8 +21,8 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9108,
-   "2024": 560,
-   "2025": 299,
+   "2024": 571,
+   "2025": 302,
    "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9108,
-   "2024": 239,
-   "2025": 237,
-   "variacion": -1,
+   "2024": 246,
+   "2025": 242,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9108,
-   "2024": 284,
-   "2025": 273,
+   "2024": 294,
+   "2025": 281,
    "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9108,
-   "2024": 137,
-   "2025": 123,
-   "variacion": -10,
+   "2024": 140,
+   "2025": 124,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 9108,
-   "2024": 75,
-   "2025": 59,
-   "variacion": -21,
+   "2024": 77,
+   "2025": 62,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
@@ -84,8 +84,8 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9108,
-   "2024": 104,
-   "2025": 62,
+   "2024": 108,
+   "2025": 65,
    "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9108,
    "2024": 78,
-   "2025": 52,
-   "variacion": -33,
+   "2025": 56,
+   "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
@@ -138,36 +138,36 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9108,
-   "2024": 15,
-   "2025": 15,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2024": 17,
+   "2025": 16,
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9108,
    "2024": 32,
-   "2025": 17,
-   "variacion": -47,
+   "2025": 18,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9108,
-   "2024": 42,
+   "2024": 44,
    "2025": 31,
-   "variacion": -26,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9108,
-   "2024": 142,
+   "2024": 146,
    "2025": 111,
-   "variacion": -22,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   },
@@ -175,17 +175,17 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9108,
    "2024": 4,
-   "2025": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lautaro"
   },
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 9108,
    "2024": 41,
-   "2025": 22,
-   "variacion": -46,
+   "2025": 23,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Lautaro"
   }
@@ -360,6 +360,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 38,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Lautaro"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 26,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
    "COMUNA": "Lautaro"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Lautaro"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9108,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Lautaro"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9108,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Lautaro"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -2541,6 +2645,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Lautaro"
   },
   {
@@ -2712,6 +2824,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9108,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 9108,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Lautaro"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9108,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 4,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Lautaro"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Lautaro"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9108,
    "anio": 2024,
@@ -3549,6 +3701,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Lautaro"
   },
   {
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 3,
    "COMUNA": "Lautaro"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9108,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Lautaro"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 229,
-   "2024": 243,
-   "2025": 256,
+   "2023": 237,
+   "2024": 247,
+   "2025": 260,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 557,
-   "2024": 560,
-   "2025": 299,
+   "2023": 568,
+   "2024": 571,
+   "2025": 302,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "DAÑOS",
-   "2023": 230,
-   "2024": 239,
-   "2025": 237,
+   "2023": 235,
+   "2024": 246,
+   "2025": 242,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 254,
-   "2024": 284,
-   "2025": 273,
+   "2023": 258,
+   "2024": 294,
+   "2025": 281,
    "COMUNA": "Lautaro"
   },
   {
@@ -3779,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "HURTOS",
-   "2023": 128,
-   "2024": 137,
-   "2025": 123,
+   "2023": 129,
+   "2024": 140,
+   "2025": 124,
    "COMUNA": "Lautaro"
   },
   {
@@ -3789,15 +3957,15 @@
    "CODCOM": 9108,
    "delito": "INCIVILIDADES",
    "2023": 53,
-   "2024": 75,
-   "2025": 59,
+   "2024": 77,
+   "2025": 62,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "LESIONES GRAVES",
-   "2023": 17,
+   "2023": 18,
    "2024": 11,
    "2025": 6,
    "COMUNA": "Lautaro"
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "LESIONES LEVES",
-   "2023": 84,
-   "2024": 104,
-   "2025": 62,
+   "2023": 86,
+   "2024": 108,
+   "2025": 65,
    "COMUNA": "Lautaro"
   },
   {
@@ -3826,14 +3994,14 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 41,
    "2024": 78,
-   "2025": 52,
+   "2025": 56,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "LEY DE DROGAS",
-   "2023": 14,
+   "2023": 15,
    "2024": 22,
    "2025": 22,
    "COMUNA": "Lautaro"
@@ -3861,8 +4029,8 @@
    "CODCOM": 9108,
    "delito": "RECEPTACIÓN",
    "2023": 9,
-   "2024": 15,
-   "2025": 15,
+   "2024": 17,
+   "2025": 16,
    "COMUNA": "Lautaro"
   },
   {
@@ -3871,15 +4039,15 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 26,
    "2024": 32,
-   "2025": 17,
+   "2025": 18,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 28,
-   "2024": 42,
+   "2023": 29,
+   "2024": 44,
    "2025": 31,
    "COMUNA": "Lautaro"
   },
@@ -3887,8 +4055,8 @@
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 119,
-   "2024": 142,
+   "2023": 124,
+   "2024": 146,
    "2025": 111,
    "COMUNA": "Lautaro"
   },
@@ -3898,16 +4066,16 @@
    "delito": "ROBOS POR SORPRESA",
    "2023": 3,
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Lautaro"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9108,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 28,
+   "2023": 29,
    "2024": 41,
-   "2025": 22,
+   "2025": 23,
    "COMUNA": "Lautaro"
   }
  ],

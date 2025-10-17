@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5803,
-   "2024": 100,
+   "2024": 103,
    "2025": 117,
-   "variacion": 17,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5803,
    "2024": 73,
-   "2025": 85,
-   "variacion": 16,
+   "2025": 86,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 5803,
-   "2024": 92,
-   "2025": 95,
-   "variacion": 3,
+   "2024": 93,
+   "2025": 97,
+   "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
@@ -40,9 +40,9 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5803,
    "2024": 74,
-   "2025": 72,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 76,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
   {
@@ -58,17 +58,17 @@
    "delito": "HURTOS",
    "CODCOM": 5803,
    "2024": 48,
-   "2025": 42,
-   "variacion": -12,
+   "2025": 43,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5803,
-   "2024": 129,
+   "2024": 139,
    "2025": 316,
-   "variacion": 145,
+   "variacion": 127,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
@@ -76,35 +76,35 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 5803,
    "2024": 3,
-   "2025": 3,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 4,
+   "variacion": 33,
+   "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5803,
    "2024": 43,
-   "2025": 30,
-   "variacion": -30,
+   "2025": 33,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5803,
-   "2024": 9,
-   "2025": 5,
-   "variacion": -44,
+   "2024": 10,
+   "2025": 6,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 5803,
-   "2024": 25,
-   "2025": 51,
-   "variacion": 104,
+   "2024": 26,
+   "2025": 54,
+   "variacion": 108,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
@@ -120,7 +120,7 @@
   {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5803,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "variacion": -100,
    "situación": "Disminución de Casos",
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5803,
-   "2024": 23,
+   "2024": 24,
    "2025": 22,
-   "variacion": -4,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Olmué"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5803,
-   "2024": 104,
-   "2025": 110,
-   "variacion": 6,
+   "2024": 105,
+   "2025": 114,
+   "variacion": 9,
    "situación": "Aumento de Casos",
    "COMUNA": "Olmué"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 23,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Olmué"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -864,6 +888,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "DAÑOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1029,6 +1061,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 9,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Olmué"
   },
   {
@@ -1200,6 +1240,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Olmué"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 5803,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 5803,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Olmué"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5803,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Olmué"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -2708,6 +2820,14 @@
    "CODCOM": 5803,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Olmué"
   },
@@ -2876,6 +2996,14 @@
    "CODCOM": 5803,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Olmué"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 5803,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Olmué"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5803,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Olmué"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Olmué"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 5803,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Olmué"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 5803,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Olmué"
   }
  ],
@@ -3734,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 89,
-   "2024": 100,
+   "2023": 94,
+   "2024": 103,
    "2025": 117,
    "COMUNA": "Olmué"
   },
@@ -3743,27 +3911,27 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 29,
+   "2023": 31,
    "2024": 73,
-   "2025": 85,
+   "2025": 86,
    "COMUNA": "Olmué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "DAÑOS",
-   "2023": 62,
-   "2024": 92,
-   "2025": 95,
+   "2023": 63,
+   "2024": 93,
+   "2025": 97,
    "COMUNA": "Olmué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 69,
+   "2023": 70,
    "2024": 74,
-   "2025": 72,
+   "2025": 76,
    "COMUNA": "Olmué"
   },
   {
@@ -3781,15 +3949,15 @@
    "delito": "HURTOS",
    "2023": 32,
    "2024": 48,
-   "2025": 42,
+   "2025": 43,
    "COMUNA": "Olmué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "INCIVILIDADES",
-   "2023": 163,
-   "2024": 129,
+   "2023": 172,
+   "2024": 139,
    "2025": 316,
    "COMUNA": "Olmué"
   },
@@ -3799,16 +3967,16 @@
    "delito": "LESIONES GRAVES",
    "2023": 3,
    "2024": 3,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Olmué"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "LESIONES LEVES",
-   "2023": 49,
+   "2023": 50,
    "2024": 43,
-   "2025": 30,
+   "2025": 33,
    "COMUNA": "Olmué"
   },
   {
@@ -3816,8 +3984,8 @@
    "CODCOM": 5803,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 11,
-   "2024": 9,
-   "2025": 5,
+   "2024": 10,
+   "2025": 6,
    "COMUNA": "Olmué"
   },
   {
@@ -3825,8 +3993,8 @@
    "CODCOM": 5803,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 21,
-   "2024": 25,
-   "2025": 51,
+   "2024": 26,
+   "2025": 54,
    "COMUNA": "Olmué"
   },
   {
@@ -3843,7 +4011,7 @@
    "CODCOM": 5803,
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 1,
-   "2024": 2,
+   "2024": 3,
    "2025": 0,
    "COMUNA": "Olmué"
   },
@@ -3878,8 +4046,8 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 19,
-   "2024": 23,
+   "2023": 20,
+   "2024": 24,
    "2025": 22,
    "COMUNA": "Olmué"
   },
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 5803,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 87,
-   "2024": 104,
-   "2025": 110,
+   "2023": 92,
+   "2024": 105,
+   "2025": 114,
    "COMUNA": "Olmué"
   },
   {

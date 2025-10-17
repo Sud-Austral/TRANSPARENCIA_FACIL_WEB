@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8313,
-   "2024": 152,
-   "2025": 125,
-   "variacion": -18,
+   "2024": 156,
+   "2025": 127,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8313,
-   "2024": 158,
-   "2025": 209,
+   "2024": 161,
+   "2025": 213,
    "variacion": 32,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8313,
-   "2024": 186,
-   "2025": 145,
-   "variacion": -22,
+   "2024": 190,
+   "2025": 146,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8313,
-   "2024": 135,
-   "2025": 98,
-   "variacion": -27,
+   "2024": 140,
+   "2025": 100,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8313,
-   "2024": 136,
-   "2025": 68,
+   "2024": 140,
+   "2025": 70,
    "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8313,
    "2024": 72,
-   "2025": 114,
-   "variacion": 58,
+   "2025": 115,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8313,
    "2024": 75,
-   "2025": 67,
-   "variacion": -11,
+   "2025": 71,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8313,
    "2024": 11,
-   "2025": 13,
-   "variacion": 18,
+   "2025": 14,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8313,
-   "2024": 80,
-   "2025": 104,
-   "variacion": 30,
+   "2024": 81,
+   "2025": 115,
+   "variacion": 42,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
   },
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 8313,
    "2024": 18,
-   "2025": 20,
-   "variacion": 11,
+   "2025": 21,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8313,
-   "2024": 54,
+   "2024": 59,
    "2025": 38,
-   "variacion": -30,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
@@ -139,34 +139,34 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 8313,
    "2024": 19,
-   "2025": 13,
-   "variacion": -32,
+   "2025": 14,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 8313,
-   "2024": 21,
+   "2024": 22,
    "2025": 21,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -5,
+   "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8313,
-   "2024": 34,
+   "2024": 35,
    "2025": 42,
-   "variacion": 24,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Yumbel"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8313,
-   "2024": 244,
-   "2025": 131,
+   "2024": 248,
+   "2025": 134,
    "variacion": -46,
    "situación": "Disminución de Casos",
    "COMUNA": "Yumbel"
@@ -360,6 +360,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8313,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 14,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Yumbel"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8313,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 19,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Yumbel"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8313,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Yumbel"
   },
@@ -1365,6 +1413,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 9,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Yumbel"
   },
   {
@@ -1536,6 +1592,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8313,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Yumbel"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8313,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Yumbel"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 11,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8313,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8313,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Yumbel"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8313,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Yumbel"
   },
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Yumbel"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 5,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Yumbel"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Yumbel"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
+   "COMUNA": "Yumbel"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8313,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 8313,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Yumbel"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 0,
    "COMUNA": "Yumbel"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8313,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Yumbel"
   }
  ],
  "info": [
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 167,
-   "2024": 152,
-   "2025": 125,
+   "2023": 170,
+   "2024": 156,
+   "2025": 127,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 128,
-   "2024": 158,
-   "2025": 209,
+   "2023": 135,
+   "2024": 161,
+   "2025": 213,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "DAÑOS",
-   "2023": 202,
-   "2024": 186,
-   "2025": 145,
+   "2023": 207,
+   "2024": 190,
+   "2025": 146,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 159,
-   "2024": 135,
-   "2025": 98,
+   "2023": 166,
+   "2024": 140,
+   "2025": 100,
    "COMUNA": "Yumbel"
   },
   {
@@ -3779,18 +3947,18 @@
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "HURTOS",
-   "2023": 151,
-   "2024": 136,
-   "2025": 68,
+   "2023": 154,
+   "2024": 140,
+   "2025": 70,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "INCIVILIDADES",
-   "2023": 52,
+   "2023": 53,
    "2024": 72,
-   "2025": 114,
+   "2025": 115,
    "COMUNA": "Yumbel"
   },
   {
@@ -3808,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 71,
    "2024": 75,
-   "2025": 67,
+   "2025": 71,
    "COMUNA": "Yumbel"
   },
   {
@@ -3817,7 +3985,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 8,
    "2024": 11,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "Yumbel"
   },
   {
@@ -3825,17 +3993,17 @@
    "CODCOM": 8313,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 22,
-   "2024": 80,
-   "2025": 104,
+   "2024": 81,
+   "2025": 115,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "LEY DE DROGAS",
-   "2023": 22,
+   "2023": 23,
    "2024": 18,
-   "2025": 20,
+   "2025": 21,
    "COMUNA": "Yumbel"
   },
   {
@@ -3852,7 +4020,7 @@
    "CODCOM": 8313,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 9,
-   "2024": 54,
+   "2024": 59,
    "2025": 38,
    "COMUNA": "Yumbel"
   },
@@ -3860,9 +4028,9 @@
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "RECEPTACIÓN",
-   "2023": 14,
+   "2023": 15,
    "2024": 19,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "Yumbel"
   },
   {
@@ -3870,7 +4038,7 @@
    "CODCOM": 8313,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 19,
-   "2024": 21,
+   "2024": 22,
    "2025": 21,
    "COMUNA": "Yumbel"
   },
@@ -3879,7 +4047,7 @@
    "CODCOM": 8313,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 39,
-   "2024": 34,
+   "2024": 35,
    "2025": 42,
    "COMUNA": "Yumbel"
   },
@@ -3887,16 +4055,16 @@
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 216,
-   "2024": 244,
-   "2025": 131,
+   "2023": 224,
+   "2024": 248,
+   "2025": 134,
    "COMUNA": "Yumbel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8313,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 4,
+   "2023": 5,
    "2024": 4,
    "2025": 3,
    "COMUNA": "Yumbel"

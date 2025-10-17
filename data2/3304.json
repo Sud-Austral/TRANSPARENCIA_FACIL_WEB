@@ -12,17 +12,17 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3304,
-   "2024": 82,
-   "2025": 77,
-   "variacion": -6,
+   "2024": 84,
+   "2025": 80,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Huasco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3304,
-   "2024": 100,
-   "2025": 91,
+   "2024": 101,
+   "2025": 92,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Huasco"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 3304,
-   "2024": 57,
-   "2025": 59,
-   "variacion": 4,
+   "2024": 59,
+   "2025": 60,
+   "variacion": 2,
    "situación": "Aumento de Casos",
    "COMUNA": "Huasco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3304,
-   "2024": 73,
-   "2025": 46,
-   "variacion": -37,
+   "2024": 76,
+   "2025": 47,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Huasco"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3304,
-   "2024": 46,
-   "2025": 56,
-   "variacion": 22,
+   "2024": 47,
+   "2025": 57,
+   "variacion": 21,
    "situación": "Aumento de Casos",
    "COMUNA": "Huasco"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3304,
-   "2024": 5,
+   "2024": 6,
    "2025": 11,
-   "variacion": 120,
+   "variacion": 83,
    "situación": "Aumento de Casos",
    "COMUNA": "Huasco"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3304,
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
-   "variacion": -17,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Huasco"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3304,
-   "2024": 74,
+   "2024": 76,
    "2025": 34,
-   "variacion": -54,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Huasco"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 7,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Huasco"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 6,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Huasco"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -1200,6 +1240,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "HURTOS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -1364,6 +1412,14 @@
    "CODCOM": 3304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "HURTOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huasco"
   },
@@ -1536,6 +1592,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3304,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Huasco"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3304,
    "anio": 2024,
@@ -2040,6 +2120,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -2204,6 +2292,14 @@
    "CODCOM": 3304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huasco"
   },
@@ -2376,6 +2472,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -2544,6 +2648,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -2709,6 +2821,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Huasco"
   },
   {
@@ -2880,6 +3000,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3304,
    "anio": 2024,
@@ -3048,6 +3176,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3304,
    "anio": 2024,
@@ -3212,6 +3348,14 @@
    "CODCOM": 3304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huasco"
   },
@@ -3384,6 +3528,14 @@
    "COMUNA": "Huasco"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3304,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 3304,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Huasco"
   },
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Huasco"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3304,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Huasco"
   }
  ],
@@ -3734,18 +3902,18 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 85,
-   "2024": 82,
-   "2025": 77,
+   "2023": 86,
+   "2024": 84,
+   "2025": 80,
    "COMUNA": "Huasco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 118,
-   "2024": 100,
-   "2025": 91,
+   "2023": 121,
+   "2024": 101,
+   "2025": 92,
    "COMUNA": "Huasco"
   },
   {
@@ -3753,17 +3921,17 @@
    "CODCOM": 3304,
    "delito": "DAÑOS",
    "2023": 58,
-   "2024": 57,
-   "2025": 59,
+   "2024": 59,
+   "2025": 60,
    "COMUNA": "Huasco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 102,
-   "2024": 73,
-   "2025": 46,
+   "2023": 103,
+   "2024": 76,
+   "2025": 47,
    "COMUNA": "Huasco"
   },
   {
@@ -3779,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "HURTOS",
-   "2023": 40,
+   "2023": 41,
    "2024": 18,
    "2025": 35,
    "COMUNA": "Huasco"
@@ -3788,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "INCIVILIDADES",
-   "2023": 39,
-   "2024": 46,
-   "2025": 56,
+   "2023": 40,
+   "2024": 47,
+   "2025": 57,
    "COMUNA": "Huasco"
   },
   {
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "LESIONES LEVES",
-   "2023": 38,
+   "2023": 39,
    "2024": 56,
    "2025": 38,
    "COMUNA": "Huasco"
@@ -3815,7 +3983,7 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 7,
+   "2023": 8,
    "2024": 5,
    "2025": 4,
    "COMUNA": "Huasco"
@@ -3825,7 +3993,7 @@
    "CODCOM": 3304,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 10,
-   "2024": 5,
+   "2024": 6,
    "2025": 11,
    "COMUNA": "Huasco"
   },
@@ -3879,7 +4047,7 @@
    "CODCOM": 3304,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 9,
-   "2024": 6,
+   "2024": 7,
    "2025": 5,
    "COMUNA": "Huasco"
   },
@@ -3887,8 +4055,8 @@
    "informacion": "Casos",
    "CODCOM": 3304,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 57,
-   "2024": 74,
+   "2023": 60,
+   "2024": 76,
    "2025": 34,
    "COMUNA": "Huasco"
   },

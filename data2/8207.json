@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8207,
-   "2024": 76,
-   "2025": 94,
-   "variacion": 24,
+   "2024": 80,
+   "2025": 95,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8207,
    "2024": 41,
-   "2025": 51,
-   "variacion": 24,
+   "2025": 55,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 8207,
    "2024": 48,
-   "2025": 56,
-   "variacion": 17,
+   "2025": 59,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8207,
-   "2024": 50,
-   "2025": 56,
+   "2024": 52,
+   "2025": 58,
    "variacion": 12,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8207,
-   "2024": 16,
+   "2024": 17,
    "2025": 16,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -6,
+   "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
   {
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8207,
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
-   "variacion": 150,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
@@ -94,17 +94,17 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8207,
    "2024": 4,
-   "2025": 3,
-   "variacion": -25,
-   "situación": "Disminución de Casos",
+   "2025": 4,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Tirúa"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 8207,
    "2024": 14,
-   "2025": 18,
-   "variacion": 29,
+   "2025": 19,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "Tirúa"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 8207,
    "2024": 15,
-   "2025": 6,
-   "variacion": -60,
+   "2025": 7,
+   "variacion": -53,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8207,
-   "2024": 34,
-   "2025": 24,
+   "2024": 35,
+   "2025": 25,
    "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Tirúa"
@@ -360,6 +360,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -528,6 +536,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 8207,
    "anio": 2024,
@@ -696,6 +712,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 9,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 3,
    "COMUNA": "Tirúa"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 8207,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 8207,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 8207,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Tirúa"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 8207,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 8207,
    "anio": 2024,
@@ -3212,6 +3348,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -3384,6 +3528,14 @@
    "COMUNA": "Tirúa"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Tirúa"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 8207,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   },
@@ -3716,6 +3876,14 @@
    "CODCOM": 8207,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Tirúa"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 8207,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Tirúa"
   }
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 87,
-   "2024": 76,
-   "2025": 94,
+   "2023": 88,
+   "2024": 80,
+   "2025": 95,
    "COMUNA": "Tirúa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 17,
+   "2023": 19,
    "2024": 41,
-   "2025": 51,
+   "2025": 55,
    "COMUNA": "Tirúa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "DAÑOS",
-   "2023": 43,
+   "2023": 44,
    "2024": 48,
-   "2025": 56,
+   "2025": 59,
    "COMUNA": "Tirúa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 51,
-   "2024": 50,
-   "2025": 56,
+   "2023": 53,
+   "2024": 52,
+   "2025": 58,
    "COMUNA": "Tirúa"
   },
   {
@@ -3780,7 +3948,7 @@
    "CODCOM": 8207,
    "delito": "HURTOS",
    "2023": 15,
-   "2024": 16,
+   "2024": 17,
    "2025": 16,
    "COMUNA": "Tirúa"
   },
@@ -3788,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "INCIVILIDADES",
-   "2023": 11,
+   "2023": 12,
    "2024": 13,
    "2025": 18,
    "COMUNA": "Tirúa"
@@ -3798,7 +3966,7 @@
    "CODCOM": 8207,
    "delito": "LESIONES GRAVES",
    "2023": 3,
-   "2024": 2,
+   "2024": 3,
    "2025": 5,
    "COMUNA": "Tirúa"
   },
@@ -3806,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "LESIONES LEVES",
-   "2023": 42,
+   "2023": 43,
    "2024": 21,
    "2025": 22,
    "COMUNA": "Tirúa"
@@ -3817,7 +3985,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 3,
    "2024": 4,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Tirúa"
   },
   {
@@ -3826,7 +3994,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 12,
    "2024": 14,
-   "2025": 18,
+   "2025": 19,
    "COMUNA": "Tirúa"
   },
   {
@@ -3853,7 +4021,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 8,
    "2024": 15,
-   "2025": 6,
+   "2025": 7,
    "COMUNA": "Tirúa"
   },
   {
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 8207,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 58,
-   "2024": 34,
-   "2025": 24,
+   "2023": 61,
+   "2024": 35,
+   "2025": 25,
    "COMUNA": "Tirúa"
   },
   {

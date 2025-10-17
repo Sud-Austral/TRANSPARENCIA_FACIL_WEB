@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9109,
-   "2024": 166,
-   "2025": 155,
-   "variacion": -7,
+   "2024": 167,
+   "2025": 159,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 9109,
-   "2024": 335,
+   "2024": 339,
    "2025": 137,
-   "variacion": -59,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 9109,
    "2024": 149,
-   "2025": 142,
-   "variacion": -5,
+   "2025": 146,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9109,
-   "2024": 147,
-   "2025": 136,
-   "variacion": -7,
+   "2024": 151,
+   "2025": 138,
+   "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9109,
-   "2024": 113,
-   "2025": 90,
-   "variacion": -20,
+   "2024": 118,
+   "2025": 92,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 9109,
    "2024": 67,
-   "2025": 81,
-   "variacion": 21,
+   "2025": 85,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Loncoche"
   },
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9109,
-   "2024": 17,
+   "2024": 20,
    "2025": 11,
-   "variacion": -35,
+   "variacion": -45,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9109,
-   "2024": 79,
-   "2025": 68,
-   "variacion": -14,
+   "2024": 83,
+   "2025": 69,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Loncoche"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 23,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Loncoche"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 20,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
    "COMUNA": "Loncoche"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1196,6 +1236,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Loncoche"
   },
@@ -1368,6 +1416,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9109,
    "anio": 2024,
@@ -1700,6 +1764,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Loncoche"
   },
@@ -1872,6 +1944,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 9109,
    "anio": 2024,
@@ -2037,6 +2117,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Loncoche"
   },
   {
@@ -2208,6 +2296,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Loncoche"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 9109,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Loncoche"
   },
@@ -3048,6 +3176,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 9109,
    "anio": 2024,
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Loncoche"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Loncoche"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Loncoche"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 9109,
    "anio": 2024,
@@ -3548,6 +3700,14 @@
    "CODCOM": 9109,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Loncoche"
   },
@@ -3718,6 +3878,14 @@
    "mes": 9,
    "casos": 1,
    "COMUNA": "Loncoche"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 9109,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Loncoche"
   }
  ],
  "info": [
@@ -3725,7 +3893,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "AMENAZAS CON ARMAS",
-   "2023": 2,
+   "2023": 3,
    "2024": 1,
    "2025": 3,
    "COMUNA": "Loncoche"
@@ -3734,17 +3902,17 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 204,
-   "2024": 166,
-   "2025": 155,
+   "2023": 210,
+   "2024": 167,
+   "2025": 159,
    "COMUNA": "Loncoche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 411,
-   "2024": 335,
+   "2023": 421,
+   "2024": 339,
    "2025": 137,
    "COMUNA": "Loncoche"
   },
@@ -3752,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "DAÑOS",
-   "2023": 152,
+   "2023": 155,
    "2024": 149,
-   "2025": 142,
+   "2025": 146,
    "COMUNA": "Loncoche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 176,
-   "2024": 147,
-   "2025": 136,
+   "2023": 178,
+   "2024": 151,
+   "2025": 138,
    "COMUNA": "Loncoche"
   },
   {
@@ -3779,16 +3947,16 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "HURTOS",
-   "2023": 127,
-   "2024": 113,
-   "2025": 90,
+   "2023": 129,
+   "2024": 118,
+   "2025": 92,
    "COMUNA": "Loncoche"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "INCIVILIDADES",
-   "2023": 20,
+   "2023": 22,
    "2024": 31,
    "2025": 25,
    "COMUNA": "Loncoche"
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "LESIONES LEVES",
-   "2023": 71,
+   "2023": 73,
    "2024": 67,
-   "2025": 81,
+   "2025": 85,
    "COMUNA": "Loncoche"
   },
   {
@@ -3851,7 +4019,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 6,
+   "2023": 7,
    "2024": 13,
    "2025": 6,
    "COMUNA": "Loncoche"
@@ -3860,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "RECEPTACIÓN",
-   "2023": 11,
+   "2023": 12,
    "2024": 8,
    "2025": 7,
    "COMUNA": "Loncoche"
@@ -3879,7 +4047,7 @@
    "CODCOM": 9109,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 24,
-   "2024": 17,
+   "2024": 20,
    "2025": 11,
    "COMUNA": "Loncoche"
   },
@@ -3887,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 9109,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 112,
-   "2024": 79,
-   "2025": 68,
+   "2023": 115,
+   "2024": 83,
+   "2025": 69,
    "COMUNA": "Loncoche"
   },
   {

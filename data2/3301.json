@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3301,
-   "2024": 276,
-   "2025": 242,
+   "2024": 286,
+   "2025": 252,
    "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
@@ -21,26 +21,26 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 3301,
-   "2024": 140,
-   "2025": 159,
-   "variacion": 14,
+   "2024": 143,
+   "2025": 169,
+   "variacion": 18,
    "situación": "Aumento de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 3301,
-   "2024": 376,
-   "2025": 348,
-   "variacion": -7,
+   "2024": 382,
+   "2025": 360,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 3301,
-   "2024": 450,
-   "2025": 370,
+   "2024": 460,
+   "2025": 378,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 3301,
-   "2024": 201,
-   "2025": 154,
-   "variacion": -23,
+   "2024": 204,
+   "2025": 159,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 3301,
-   "2024": 219,
-   "2025": 149,
-   "variacion": -32,
+   "2024": 222,
+   "2025": 154,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 3301,
-   "2024": 167,
-   "2025": 120,
-   "variacion": -28,
+   "2024": 171,
+   "2025": 124,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
@@ -94,16 +94,16 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3301,
    "2024": 31,
-   "2025": 24,
-   "variacion": -23,
+   "2025": 25,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 3301,
-   "2024": 54,
-   "2025": 100,
+   "2024": 55,
+   "2025": 102,
    "variacion": 85,
    "situación": "Aumento de Casos",
    "COMUNA": "Vallenar"
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 3301,
-   "2024": 57,
-   "2025": 41,
-   "variacion": -28,
+   "2024": 59,
+   "2025": 42,
+   "variacion": -29,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 3301,
-   "2024": 41,
+   "2024": 42,
    "2025": 36,
-   "variacion": -12,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
@@ -147,27 +147,27 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 3301,
-   "2024": 107,
-   "2025": 134,
-   "variacion": 25,
+   "2024": 110,
+   "2025": 135,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 3301,
-   "2024": 130,
-   "2025": 168,
-   "variacion": 29,
+   "2024": 131,
+   "2025": 170,
+   "variacion": 30,
    "situación": "Aumento de Casos",
    "COMUNA": "Vallenar"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 3301,
-   "2024": 228,
-   "2025": 208,
-   "variacion": -9,
+   "2024": 237,
+   "2025": 213,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Vallenar"
   },
@@ -175,8 +175,8 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3301,
    "2024": 22,
-   "2025": 26,
-   "variacion": 18,
+   "2025": 27,
+   "variacion": 23,
    "situación": "Aumento de Casos",
    "COMUNA": "Vallenar"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 38,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 10,
    "COMUNA": "Vallenar"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 10,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 35,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 12,
    "COMUNA": "Vallenar"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 8,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1197,6 +1237,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Vallenar"
   },
   {
@@ -1368,6 +1416,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 3301,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Vallenar"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 3301,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 3301,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Vallenar"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 3301,
    "anio": 2024,
@@ -2541,6 +2645,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Vallenar"
   },
   {
@@ -2712,6 +2824,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 3301,
    "anio": 2024,
@@ -2877,6 +2997,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 3,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Vallenar"
   },
   {
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 18,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Vallenar"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 17,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Vallenar"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 5,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 3301,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Vallenar"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Vallenar"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 3301,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 2,
+   "COMUNA": "Vallenar"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 3301,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Vallenar"
   }
  ],
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 304,
-   "2024": 276,
-   "2025": 242,
+   "2023": 309,
+   "2024": 286,
+   "2025": 252,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 216,
-   "2024": 140,
-   "2025": 159,
+   "2023": 220,
+   "2024": 143,
+   "2025": 169,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "DAÑOS",
-   "2023": 384,
-   "2024": 376,
-   "2025": 348,
+   "2023": 394,
+   "2024": 382,
+   "2025": 360,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 367,
-   "2024": 450,
-   "2025": 370,
+   "2023": 375,
+   "2024": 460,
+   "2025": 378,
    "COMUNA": "Vallenar"
   },
   {
@@ -3779,25 +3947,25 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "HURTOS",
-   "2023": 215,
-   "2024": 201,
-   "2025": 154,
+   "2023": 226,
+   "2024": 204,
+   "2025": 159,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "INCIVILIDADES",
-   "2023": 236,
-   "2024": 219,
-   "2025": 149,
+   "2023": 246,
+   "2024": 222,
+   "2025": 154,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "LESIONES GRAVES",
-   "2023": 27,
+   "2023": 28,
    "2024": 22,
    "2025": 19,
    "COMUNA": "Vallenar"
@@ -3806,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "LESIONES LEVES",
-   "2023": 146,
-   "2024": 167,
-   "2025": 120,
+   "2023": 149,
+   "2024": 171,
+   "2025": 124,
    "COMUNA": "Vallenar"
   },
   {
@@ -3817,25 +3985,25 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 40,
    "2024": 31,
-   "2025": 24,
+   "2025": 25,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 52,
-   "2024": 54,
-   "2025": 100,
+   "2023": 53,
+   "2024": 55,
+   "2025": 102,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "LEY DE DROGAS",
-   "2023": 65,
-   "2024": 57,
-   "2025": 41,
+   "2023": 67,
+   "2024": 59,
+   "2025": 42,
    "COMUNA": "Vallenar"
   },
   {
@@ -3852,7 +4020,7 @@
    "CODCOM": 3301,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 24,
-   "2024": 41,
+   "2024": 42,
    "2025": 36,
    "COMUNA": "Vallenar"
   },
@@ -3860,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "RECEPTACIÓN",
-   "2023": 20,
+   "2023": 22,
    "2024": 17,
    "2025": 16,
    "COMUNA": "Vallenar"
@@ -3869,43 +4037,43 @@
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 107,
-   "2024": 107,
-   "2025": 134,
+   "2023": 109,
+   "2024": 110,
+   "2025": 135,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 183,
-   "2024": 130,
-   "2025": 168,
+   "2023": 187,
+   "2024": 131,
+   "2025": 170,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 262,
-   "2024": 228,
-   "2025": 208,
+   "2023": 269,
+   "2024": 237,
+   "2025": 213,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "ROBOS POR SORPRESA",
-   "2023": 18,
+   "2023": 20,
    "2024": 22,
-   "2025": 26,
+   "2025": 27,
    "COMUNA": "Vallenar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 3301,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 25,
+   "2023": 29,
    "2024": 28,
    "2025": 16,
    "COMUNA": "Vallenar"

@@ -12,35 +12,35 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16103,
-   "2024": 170,
-   "2025": 160,
-   "variacion": -6,
+   "2024": 176,
+   "2025": 162,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16103,
-   "2024": 322,
-   "2025": 283,
-   "variacion": -12,
+   "2024": 333,
+   "2025": 287,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16103,
-   "2024": 146,
-   "2025": 157,
-   "variacion": 8,
+   "2024": 151,
+   "2025": 167,
+   "variacion": 11,
    "situación": "Aumento de Casos",
    "COMUNA": "Chillán Viejo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 16103,
-   "2024": 177,
-   "2025": 127,
+   "2024": 180,
+   "2025": 129,
    "variacion": -28,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
@@ -57,8 +57,8 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16103,
-   "2024": 89,
-   "2025": 96,
+   "2024": 91,
+   "2025": 98,
    "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "Chillán Viejo"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 16103,
    "2024": 83,
-   "2025": 77,
-   "variacion": -7,
+   "2025": 78,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
@@ -76,17 +76,17 @@
    "delito": "LESIONES GRAVES",
    "CODCOM": 16103,
    "2024": 5,
-   "2025": 3,
-   "variacion": -40,
+   "2025": 4,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 16103,
-   "2024": 43,
+   "2024": 44,
    "2025": 41,
-   "variacion": -5,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 16103,
    "2024": 55,
-   "2025": 23,
-   "variacion": -58,
+   "2025": 24,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
@@ -138,8 +138,8 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16103,
-   "2024": 15,
-   "2025": 8,
+   "2024": 17,
+   "2025": 9,
    "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
@@ -147,8 +147,8 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 16103,
-   "2024": 34,
-   "2025": 25,
+   "2024": 35,
+   "2025": 26,
    "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
@@ -156,18 +156,18 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 16103,
-   "2024": 99,
-   "2025": 61,
-   "variacion": -38,
+   "2024": 101,
+   "2025": 62,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 16103,
-   "2024": 201,
-   "2025": 143,
-   "variacion": -29,
+   "2024": 206,
+   "2025": 144,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Chillán Viejo"
   },
@@ -360,6 +360,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "AMENAZAS CON ARMAS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16103,
    "anio": 2024,
@@ -525,6 +533,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 18,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "AMENAZAS Y RIÑAS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -696,6 +712,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "DAÑOS",
    "CODCOM": 16103,
    "anio": 2024,
@@ -861,6 +885,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 24,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "DAÑOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 10,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -1032,6 +1064,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "HOMICIDIOS Y FEMICIDIOS",
    "CODCOM": 16103,
    "anio": 2024,
@@ -1197,6 +1237,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "HOMICIDIOS Y FEMICIDIOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -1368,6 +1416,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "HURTOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "INCIVILIDADES",
    "CODCOM": 16103,
    "anio": 2024,
@@ -1536,6 +1592,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "INCIVILIDADES",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16103,
    "anio": 2024,
@@ -1701,6 +1765,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "LESIONES GRAVES",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -1872,6 +1944,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "LESIONES LEVES",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16103,
    "anio": 2024,
@@ -2036,6 +2116,14 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chillán Viejo"
   },
@@ -2208,6 +2296,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 16103,
    "anio": 2024,
@@ -2376,6 +2472,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 16103,
    "anio": 2024,
@@ -2540,6 +2644,14 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 9,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "OTROS DESÓRDENES PÚBLICOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 0,
    "COMUNA": "Chillán Viejo"
   },
@@ -2712,6 +2824,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "RECEPTACIÓN",
    "CODCOM": 16103,
    "anio": 2024,
@@ -2876,6 +2996,14 @@
    "CODCOM": 16103,
    "anio": 2025,
    "mes": 9,
+   "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "RECEPTACIÓN",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
    "casos": 1,
    "COMUNA": "Chillán Viejo"
   },
@@ -3045,6 +3173,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 10,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -3213,6 +3349,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 9,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -3384,6 +3528,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 16103,
    "anio": 2024,
@@ -3552,6 +3704,14 @@
    "COMUNA": "Chillán Viejo"
   },
   {
+   "delito": "ROBOS POR SORPRESA",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 16103,
    "anio": 2024,
@@ -3717,6 +3877,14 @@
    "anio": 2025,
    "mes": 9,
    "casos": 1,
+   "COMUNA": "Chillán Viejo"
+  },
+  {
+   "delito": "VIOLACIONES Y DELITOS SEXUALES",
+   "CODCOM": 16103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 0,
    "COMUNA": "Chillán Viejo"
   }
  ],
@@ -3734,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 204,
-   "2024": 170,
-   "2025": 160,
+   "2023": 209,
+   "2024": 176,
+   "2025": 162,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 169,
-   "2024": 322,
-   "2025": 283,
+   "2023": 185,
+   "2024": 333,
+   "2025": 287,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "DAÑOS",
-   "2023": 176,
-   "2024": 146,
-   "2025": 157,
+   "2023": 182,
+   "2024": 151,
+   "2025": 167,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 163,
-   "2024": 177,
-   "2025": 127,
+   "2023": 168,
+   "2024": 180,
+   "2025": 129,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -3779,18 +3947,18 @@
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "HURTOS",
-   "2023": 103,
-   "2024": 89,
-   "2025": 96,
+   "2023": 105,
+   "2024": 91,
+   "2025": 98,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "INCIVILIDADES",
-   "2023": 67,
+   "2023": 70,
    "2024": 83,
-   "2025": 77,
+   "2025": 78,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -3799,15 +3967,15 @@
    "delito": "LESIONES GRAVES",
    "2023": 4,
    "2024": 5,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "LESIONES LEVES",
-   "2023": 53,
-   "2024": 43,
+   "2023": 54,
+   "2024": 44,
    "2025": 41,
    "COMUNA": "Chillán Viejo"
   },
@@ -3826,7 +3994,7 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 17,
    "2024": 55,
-   "2025": 23,
+   "2025": 24,
    "COMUNA": "Chillán Viejo"
   },
   {
@@ -3860,36 +4028,36 @@
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "RECEPTACIÓN",
-   "2023": 20,
-   "2024": 15,
-   "2025": 8,
+   "2023": 23,
+   "2024": 17,
+   "2025": 9,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 56,
-   "2024": 34,
-   "2025": 25,
+   "2023": 58,
+   "2024": 35,
+   "2025": 26,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 106,
-   "2024": 99,
-   "2025": 61,
+   "2023": 112,
+   "2024": 101,
+   "2025": 62,
    "COMUNA": "Chillán Viejo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 172,
-   "2024": 201,
-   "2025": 143,
+   "2023": 176,
+   "2024": 206,
+   "2025": 144,
    "COMUNA": "Chillán Viejo"
   },
   {

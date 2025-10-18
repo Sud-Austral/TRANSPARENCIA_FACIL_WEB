@@ -1698,7 +1698,7 @@
         const params = new URLSearchParams(window.location.search);
         const codcomParam = params.get("codcom")?.trim() || "13101";
         const dataURL = `https://raw.githubusercontent.com/Sud-Austral/TRANSPARENCIA_FACIL_WEB/refs/heads/main/data2/${encodeURIComponent(codcomParam)}.json`;
-        
+        console.log(dataURL)
         // Mostrar indicador de carga al inicio
         document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('loading-overlay').style.display = 'flex';

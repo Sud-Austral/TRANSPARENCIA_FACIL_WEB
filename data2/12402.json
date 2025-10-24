@@ -165,10 +165,10 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 12402,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Torres del Paine"
   },
   {
@@ -4008,7 +4008,7 @@
    "CODCOM": 12402,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Torres del Paine"
   },
@@ -4032,7 +4032,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Magallanes"
  }
 }

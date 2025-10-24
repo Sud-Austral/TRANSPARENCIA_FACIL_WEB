@@ -3,45 +3,45 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 10402,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10402,
-   "2024": 19,
+   "2024": 21,
    "2025": 16,
-   "variacion": -16,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10402,
-   "2024": 42,
+   "2024": 43,
    "2025": 19,
-   "variacion": -55,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10402,
-   "2024": 36,
+   "2024": 37,
    "2025": 35,
-   "variacion": -3,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10402,
-   "2024": 18,
+   "2024": 19,
    "2025": 16,
-   "variacion": -11,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10402,
-   "2024": 15,
-   "2025": 14,
-   "variacion": -7,
+   "2024": 16,
+   "2025": 15,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 10402,
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
-   "variacion": -18,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 10402,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10402,
-   "2024": 5,
+   "2024": 8,
    "2025": 1,
-   "variacion": -80,
+   "variacion": -88,
    "situación": "Disminución de Casos",
    "COMUNA": "Futaleufú"
   },
@@ -1420,7 +1420,7 @@
    "CODCOM": 10402,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Futaleufú"
   },
   {
@@ -3886,7 +3886,7 @@
    "CODCOM": 10402,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 1,
-   "2024": 1,
+   "2024": 2,
    "2025": 2,
    "COMUNA": "Futaleufú"
   },
@@ -3895,7 +3895,7 @@
    "CODCOM": 10402,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 13,
-   "2024": 19,
+   "2024": 21,
    "2025": 16,
    "COMUNA": "Futaleufú"
   },
@@ -3903,8 +3903,8 @@
    "informacion": "Casos",
    "CODCOM": 10402,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 32,
-   "2024": 42,
+   "2023": 33,
+   "2024": 43,
    "2025": 19,
    "COMUNA": "Futaleufú"
   },
@@ -3912,8 +3912,8 @@
    "informacion": "Casos",
    "CODCOM": 10402,
    "delito": "DAÑOS",
-   "2023": 24,
-   "2024": 36,
+   "2023": 25,
+   "2024": 37,
    "2025": 35,
    "COMUNA": "Futaleufú"
   },
@@ -3922,7 +3922,7 @@
    "CODCOM": 10402,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 24,
-   "2024": 18,
+   "2024": 19,
    "2025": 16,
    "COMUNA": "Futaleufú"
   },
@@ -3940,8 +3940,8 @@
    "CODCOM": 10402,
    "delito": "HURTOS",
    "2023": 9,
-   "2024": 15,
-   "2025": 14,
+   "2024": 16,
+   "2025": 15,
    "COMUNA": "Futaleufú"
   },
   {
@@ -3967,7 +3967,7 @@
    "CODCOM": 10402,
    "delito": "LESIONES LEVES",
    "2023": 8,
-   "2024": 11,
+   "2024": 12,
    "2025": 9,
    "COMUNA": "Futaleufú"
   },
@@ -4021,7 +4021,7 @@
    "CODCOM": 10402,
    "delito": "RECEPTACIÓN",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Futaleufú"
   },
@@ -4048,7 +4048,7 @@
    "CODCOM": 10402,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 13,
-   "2024": 5,
+   "2024": 8,
    "2025": 1,
    "COMUNA": "Futaleufú"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Los Lagos"
  }
 }

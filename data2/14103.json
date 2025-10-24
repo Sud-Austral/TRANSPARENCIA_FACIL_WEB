@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 14103,
-   "2024": 106,
-   "2025": 100,
-   "variacion": -6,
+   "2024": 107,
+   "2025": 103,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 14103,
-   "2024": 115,
-   "2025": 163,
-   "variacion": 42,
+   "2024": 126,
+   "2025": 169,
+   "variacion": 34,
    "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 14103,
    "2024": 102,
-   "2025": 77,
-   "variacion": -25,
+   "2025": 80,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 14103,
-   "2024": 96,
-   "2025": 91,
-   "variacion": -5,
+   "2024": 100,
+   "2025": 93,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 14103,
-   "2024": 53,
+   "2024": 57,
    "2025": 45,
-   "variacion": -15,
+   "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 14103,
    "2024": 38,
-   "2025": 36,
-   "variacion": -5,
-   "situación": "Disminución de Casos",
+   "2025": 38,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Lanco"
   },
   {
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 14103,
-   "2024": 100,
-   "2025": 60,
-   "variacion": -40,
+   "2024": 101,
+   "2025": 62,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -147,9 +147,9 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 14103,
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
-   "variacion": 83,
+   "variacion": 57,
    "situación": "Aumento de Casos",
    "COMUNA": "Lanco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 14103,
-   "2024": 57,
+   "2024": 58,
    "2025": 40,
-   "variacion": -30,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   },
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 14103,
-   "2024": 15,
+   "2024": 18,
    "2025": 11,
-   "variacion": -27,
+   "variacion": -39,
    "situación": "Disminución de Casos",
    "COMUNA": "Lanco"
   }
@@ -540,7 +540,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 8,
+   "casos": 11,
    "COMUNA": "Lanco"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 9,
    "COMUNA": "Lanco"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Lanco"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Lanco"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Lanco"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 14103,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Lanco"
   },
   {
@@ -3902,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 89,
-   "2024": 106,
-   "2025": 100,
+   "2023": 91,
+   "2024": 107,
+   "2025": 103,
    "COMUNA": "Lanco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 74,
-   "2024": 115,
-   "2025": 163,
+   "2023": 77,
+   "2024": 126,
+   "2025": 169,
    "COMUNA": "Lanco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "DAÑOS",
-   "2023": 103,
+   "2023": 104,
    "2024": 102,
-   "2025": 77,
+   "2025": 80,
    "COMUNA": "Lanco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 101,
-   "2024": 96,
-   "2025": 91,
+   "2023": 102,
+   "2024": 100,
+   "2025": 93,
    "COMUNA": "Lanco"
   },
   {
@@ -3947,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "HURTOS",
-   "2023": 75,
-   "2024": 53,
+   "2023": 76,
+   "2024": 57,
    "2025": 45,
    "COMUNA": "Lanco"
   },
@@ -3958,7 +3958,7 @@
    "delito": "INCIVILIDADES",
    "2023": 24,
    "2024": 38,
-   "2025": 36,
+   "2025": 38,
    "COMUNA": "Lanco"
   },
   {
@@ -3974,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "LESIONES LEVES",
-   "2023": 33,
+   "2023": 34,
    "2024": 42,
    "2025": 18,
    "COMUNA": "Lanco"
@@ -3983,7 +3983,7 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 5,
+   "2023": 6,
    "2024": 3,
    "2025": 5,
    "COMUNA": "Lanco"
@@ -3993,8 +3993,8 @@
    "CODCOM": 14103,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 6,
-   "2024": 100,
-   "2025": 60,
+   "2024": 101,
+   "2025": 62,
    "COMUNA": "Lanco"
   },
   {
@@ -4038,7 +4038,7 @@
    "CODCOM": 14103,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 13,
-   "2024": 6,
+   "2024": 7,
    "2025": 11,
    "COMUNA": "Lanco"
   },
@@ -4046,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 10,
+   "2023": 11,
    "2024": 4,
    "2025": 2,
    "COMUNA": "Lanco"
@@ -4056,7 +4056,7 @@
    "CODCOM": 14103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 37,
-   "2024": 57,
+   "2024": 58,
    "2025": 40,
    "COMUNA": "Lanco"
   },
@@ -4073,14 +4073,14 @@
    "informacion": "Casos",
    "CODCOM": 14103,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 11,
-   "2024": 15,
+   "2023": 13,
+   "2024": 18,
    "2025": 11,
    "COMUNA": "Lanco"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Los Ríos"
  }
 }

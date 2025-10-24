@@ -12,18 +12,18 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 11202,
-   "2024": 41,
+   "2024": 42,
    "2025": 32,
-   "variacion": -22,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11202,
-   "2024": 129,
-   "2025": 142,
-   "variacion": 10,
+   "2024": 134,
+   "2025": 144,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Cisnes"
   },
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 11202,
    "2024": 46,
-   "2025": 42,
-   "variacion": -9,
+   "2025": 43,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11202,
-   "2024": 44,
+   "2024": 46,
    "2025": 35,
-   "variacion": -20,
+   "variacion": -24,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 11202,
-   "2024": 24,
+   "2024": 25,
    "2025": 21,
-   "variacion": -12,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Cisnes"
   },
@@ -716,7 +716,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Cisnes"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 11202,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Cisnes"
   },
   {
@@ -3894,8 +3894,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 31,
-   "2024": 41,
+   "2023": 34,
+   "2024": 42,
    "2025": 32,
    "COMUNA": "Cisnes"
   },
@@ -3903,26 +3903,26 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 117,
-   "2024": 129,
-   "2025": 142,
+   "2023": 118,
+   "2024": 134,
+   "2025": 144,
    "COMUNA": "Cisnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DAÑOS",
-   "2023": 35,
+   "2023": 36,
    "2024": 46,
-   "2025": 42,
+   "2025": 43,
    "COMUNA": "Cisnes"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 42,
-   "2024": 44,
+   "2023": 43,
+   "2024": 46,
    "2025": 35,
    "COMUNA": "Cisnes"
   },
@@ -3966,8 +3966,8 @@
    "informacion": "Casos",
    "CODCOM": 11202,
    "delito": "LESIONES LEVES",
-   "2023": 19,
-   "2024": 24,
+   "2023": 22,
+   "2024": 25,
    "2025": 21,
    "COMUNA": "Cisnes"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Aysén"
  }
 }

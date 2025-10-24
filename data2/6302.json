@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6302,
-   "2024": 100,
-   "2025": 106,
-   "variacion": 6,
+   "2024": 103,
+   "2025": 108,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
@@ -22,25 +22,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6302,
    "2024": 93,
-   "2025": 28,
-   "variacion": -70,
+   "2025": 29,
+   "variacion": -69,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6302,
-   "2024": 87,
+   "2024": 90,
    "2025": 61,
-   "variacion": -30,
+   "variacion": -32,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6302,
-   "2024": 141,
-   "2025": 84,
+   "2024": 145,
+   "2025": 87,
    "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6302,
    "2024": 29,
-   "2025": 29,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 30,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Chépica"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6302,
-   "2024": 39,
-   "2025": 23,
-   "variacion": -41,
+   "2024": 40,
+   "2025": 25,
+   "variacion": -38,
    "situación": "Disminución de Casos",
    "COMUNA": "Chépica"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Chépica"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 5,
    "COMUNA": "Chépica"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Chépica"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Chépica"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6302,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Chépica"
   },
   {
@@ -3902,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 115,
-   "2024": 100,
-   "2025": 106,
+   "2023": 120,
+   "2024": 103,
+   "2025": 108,
    "COMUNA": "Chépica"
   },
   {
@@ -3913,15 +3913,15 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 71,
    "2024": 93,
-   "2025": 28,
+   "2025": 29,
    "COMUNA": "Chépica"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "DAÑOS",
-   "2023": 87,
-   "2024": 87,
+   "2023": 88,
+   "2024": 90,
    "2025": 61,
    "COMUNA": "Chépica"
   },
@@ -3929,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 93,
-   "2024": 141,
-   "2025": 84,
+   "2023": 99,
+   "2024": 145,
+   "2025": 87,
    "COMUNA": "Chépica"
   },
   {
@@ -3958,14 +3958,14 @@
    "delito": "INCIVILIDADES",
    "2023": 29,
    "2024": 29,
-   "2025": 29,
+   "2025": 30,
    "COMUNA": "Chépica"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "LESIONES GRAVES",
-   "2023": 4,
+   "2023": 5,
    "2024": 3,
    "2025": 3,
    "COMUNA": "Chépica"
@@ -3975,8 +3975,8 @@
    "CODCOM": 6302,
    "delito": "LESIONES LEVES",
    "2023": 37,
-   "2024": 39,
-   "2025": 23,
+   "2024": 40,
+   "2025": 25,
    "COMUNA": "Chépica"
   },
   {
@@ -4055,7 +4055,7 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 51,
+   "2023": 54,
    "2024": 40,
    "2025": 34,
    "COMUNA": "Chépica"
@@ -4073,14 +4073,14 @@
    "informacion": "Casos",
    "CODCOM": 6302,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 13,
+   "2023": 14,
    "2024": 18,
    "2025": 8,
    "COMUNA": "Chépica"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

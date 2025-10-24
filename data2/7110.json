@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 7110,
-   "2024": 51,
+   "2024": 56,
    "2025": 50,
-   "variacion": -2,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 7110,
-   "2024": 82,
-   "2025": 87,
+   "2024": 85,
+   "2025": 90,
    "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 7110,
    "2024": 10,
-   "2025": 7,
-   "variacion": -30,
+   "2025": 8,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -84,27 +84,27 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 7110,
-   "2024": 9,
+   "2024": 10,
    "2025": 14,
-   "variacion": 56,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 7110,
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
-   "variacion": -50,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 7110,
-   "2024": 5,
+   "2024": 7,
    "2025": 44,
-   "variacion": 780,
+   "variacion": 529,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 7110,
    "2024": 2,
-   "2025": 11,
-   "variacion": 450,
+   "2025": 12,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "San Rafael"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 7110,
-   "2024": 68,
+   "2024": 70,
    "2025": 36,
-   "variacion": -47,
+   "variacion": -49,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   },
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 7110,
    "2024": 10,
-   "2025": 3,
-   "variacion": -70,
+   "2025": 5,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "San Rafael"
   }
@@ -892,7 +892,7 @@
    "CODCOM": 7110,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "San Rafael"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 7110,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Rafael"
   },
   {
@@ -2828,7 +2828,7 @@
    "CODCOM": 7110,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "San Rafael"
   },
   {
@@ -3884,7 +3884,7 @@
    "CODCOM": 7110,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "San Rafael"
   }
  ],
@@ -3903,7 +3903,7 @@
    "CODCOM": 7110,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 76,
-   "2024": 51,
+   "2024": 56,
    "2025": 50,
    "COMUNA": "San Rafael"
   },
@@ -3911,7 +3911,7 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 14,
+   "2023": 16,
    "2024": 14,
    "2025": 9,
    "COMUNA": "San Rafael"
@@ -3920,9 +3920,9 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "DAÑOS",
-   "2023": 97,
-   "2024": 82,
-   "2025": 87,
+   "2023": 98,
+   "2024": 85,
+   "2025": 90,
    "COMUNA": "San Rafael"
   },
   {
@@ -3947,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "HURTOS",
-   "2023": 40,
+   "2023": 41,
    "2024": 38,
    "2025": 33,
    "COMUNA": "San Rafael"
@@ -3956,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "INCIVILIDADES",
-   "2023": 11,
+   "2023": 12,
    "2024": 10,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "San Rafael"
   },
   {
@@ -3975,7 +3975,7 @@
    "CODCOM": 7110,
    "delito": "LESIONES LEVES",
    "2023": 19,
-   "2024": 9,
+   "2024": 10,
    "2025": 14,
    "COMUNA": "San Rafael"
   },
@@ -3984,7 +3984,7 @@
    "CODCOM": 7110,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 3,
-   "2024": 6,
+   "2024": 7,
    "2025": 3,
    "COMUNA": "San Rafael"
   },
@@ -3992,8 +3992,8 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 2,
-   "2024": 5,
+   "2023": 3,
+   "2024": 7,
    "2025": 44,
    "COMUNA": "San Rafael"
   },
@@ -4001,7 +4001,7 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "LEY DE DROGAS",
-   "2023": 14,
+   "2023": 15,
    "2024": 7,
    "2025": 3,
    "COMUNA": "San Rafael"
@@ -4021,7 +4021,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 1,
    "2024": 2,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "San Rafael"
   },
   {
@@ -4046,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 7110,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 26,
+   "2023": 29,
    "2024": 32,
    "2025": 16,
    "COMUNA": "San Rafael"
@@ -4056,7 +4056,7 @@
    "CODCOM": 7110,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 63,
-   "2024": 68,
+   "2024": 70,
    "2025": 36,
    "COMUNA": "San Rafael"
   },
@@ -4075,12 +4075,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 8,
    "2024": 10,
-   "2025": 3,
+   "2025": 5,
    "COMUNA": "San Rafael"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Maule"
  }
 }

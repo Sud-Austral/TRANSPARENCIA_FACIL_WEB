@@ -12,16 +12,16 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 5201,
-   "2024": 121,
-   "2025": 142,
-   "variacion": 17,
+   "2024": 125,
+   "2025": 144,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 5201,
-   "2024": 133,
+   "2024": 134,
    "2025": 29,
    "variacion": -78,
    "situación": "Disminución de Casos",
@@ -31,17 +31,17 @@
    "delito": "DAÑOS",
    "CODCOM": 5201,
    "2024": 54,
-   "2025": 56,
-   "variacion": 4,
+   "2025": 58,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5201,
-   "2024": 133,
-   "2025": 120,
-   "variacion": -10,
+   "2024": 134,
+   "2025": 123,
+   "variacion": -8,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5201,
-   "2024": 57,
-   "2025": 62,
-   "variacion": 9,
+   "2024": 60,
+   "2025": 64,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Isla de Pascua"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 5201,
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
-   "variacion": -14,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Isla de Pascua"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 10,
-   "casos": 6,
+   "casos": 9,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 5201,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -3902,17 +3902,17 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 102,
-   "2024": 121,
-   "2025": 142,
+   "2023": 107,
+   "2024": 125,
+   "2025": 144,
    "COMUNA": "Isla de Pascua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 48,
-   "2024": 133,
+   "2023": 49,
+   "2024": 134,
    "2025": 29,
    "COMUNA": "Isla de Pascua"
   },
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "DAÑOS",
-   "2023": 56,
+   "2023": 57,
    "2024": 54,
-   "2025": 56,
+   "2025": 58,
    "COMUNA": "Isla de Pascua"
   },
   {
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 80,
-   "2024": 133,
-   "2025": 120,
+   "2023": 82,
+   "2024": 134,
+   "2025": 123,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -3974,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 5201,
    "delito": "LESIONES LEVES",
-   "2023": 52,
-   "2024": 57,
-   "2025": 62,
+   "2023": 53,
+   "2024": 60,
+   "2025": 64,
    "COMUNA": "Isla de Pascua"
   },
   {
@@ -3984,7 +3984,7 @@
    "CODCOM": 5201,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 4,
-   "2024": 7,
+   "2024": 8,
    "2025": 6,
    "COMUNA": "Isla de Pascua"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Valparaíso"
  }
 }

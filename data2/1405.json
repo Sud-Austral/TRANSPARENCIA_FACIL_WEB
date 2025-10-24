@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 1405,
-   "2024": 51,
-   "2025": 52,
-   "variacion": 2,
-   "situación": "Aumento de Casos",
+   "2024": 53,
+   "2025": 53,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pica"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1405,
-   "2024": 97,
-   "2025": 66,
-   "variacion": -32,
+   "2024": 98,
+   "2025": 72,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Pica"
   },
@@ -67,9 +67,9 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 1405,
    "2024": 38,
-   "2025": 37,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2025": 38,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Pica"
   },
   {
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1405,
-   "2024": 34,
+   "2024": 35,
    "2025": 17,
-   "variacion": -50,
+   "variacion": -51,
    "situación": "Disminución de Casos",
    "COMUNA": "Pica"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 1405,
-   "2024": 29,
-   "2025": 27,
-   "variacion": -7,
+   "2024": 31,
+   "2025": 29,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "Pica"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Pica"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 6,
    "COMUNA": "Pica"
   },
   {
@@ -1588,7 +1588,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Pica"
   },
   {
@@ -3524,7 +3524,7 @@
    "CODCOM": 1405,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Pica"
   },
   {
@@ -3903,7 +3903,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 84,
+   "2023": 85,
    "2024": 42,
    "2025": 40,
    "COMUNA": "Pica"
@@ -3912,18 +3912,18 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "DAÑOS",
-   "2023": 67,
-   "2024": 51,
-   "2025": 52,
+   "2023": 68,
+   "2024": 53,
+   "2025": 53,
    "COMUNA": "Pica"
   },
   {
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 74,
-   "2024": 97,
-   "2025": 66,
+   "2023": 77,
+   "2024": 98,
+   "2025": 72,
    "COMUNA": "Pica"
   },
   {
@@ -3939,7 +3939,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "HURTOS",
-   "2023": 25,
+   "2023": 26,
    "2024": 36,
    "2025": 25,
    "COMUNA": "Pica"
@@ -3948,9 +3948,9 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "INCIVILIDADES",
-   "2023": 62,
+   "2023": 67,
    "2024": 38,
-   "2025": 37,
+   "2025": 38,
    "COMUNA": "Pica"
   },
   {
@@ -3967,7 +3967,7 @@
    "CODCOM": 1405,
    "delito": "LESIONES LEVES",
    "2023": 23,
-   "2024": 34,
+   "2024": 35,
    "2025": 17,
    "COMUNA": "Pica"
   },
@@ -3975,7 +3975,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 8,
+   "2023": 9,
    "2024": 6,
    "2025": 9,
    "COMUNA": "Pica"
@@ -4038,7 +4038,7 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 3,
+   "2023": 4,
    "2024": 6,
    "2025": 17,
    "COMUNA": "Pica"
@@ -4047,9 +4047,9 @@
    "informacion": "Casos",
    "CODCOM": 1405,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 32,
-   "2024": 29,
-   "2025": 27,
+   "2023": 33,
+   "2024": 31,
+   "2025": 29,
    "COMUNA": "Pica"
   },
   {
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Tarapacá"
  }
 }

@@ -12,8 +12,8 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6306,
-   "2024": 85,
-   "2025": 71,
+   "2024": 88,
+   "2025": 74,
    "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 6306,
-   "2024": 74,
-   "2025": 49,
-   "variacion": -34,
+   "2024": 75,
+   "2025": 50,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6306,
-   "2024": 61,
-   "2025": 76,
-   "variacion": 25,
+   "2024": 63,
+   "2025": 78,
+   "variacion": 24,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6306,
    "2024": 12,
-   "2025": 9,
-   "variacion": -25,
+   "2025": 10,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Palmilla"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6306,
    "2024": 5,
-   "2025": 4,
-   "variacion": -20,
-   "situación": "Disminución de Casos",
+   "2025": 5,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palmilla"
   },
   {
@@ -139,8 +139,8 @@
    "delito": "RECEPTACIÓN",
    "CODCOM": 6306,
    "2024": 1,
-   "2025": 5,
-   "variacion": 400,
+   "2025": 6,
+   "variacion": 500,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6306,
    "2024": 35,
-   "2025": 47,
-   "variacion": 34,
+   "2025": 49,
+   "variacion": 40,
    "situación": "Aumento de Casos",
    "COMUNA": "Palmilla"
   },
@@ -184,9 +184,9 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6306,
    "2024": 8,
-   "2025": 7,
-   "variacion": -12,
-   "situación": "Disminución de Casos",
+   "2025": 8,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Palmilla"
   }
  ],
@@ -540,7 +540,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 6,
    "COMUNA": "Palmilla"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palmilla"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Palmilla"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palmilla"
   },
   {
@@ -2124,7 +2124,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palmilla"
   },
   {
@@ -3004,7 +3004,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palmilla"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Palmilla"
   },
   {
@@ -3884,7 +3884,7 @@
    "CODCOM": 6306,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Palmilla"
   }
  ],
@@ -3902,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 6306,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 88,
-   "2024": 85,
-   "2025": 71,
+   "2023": 90,
+   "2024": 88,
+   "2025": 74,
    "COMUNA": "Palmilla"
   },
   {
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 6306,
    "delito": "DAÑOS",
-   "2023": 71,
-   "2024": 74,
-   "2025": 49,
+   "2023": 74,
+   "2024": 75,
+   "2025": 50,
    "COMUNA": "Palmilla"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6306,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 91,
-   "2024": 61,
-   "2025": 76,
+   "2023": 92,
+   "2024": 63,
+   "2025": 78,
    "COMUNA": "Palmilla"
   },
   {
@@ -3956,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 6306,
    "delito": "INCIVILIDADES",
-   "2023": 15,
+   "2023": 16,
    "2024": 12,
    "2025": 14,
    "COMUNA": "Palmilla"
@@ -3976,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 20,
    "2024": 12,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Palmilla"
   },
   {
@@ -3985,7 +3985,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 9,
    "2024": 5,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Palmilla"
   },
   {
@@ -4030,7 +4030,7 @@
    "delito": "RECEPTACIÓN",
    "2023": 3,
    "2024": 1,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Palmilla"
   },
   {
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 6306,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 54,
+   "2023": 56,
    "2024": 35,
-   "2025": 47,
+   "2025": 49,
    "COMUNA": "Palmilla"
   },
   {
@@ -4075,12 +4075,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 11,
    "2024": 8,
-   "2025": 7,
+   "2025": 8,
    "COMUNA": "Palmilla"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

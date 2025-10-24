@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 8204,
-   "2024": 39,
+   "2024": 40,
    "2025": 32,
-   "variacion": -18,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8204,
-   "2024": 31,
+   "2024": 32,
    "2025": 21,
-   "variacion": -32,
+   "variacion": -34,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 8204,
-   "2024": 20,
+   "2024": 21,
    "2025": 12,
-   "variacion": -40,
+   "variacion": -43,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 8204,
-   "2024": 15,
-   "2025": 12,
-   "variacion": -20,
+   "2024": 16,
+   "2025": 13,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8204,
-   "2024": 18,
+   "2024": 20,
    "2025": 12,
-   "variacion": -33,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Contulmo"
   },
@@ -1948,7 +1948,7 @@
    "CODCOM": 8204,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Contulmo"
   },
   {
@@ -3903,7 +3903,7 @@
    "CODCOM": 8204,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 42,
-   "2024": 39,
+   "2024": 40,
    "2025": 32,
    "COMUNA": "Contulmo"
   },
@@ -3920,8 +3920,8 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "DAÑOS",
-   "2023": 36,
-   "2024": 31,
+   "2023": 38,
+   "2024": 32,
    "2025": 21,
    "COMUNA": "Contulmo"
   },
@@ -3929,7 +3929,7 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 27,
+   "2023": 28,
    "2024": 26,
    "2025": 29,
    "COMUNA": "Contulmo"
@@ -3948,7 +3948,7 @@
    "CODCOM": 8204,
    "delito": "HURTOS",
    "2023": 16,
-   "2024": 20,
+   "2024": 21,
    "2025": 12,
    "COMUNA": "Contulmo"
   },
@@ -3956,7 +3956,7 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "INCIVILIDADES",
-   "2023": 14,
+   "2023": 15,
    "2024": 7,
    "2025": 7,
    "COMUNA": "Contulmo"
@@ -3975,8 +3975,8 @@
    "CODCOM": 8204,
    "delito": "LESIONES LEVES",
    "2023": 22,
-   "2024": 15,
-   "2025": 12,
+   "2024": 16,
+   "2025": 13,
    "COMUNA": "Contulmo"
   },
   {
@@ -4001,7 +4001,7 @@
    "informacion": "Casos",
    "CODCOM": 8204,
    "delito": "LEY DE DROGAS",
-   "2023": 0,
+   "2023": 1,
    "2024": 0,
    "2025": 2,
    "COMUNA": "Contulmo"
@@ -4056,7 +4056,7 @@
    "CODCOM": 8204,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 27,
-   "2024": 18,
+   "2024": 20,
    "2025": 12,
    "COMUNA": "Contulmo"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Biobío"
  }
 }

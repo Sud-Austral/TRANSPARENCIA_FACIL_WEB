@@ -13,8 +13,8 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9104,
    "2024": 63,
-   "2025": 71,
-   "variacion": 13,
+   "2025": 73,
+   "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -30,17 +30,17 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9104,
-   "2024": 66,
-   "2025": 48,
-   "variacion": -27,
+   "2024": 67,
+   "2025": 50,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9104,
-   "2024": 67,
-   "2025": 70,
+   "2024": 68,
+   "2025": 71,
    "variacion": 4,
    "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 9104,
-   "2024": 23,
-   "2025": 19,
-   "variacion": -17,
+   "2024": 26,
+   "2025": 20,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 9104,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -50,
+   "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -148,9 +148,9 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 9104,
    "2024": 1,
-   "2025": 1,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 2,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Curarrehue"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9104,
    "2024": 28,
-   "2025": 12,
-   "variacion": -57,
+   "2025": 13,
+   "variacion": -54,
    "situación": "Disminución de Casos",
    "COMUNA": "Curarrehue"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Curarrehue"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Curarrehue"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3180,7 +3180,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 9104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3902,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 70,
+   "2023": 71,
    "2024": 63,
-   "2025": 71,
+   "2025": 73,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "DAÑOS",
-   "2023": 57,
-   "2024": 66,
-   "2025": 48,
+   "2023": 58,
+   "2024": 67,
+   "2025": 50,
    "COMUNA": "Curarrehue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 88,
-   "2024": 67,
-   "2025": 70,
+   "2023": 93,
+   "2024": 68,
+   "2025": 71,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3947,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "HURTOS",
-   "2023": 26,
+   "2023": 28,
    "2024": 30,
    "2025": 19,
    "COMUNA": "Curarrehue"
@@ -3975,8 +3975,8 @@
    "CODCOM": 9104,
    "delito": "LESIONES LEVES",
    "2023": 24,
-   "2024": 23,
-   "2025": 19,
+   "2024": 26,
+   "2025": 20,
    "COMUNA": "Curarrehue"
   },
   {
@@ -3992,7 +3992,7 @@
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 3,
+   "2023": 4,
    "2024": 8,
    "2025": 9,
    "COMUNA": "Curarrehue"
@@ -4020,7 +4020,7 @@
    "CODCOM": 9104,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 3,
-   "2024": 1,
+   "2024": 2,
    "2025": 1,
    "COMUNA": "Curarrehue"
   },
@@ -4039,7 +4039,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 3,
    "2024": 1,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "Curarrehue"
   },
   {
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 9104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 24,
+   "2023": 25,
    "2024": 28,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Curarrehue"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "La Araucanía"
  }
 }

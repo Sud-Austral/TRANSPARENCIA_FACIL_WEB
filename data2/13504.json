@@ -3,18 +3,18 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 13504,
-   "2024": 6,
+   "2024": 7,
    "2025": 1,
-   "variacion": -83,
+   "variacion": -86,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 13504,
-   "2024": 83,
+   "2024": 85,
    "2025": 80,
-   "variacion": -4,
+   "variacion": -6,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 13504,
-   "2024": 62,
-   "2025": 45,
+   "2024": 64,
+   "2025": 47,
    "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
@@ -39,8 +39,8 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 13504,
-   "2024": 80,
-   "2025": 93,
+   "2024": 82,
+   "2025": 95,
    "variacion": 16,
    "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 13504,
-   "2024": 26,
+   "2024": 27,
    "2025": 19,
-   "variacion": -27,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 13504,
    "2024": 23,
-   "2025": 15,
-   "variacion": -35,
+   "2025": 16,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "María Pinto"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 13504,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
-   "variacion": 14,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "María Pinto"
   },
   {
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 13504,
-   "2024": 62,
-   "2025": 66,
-   "variacion": 6,
+   "2024": 63,
+   "2025": 68,
+   "variacion": 8,
    "situación": "Aumento de Casos",
    "COMUNA": "María Pinto"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 13504,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "María Pinto"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 13504,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "María Pinto"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 13504,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "María Pinto"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 13504,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 5,
    "COMUNA": "María Pinto"
   },
   {
@@ -3894,7 +3894,7 @@
    "CODCOM": 13504,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 2,
-   "2024": 6,
+   "2024": 7,
    "2025": 1,
    "COMUNA": "María Pinto"
   },
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 92,
-   "2024": 83,
+   "2023": 95,
+   "2024": 85,
    "2025": 80,
    "COMUNA": "María Pinto"
   },
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "DAÑOS",
-   "2023": 54,
-   "2024": 62,
-   "2025": 45,
+   "2023": 55,
+   "2024": 64,
+   "2025": 47,
    "COMUNA": "María Pinto"
   },
   {
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 98,
-   "2024": 80,
-   "2025": 93,
+   "2023": 99,
+   "2024": 82,
+   "2025": 95,
    "COMUNA": "María Pinto"
   },
   {
@@ -3948,7 +3948,7 @@
    "CODCOM": 13504,
    "delito": "HURTOS",
    "2023": 18,
-   "2024": 26,
+   "2024": 27,
    "2025": 19,
    "COMUNA": "María Pinto"
   },
@@ -3958,7 +3958,7 @@
    "delito": "INCIVILIDADES",
    "2023": 17,
    "2024": 23,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "María Pinto"
   },
   {
@@ -3983,7 +3983,7 @@
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 3,
+   "2023": 4,
    "2024": 12,
    "2025": 7,
    "COMUNA": "María Pinto"
@@ -4029,7 +4029,7 @@
    "CODCOM": 13504,
    "delito": "RECEPTACIÓN",
    "2023": 3,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "María Pinto"
   },
@@ -4046,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 10,
+   "2023": 11,
    "2024": 10,
    "2025": 8,
    "COMUNA": "María Pinto"
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 13504,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 50,
-   "2024": 62,
-   "2025": 66,
+   "2023": 54,
+   "2024": 63,
+   "2025": 68,
    "COMUNA": "María Pinto"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Metropolitana"
  }
 }

@@ -12,27 +12,27 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4103,
-   "2024": 109,
+   "2024": 110,
    "2025": 107,
-   "variacion": -2,
+   "variacion": -3,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 4103,
-   "2024": 161,
-   "2025": 141,
-   "variacion": -12,
+   "2024": 169,
+   "2025": 142,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 4103,
-   "2024": 53,
-   "2025": 63,
-   "variacion": 19,
+   "2024": 56,
+   "2025": 64,
+   "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4103,
    "2024": 62,
-   "2025": 76,
-   "variacion": 23,
+   "2025": 79,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
@@ -57,63 +57,63 @@
   {
    "delito": "HURTOS",
    "CODCOM": 4103,
-   "2024": 31,
+   "2024": 33,
    "2025": 28,
-   "variacion": -10,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4103,
-   "2024": 59,
-   "2025": 83,
-   "variacion": 41,
+   "2024": 62,
+   "2025": 85,
+   "variacion": 37,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 4103,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 4103,
    "2024": 46,
-   "2025": 38,
-   "variacion": -17,
+   "2025": 39,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 4103,
-   "2024": 10,
+   "2024": 11,
    "2025": 5,
-   "variacion": -50,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 4103,
-   "2024": 9,
-   "2025": 15,
-   "variacion": 67,
+   "2024": 10,
+   "2025": 16,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4103,
-   "2024": 5,
+   "2024": 6,
    "2025": 13,
-   "variacion": 160,
+   "variacion": 117,
    "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
@@ -121,9 +121,9 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "CODCOM": 4103,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Andacollo"
   },
   {
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 4103,
    "2024": 8,
-   "2025": 3,
-   "variacion": -62,
+   "2025": 4,
+   "variacion": -50,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 4103,
-   "2024": 53,
-   "2025": 33,
-   "variacion": -38,
+   "2024": 55,
+   "2025": 35,
+   "variacion": -36,
    "situación": "Disminución de Casos",
    "COMUNA": "Andacollo"
   },
@@ -716,7 +716,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Andacollo"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Andacollo"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Andacollo"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 6,
    "COMUNA": "Andacollo"
   },
   {
@@ -1948,530 +1948,530 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
+   "casos": 6,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LESIONES MENOS GRAVES",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 4,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 4,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 3,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 3,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 4,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 9,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE CONTROL DE ARMAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 10,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 2,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 3,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 4,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 5,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 6,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 9,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 10,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 11,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2024,
+   "mes": 12,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 1,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 2,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 3,
+   "casos": 3,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 4,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 5,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 6,
+   "casos": 2,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 7,
+   "casos": 1,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 8,
+   "casos": 0,
+   "COMUNA": "Andacollo"
+  },
+  {
+   "delito": "LEY DE DROGAS",
+   "CODCOM": 4103,
+   "anio": 2025,
+   "mes": 9,
    "casos": 5,
    "COMUNA": "Andacollo"
   },
   {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 3,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 10,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 11,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 12,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LESIONES MENOS GRAVES",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 4,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 10,
-   "casos": 4,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 11,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 12,
-   "casos": 3,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 3,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 3,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 4,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE CONTROL DE ARMAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 10,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 2,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 3,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 4,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 5,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 6,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 9,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 10,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 11,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2024,
-   "mes": 12,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 1,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 2,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 3,
-   "casos": 3,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 4,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 5,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 6,
-   "casos": 2,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 7,
-   "casos": 1,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 8,
-   "casos": 0,
-   "COMUNA": "Andacollo"
-  },
-  {
-   "delito": "LEY DE DROGAS",
-   "CODCOM": 4103,
-   "anio": 2025,
-   "mes": 9,
-   "casos": 5,
-   "COMUNA": "Andacollo"
-  },
-  {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4103,
    "anio": 2025,
@@ -2652,7 +2652,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Andacollo"
   },
   {
@@ -3180,7 +3180,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Andacollo"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 4103,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 4,
    "COMUNA": "Andacollo"
   },
   {
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 127,
-   "2024": 109,
+   "2023": 130,
+   "2024": 110,
    "2025": 107,
    "COMUNA": "Andacollo"
   },
@@ -3911,27 +3911,27 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 132,
-   "2024": 161,
-   "2025": 141,
+   "2023": 135,
+   "2024": 169,
+   "2025": 142,
    "COMUNA": "Andacollo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "DAÑOS",
-   "2023": 80,
-   "2024": 53,
-   "2025": 63,
+   "2023": 83,
+   "2024": 56,
+   "2025": 64,
    "COMUNA": "Andacollo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 57,
+   "2023": 59,
    "2024": 62,
-   "2025": 76,
+   "2025": 79,
    "COMUNA": "Andacollo"
   },
   {
@@ -3947,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "HURTOS",
-   "2023": 36,
-   "2024": 31,
+   "2023": 37,
+   "2024": 33,
    "2025": 28,
    "COMUNA": "Andacollo"
   },
@@ -3956,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "INCIVILIDADES",
-   "2023": 108,
-   "2024": 59,
-   "2025": 83,
+   "2023": 109,
+   "2024": 62,
+   "2025": 85,
    "COMUNA": "Andacollo"
   },
   {
@@ -3966,7 +3966,7 @@
    "CODCOM": 4103,
    "delito": "LESIONES GRAVES",
    "2023": 4,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "Andacollo"
   },
@@ -3974,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "LESIONES LEVES",
-   "2023": 48,
+   "2023": 55,
    "2024": 46,
-   "2025": 38,
+   "2025": 39,
    "COMUNA": "Andacollo"
   },
   {
@@ -3984,7 +3984,7 @@
    "CODCOM": 4103,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 9,
-   "2024": 10,
+   "2024": 11,
    "2025": 5,
    "COMUNA": "Andacollo"
   },
@@ -3993,8 +3993,8 @@
    "CODCOM": 4103,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 9,
-   "2024": 9,
-   "2025": 15,
+   "2024": 10,
+   "2025": 16,
    "COMUNA": "Andacollo"
   },
   {
@@ -4002,7 +4002,7 @@
    "CODCOM": 4103,
    "delito": "LEY DE DROGAS",
    "2023": 4,
-   "2024": 5,
+   "2024": 6,
    "2025": 13,
    "COMUNA": "Andacollo"
   },
@@ -4012,7 +4012,7 @@
    "delito": "OTROS DESÓRDENES PÚBLICOS",
    "2023": 0,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Andacollo"
   },
   {
@@ -4028,7 +4028,7 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "RECEPTACIÓN",
-   "2023": 1,
+   "2023": 2,
    "2024": 3,
    "2025": 2,
    "COMUNA": "Andacollo"
@@ -4039,7 +4039,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 10,
    "2024": 8,
-   "2025": 3,
+   "2025": 4,
    "COMUNA": "Andacollo"
   },
   {
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 4103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 64,
-   "2024": 53,
-   "2025": 33,
+   "2023": 66,
+   "2024": 55,
+   "2025": 35,
    "COMUNA": "Andacollo"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Coquimbo"
  }
 }

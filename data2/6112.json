@@ -3,17 +3,17 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 6112,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
-   "variacion": 14,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6112,
-   "2024": 125,
-   "2025": 107,
+   "2024": 128,
+   "2025": 110,
    "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6112,
-   "2024": 97,
-   "2025": 272,
-   "variacion": 180,
+   "2024": 103,
+   "2025": 277,
+   "variacion": 169,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 6112,
    "2024": 74,
-   "2025": 76,
-   "variacion": 3,
+   "2025": 79,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6112,
-   "2024": 119,
-   "2025": 108,
+   "2024": 120,
+   "2025": 109,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6112,
-   "2024": 49,
+   "2024": 50,
    "2025": 44,
-   "variacion": -10,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6112,
-   "2024": 44,
-   "2025": 34,
-   "variacion": -23,
+   "2024": 45,
+   "2025": 35,
+   "variacion": -22,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -94,9 +94,9 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6112,
    "2024": 9,
-   "2025": 9,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 10,
+   "variacion": 11,
+   "situación": "Aumento de Casos",
    "COMUNA": "Peumo"
   },
   {
@@ -138,19 +138,19 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6112,
-   "2024": 4,
+   "2024": 5,
    "2025": 3,
-   "variacion": -25,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6112,
-   "2024": 8,
+   "2024": 10,
    "2025": 8,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -20,
+   "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
   {
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6112,
    "2024": 92,
-   "2025": 52,
-   "variacion": -43,
+   "2025": 55,
+   "variacion": -40,
    "situación": "Disminución de Casos",
    "COMUNA": "Peumo"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 8,
    "COMUNA": "Peumo"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 8,
+   "casos": 13,
    "COMUNA": "Peumo"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 4,
+   "casos": 7,
    "COMUNA": "Peumo"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Peumo"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Peumo"
   },
   {
@@ -2124,7 +2124,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Peumo"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 6112,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Peumo"
   },
   {
@@ -3894,7 +3894,7 @@
    "CODCOM": 6112,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 7,
-   "2024": 7,
+   "2024": 8,
    "2025": 8,
    "COMUNA": "Peumo"
   },
@@ -3902,36 +3902,36 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 93,
-   "2024": 125,
-   "2025": 107,
+   "2023": 96,
+   "2024": 128,
+   "2025": 110,
    "COMUNA": "Peumo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 52,
-   "2024": 97,
-   "2025": 272,
+   "2023": 55,
+   "2024": 103,
+   "2025": 277,
    "COMUNA": "Peumo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "DAÑOS",
-   "2023": 81,
+   "2023": 83,
    "2024": 74,
-   "2025": 76,
+   "2025": 79,
    "COMUNA": "Peumo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 90,
-   "2024": 119,
-   "2025": 108,
+   "2023": 91,
+   "2024": 120,
+   "2025": 109,
    "COMUNA": "Peumo"
   },
   {
@@ -3948,7 +3948,7 @@
    "CODCOM": 6112,
    "delito": "HURTOS",
    "2023": 40,
-   "2024": 49,
+   "2024": 50,
    "2025": 44,
    "COMUNA": "Peumo"
   },
@@ -3975,8 +3975,8 @@
    "CODCOM": 6112,
    "delito": "LESIONES LEVES",
    "2023": 37,
-   "2024": 44,
-   "2025": 34,
+   "2024": 45,
+   "2025": 35,
    "COMUNA": "Peumo"
   },
   {
@@ -3985,14 +3985,14 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 9,
    "2024": 9,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Peumo"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 16,
    "2025": 5,
    "COMUNA": "Peumo"
@@ -4001,7 +4001,7 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "LEY DE DROGAS",
-   "2023": 12,
+   "2023": 13,
    "2024": 9,
    "2025": 7,
    "COMUNA": "Peumo"
@@ -4028,8 +4028,8 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "RECEPTACIÓN",
-   "2023": 8,
-   "2024": 4,
+   "2023": 9,
+   "2024": 5,
    "2025": 3,
    "COMUNA": "Peumo"
   },
@@ -4038,7 +4038,7 @@
    "CODCOM": 6112,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 8,
-   "2024": 8,
+   "2024": 10,
    "2025": 8,
    "COMUNA": "Peumo"
   },
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 6112,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 40,
+   "2023": 42,
    "2024": 92,
-   "2025": 52,
+   "2025": 55,
    "COMUNA": "Peumo"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

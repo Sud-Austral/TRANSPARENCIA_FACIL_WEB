@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9205,
-   "2024": 72,
+   "2024": 75,
    "2025": 65,
-   "variacion": -10,
+   "variacion": -13,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -31,16 +31,16 @@
    "delito": "DAÑOS",
    "CODCOM": 9205,
    "2024": 63,
-   "2025": 73,
-   "variacion": 16,
+   "2025": 75,
+   "variacion": 19,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9205,
-   "2024": 56,
-   "2025": 64,
+   "2024": 57,
+   "2025": 65,
    "variacion": 14,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9205,
-   "2024": 18,
-   "2025": 19,
-   "variacion": 6,
+   "2024": 19,
+   "2025": 20,
+   "variacion": 5,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -75,9 +75,9 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 9205,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
-   "variacion": -20,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -102,9 +102,9 @@
   {
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9205,
-   "2024": 8,
+   "2024": 10,
    "2025": 18,
-   "variacion": 125,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9205,
    "2024": 20,
-   "2025": 35,
-   "variacion": 75,
+   "2025": 36,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Lonquimay"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 9205,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 9205,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Lonquimay"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 9205,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lonquimay"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 9205,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Lonquimay"
   },
   {
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 64,
-   "2024": 72,
+   "2023": 65,
+   "2024": 75,
    "2025": 65,
    "COMUNA": "Lonquimay"
   },
@@ -3911,7 +3911,7 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 28,
+   "2023": 35,
    "2024": 55,
    "2025": 56,
    "COMUNA": "Lonquimay"
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "DAÑOS",
-   "2023": 67,
+   "2023": 70,
    "2024": 63,
-   "2025": 73,
+   "2025": 75,
    "COMUNA": "Lonquimay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 59,
-   "2024": 56,
-   "2025": 64,
+   "2023": 60,
+   "2024": 57,
+   "2025": 65,
    "COMUNA": "Lonquimay"
   },
   {
@@ -3947,16 +3947,16 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "HURTOS",
-   "2023": 27,
-   "2024": 18,
-   "2025": 19,
+   "2023": 29,
+   "2024": 19,
+   "2025": 20,
    "COMUNA": "Lonquimay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "INCIVILIDADES",
-   "2023": 12,
+   "2023": 14,
    "2024": 14,
    "2025": 20,
    "COMUNA": "Lonquimay"
@@ -3966,7 +3966,7 @@
    "CODCOM": 9205,
    "delito": "LESIONES GRAVES",
    "2023": 3,
-   "2024": 5,
+   "2024": 6,
    "2025": 4,
    "COMUNA": "Lonquimay"
   },
@@ -3974,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "LESIONES LEVES",
-   "2023": 39,
+   "2023": 41,
    "2024": 25,
    "2025": 35,
    "COMUNA": "Lonquimay"
@@ -3983,7 +3983,7 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "LESIONES MENOS GRAVES",
-   "2023": 15,
+   "2023": 16,
    "2024": 11,
    "2025": 10,
    "COMUNA": "Lonquimay"
@@ -3993,7 +3993,7 @@
    "CODCOM": 9205,
    "delito": "LEY DE CONTROL DE ARMAS",
    "2023": 2,
-   "2024": 8,
+   "2024": 10,
    "2025": 18,
    "COMUNA": "Lonquimay"
   },
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 9205,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 31,
+   "2023": 32,
    "2024": 20,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "Lonquimay"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "La Araucanía"
  }
 }

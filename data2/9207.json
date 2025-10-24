@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 9207,
-   "2024": 59,
-   "2025": 44,
-   "variacion": -25,
+   "2024": 61,
+   "2025": 45,
+   "variacion": -26,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 9207,
-   "2024": 55,
-   "2025": 41,
+   "2024": 57,
+   "2025": 43,
    "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 9207,
-   "2024": 52,
-   "2025": 36,
-   "variacion": -31,
+   "2024": 53,
+   "2025": 37,
+   "variacion": -30,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 9207,
-   "2024": 7,
+   "2024": 8,
    "2025": 12,
-   "variacion": 71,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -103,8 +103,8 @@
    "delito": "LEY DE CONTROL DE ARMAS",
    "CODCOM": 9207,
    "2024": 6,
-   "2025": 12,
-   "variacion": 100,
+   "2025": 13,
+   "variacion": 117,
    "situación": "Aumento de Casos",
    "COMUNA": "Lumaco"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 9207,
-   "2024": 19,
+   "2024": 20,
    "2025": 9,
-   "variacion": -53,
+   "variacion": -55,
    "situación": "Disminución de Casos",
    "COMUNA": "Lumaco"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 9207,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Lumaco"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 9207,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Lumaco"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 9207,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Lumaco"
   },
   {
@@ -2300,7 +2300,7 @@
    "CODCOM": 9207,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Lumaco"
   },
   {
@@ -3902,16 +3902,16 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 56,
-   "2024": 59,
-   "2025": 44,
+   "2023": 57,
+   "2024": 61,
+   "2025": 45,
    "COMUNA": "Lumaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 88,
+   "2023": 89,
    "2024": 57,
    "2025": 70,
    "COMUNA": "Lumaco"
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "DAÑOS",
-   "2023": 52,
-   "2024": 55,
-   "2025": 41,
+   "2023": 54,
+   "2024": 57,
+   "2025": 43,
    "COMUNA": "Lumaco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 52,
-   "2024": 52,
-   "2025": 36,
+   "2023": 55,
+   "2024": 53,
+   "2025": 37,
    "COMUNA": "Lumaco"
   },
   {
@@ -3947,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "HURTOS",
-   "2023": 19,
-   "2024": 7,
+   "2023": 21,
+   "2024": 8,
    "2025": 12,
    "COMUNA": "Lumaco"
   },
@@ -3965,7 +3965,7 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "LESIONES GRAVES",
-   "2023": 4,
+   "2023": 5,
    "2024": 2,
    "2025": 0,
    "COMUNA": "Lumaco"
@@ -3992,9 +3992,9 @@
    "informacion": "Casos",
    "CODCOM": 9207,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 7,
+   "2023": 8,
    "2024": 6,
-   "2025": 12,
+   "2025": 13,
    "COMUNA": "Lumaco"
   },
   {
@@ -4056,7 +4056,7 @@
    "CODCOM": 9207,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 18,
-   "2024": 19,
+   "2024": 20,
    "2025": 9,
    "COMUNA": "Lumaco"
   },
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "La Araucanía"
  }
 }

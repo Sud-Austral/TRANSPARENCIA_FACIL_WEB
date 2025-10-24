@@ -21,9 +21,9 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 12201,
-   "2024": 41,
-   "2025": 94,
-   "variacion": 129,
+   "2024": 44,
+   "2025": 108,
+   "variacion": 145,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -39,10 +39,10 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 12201,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -8,
+   "situación": "Disminución de Casos",
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 12201,
-   "2024": 9,
+   "2024": 10,
    "2025": 12,
-   "variacion": 33,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 12201,
    "2024": 5,
-   "2025": 6,
-   "variacion": 20,
+   "2025": 8,
+   "variacion": 60,
    "situación": "Aumento de Casos",
    "COMUNA": "Cabo de Hornos"
   },
@@ -716,7 +716,7 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 16,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 12201,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -3903,9 +3903,9 @@
    "informacion": "Casos",
    "CODCOM": 12201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 69,
-   "2024": 41,
-   "2025": 94,
+   "2023": 70,
+   "2024": 44,
+   "2025": 108,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -3922,7 +3922,7 @@
    "CODCOM": 12201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 8,
-   "2024": 11,
+   "2024": 12,
    "2025": 11,
    "COMUNA": "Cabo de Hornos"
   },
@@ -3948,8 +3948,8 @@
    "informacion": "Casos",
    "CODCOM": 12201,
    "delito": "INCIVILIDADES",
-   "2023": 15,
-   "2024": 9,
+   "2023": 17,
+   "2024": 10,
    "2025": 12,
    "COMUNA": "Cabo de Hornos"
   },
@@ -3968,7 +3968,7 @@
    "delito": "LESIONES LEVES",
    "2023": 14,
    "2024": 5,
-   "2025": 6,
+   "2025": 8,
    "COMUNA": "Cabo de Hornos"
   },
   {
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Magallanes"
  }
 }

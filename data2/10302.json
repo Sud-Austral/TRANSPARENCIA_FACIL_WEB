@@ -12,36 +12,36 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 10302,
-   "2024": 58,
+   "2024": 59,
    "2025": 52,
-   "variacion": -10,
+   "variacion": -12,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 10302,
-   "2024": 51,
-   "2025": 71,
-   "variacion": 39,
+   "2024": 53,
+   "2025": 72,
+   "variacion": 36,
    "situación": "Aumento de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 10302,
-   "2024": 76,
+   "2024": 77,
    "2025": 50,
-   "variacion": -34,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 10302,
-   "2024": 78,
-   "2025": 75,
-   "variacion": -4,
+   "2024": 81,
+   "2025": 77,
+   "variacion": -5,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 10302,
-   "2024": 29,
-   "2025": 22,
-   "variacion": -24,
+   "2024": 31,
+   "2025": 26,
+   "variacion": -16,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
@@ -93,10 +93,10 @@
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 10302,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -17,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
@@ -129,10 +129,10 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 10302,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
   },
   {
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 10302,
-   "2024": 33,
-   "2025": 27,
+   "2024": 34,
+   "2025": 28,
    "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Puerto Octay"
@@ -716,7 +716,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 4,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 10302,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 78,
-   "2024": 58,
+   "2023": 79,
+   "2024": 59,
    "2025": 52,
    "COMUNA": "Puerto Octay"
   },
@@ -3911,17 +3911,17 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 69,
-   "2024": 51,
-   "2025": 71,
+   "2023": 71,
+   "2024": 53,
+   "2025": 72,
    "COMUNA": "Puerto Octay"
   },
   {
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "DAÑOS",
-   "2023": 72,
-   "2024": 76,
+   "2023": 76,
+   "2024": 77,
    "2025": 50,
    "COMUNA": "Puerto Octay"
   },
@@ -3929,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 60,
-   "2024": 78,
-   "2025": 75,
+   "2023": 63,
+   "2024": 81,
+   "2025": 77,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -3948,8 +3948,8 @@
    "CODCOM": 10302,
    "delito": "HURTOS",
    "2023": 33,
-   "2024": 29,
-   "2025": 22,
+   "2024": 31,
+   "2025": 26,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -3984,7 +3984,7 @@
    "CODCOM": 10302,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 10,
-   "2024": 5,
+   "2024": 6,
    "2025": 5,
    "COMUNA": "Puerto Octay"
   },
@@ -4020,7 +4020,7 @@
    "CODCOM": 10302,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Puerto Octay"
   },
@@ -4056,8 +4056,8 @@
    "CODCOM": 10302,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 28,
-   "2024": 33,
-   "2025": 27,
+   "2024": 34,
+   "2025": 28,
    "COMUNA": "Puerto Octay"
   },
   {
@@ -4073,14 +4073,14 @@
    "informacion": "Casos",
    "CODCOM": 10302,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
-   "2023": 5,
+   "2023": 6,
    "2024": 10,
    "2025": 7,
    "COMUNA": "Puerto Octay"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Los Lagos"
  }
 }

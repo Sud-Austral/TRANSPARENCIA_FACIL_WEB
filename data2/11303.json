@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 11303,
    "2024": 3,
-   "2025": 4,
-   "variacion": 33,
+   "2025": 5,
+   "variacion": 67,
    "situación": "Aumento de Casos",
    "COMUNA": "Tortel"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 11303,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Tortel"
   },
   {
@@ -3890,14 +3890,14 @@
    "delito": "DAÑOS",
    "2023": 1,
    "2024": 3,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Tortel"
   },
   {
    "informacion": "Casos",
    "CODCOM": 11303,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 7,
+   "2023": 8,
    "2024": 13,
    "2025": 5,
    "COMUNA": "Tortel"
@@ -3924,7 +3924,7 @@
    "informacion": "Casos",
    "CODCOM": 11303,
    "delito": "INCIVILIDADES",
-   "2023": 10,
+   "2023": 11,
    "2024": 5,
    "2025": 4,
    "COMUNA": "Tortel"
@@ -4048,7 +4048,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Aysén"
  }
 }

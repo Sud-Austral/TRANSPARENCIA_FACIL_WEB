@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16303,
-   "2024": 67,
-   "2025": 49,
-   "variacion": -27,
+   "2024": 72,
+   "2025": 50,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16303,
    "2024": 4,
-   "2025": 15,
-   "variacion": 275,
+   "2025": 16,
+   "variacion": 300,
    "situación": "Aumento de Casos",
    "COMUNA": "Ñiquén"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 16303,
-   "2024": 71,
-   "2025": 64,
-   "variacion": -10,
+   "2024": 74,
+   "2025": 66,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -57,18 +57,18 @@
   {
    "delito": "HURTOS",
    "CODCOM": 16303,
-   "2024": 16,
+   "2024": 17,
    "2025": 17,
-   "variacion": 6,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Ñiquén"
   },
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 16303,
    "2024": 14,
-   "2025": 11,
-   "variacion": -21,
+   "2025": 12,
+   "variacion": -14,
    "situación": "Disminución de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -130,8 +130,8 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 16303,
    "2024": 1,
-   "2025": 13,
-   "variacion": 1200,
+   "2025": 17,
+   "variacion": 1600,
    "situación": "Aumento de Casos",
    "COMUNA": "Ñiquén"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Ñiquén"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Ñiquén"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 7,
    "COMUNA": "Ñiquén"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Ñiquén"
   },
   {
@@ -2828,7 +2828,7 @@
    "CODCOM": 16303,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 5,
    "COMUNA": "Ñiquén"
   },
   {
@@ -3902,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 82,
-   "2024": 67,
-   "2025": 49,
+   "2023": 86,
+   "2024": 72,
+   "2025": 50,
    "COMUNA": "Ñiquén"
   },
   {
@@ -3913,23 +3913,23 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 7,
    "2024": 4,
-   "2025": 15,
+   "2025": 16,
    "COMUNA": "Ñiquén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "DAÑOS",
-   "2023": 88,
-   "2024": 71,
-   "2025": 64,
+   "2023": 89,
+   "2024": 74,
+   "2025": 66,
    "COMUNA": "Ñiquén"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 57,
+   "2023": 58,
    "2024": 50,
    "2025": 44,
    "COMUNA": "Ñiquén"
@@ -3947,8 +3947,8 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "HURTOS",
-   "2023": 12,
-   "2024": 16,
+   "2023": 13,
+   "2024": 17,
    "2025": 17,
    "COMUNA": "Ñiquén"
   },
@@ -3958,7 +3958,7 @@
    "delito": "INCIVILIDADES",
    "2023": 7,
    "2024": 14,
-   "2025": 11,
+   "2025": 12,
    "COMUNA": "Ñiquén"
   },
   {
@@ -3974,7 +3974,7 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "LESIONES LEVES",
-   "2023": 14,
+   "2023": 15,
    "2024": 11,
    "2025": 7,
    "COMUNA": "Ñiquén"
@@ -4021,7 +4021,7 @@
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 0,
    "2024": 1,
-   "2025": 13,
+   "2025": 17,
    "COMUNA": "Ñiquén"
   },
   {
@@ -4037,7 +4037,7 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 5,
+   "2023": 6,
    "2024": 8,
    "2025": 5,
    "COMUNA": "Ñiquén"
@@ -4046,7 +4046,7 @@
    "informacion": "Casos",
    "CODCOM": 16303,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
-   "2023": 19,
+   "2023": 22,
    "2024": 13,
    "2025": 14,
    "COMUNA": "Ñiquén"
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Ñuble"
  }
 }

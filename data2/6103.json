@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6103,
-   "2024": 48,
+   "2024": 49,
    "2025": 47,
-   "variacion": -2,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -22,8 +22,8 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6103,
    "2024": 41,
-   "2025": 63,
-   "variacion": 54,
+   "2025": 68,
+   "variacion": 66,
    "situación": "Aumento de Casos",
    "COMUNA": "Coinco"
   },
@@ -39,9 +39,9 @@
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6103,
-   "2024": 39,
-   "2025": 30,
-   "variacion": -23,
+   "2024": 40,
+   "2025": 32,
+   "variacion": -20,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 6103,
    "2024": 22,
-   "2025": 14,
-   "variacion": -36,
+   "2025": 16,
+   "variacion": -27,
    "situación": "Disminución de Casos",
    "COMUNA": "Coinco"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 6103,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
-   "variacion": 100,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Coinco"
   },
   {
@@ -716,7 +716,7 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "Coinco"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Coinco"
   },
   {
@@ -1412,7 +1412,7 @@
    "CODCOM": 6103,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Coinco"
   },
   {
@@ -3894,8 +3894,8 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 54,
-   "2024": 48,
+   "2023": 55,
+   "2024": 49,
    "2025": 47,
    "COMUNA": "Coinco"
   },
@@ -3905,14 +3905,14 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 55,
    "2024": 41,
-   "2025": 63,
+   "2025": 68,
    "COMUNA": "Coinco"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "DAÑOS",
-   "2023": 43,
+   "2023": 46,
    "2024": 44,
    "2025": 33,
    "COMUNA": "Coinco"
@@ -3921,9 +3921,9 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 41,
-   "2024": 39,
-   "2025": 30,
+   "2023": 43,
+   "2024": 40,
+   "2025": 32,
    "COMUNA": "Coinco"
   },
   {
@@ -3939,9 +3939,9 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "HURTOS",
-   "2023": 21,
+   "2023": 22,
    "2024": 22,
-   "2025": 14,
+   "2025": 16,
    "COMUNA": "Coinco"
   },
   {
@@ -4021,7 +4021,7 @@
    "CODCOM": 6103,
    "delito": "RECEPTACIÓN",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 1,
    "COMUNA": "Coinco"
   },
@@ -4029,7 +4029,7 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 4,
+   "2023": 5,
    "2024": 5,
    "2025": 4,
    "COMUNA": "Coinco"
@@ -4047,7 +4047,7 @@
    "informacion": "Casos",
    "CODCOM": 6103,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 34,
+   "2023": 35,
    "2024": 43,
    "2025": 28,
    "COMUNA": "Coinco"
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

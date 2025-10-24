@@ -13,17 +13,17 @@
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 1402,
    "2024": 6,
-   "2025": 4,
-   "variacion": -33,
+   "2025": 5,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 1402,
-   "2024": 20,
+   "2024": 21,
    "2025": 17,
-   "variacion": -15,
+   "variacion": -19,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 1402,
    "2024": 9,
-   "2025": 5,
-   "variacion": -44,
+   "2025": 6,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 1402,
-   "2024": 6,
-   "2025": 2,
-   "variacion": -67,
+   "2024": 7,
+   "2025": 3,
+   "variacion": -57,
    "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
@@ -147,10 +147,10 @@
   {
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 1402,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "Camiña"
   },
   {
@@ -540,7 +540,7 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camiña"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camiña"
   },
   {
@@ -1940,7 +1940,7 @@
    "CODCOM": 1402,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Camiña"
   },
   {
@@ -3896,7 +3896,7 @@
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 12,
    "2024": 6,
-   "2025": 4,
+   "2025": 5,
    "COMUNA": "Camiña"
   },
   {
@@ -3904,7 +3904,7 @@
    "CODCOM": 1402,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 25,
-   "2024": 20,
+   "2024": 21,
    "2025": 17,
    "COMUNA": "Camiña"
   },
@@ -3921,9 +3921,9 @@
    "informacion": "Casos",
    "CODCOM": 1402,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 7,
+   "2023": 8,
    "2024": 9,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Camiña"
   },
   {
@@ -3967,8 +3967,8 @@
    "CODCOM": 1402,
    "delito": "LESIONES LEVES",
    "2023": 6,
-   "2024": 6,
-   "2025": 2,
+   "2024": 7,
+   "2025": 3,
    "COMUNA": "Camiña"
   },
   {
@@ -4030,7 +4030,7 @@
    "CODCOM": 1402,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 1,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "Camiña"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Tarapacá"
  }
 }

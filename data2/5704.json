@@ -30,8 +30,8 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 5704,
-   "2024": 66,
-   "2025": 70,
+   "2024": 67,
+   "2025": 71,
    "variacion": 6,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 5704,
    "2024": 54,
-   "2025": 72,
-   "variacion": 33,
+   "2025": 73,
+   "variacion": 35,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 5704,
-   "2024": 28,
+   "2024": 29,
    "2025": 31,
-   "variacion": 11,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -84,9 +84,9 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 5704,
-   "2024": 12,
+   "2024": 13,
    "2025": 19,
-   "variacion": 58,
+   "variacion": 46,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -165,9 +165,9 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 5704,
-   "2024": 30,
-   "2025": 47,
-   "variacion": 57,
+   "2024": 31,
+   "2025": 49,
+   "variacion": 58,
    "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
@@ -175,9 +175,9 @@
    "delito": "ROBOS POR SORPRESA",
    "CODCOM": 5704,
    "2024": 0,
-   "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "2025": 1,
+   "variacion": 100,
+   "situación": "Aumento de Casos",
    "COMUNA": "Panquehue"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 10,
-   "casos": 5,
+   "casos": 6,
    "COMUNA": "Panquehue"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -3524,7 +3524,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Panquehue"
   },
   {
@@ -3700,7 +3700,7 @@
    "CODCOM": 5704,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -3912,9 +3912,9 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "DAÑOS",
-   "2023": 61,
-   "2024": 66,
-   "2025": 70,
+   "2023": 65,
+   "2024": 67,
+   "2025": 71,
    "COMUNA": "Panquehue"
   },
   {
@@ -3923,7 +3923,7 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 56,
    "2024": 54,
-   "2025": 72,
+   "2025": 73,
    "COMUNA": "Panquehue"
   },
   {
@@ -3939,7 +3939,7 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "HURTOS",
-   "2023": 22,
+   "2023": 23,
    "2024": 23,
    "2025": 22,
    "COMUNA": "Panquehue"
@@ -3949,7 +3949,7 @@
    "CODCOM": 5704,
    "delito": "INCIVILIDADES",
    "2023": 27,
-   "2024": 28,
+   "2024": 29,
    "2025": 31,
    "COMUNA": "Panquehue"
   },
@@ -3966,8 +3966,8 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "LESIONES LEVES",
-   "2023": 22,
-   "2024": 12,
+   "2023": 23,
+   "2024": 13,
    "2025": 19,
    "COMUNA": "Panquehue"
   },
@@ -3984,7 +3984,7 @@
    "informacion": "Casos",
    "CODCOM": 5704,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 8,
+   "2023": 9,
    "2024": 3,
    "2025": 8,
    "COMUNA": "Panquehue"
@@ -4048,8 +4048,8 @@
    "CODCOM": 5704,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 34,
-   "2024": 30,
-   "2025": 47,
+   "2024": 31,
+   "2025": 49,
    "COMUNA": "Panquehue"
   },
   {
@@ -4058,7 +4058,7 @@
    "delito": "ROBOS POR SORPRESA",
    "2023": 1,
    "2024": 0,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Panquehue"
   },
   {
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Valparaíso"
  }
 }

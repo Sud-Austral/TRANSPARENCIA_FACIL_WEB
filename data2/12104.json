@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 12104,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
-   "variacion": -82,
+   "variacion": -83,
    "situación": "Disminución de Casos",
    "COMUNA": "San Gregorio"
   },
@@ -57,10 +57,10 @@
   {
    "delito": "HURTOS",
    "CODCOM": 12104,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
-   "variacion": 0,
-   "situación": "Sin variación de Casos",
+   "variacion": -100,
+   "situación": "Disminución de Casos",
    "COMUNA": "San Gregorio"
   },
   {
@@ -112,8 +112,8 @@
    "delito": "LEY DE DROGAS",
    "CODCOM": 12104,
    "2024": 5,
-   "2025": 1,
-   "variacion": -80,
+   "2025": 2,
+   "variacion": -60,
    "situación": "Disminución de Casos",
    "COMUNA": "San Gregorio"
   },
@@ -2468,7 +2468,7 @@
    "CODCOM": 12104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "San Gregorio"
   },
   {
@@ -3881,7 +3881,7 @@
    "CODCOM": 12104,
    "delito": "DAÑOS",
    "2023": 15,
-   "2024": 11,
+   "2024": 12,
    "2025": 2,
    "COMUNA": "San Gregorio"
   },
@@ -3908,7 +3908,7 @@
    "CODCOM": 12104,
    "delito": "HURTOS",
    "2023": 2,
-   "2024": 0,
+   "2024": 1,
    "2025": 0,
    "COMUNA": "San Gregorio"
   },
@@ -3963,7 +3963,7 @@
    "delito": "LEY DE DROGAS",
    "2023": 1,
    "2024": 5,
-   "2025": 1,
+   "2025": 2,
    "COMUNA": "San Gregorio"
   },
   {
@@ -4040,7 +4040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Magallanes"
  }
 }

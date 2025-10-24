@@ -31,8 +31,8 @@
    "delito": "DAÑOS",
    "CODCOM": 11302,
    "2024": 12,
-   "2025": 8,
-   "variacion": -33,
+   "2025": 9,
+   "variacion": -25,
    "situación": "Disminución de Casos",
    "COMUNA": "O'Higgins"
   },
@@ -157,9 +157,9 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 11302,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "O'Higgins"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 11302,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "O'Higgins"
   },
   {
@@ -3324,7 +3324,7 @@
    "CODCOM": 11302,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "O'Higgins"
   },
   {
@@ -3862,7 +3862,7 @@
    "informacion": "Casos",
    "CODCOM": 11302,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 0,
+   "2023": 1,
    "2024": 2,
    "2025": 8,
    "COMUNA": "O'Higgins"
@@ -3882,7 +3882,7 @@
    "delito": "DAÑOS",
    "2023": 0,
    "2024": 12,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "O'Higgins"
   },
   {
@@ -4008,7 +4008,7 @@
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 0,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "O'Higgins"
   },
   {
@@ -4040,7 +4040,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Aysén"
  }
 }

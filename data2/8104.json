@@ -30,18 +30,18 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 8104,
-   "2024": 79,
-   "2025": 82,
-   "variacion": 4,
+   "2024": 82,
+   "2025": 83,
+   "variacion": 1,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 8104,
-   "2024": 73,
-   "2025": 67,
-   "variacion": -8,
+   "2024": 76,
+   "2025": 68,
+   "variacion": -11,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -58,8 +58,8 @@
    "delito": "HURTOS",
    "CODCOM": 8104,
    "2024": 18,
-   "2025": 27,
-   "variacion": 50,
+   "2025": 28,
+   "variacion": 56,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 8104,
    "2024": 18,
-   "2025": 25,
-   "variacion": 39,
+   "2025": 26,
+   "variacion": 44,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 8104,
    "2024": 29,
-   "2025": 25,
-   "variacion": -14,
+   "2025": 26,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Florida"
   },
@@ -166,8 +166,8 @@
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 8104,
    "2024": 56,
-   "2025": 58,
-   "variacion": 4,
+   "2025": 60,
+   "variacion": 7,
    "situación": "Aumento de Casos",
    "COMUNA": "Florida"
   },
@@ -892,7 +892,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Florida"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Florida"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Florida"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Florida"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Florida"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 8104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Florida"
   },
   {
@@ -3920,18 +3920,18 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "DAÑOS",
-   "2023": 87,
-   "2024": 79,
-   "2025": 82,
+   "2023": 90,
+   "2024": 82,
+   "2025": 83,
    "COMUNA": "Florida"
   },
   {
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 61,
-   "2024": 73,
-   "2025": 67,
+   "2023": 65,
+   "2024": 76,
+   "2025": 68,
    "COMUNA": "Florida"
   },
   {
@@ -3947,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "HURTOS",
-   "2023": 41,
+   "2023": 47,
    "2024": 18,
-   "2025": 27,
+   "2025": 28,
    "COMUNA": "Florida"
   },
   {
@@ -3958,7 +3958,7 @@
    "delito": "INCIVILIDADES",
    "2023": 30,
    "2024": 18,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "Florida"
   },
   {
@@ -3976,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 24,
    "2024": 29,
-   "2025": 25,
+   "2025": 26,
    "COMUNA": "Florida"
   },
   {
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 8104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 65,
+   "2023": 67,
    "2024": 56,
-   "2025": 58,
+   "2025": 60,
    "COMUNA": "Florida"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Biobío"
  }
 }

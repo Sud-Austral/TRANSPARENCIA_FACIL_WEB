@@ -3,27 +3,27 @@
   {
    "delito": "AMENAZAS CON ARMAS",
    "CODCOM": 16201,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quirihue"
   },
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 16201,
-   "2024": 91,
+   "2024": 94,
    "2025": 53,
-   "variacion": -42,
+   "variacion": -44,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 16201,
-   "2024": 87,
-   "2025": 57,
-   "variacion": -34,
+   "2024": 89,
+   "2025": 58,
+   "variacion": -35,
    "situación": "Disminución de Casos",
    "COMUNA": "Quirihue"
   },
@@ -75,10 +75,10 @@
   {
    "delito": "LESIONES GRAVES",
    "CODCOM": 16201,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
-   "variacion": 25,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Quirihue"
   },
   {
@@ -94,8 +94,8 @@
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 16201,
    "2024": 5,
-   "2025": 8,
-   "variacion": 60,
+   "2025": 9,
+   "variacion": 80,
    "situación": "Aumento de Casos",
    "COMUNA": "Quirihue"
   },
@@ -716,7 +716,7 @@
    "CODCOM": 16201,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Quirihue"
   },
   {
@@ -2124,7 +2124,7 @@
    "CODCOM": 16201,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Quirihue"
   },
   {
@@ -3894,7 +3894,7 @@
    "CODCOM": 16201,
    "delito": "AMENAZAS CON ARMAS",
    "2023": 3,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "Quirihue"
   },
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 98,
-   "2024": 91,
+   "2023": 100,
+   "2024": 94,
    "2025": 53,
    "COMUNA": "Quirihue"
   },
@@ -3911,16 +3911,16 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 55,
-   "2024": 87,
-   "2025": 57,
+   "2023": 59,
+   "2024": 89,
+   "2025": 58,
    "COMUNA": "Quirihue"
   },
   {
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "DAÑOS",
-   "2023": 78,
+   "2023": 80,
    "2024": 79,
    "2025": 56,
    "COMUNA": "Quirihue"
@@ -3929,7 +3929,7 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 45,
+   "2023": 46,
    "2024": 53,
    "2025": 42,
    "COMUNA": "Quirihue"
@@ -3947,7 +3947,7 @@
    "informacion": "Casos",
    "CODCOM": 16201,
    "delito": "HURTOS",
-   "2023": 41,
+   "2023": 42,
    "2024": 36,
    "2025": 29,
    "COMUNA": "Quirihue"
@@ -3966,7 +3966,7 @@
    "CODCOM": 16201,
    "delito": "LESIONES GRAVES",
    "2023": 5,
-   "2024": 4,
+   "2024": 5,
    "2025": 5,
    "COMUNA": "Quirihue"
   },
@@ -3985,7 +3985,7 @@
    "delito": "LESIONES MENOS GRAVES",
    "2023": 4,
    "2024": 5,
-   "2025": 8,
+   "2025": 9,
    "COMUNA": "Quirihue"
   },
   {
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Ñuble"
  }
 }

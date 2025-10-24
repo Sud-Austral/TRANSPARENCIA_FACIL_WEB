@@ -85,9 +85,9 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 12303,
    "2024": 1,
-   "2025": 0,
-   "variacion": -100,
-   "situación": "Disminución de Casos",
+   "2025": 1,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Timaukel"
   },
   {
@@ -1932,7 +1932,7 @@
    "CODCOM": 12303,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Timaukel"
   },
   {
@@ -3830,7 +3830,7 @@
    "informacion": "Casos",
    "CODCOM": 12303,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 0,
+   "2023": 1,
    "2024": 0,
    "2025": 1,
    "COMUNA": "Timaukel"
@@ -3904,7 +3904,7 @@
    "delito": "LESIONES LEVES",
    "2023": 0,
    "2024": 1,
-   "2025": 0,
+   "2025": 1,
    "COMUNA": "Timaukel"
   },
   {
@@ -4008,7 +4008,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Magallanes"
  }
 }

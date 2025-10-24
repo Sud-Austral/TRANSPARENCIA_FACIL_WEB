@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6111,
-   "2024": 95,
+   "2024": 97,
    "2025": 90,
-   "variacion": -5,
+   "variacion": -7,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -22,17 +22,17 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6111,
    "2024": 21,
-   "2025": 27,
-   "variacion": 29,
+   "2025": 31,
+   "variacion": 48,
    "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6111,
-   "2024": 86,
-   "2025": 82,
-   "variacion": -5,
+   "2024": 91,
+   "2025": 87,
+   "variacion": -4,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6111,
    "2024": 65,
-   "2025": 69,
-   "variacion": 6,
+   "2025": 75,
+   "variacion": 15,
    "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
@@ -67,8 +67,8 @@
    "delito": "INCIVILIDADES",
    "CODCOM": 6111,
    "2024": 33,
-   "2025": 13,
-   "variacion": -61,
+   "2025": 14,
+   "variacion": -58,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 6111,
    "2024": 42,
-   "2025": 40,
-   "variacion": -5,
+   "2025": 41,
+   "variacion": -2,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 6111,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
-   "variacion": 100,
+   "variacion": 33,
    "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
@@ -156,19 +156,19 @@
   {
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "CODCOM": 6111,
-   "2024": 26,
+   "2024": 27,
    "2025": 12,
-   "variacion": -54,
+   "variacion": -56,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   },
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6111,
-   "2024": 73,
-   "2025": 71,
-   "variacion": -3,
-   "situación": "Disminución de Casos",
+   "2024": 74,
+   "2025": 76,
+   "variacion": 3,
+   "situación": "Aumento de Casos",
    "COMUNA": "Olivar"
   },
   {
@@ -183,9 +183,9 @@
   {
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6111,
-   "2024": 16,
+   "2024": 17,
    "2025": 9,
-   "variacion": -44,
+   "variacion": -47,
    "situación": "Disminución de Casos",
    "COMUNA": "Olivar"
   }
@@ -716,7 +716,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 4,
    "COMUNA": "Olivar"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 8,
    "COMUNA": "Olivar"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 6,
    "COMUNA": "Olivar"
   },
   {
@@ -1596,7 +1596,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Olivar"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Olivar"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 6111,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 5,
    "COMUNA": "Olivar"
   },
   {
@@ -3903,7 +3903,7 @@
    "CODCOM": 6111,
    "delito": "AMENAZAS Y RIÑAS",
    "2023": 77,
-   "2024": 95,
+   "2024": 97,
    "2025": 90,
    "COMUNA": "Olivar"
   },
@@ -3913,25 +3913,25 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 8,
    "2024": 21,
-   "2025": 27,
+   "2025": 31,
    "COMUNA": "Olivar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "DAÑOS",
-   "2023": 84,
-   "2024": 86,
-   "2025": 82,
+   "2023": 86,
+   "2024": 91,
+   "2025": 87,
    "COMUNA": "Olivar"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 86,
+   "2023": 88,
    "2024": 65,
-   "2025": 69,
+   "2025": 75,
    "COMUNA": "Olivar"
   },
   {
@@ -3956,9 +3956,9 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "INCIVILIDADES",
-   "2023": 20,
+   "2023": 21,
    "2024": 33,
-   "2025": 13,
+   "2025": 14,
    "COMUNA": "Olivar"
   },
   {
@@ -3974,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "LESIONES LEVES",
-   "2023": 27,
+   "2023": 28,
    "2024": 42,
-   "2025": 40,
+   "2025": 41,
    "COMUNA": "Olivar"
   },
   {
@@ -3992,7 +3992,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "LEY DE CONTROL DE ARMAS",
-   "2023": 0,
+   "2023": 1,
    "2024": 4,
    "2025": 8,
    "COMUNA": "Olivar"
@@ -4020,7 +4020,7 @@
    "CODCOM": 6111,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "2023": 5,
-   "2024": 2,
+   "2024": 3,
    "2025": 4,
    "COMUNA": "Olivar"
   },
@@ -4037,7 +4037,7 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
-   "2023": 12,
+   "2023": 13,
    "2024": 12,
    "2025": 6,
    "COMUNA": "Olivar"
@@ -4047,7 +4047,7 @@
    "CODCOM": 6111,
    "delito": "ROBOS DE VEHÍCULOS Y SUS ACCESORIOS",
    "2023": 21,
-   "2024": 26,
+   "2024": 27,
    "2025": 12,
    "COMUNA": "Olivar"
   },
@@ -4055,9 +4055,9 @@
    "informacion": "Casos",
    "CODCOM": 6111,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 83,
-   "2024": 73,
-   "2025": 71,
+   "2023": 86,
+   "2024": 74,
+   "2025": 76,
    "COMUNA": "Olivar"
   },
   {
@@ -4074,13 +4074,13 @@
    "CODCOM": 6111,
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 9,
-   "2024": 16,
+   "2024": 17,
    "2025": 9,
    "COMUNA": "Olivar"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

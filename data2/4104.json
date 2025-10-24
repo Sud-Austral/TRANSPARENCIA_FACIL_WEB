@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 4104,
-   "2024": 38,
-   "2025": 59,
-   "variacion": 55,
+   "2024": 40,
+   "2025": 60,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
@@ -30,9 +30,9 @@
   {
    "delito": "DAÑOS",
    "CODCOM": 4104,
-   "2024": 71,
+   "2024": 73,
    "2025": 43,
-   "variacion": -39,
+   "variacion": -41,
    "situación": "Disminución de Casos",
    "COMUNA": "La Higuera"
   },
@@ -40,8 +40,8 @@
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 4104,
    "2024": 30,
-   "2025": 35,
-   "variacion": 17,
+   "2025": 36,
+   "variacion": 20,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 4104,
-   "2024": 10,
+   "2024": 11,
    "2025": 14,
-   "variacion": 40,
+   "variacion": 27,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
@@ -85,8 +85,8 @@
    "delito": "LESIONES LEVES",
    "CODCOM": 4104,
    "2024": 18,
-   "2025": 19,
-   "variacion": 6,
+   "2025": 21,
+   "variacion": 17,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
@@ -111,9 +111,9 @@
   {
    "delito": "LEY DE DROGAS",
    "CODCOM": 4104,
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
-   "variacion": -27,
+   "variacion": -33,
    "situación": "Disminución de Casos",
    "COMUNA": "La Higuera"
   },
@@ -129,9 +129,9 @@
   {
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
    "CODCOM": 4104,
-   "2024": 22,
+   "2024": 24,
    "2025": 31,
-   "variacion": 41,
+   "variacion": 29,
    "situación": "Aumento de Casos",
    "COMUNA": "La Higuera"
   },
@@ -540,7 +540,7 @@
    "CODCOM": 4104,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "La Higuera"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 4104,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "La Higuera"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 4104,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "La Higuera"
   },
   {
@@ -3902,9 +3902,9 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 45,
-   "2024": 38,
-   "2025": 59,
+   "2023": 47,
+   "2024": 40,
+   "2025": 60,
    "COMUNA": "La Higuera"
   },
   {
@@ -3920,8 +3920,8 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "DAÑOS",
-   "2023": 41,
-   "2024": 71,
+   "2023": 43,
+   "2024": 73,
    "2025": 43,
    "COMUNA": "La Higuera"
   },
@@ -3929,9 +3929,9 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
-   "2023": 18,
+   "2023": 19,
    "2024": 30,
-   "2025": 35,
+   "2025": 36,
    "COMUNA": "La Higuera"
   },
   {
@@ -3957,7 +3957,7 @@
    "CODCOM": 4104,
    "delito": "INCIVILIDADES",
    "2023": 11,
-   "2024": 10,
+   "2024": 11,
    "2025": 14,
    "COMUNA": "La Higuera"
   },
@@ -3976,7 +3976,7 @@
    "delito": "LESIONES LEVES",
    "2023": 25,
    "2024": 18,
-   "2025": 19,
+   "2025": 21,
    "COMUNA": "La Higuera"
   },
   {
@@ -4002,7 +4002,7 @@
    "CODCOM": 4104,
    "delito": "LEY DE DROGAS",
    "2023": 6,
-   "2024": 11,
+   "2024": 12,
    "2025": 8,
    "COMUNA": "La Higuera"
   },
@@ -4019,8 +4019,8 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "OTROS ROBOS CON FUERZA EN LAS COSAS",
-   "2023": 29,
-   "2024": 22,
+   "2023": 30,
+   "2024": 24,
    "2025": 31,
    "COMUNA": "La Higuera"
   },
@@ -4055,7 +4055,7 @@
    "informacion": "Casos",
    "CODCOM": 4104,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
-   "2023": 34,
+   "2023": 35,
    "2024": 47,
    "2025": 35,
    "COMUNA": "La Higuera"
@@ -4080,7 +4080,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Coquimbo"
  }
 }

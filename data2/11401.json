@@ -21,26 +21,26 @@
   {
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 11401,
-   "2024": 117,
+   "2024": 118,
    "2025": 82,
-   "variacion": -30,
+   "variacion": -31,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 11401,
-   "2024": 49,
-   "2025": 39,
-   "variacion": -20,
+   "2024": 50,
+   "2025": 41,
+   "variacion": -18,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 11401,
-   "2024": 43,
-   "2025": 39,
+   "2024": 45,
+   "2025": 41,
    "variacion": -9,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
@@ -66,9 +66,9 @@
   {
    "delito": "INCIVILIDADES",
    "CODCOM": 11401,
-   "2024": 85,
+   "2024": 87,
    "2025": 72,
-   "variacion": -15,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Chile Chico"
   },
@@ -138,10 +138,10 @@
   {
    "delito": "RECEPTACIÓN",
    "CODCOM": 11401,
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
-   "variacion": 50,
-   "situación": "Aumento de Casos",
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Chile Chico"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Chile Chico"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 11401,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 2,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3904,7 +3904,7 @@
    "CODCOM": 11401,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "2023": 176,
-   "2024": 117,
+   "2024": 118,
    "2025": 82,
    "COMUNA": "Chile Chico"
   },
@@ -3912,9 +3912,9 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "DAÑOS",
-   "2023": 39,
-   "2024": 49,
-   "2025": 39,
+   "2023": 44,
+   "2024": 50,
+   "2025": 41,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3922,8 +3922,8 @@
    "CODCOM": 11401,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 20,
-   "2024": 43,
-   "2025": 39,
+   "2024": 45,
+   "2025": 41,
    "COMUNA": "Chile Chico"
   },
   {
@@ -3948,8 +3948,8 @@
    "informacion": "Casos",
    "CODCOM": 11401,
    "delito": "INCIVILIDADES",
-   "2023": 68,
-   "2024": 85,
+   "2023": 78,
+   "2024": 87,
    "2025": 72,
    "COMUNA": "Chile Chico"
   },
@@ -4021,7 +4021,7 @@
    "CODCOM": 11401,
    "delito": "RECEPTACIÓN",
    "2023": 4,
-   "2024": 2,
+   "2024": 3,
    "2025": 3,
    "COMUNA": "Chile Chico"
   },
@@ -4072,7 +4072,7 @@
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "Aysén"
  }
 }

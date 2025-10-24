@@ -12,9 +12,9 @@
   {
    "delito": "AMENAZAS Y RIÑAS",
    "CODCOM": 6109,
-   "2024": 96,
+   "2024": 100,
    "2025": 90,
-   "variacion": -6,
+   "variacion": -10,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
@@ -22,26 +22,26 @@
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
    "CODCOM": 6109,
    "2024": 44,
-   "2025": 30,
-   "variacion": -32,
+   "2025": 34,
+   "variacion": -23,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "DAÑOS",
    "CODCOM": 6109,
-   "2024": 90,
-   "2025": 88,
-   "variacion": -2,
-   "situación": "Disminución de Casos",
+   "2024": 91,
+   "2025": 91,
+   "variacion": 0,
+   "situación": "Sin variación de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "CODCOM": 6109,
-   "2024": 60,
-   "2025": 89,
-   "variacion": 48,
+   "2024": 63,
+   "2025": 90,
+   "variacion": 43,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   },
@@ -57,9 +57,9 @@
   {
    "delito": "HURTOS",
    "CODCOM": 6109,
-   "2024": 45,
-   "2025": 38,
-   "variacion": -16,
+   "2024": 46,
+   "2025": 39,
+   "variacion": -15,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
@@ -84,18 +84,18 @@
   {
    "delito": "LESIONES LEVES",
    "CODCOM": 6109,
-   "2024": 40,
-   "2025": 33,
-   "variacion": -18,
+   "2024": 42,
+   "2025": 35,
+   "variacion": -17,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
   {
    "delito": "LESIONES MENOS GRAVES",
    "CODCOM": 6109,
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
-   "variacion": -67,
+   "variacion": -71,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
   },
@@ -148,8 +148,8 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "CODCOM": 6109,
    "2024": 8,
-   "2025": 9,
-   "variacion": 12,
+   "2025": 10,
+   "variacion": 25,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   },
@@ -165,8 +165,8 @@
   {
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "CODCOM": 6109,
-   "2024": 57,
-   "2025": 45,
+   "2024": 58,
+   "2025": 46,
    "variacion": -21,
    "situación": "Disminución de Casos",
    "COMUNA": "Malloa"
@@ -184,8 +184,8 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "CODCOM": 6109,
    "2024": 4,
-   "2025": 5,
-   "variacion": 25,
+   "2025": 6,
+   "variacion": 50,
    "situación": "Aumento de Casos",
    "COMUNA": "Malloa"
   }
@@ -716,7 +716,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 4,
    "COMUNA": "Malloa"
   },
   {
@@ -892,7 +892,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 4,
    "COMUNA": "Malloa"
   },
   {
@@ -1068,7 +1068,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 2,
+   "casos": 3,
    "COMUNA": "Malloa"
   },
   {
@@ -1420,7 +1420,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Malloa"
   },
   {
@@ -1948,7 +1948,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 3,
    "COMUNA": "Malloa"
   },
   {
@@ -3180,7 +3180,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 0,
+   "casos": 1,
    "COMUNA": "Malloa"
   },
   {
@@ -3532,7 +3532,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 3,
+   "casos": 4,
    "COMUNA": "Malloa"
   },
   {
@@ -3884,7 +3884,7 @@
    "CODCOM": 6109,
    "anio": 2025,
    "mes": 10,
-   "casos": 1,
+   "casos": 2,
    "COMUNA": "Malloa"
   }
  ],
@@ -3902,8 +3902,8 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "AMENAZAS Y RIÑAS",
-   "2023": 90,
-   "2024": 96,
+   "2023": 94,
+   "2024": 100,
    "2025": 90,
    "COMUNA": "Malloa"
   },
@@ -3911,18 +3911,18 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "CONSUMO DE ALCOHOL Y DE DROGAS EN LA VÍA PÚBLICA",
-   "2023": 91,
+   "2023": 92,
    "2024": 44,
-   "2025": 30,
+   "2025": 34,
    "COMUNA": "Malloa"
   },
   {
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "DAÑOS",
-   "2023": 92,
-   "2024": 90,
-   "2025": 88,
+   "2023": 95,
+   "2024": 91,
+   "2025": 91,
    "COMUNA": "Malloa"
   },
   {
@@ -3930,8 +3930,8 @@
    "CODCOM": 6109,
    "delito": "DELITOS EN CONTEXTO DE VIOLENCIA INTRAFAMILIAR",
    "2023": 57,
-   "2024": 60,
-   "2025": 89,
+   "2024": 63,
+   "2025": 90,
    "COMUNA": "Malloa"
   },
   {
@@ -3947,9 +3947,9 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "HURTOS",
-   "2023": 40,
-   "2024": 45,
-   "2025": 38,
+   "2023": 41,
+   "2024": 46,
+   "2025": 39,
    "COMUNA": "Malloa"
   },
   {
@@ -3965,7 +3965,7 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "LESIONES GRAVES",
-   "2023": 4,
+   "2023": 5,
    "2024": 7,
    "2025": 9,
    "COMUNA": "Malloa"
@@ -3974,9 +3974,9 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "LESIONES LEVES",
-   "2023": 37,
-   "2024": 40,
-   "2025": 33,
+   "2023": 38,
+   "2024": 42,
+   "2025": 35,
    "COMUNA": "Malloa"
   },
   {
@@ -3984,7 +3984,7 @@
    "CODCOM": 6109,
    "delito": "LESIONES MENOS GRAVES",
    "2023": 6,
-   "2024": 6,
+   "2024": 7,
    "2025": 2,
    "COMUNA": "Malloa"
   },
@@ -4001,7 +4001,7 @@
    "informacion": "Casos",
    "CODCOM": 6109,
    "delito": "LEY DE DROGAS",
-   "2023": 10,
+   "2023": 11,
    "2024": 2,
    "2025": 13,
    "COMUNA": "Malloa"
@@ -4039,7 +4039,7 @@
    "delito": "ROBOS CON VIOLENCIA E INTIMIDACIÓN",
    "2023": 8,
    "2024": 8,
-   "2025": 9,
+   "2025": 10,
    "COMUNA": "Malloa"
   },
   {
@@ -4056,8 +4056,8 @@
    "CODCOM": 6109,
    "delito": "ROBOS EN LUGARES HABITADOS Y NO HABITADOS",
    "2023": 57,
-   "2024": 57,
-   "2025": 45,
+   "2024": 58,
+   "2025": 46,
    "COMUNA": "Malloa"
   },
   {
@@ -4075,12 +4075,12 @@
    "delito": "VIOLACIONES Y DELITOS SEXUALES",
    "2023": 3,
    "2024": 4,
-   "2025": 5,
+   "2025": 6,
    "COMUNA": "Malloa"
   }
  ],
  "meta": {
-  "semana_id": "SEMANA 41/2025 (del 06/10/2025 al 12/10/2025)",
+  "semana_id": "SEMANA 42/2025 (del 13/10/2025 al 19/10/2025)",
   "region": "O'Higgins"
  }
 }

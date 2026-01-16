@@ -707,11 +707,11 @@
             font-weight: 700;
         }
 
-        .year-2025 {
+        .year-2024 {
             color: #3498db;
         }
 
-        .year-2026 {
+        .year-2025 {
             color: var(--accent-color);
         }
 
@@ -1994,9 +1994,9 @@
                         comparisonInfo.className = 'comparison-info';
 
                         const year2025 = document.createElement('div');
-                        year2025.className = 'comparison-year year-2025';
+                        year2025.className = 'comparison-year year-2024';
                         year2025.innerHTML = `
-                            <div class="year-label">2026</div>
+                            <div class="year-label">2025</div>
                             <div class="year-value">${formatNumber(total2025)}</div>
                         `;
 
@@ -2021,7 +2021,7 @@
                         `;
 
                         const year2026 = document.createElement('div');
-                        year2026.className = 'comparison-year year-2026';
+                        year2026.className = 'comparison-year year-2025';
                         year2026.innerHTML = `
                             <div class="year-label">2026</div>
                             <div class="year-value">${formatNumber(total2026)}</div>
@@ -2043,7 +2043,7 @@
                                 labels: [type],
                                 datasets: [
                                     {
-                                        label: '2026',
+                                        label: '2025',
                                         data: [total2025],
                                         backgroundColor: '#3498db',
                                         borderColor: '#2980b9',
@@ -2355,17 +2355,17 @@
 
                     setTimeout(() => {
                         // Función para crear gráficos de barras
-                        function createBarChart(canvasId, label, data2025, data2026, highlightClass) {
+                        function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
                             const ctx = document.getElementById(canvasId).getContext('2d');
                             const chart = new Chart(ctx, {
                                 type: 'bar',
                                 data: {
-                                    labels: ['2025', '2026'],
+                                    labels: ['2024', '2025'],
                                     datasets: [{
                                         label: label,
-                                        data: [data2025, data2026],
-                                        backgroundColor: ['#3498db', data2025 > data2026 ? '#27ae60' : (data2025 < data2026 ? '#e74c3c' : '#f1c40f')],
-                                        borderColor: ['#2980b9', data2025 > data2026 ? '#229954' : (data2025 < data2026 ? '#c0392b' : '#d4ac0d')],
+                                        data: [data2024, data2025],
+                                        backgroundColor: ['#3498db', data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f')],
+                                        borderColor: ['#2980b9', data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d')],
                                         borderWidth: 1,
                                         borderRadius: 4,
                                         barThickness: 30,
@@ -2628,24 +2628,24 @@
                 renderTable(crimeData.resumen);
                 updateSummaryCards(crimeData.resumen);
 
-                headerLocation.textContent = `${comunaName} - Región ${regionName} 2025-2026 - ${lastWeekName}`;
+                headerLocation.textContent = `${comunaName} - Región ${regionName} 2024-2025 - ${lastWeekName}`;
                 lastWeekNameElement.textContent = `Fecha de actualización: ${lastWeekName}`;
 
-                const casos2026Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
-                const totalCasos2026 = casos2026Data.reduce((sum, item) => sum + item['2026'], 0);
+                const casos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Casos');
+                const totalCasos2025 = casos2025Data.reduce((sum, item) => sum + item['2025'], 0);
 
-                const detenidos2026Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Detenidos');
-                const totalDetenidos2026 = detenidos2026Data.reduce((sum, item) => sum + item['2026'], 0);
+                const detenidos2025Data = crimeData.nuevo_resumen.filter(item => item.informacion === 'Detenidos');
+                const totalDetenidos2025 = detenidos2025Data.reduce((sum, item) => sum + item['2025'], 0);
 
-                const valor2 = totalCasos2026 > 0 ? horasTranscurridas / totalCasos2026 : 0;
-                const valor4 = totalCasos2026 > 0 ? (totalDetenidos2026 / totalCasos2026) * 100 : 0;
+                const valor2 = totalCasos2025 > 0 ? horasTranscurridas / totalCasos2025 : 0;
+                const valor4 = totalCasos2025 > 0 ? (totalDetenidos2025 / totalCasos2025) * 100 : 0;
 
                 infoTextElement1.innerHTML = `
-                    Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2026)}</strong> durante el año 2026, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
+                    Los casos delictivos registrados, en la comuna de <strong>${comunaName} - Región ${regionName}</strong>, en la plataforma S.T.O.P. de Carabineros son <strong>${formatNumber(totalCasos2025)}</strong> durante el año 2025, lo que implica 1 caso cada <strong>${valor2.toFixed(1)}</strong> horas.
                 `;
 
                 infoTextElement2.innerHTML = `
-                    De todos los casos ocurridos, el número de detenidos para todos los delitos que informa la plataforma S.T.O.P. de Carabineros es de <strong>${formatNumber(totalDetenidos2026)}</strong> durante el año 2026. Es decir, la proporción de detenidos con relación al número de casos es de <strong>${valor4.toFixed(1)}%</strong>.
+                    De todos los casos ocurridos, el número de detenidos para todos los delitos que informa la plataforma S.T.O.P. de Carabineros es de <strong>${formatNumber(totalDetenidos2025)}</strong> durante el año 2025. Es decir, la proporción de detenidos con relación al número de casos es de <strong>${valor4.toFixed(1)}%</strong>.
                 `;
 
                 createComparisonCards(crimeData.nuevo_resumen);

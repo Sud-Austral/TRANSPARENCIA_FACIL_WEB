@@ -2355,17 +2355,17 @@
 
                     setTimeout(() => {
                         // Función para crear gráficos de barras
-                        function createBarChart(canvasId, label, data2024, data2025, highlightClass) {
+                        function createBarChart(canvasId, label, data2025, data2026, highlightClass) {
                             const ctx = document.getElementById(canvasId).getContext('2d');
                             const chart = new Chart(ctx, {
                                 type: 'bar',
                                 data: {
-                                    labels: ['2024', '2025'],
+                                    labels: ['2025', '2026'],
                                     datasets: [{
                                         label: label,
-                                        data: [data2024, data2025],
-                                        backgroundColor: ['#3498db', data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f')],
-                                        borderColor: ['#2980b9', data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d')],
+                                        data: [data2025, data2026],
+                                        backgroundColor: ['#3498db', data2025 > data2026 ? '#27ae60' : (data2025 < data2026 ? '#e74c3c' : '#f1c40f')],
+                                        borderColor: ['#2980b9', data2025 > data2026 ? '#229954' : (data2025 < data2026 ? '#c0392b' : '#d4ac0d')],
                                         borderWidth: 1,
                                         borderRadius: 4,
                                         barThickness: 30,

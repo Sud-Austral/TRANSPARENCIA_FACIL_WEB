@@ -2263,17 +2263,17 @@
                     const crimeDataFiltered = data.filter(item => item.delito === crime);
                     const casosData = crimeDataFiltered.filter(item => item.informacion === 'Casos');
 
-                    const casos2023 = casosData.reduce((sum, item) => sum + (item['2023'] || 0), 0);
-                    const casos2024 = casosData.reduce((sum, item) => sum + item['2024'], 0);
+                    const casos2024 = casosData.reduce((sum, item) => sum + (item['2024'] || 0), 0);
                     const casos2025 = casosData.reduce((sum, item) => sum + item['2025'], 0);
-                    const casosVariation = casos2024 > 0 ? ((casos2025 - casos2024) / casos2024) * 100 : (casos2025 > 0 ? 100 : 0);
+                    const casos2026 = casosData.reduce((sum, item) => sum + item['2026'], 0);
+                    const casosVariation = casos2025 > 0 ? ((casos2026 - casos2025) / casos2025) * 100 : (casos2026 > 0 ? 100 : 0);
 
                     // Determinar clases de color según la comparación para casos
                     let casosHighlightClass, casosVariationClass;
-                    if (casos2024 > casos2025) {
+                    if (casos2025 > casos2026) {
                         casosHighlightClass = 'crime-highlight-green';
                         casosVariationClass = 'crime-decrease';
-                    } else if (casos2024 < casos2025) {
+                    } else if (casos2025 < casos2026) {
                         casosHighlightClass = 'crime-highlight-red';
                         casosVariationClass = 'crime-increase';
                     } else {
@@ -2286,8 +2286,8 @@
                     statsCard1.innerHTML = `
                         <div class="crime-stats-text">
                             <i class="fas fa-info-circle text-blue-600" style="margin-right: 5px;"></i>
-                            En <span class="crime-highlight">Región ${regionName}</span> se registraron <span class="${casosHighlightClass}">${formatNumber(casos2025)} casos</span> de ${crime.toLowerCase()} en 2025, 
-                            <span class="${casosHighlightClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span> vs ${formatNumber(casos2024)} casos en 2024.
+                            En <span class="crime-highlight">Región ${regionName}</span> se registraron <span class="${casosHighlightClass}">${formatNumber(casos2026)} casos</span> de ${crime.toLowerCase()} en 2026, 
+                            <span class="${casosHighlightClass}">${casosVariation >= 0 ? '+' : ''}${casosVariation.toFixed(1)}%</span> vs ${formatNumber(casos2025)} casos en 2025.
                         </div>
                     `;
 
@@ -2298,24 +2298,24 @@
 
                     setTimeout(() => {
                         // Función para crear gráficos de barras
-                        function createBarChart(canvasId, label, data2023, data2024, data2025, highlightClass) {
+                        function createBarChart(canvasId, label, data2024, data2025, data2026, highlightClass) {
                             const ctx = document.getElementById(canvasId).getContext('2d');
                             const chart = new Chart(ctx, {
                                 type: 'bar',
                                 data: {
-                                    labels: ['2023', '2024', '2025'],
+                                    labels: ['2024', '2025', '2026'],
                                     datasets: [{
                                         label: label,
-                                        data: [data2023, data2024, data2025],
+                                        data: [data2024, data2025, data2026],
                                         backgroundColor: [
-                                            '#9b59b6', // 2023
-                                            '#3498db', // 2024
-                                            data2024 > data2025 ? '#27ae60' : (data2024 < data2025 ? '#e74c3c' : '#f1c40f') // 2025
+                                            '#9b59b6', // 2024
+                                            '#3498db', // 2025
+                                            data2025 > data2026 ? '#27ae60' : (data2025 < data2026 ? '#e74c3c' : '#f1c40f') // 2026
                                         ],
                                         borderColor: [
-                                            '#8e44ad', // 2023
-                                            '#2980b9', // 2024
-                                            data2024 > data2025 ? '#229954' : (data2024 < data2025 ? '#c0392b' : '#d4ac0d') // 2025
+                                            '#8e44ad', // 2024
+                                            '#2980b9', // 2025
+                                            data2025 > data2026 ? '#229954' : (data2025 < data2026 ? '#c0392b' : '#d4ac0d') // 2026
                                         ],
                                         borderWidth: 1,
                                         borderRadius: 4,
@@ -2394,7 +2394,7 @@
                         }
 
                         // Crear el gráfico de casos (ahora es grande)
-                        createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2023, casos2024, casos2025, casosHighlightClass);
+                        createBarChart(`crime-casos-chart-${crime.replace(/\s/g, '-')}`, 'Casos', casos2024, casos2025, casos2026, casosHighlightClass);
 
                         // Crear el gráfico de evolución mensual
                         const evolucionCtx = document.getElementById(`crime-evolucion-chart-${crime.replace(/\s/g, '-')}`).getContext('2d');
